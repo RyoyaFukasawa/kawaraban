@@ -36,6 +36,12 @@ export const FEEDS: FeedSource[] = [
     url: "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910",
     category: "technology",
   },
+  {
+    // 英国・欧州のテック視点。製品・企業の話題が評判や競争環境に波及する記事を拾う。
+    name: "BBC Technology",
+    url: "https://feeds.bbci.co.uk/news/technology/rss.xml",
+    category: "technology",
+  },
 
   // --- 政治 ---
   {
@@ -52,6 +58,12 @@ export const FEEDS: FeedSource[] = [
   {
     name: "CBS News",
     url: "https://www.cbsnews.com/latest/rss/main",
+    category: "politics",
+  },
+  {
+    // 国際情勢（中東・欧州・地政学）。原油やマクロ、各国・企業の評判に波及する材料を中立的に拾う。
+    name: "BBC World",
+    url: "https://feeds.bbci.co.uk/news/world/rss.xml",
     category: "politics",
   },
 
@@ -78,6 +90,12 @@ export const FEEDS: FeedSource[] = [
     // 決算速報。個別株投資の核心となる業績情報源（無料）。
     name: "CNBC Earnings",
     url: "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839135",
+    category: "economy",
+  },
+  {
+    // 英国・欧州の経済・企業ニュース。米国偏重を是正し、世界経済の視点を補う。
+    name: "BBC Business",
+    url: "https://feeds.bbci.co.uk/news/business/rss.xml",
     category: "economy",
   },
 ];
