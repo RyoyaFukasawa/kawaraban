@@ -9,6 +9,7 @@
   },
   "scripts": {
     "fetch": "node --experimental-strip-types scripts/fetch-feeds.ts",
+    "fetch-article": "node --experimental-strip-types scripts/fetch-article.ts",
     "ingest": "node --experimental-strip-types scripts/ingest.ts",
     "build-md": "node --experimental-strip-types scripts/build-markdown.ts",
     "query": "node --experimental-strip-types scripts/query.ts"

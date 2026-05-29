@@ -90,7 +90,7 @@ function renderReadme(dates: string[]): string {
   lines.push("## 仕組み");
   lines.push("");
   lines.push("1. **毎朝 6:50 JST** — GitHub Actions が RSS を取得し `raw-items.json` を生成（[.github/workflows/fetch-feeds.yml](.github/workflows/fetch-feeds.yml)）。");
-  lines.push("2. **毎朝 7:00 JST** — Claude routine が記事を選定・翻訳・投資視点で要約し、SQLite と Markdown に蓄積（[ROUTINES_PROMPT.md](ROUTINES_PROMPT.md)）。");
+  lines.push("2. **毎朝 7:00 JST** — Claude routine が記事を選定し、選んだ記事の本文を取得（[scripts/fetch-article.ts](scripts/fetch-article.ts)）して投資視点で翻訳・要約し、SQLite と Markdown に蓄積（[ROUTINES_PROMPT.md](ROUTINES_PROMPT.md)）。");
   lines.push("3. **毎週月曜** — 別の Claude routine が運用ログ（`ops-log/`）を分析し、フィード改善を PR で提案（[IMPROVE_PROMPT.md](IMPROVE_PROMPT.md)）。");
   lines.push("");
   lines.push("## 情報源");
@@ -102,7 +102,8 @@ function renderReadme(dates: string[]): string {
   lines.push("- **中立・公共放送**: NPR・PBS・BBC");
   lines.push("- **保守寄り**: WSJ（論調） / **リベラル寄り**: NYT");
   lines.push("");
-  lines.push("※ WSJ・NYT・FT は本文がペイウォールのため、要約は RSS のリード文の範囲。");
+  lines.push("※ 無料媒体（CNBC・NPR・BBC・PBS・TechCrunch 等）は記事本文まで取得して厚く要約する。");
+  lines.push("WSJ・NYT・FT は本文がペイウォールのため要約は RSS のリード文の範囲。");
   lines.push("記事に無い数値・ティッカーは創作しない方針。投資判断の補助情報であり、売買推奨ではない。");
   lines.push("");
   lines.push("## 最近のダイジェスト");
