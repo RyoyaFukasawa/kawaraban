@@ -7,7 +7,8 @@
 単なる株ニュースだけでなく、出来事が**評判・信頼・競争環境・業界地図にどう波及し、
 結果どの銘柄やセクターの見え方を変えるか**まで読み解くことを重視している。
 
-- **正本**: `digest.db`（SQLite）。検索・重複排除はここ。
+- **正本**: `articles.json`（テキスト）。重複排除もここ。git で差分が読める。
+- **検索**: `digest.db`（SQLite）。`articles.json` から生成する派生物（git管理外）。
 - **日付で読む**: `digests/YYYY/MM/YYYY-MM-DD.md`
 - **カテゴリで読む**: `views/technology.md` / `views/politics.md` / `views/economy.md`
 
@@ -34,7 +35,16 @@ WSJ・NYT・FT は本文がペイウォールのため要約は RSS のリード
 
 - [2026-05-29](digests/2026/05/2026-05-29.md)
 
-## 検索例（SQLite）
+## 検索
+
+CLI で手軽に（内部で `articles.json` から `digest.db` を生成して検索）:
+
+```sh
+npm run query -- --category politics --month 2026-05
+npm run query -- --keyword NVDA
+```
+
+SQL を直接叩きたい場合（`npm run ingest` 等で生成された `digest.db` に対して）:
 
 ```sql
 -- 2026年5月の政治記事だけ

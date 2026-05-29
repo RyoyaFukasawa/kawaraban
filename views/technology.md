@@ -20,6 +20,23 @@ Samsungは今年2月にHBM4の量産出荷を開始したが、HBM市場ではSK
 ⚖️ 強気: Samsung株に強気。HBM市場の需要拡大はセクター全体に強材料。
 📅 次の注目: Nvidiaの正式認定・採用発表、SK HynixのHBM4E対抗品発表、Micronの次世代HBM開発状況。
 
+### [Blue Originのニューグレンが地上試験中に爆発 — Amazon衛星打ち上げ計画に深刻な遅延](https://www.cnbc.com/2026/05/29/blue-origin-new-glenn-rocket-explosion-florida-test-nasa-artemis.html)
+*Blue Origin rocket explodes on launchpad during ground test*
+出典: CNBC Technology ・ #technology #2026-05-29
+
+Blue OriginのNew Glennロケットが5月29日（木）夜、フロリダ州ケープカナベラルの米宇宙軍施設でホットファイアテスト中に爆発した。
+Jeff Bezos設立のBlue Originは再使用型ロケットでSpaceXに対抗する商業打ち上げサービスを展開しており、今回の事故はAmazon「Leo」衛星の打ち上げが数日後に予定されていた準備中に発生した。
+ホットファイアテストはロケットをランチパッドに固定したままエンジンを点火する最終確認工程。Bezosは「全員安全。原因究明を急ぐ。辛い一日だが再建して飛行再開する」とXに投稿した。
+事故のわずか2日前、NASA長官は声明でBlue OriginにArtemis（月面帰還）プログラムの重要な役割を認め、月面基地建設の1億8800万ドル契約を授与したばかりだった。
+NASAは事故を把握しArtemisおよび月面基地プログラムへの影響を評価すると表明。AmazonのProject Kuiper（Starlinkに対抗する衛星インターネット事業）の打ち上げスケジュールへの大幅な影響が避けられない。
+Muskも「ロケット開発は難しい」とXで反応した。競合が自滅したSpaceXにとってはIPO評価に向けて更なる独占的優位を確認する出来事となった。
+
+💡 投資含意: Blue Originは非上場のためBlue Origin株への直接影響はないが、AmazonのKuiper事業の収益化タイムラインが後退するリスクがある。SpaceXはBlue Originが空けた市場ポジションで相対的優位がさらに強まりIPO評価にプラス材料。
+🔗 波及: AMZN→Kuiper打ち上げ遅延で衛星通信収益化が後退。SpaceX→競合不在で独占的市場支配強化。NASA Artemisプログラム→Blue Origin依存の再評価と代替手段検討が必要に。
+📈 関連銘柄: AMZN（弱材料：Kuiper遅延リスク）、SpaceX上場後は強材料。
+⚖️ 弱気: Amazon衛星通信事業の中期シナリオに弱材料。SpaceX投資家には強材料。
+📅 次の注目: Blue Originの事故原因報告と次回打ち上げ日程、NASAのArtemisスケジュール修正、AmazonのKuiper代替打ち上げ計画発表。
+
 ### [Snowflakeが史上最大36%急騰 — AI収益「変曲点」でSaaSpocalypse懸念が後退、ソフトウェア株全面高](https://www.cnbc.com/2026/05/28/snowflake-snow-software-stock-rally.html)
 *Snowflake surges 36% for best day ever on AI frenzy, fueling software rally*
 出典: CNBC Technology ・ #technology #2026-05-29
@@ -67,20 +84,3 @@ Anthropic CFOは「Claude Codeなどのツールが世界の顧客に不可欠�
 📈 関連銘柄: AMZN（大株主・強材料）、GOOGL（大株主・強材料）、MSFT（OpenAI比較・競合）。
 ⚖️ 強気: AI基盤モデル市場の急成長を示す強気材料。
 📅 次の注目: OpenAI機密IPO書類提出（数日〜数週間内）、Anthropic IPO発表時期、SpaceX上場日程。
-
-### [Blue Originのニューグレンが地上試験中に爆発 — Amazon衛星打ち上げ計画に深刻な遅延](https://www.cnbc.com/2026/05/29/blue-origin-new-glenn-rocket-explosion-florida-test-nasa-artemis.html)
-*Blue Origin rocket explodes on launchpad during ground test*
-出典: CNBC Technology ・ #technology #2026-05-29
-
-Blue OriginのNew Glennロケットが5月29日（木）夜、フロリダ州ケープカナベラルの米宇宙軍施設でホットファイアテスト中に爆発した。
-Jeff Bezos設立のBlue Originは再使用型ロケットでSpaceXに対抗する商業打ち上げサービスを展開しており、今回の事故はAmazon「Leo」衛星の打ち上げが数日後に予定されていた準備中に発生した。
-ホットファイアテストはロケットをランチパッドに固定したままエンジンを点火する最終確認工程。Bezosは「全員安全。原因究明を急ぐ。辛い一日だが再建して飛行再開する」とXに投稿した。
-事故のわずか2日前、NASA長官は声明でBlue OriginにArtemis（月面帰還）プログラムの重要な役割を認め、月面基地建設の1億8800万ドル契約を授与したばかりだった。
-NASAは事故を把握しArtemisおよび月面基地プログラムへの影響を評価すると表明。AmazonのProject Kuiper（Starlinkに対抗する衛星インターネット事業）の打ち上げスケジュールへの大幅な影響が避けられない。
-Muskも「ロケット開発は難しい」とXで反応した。競合が自滅したSpaceXにとってはIPO評価に向けて更なる独占的優位を確認する出来事となった。
-
-💡 投資含意: Blue Originは非上場のためBlue Origin株への直接影響はないが、AmazonのKuiper事業の収益化タイムラインが後退するリスクがある。SpaceXはBlue Originが空けた市場ポジションで相対的優位がさらに強まりIPO評価にプラス材料。
-🔗 波及: AMZN→Kuiper打ち上げ遅延で衛星通信収益化が後退。SpaceX→競合不在で独占的市場支配強化。NASA Artemisプログラム→Blue Origin依存の再評価と代替手段検討が必要に。
-📈 関連銘柄: AMZN（弱材料：Kuiper遅延リスク）、SpaceX上場後は強材料。
-⚖️ 弱気: Amazon衛星通信事業の中期シナリオに弱材料。SpaceX投資家には強材料。
-📅 次の注目: Blue Originの事故原因報告と次回打ち上げ日程、NASAのArtemisスケジュール修正、AmazonのKuiper代替打ち上げ計画発表。

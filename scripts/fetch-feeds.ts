@@ -7,7 +7,7 @@ import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import { FEEDS } from "../src/feeds.ts";
 import { parseFeed, type FeedItem } from "../src/rss.ts";
-import { openDb, existingUrls } from "../src/db.ts";
+import { existingUrls } from "../src/db.ts";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const OUT_PATH = join(__dirname, "..", "raw-items.json");
@@ -43,9 +43,8 @@ async function fetchFeed(url: string, timeoutMs = 15000): Promise<FeedItem[]> {
 }
 
 async function main() {
-  const db = openDb();
-  const seen = existingUrls(db);
-  db.close();
+  // 既出URL（正本 articles.json から直接引く）で取得段階の重複をスキップ
+  const seen = existingUrls();
 
   const candidates: RawCandidate[] = [];
   const perCategoryUrls = new Set<string>(); // 同一実行内の重複も排除

@@ -4,21 +4,21 @@
 
 ## 2026-05-29
 
-### [Salesforceが決算は上回るも通期ガイダンスが低調 — AIに代替される懸念払拭できず株価下落](https://www.cnbc.com/2026/05/27/salesforce-crm-q1-earnings-report-2027.html)
-*Salesforce beats on earnings and revenue but full-year guidance comes in light*
-出典: CNBC Earnings ・ #economy #2026-05-29
+### [SpaceX IPO前夜に投資家殺到 — 関連ファンドに140億ドル純流入、ETF組成も相次ぐ](https://www.ft.com/content/7a05e500-de0a-468f-bd82-0a454d99e165)
+*Investors race to get exposure to SpaceX ahead of IPO*
+出典: Financial Times ・ #economy #2026-05-29
 
-SalesforceがQ1決算（売上・EPS）で市場予想を上回ったが、通期ガイダンスが軽微な下方修正となり、株価は下落した。同日Snowflakeが36%急騰したのとは対照的な反応となった。
-背景には「AIがエンタープライズSaaSを代替する（SaaSpocalypse）」懸念が根強くあり、Salesforceはこの懸念払拭に苦戦している。CEO Marc Benioffは「強い製品を提供し続けながら自社株買いで株主価値を高める」戦略を説明した。
-Salesforceの苦戦は、AI時代への対応が速かった（Snowflake、ServiceNow等）企業と、旧来型のCRMビジネスに依存している部分が多い企業との間で市場の評価が大きく分かれていることを示している。
-AIエージェント（エージェント型AI）への対応力がSaaS企業の選別基準として強まっており、Salesforceは「Agentforce」の機能拡充で対抗しようとしているが、市場の信頼回復には時間を要している状況だ。
-Snowflakeの急騰とSalesforceの下落は同じ決算シーズンの中で同時に発生しており、単純に「SaaSが危機」なのではなく、AI収益化ができているかどうかが株価の明暗を分けていることを鮮明に示した。
+SpaceXのIPO（新規株式公開）を前に、SpaceXへの間接投資ポジションを持つファンドへの純流入額が140億ドルに達したとFTが報道した。ETFプロバイダーも関連商品の組成を相次いで準備中だ。
+SpaceXは先週、IPO申請の目論見書をSECに提出した。同社はElon MuskのAIスタートアップSpaceXAIとの合併後、合算時価総額1.25兆ドルと評価されており、上場すれば近年最大のIPOの一つとなる可能性がある。
+直接IPO参加できない個人・機関投資家が間接保有ルート（SPV・プライベートエクイティ等）に殺到しており、上場後のバリュエーション過熱リスクを示唆する側面もある。一方、140億ドルという純流入規模はこの規模のIPOへの強い需要を示している。
+なお、MuskがXでSpaceX目論見書に記載されたAnthropicとのデータセンター契約について「3年契約と記載されているが実際は180日間」と主張するツイートを投稿（別FT報道）。IPO前の情報開示の正確性に疑問が生じており、デューデリジェンスが必要とされる。
+Blue Origin爆発（同日）でSpaceXの商業打ち上げ市場での独占的優位がさらに強まっており、IPO評価への追い風となっている。
 
-💡 投資含意: SaaS企業の中でAI収益化の進捗度による銘柄間格差が拡大している。Salesforceのガイダンス低調は旧来型SaaSモデルへの懸念の根強さを示す。AIネイティブなプラットフォームを選好する投資戦略が有効な局面。
-🔗 波及: ServiceNow・Oracle・PalantirはSnowflake連動高だが、Salesforceの弱さはCRM市場の課題を浮き彫りに。Agentforce等の新製品の成否が中期的なCRM株式の再評価に直結する。
-📈 関連銘柄: CRM（Salesforce：弱材料）、NOW・SNOW（AI収益化先行で強材料）。
-⚖️ 弱気: 旧来型SaaSモデルに依存している企業には弱材料。AI活用度が高い企業には強気。
-📅 次の注目: SalesforceのAgentforce採用率開示、次四半期でのAI収益化の兆し確認、SaaSセクター全体の決算シーズン動向。
+💡 投資含意: SpaceX上場は宇宙・衛星セクター全体に資金流入を促す可能性がある。間接保有ETF（ARKXなど）や関連銘柄への注目度が上昇。IPO後のボラティリティ・バリュエーション過熱には注意。
+🔗 波及: ARKX（宇宙ETF：強材料）、GSAT・VSAT（衛星競合：注目増）、Blue Origin爆発でSpaceX独占的地位がさらに強まりIPO需要加速。
+📈 関連銘柄: ARKX（宇宙テーマETF：強材料）、宇宙・防衛サプライヤー（L3Harris等）。
+⚖️ 強気: 宇宙・衛星・AI統合セクターへの強気センチメント。IPO後のバリュエーション過熱リスクあり。
+📅 次の注目: SpaceX正式上場日確定、目論見書の詳細開示・訂正有無、OpenAI・Anthropic IPOとの連動。
 
 ### [Gap株が14%急落 — Old Navy不振で通期ガイダンス下方修正、低〜中所得者消費の減速が鮮明に](https://www.cnbc.com/2026/05/28/gap-gap-earnings-q1-2026.html)
 *Gap shares tumble 14% as retailer cuts sales guidance after disappointing Old Navy performance*
@@ -36,21 +36,37 @@ Old Navyの減速は同セグメント（低〜中所得者向け小売）全体
 ⚖️ 弱気: 低〜中所得者向け小売に弱材料。ディスカウント・高価格帯の相対優位。
 📅 次の注目: GapのQ2ガイダンス達成確認（Old Navy夏物回復状況）、他小売Q2業績発表、消費者信頼感指数。
 
-### [SpaceX IPO前夜に投資家殺到 — 関連ファンドに140億ドル純流入、ETF組成も相次ぐ](https://www.ft.com/content/7a05e500-de0a-468f-bd82-0a454d99e165)
-*Investors race to get exposure to SpaceX ahead of IPO*
-出典: Financial Times ・ #economy #2026-05-29
+### [4月PCEコアインフレ3.3%・総合3.8%で高止まり — FRBの次の動きは利上げとの市場織り込み強まる](https://www.cnbc.com/2026/05/28/core-inflation-hit-an-annual-rate-of-3point3percent-in-april-as-expected-feds-preferred-gauge-shows-.html)
+*Core inflation hit an annual rate of 3.3% in April, as expected, Fed's preferred gauge shows*
+出典: CNBC Markets ・ #economy #2026-05-29
 
-SpaceXのIPO（新規株式公開）を前に、SpaceXへの間接投資ポジションを持つファンドへの純流入額が140億ドルに達したとFTが報道した。ETFプロバイダーも関連商品の組成を相次いで準備中だ。
-SpaceXは先週、IPO申請の目論見書をSECに提出した。同社はElon MuskのAIスタートアップSpaceXAIとの合併後、合算時価総額1.25兆ドルと評価されており、上場すれば近年最大のIPOの一つとなる可能性がある。
-直接IPO参加できない個人・機関投資家が間接保有ルート（SPV・プライベートエクイティ等）に殺到しており、上場後のバリュエーション過熱リスクを示唆する側面もある。一方、140億ドルという純流入規模はこの規模のIPOへの強い需要を示している。
-なお、MuskがXでSpaceX目論見書に記載されたAnthropicとのデータセンター契約について「3年契約と記載されているが実際は180日間」と主張するツイートを投稿（別FT報道）。IPO前の情報開示の正確性に疑問が生じており、デューデリジェンスが必要とされる。
-Blue Origin爆発（同日）でSpaceXの商業打ち上げ市場での独占的優位がさらに強まっており、IPO評価への追い風となっている。
+商務省が4月のPCE（個人消費支出）物価指数を発表。総合で前年比3.8%（2023年5月以来最高）、コア（食品・エネルギー除く）で3.3%と市場予想通り。月次ではそれぞれ+0.4%・+0.2%の上昇。
+FRBが最も重視する指標であるコアPCEが3.3%で高止まりしていることはFRBの2%目標への収束が停滞していることを示す。インフレ高止まりの主因はガソリン（月次+5.5%）など財価格（月次+0.7%）の急騰で、住宅・ユーティリティ（月次+0.6%）とサービスも上昇継続。イラン戦争によるエネルギー価格高騰とトランプ関税の影響が続いている。
+その他の経済指標では、Q1 GDPが年率1.6%成長へ下方修正（速報値2.0%から）。消費者支出は+0.5%増と堅調だったが所得は横ばいで、貯蓄率が2.6%（2022年6月以来最低）まで低下した。耐久財受注は前月比+7.9%と予想大幅超過。
+市場は新Fed議長Kevin Warshの下、少なくとも2026年末まで金利据え置き、2027年初の利上げを価格に織り込み始めている。ミネアポリス連銀Kashkariは「エネルギーインフレが予想以上に粘り強く、インフレ対処が優先」と明言。
+イラン停戦合意が成立してホルムズ海峡再開によるエネルギー価格下落が確認されれば、6月以降のデータで改善が見込まれる。このシナリオが実現するかどうかが今後の金融政策の分岐点となる。
 
-💡 投資含意: SpaceX上場は宇宙・衛星セクター全体に資金流入を促す可能性がある。間接保有ETF（ARKXなど）や関連銘柄への注目度が上昇。IPO後のボラティリティ・バリュエーション過熱には注意。
-🔗 波及: ARKX（宇宙ETF：強材料）、GSAT・VSAT（衛星競合：注目増）、Blue Origin爆発でSpaceX独占的地位がさらに強まりIPO需要加速。
-📈 関連銘柄: ARKX（宇宙テーマETF：強材料）、宇宙・防衛サプライヤー（L3Harris等）。
-⚖️ 強気: 宇宙・衛星・AI統合セクターへの強気センチメント。IPO後のバリュエーション過熱リスクあり。
-📅 次の注目: SpaceX正式上場日確定、目論見書の詳細開示・訂正有無、OpenAI・Anthropic IPOとの連動。
+💡 投資含意: PCE高止まりはFRBの引き締め継続・利上げ観測を維持し、グロース・ハイバリュエーション株に下押し圧力。イラン停戦合意が成立すれば来月以降の数値改善期待でセンチメントが転換する可能性。
+🔗 波及: 長期国債利回り上昇継続→TLT弱材料、REIT弱材料。エネルギーセクターは高インフレ環境で短期的に支持される。
+📈 関連銘柄: TLT（長期国債ETF：弱材料）、XLF（銀行・金融：金利高で追い風）、XLE（エネルギー：短期強材料）、IYR（不動産REIT：弱材料）。
+⚖️ 弱気: ハイグロース・長期成長株、不動産に弱材料。エネルギー株には短期的に強材料。
+📅 次の注目: 7月FOMC（利上げ判断）、5月CPI（6月中旬）・PCE（6月下旬）、イラン停戦合意の原油価格への影響確認。
+
+### [Salesforceが決算は上回るも通期ガイダンスが低調 — AIに代替される懸念払拭できず株価下落](https://www.cnbc.com/2026/05/27/salesforce-crm-q1-earnings-report-2027.html)
+*Salesforce beats on earnings and revenue but full-year guidance comes in light*
+出典: CNBC Earnings ・ #economy #2026-05-29
+
+SalesforceがQ1決算（売上・EPS）で市場予想を上回ったが、通期ガイダンスが軽微な下方修正となり、株価は下落した。同日Snowflakeが36%急騰したのとは対照的な反応となった。
+背景には「AIがエンタープライズSaaSを代替する（SaaSpocalypse）」懸念が根強くあり、Salesforceはこの懸念払拭に苦戦している。CEO Marc Benioffは「強い製品を提供し続けながら自社株買いで株主価値を高める」戦略を説明した。
+Salesforceの苦戦は、AI時代への対応が速かった（Snowflake、ServiceNow等）企業と、旧来型のCRMビジネスに依存している部分が多い企業との間で市場の評価が大きく分かれていることを示している。
+AIエージェント（エージェント型AI）への対応力がSaaS企業の選別基準として強まっており、Salesforceは「Agentforce」の機能拡充で対抗しようとしているが、市場の信頼回復には時間を要している状況だ。
+Snowflakeの急騰とSalesforceの下落は同じ決算シーズンの中で同時に発生しており、単純に「SaaSが危機」なのではなく、AI収益化ができているかどうかが株価の明暗を分けていることを鮮明に示した。
+
+💡 投資含意: SaaS企業の中でAI収益化の進捗度による銘柄間格差が拡大している。Salesforceのガイダンス低調は旧来型SaaSモデルへの懸念の根強さを示す。AIネイティブなプラットフォームを選好する投資戦略が有効な局面。
+🔗 波及: ServiceNow・Oracle・PalantirはSnowflake連動高だが、Salesforceの弱さはCRM市場の課題を浮き彫りに。Agentforce等の新製品の成否が中期的なCRM株式の再評価に直結する。
+📈 関連銘柄: CRM（Salesforce：弱材料）、NOW・SNOW（AI収益化先行で強材料）。
+⚖️ 弱気: 旧来型SaaSモデルに依存している企業には弱材料。AI活用度が高い企業には強気。
+📅 次の注目: SalesforceのAgentforce採用率開示、次四半期でのAI収益化の兆し確認、SaaSセクター全体の決算シーズン動向。
 
 ### [Dellが国防総省97億ドル・5年契約を獲得 — Trump接近と大型政府IT受注が連動](https://www.cnbc.com/2026/05/27/dell-dod-pentagon-software-deal-digital-infrastructure-trump.html)
 *Dell wins a $9.7 billion Pentagon software deal after donating to Trump accounts*
@@ -67,19 +83,3 @@ DoD当局者は「競争的プロセスを経て、価格競争力と提供価�
 📈 関連銘柄: DELL（強材料）、PLTR・ORCL（連想：政府IT）、HPE（弱材料）。
 ⚖️ 強気: 政府向けIT・国防テック銘柄に強気材料。
 📅 次の注目: 契約実施スケジュール・初回納入確認、他の大手IT企業の政府契約動向、DELL Q2での政府部門貢献度確認。
-
-### [4月PCEコアインフレ3.3%・総合3.8%で高止まり — FRBの次の動きは利上げとの市場織り込み強まる](https://www.cnbc.com/2026/05/28/core-inflation-hit-an-annual-rate-of-3point3percent-in-april-as-expected-feds-preferred-gauge-shows-.html)
-*Core inflation hit an annual rate of 3.3% in April, as expected, Fed's preferred gauge shows*
-出典: CNBC Markets ・ #economy #2026-05-29
-
-商務省が4月のPCE（個人消費支出）物価指数を発表。総合で前年比3.8%（2023年5月以来最高）、コア（食品・エネルギー除く）で3.3%と市場予想通り。月次ではそれぞれ+0.4%・+0.2%の上昇。
-FRBが最も重視する指標であるコアPCEが3.3%で高止まりしていることはFRBの2%目標への収束が停滞していることを示す。インフレ高止まりの主因はガソリン（月次+5.5%）など財価格（月次+0.7%）の急騰で、住宅・ユーティリティ（月次+0.6%）とサービスも上昇継続。イラン戦争によるエネルギー価格高騰とトランプ関税の影響が続いている。
-その他の経済指標では、Q1 GDPが年率1.6%成長へ下方修正（速報値2.0%から）。消費者支出は+0.5%増と堅調だったが所得は横ばいで、貯蓄率が2.6%（2022年6月以来最低）まで低下した。耐久財受注は前月比+7.9%と予想大幅超過。
-市場は新Fed議長Kevin Warshの下、少なくとも2026年末まで金利据え置き、2027年初の利上げを価格に織り込み始めている。ミネアポリス連銀Kashkariは「エネルギーインフレが予想以上に粘り強く、インフレ対処が優先」と明言。
-イラン停戦合意が成立してホルムズ海峡再開によるエネルギー価格下落が確認されれば、6月以降のデータで改善が見込まれる。このシナリオが実現するかどうかが今後の金融政策の分岐点となる。
-
-💡 投資含意: PCE高止まりはFRBの引き締め継続・利上げ観測を維持し、グロース・ハイバリュエーション株に下押し圧力。イラン停戦合意が成立すれば来月以降の数値改善期待でセンチメントが転換する可能性。
-🔗 波及: 長期国債利回り上昇継続→TLT弱材料、REIT弱材料。エネルギーセクターは高インフレ環境で短期的に支持される。
-📈 関連銘柄: TLT（長期国債ETF：弱材料）、XLF（銀行・金融：金利高で追い風）、XLE（エネルギー：短期強材料）、IYR（不動産REIT：弱材料）。
-⚖️ 弱気: ハイグロース・長期成長株、不動産に弱材料。エネルギー株には短期的に強材料。
-📅 次の注目: 7月FOMC（利上げ判断）、5月CPI（6月中旬）・PCE（6月下旬）、イラン停戦合意の原油価格への影響確認。
