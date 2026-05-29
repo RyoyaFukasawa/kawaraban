@@ -26,8 +26,10 @@ export const FEEDS: FeedSource[] = [
     paywalled: true,
   },
   {
-    name: "MarkTechPost",
-    url: "https://www.marktechpost.com/feed/",
+    // テックスタートアップ・資金調達・企業競争の報道。テック投資に直結（無料・本文も無料）。
+    // 個人ブログ的だった MarkTechPost からの差し替え（信頼性と投資直結度で上回るため）。
+    name: "TechCrunch",
+    url: "https://techcrunch.com/feed/",
     category: "technology",
   },
   {
@@ -40,6 +42,12 @@ export const FEEDS: FeedSource[] = [
     // 英国・欧州のテック視点。製品・企業の話題が評判や競争環境に波及する記事を拾う。
     name: "BBC Technology",
     url: "https://feeds.bbci.co.uk/news/technology/rss.xml",
+    category: "technology",
+  },
+  {
+    // 米公共放送。テックと社会・規制・科学の交差点を中立的に報道（無料・本文も無料・description充実）。
+    name: "NPR Technology",
+    url: "https://feeds.npr.org/1019/rss.xml",
     category: "technology",
   },
 
@@ -96,6 +104,12 @@ export const FEEDS: FeedSource[] = [
     // 英国・欧州の経済・企業ニュース。米国偏重を是正し、世界経済の視点を補う。
     name: "BBC Business",
     url: "https://feeds.bbci.co.uk/news/business/rss.xml",
+    category: "economy",
+  },
+  {
+    // 米公共放送の経済報道。金利・インフレ・消費などマクロを中立的に深掘り（無料・description充実）。
+    name: "NPR Economy",
+    url: "https://feeds.npr.org/1017/rss.xml",
     category: "economy",
   },
 ];
