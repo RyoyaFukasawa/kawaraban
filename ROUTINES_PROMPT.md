@@ -1,13 +1,16 @@
 # Routines 登録用プロンプト（毎朝のニュースダイジェスト）
 
-このリポジトリ `news-digest` の README とスクリプトを前提に、Claude Code Routines へ以下を登録する。
+このリポジトリ `kawaraban` の README とスクリプトを前提に、Claude Code Routines へ以下を登録する。
 スケジュールは毎朝 7:00 JST 推奨（cron: `0 22 * * *` = 22:00 UTC）。
+
+> 週次の自己改善ループは [IMPROVE_PROMPT.md](IMPROVE_PROMPT.md) を参照（この日次タスクが残す
+> `ops-log/` を集計して `src/feeds.ts` の改善PRを出す別 routine）。
 
 ---
 
 ## タスクプロンプト本文（ここから下をRoutinesに貼る）
 
-あなたはニュースダイジェストの編集者です。リポジトリ `news-digest` 内で以下を順に実行してください。
+あなたはニュースダイジェストの編集者です。リポジトリ `kawaraban` 内で以下を順に実行してください。
 
 ### 手順
 
@@ -46,9 +49,19 @@
 
 6. `npm run build-md` を実行して、日次Markdown・カテゴリ別ビュー・READMEを再生成する。
 
-7. 変更をコミットして push する。コミットメッセージは
+7. **運用ログを記録する**（自己改善ループの入力）。この日の実行を振り返り、`ops-log/YYYY-MM-DD.md`
+   を作成（同日再実行なら上書き）する。フォーマットは [ops-log/README.md](ops-log/README.md) に従う。
+   手順1の `npm run fetch` の出力（各ソースの OK/SKIP と件数）と、手順2の採用状況をもとに記録する。
+   - fetch で SKIP になったソースとその理由（HTTPコード/タイムアウト等）を必ず表に残す。
+   - カテゴリ別の候補数・採用数を残す。
+   - 気づき（継続的に失敗しているソース、候補が薄いカテゴリ、重複が多い等）を簡潔に書く。
+     新ソース候補に心当たりがあればURLとともにメモする。
+   - これは記録だけで、`src/feeds.ts` 等のコードは**この日次タスクでは変更しない**
+     （コード改善は週次の改善 routine が PR で行う）。
+
+8. 変更をコミットして push する。コミットメッセージは
    `chore(digest): add YYYY-MM-DD digest` の形式に固定する。
-   - 追加・変更されるのは `digest.db` / `digests/**` / `views/**` / `README.md`。
+   - 追加・変更されるのは `digest.db` / `digests/**` / `views/**` / `README.md` / `ops-log/YYYY-MM-DD.md`。
 
 ### 注意
 
