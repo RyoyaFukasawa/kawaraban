@@ -3,6 +3,11 @@
 このリポジトリ `kawaraban` の README とスクリプトを前提に、Claude Code Routines へ以下を登録する。
 スケジュールは毎朝 7:00 JST 推奨（cron: `0 22 * * *` = 22:00 UTC）。
 
+> **前提**: RSS の取得は GitHub Actions(`.github/workflows/fetch-feeds.yml`, 毎朝 6:50 JST)が行い、
+> 結果を `raw-items.json` として main にコミットする。この日次タスクは fetch を実行せず、
+> その `raw-items.json` を読んで要約する。理由は Claude Code on the Web の実行環境が allowlist 外の
+> 外部ホストへの通信を遮断し fetch が 403(host_not_allowed)になるため（調査で確認済み）。
+
 > 週次の自己改善ループは [IMPROVE_PROMPT.md](IMPROVE_PROMPT.md) を参照（この日次タスクが残す
 > `ops-log/` を集計して `src/feeds.ts` の改善PRを出す別 routine）。
 
@@ -15,9 +20,9 @@
 
 ### 手順
 
-1. `npm run fetch` を実行し、`raw-items.json` に新規候補記事を集める。
-   - フィード取得に失敗したソースがあってもエラーにせず、取得できた分だけで続行する。
-   - `raw-items.json` が空（候補0件）なら、コミットせずに「本日は新規記事なし」と報告して終了する。
+1. `raw-items.json` を読み込む（**この時点で `npm run fetch` は実行しない**。取得は GitHub Actions が事前に済ませている）。
+   - `raw-items.json` が存在しない、または空（候補0件）なら、コミットせずに「本日は新規記事なし」と報告して終了する。
+   - 万一ファイルが古い（前日以前のものしかない）と判断できる場合も、無理に要約せずその旨を報告して終了する。RSSにない情報を記憶から創作してはならない。
 
 2. `raw-items.json` を読み込み、各カテゴリ（technology / politics / economy）ごとに
    **投資インパクトの高い順に最大5件**を選ぶ。重複する話題は1件にまとめる。
