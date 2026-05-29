@@ -1,6 +1,8 @@
 // フィード設定。ここを編集すれば収集ソースを足し引きできる。
 // category は 'technology' | 'politics' | 'economy' のいずれか。
-// テック個別株・マーケットの投資判断に効くソースを重視している。
+// テック個別株・マーケットの投資判断に効くソースを重視しつつ、
+// 党派バランスにも配慮: 保守寄り(WSJ論調) / リベラル寄り(NYT) / 中立公共放送(NPR・PBS・BBC)
+// を併せ持ち、CNBC・FT で経済の事実報道を厚くしている。
 // WSJ のフィードURLはサイト改編で変わることがあるため、取得失敗しても
 // 他のソースは止まらない設計（fetch-feeds.ts 側でスキップ）。
 
@@ -50,6 +52,12 @@ export const FEEDS: FeedSource[] = [
     url: "https://feeds.npr.org/1019/rss.xml",
     category: "technology",
   },
+  {
+    // 世界最高峰の取材力。リベラル寄りだが調査報道の質は随一（RSSは無料、本文はペイウォール）。
+    name: "NYT Technology",
+    url: "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+    category: "technology",
+  },
 
   // --- 政治 ---
   {
@@ -72,6 +80,12 @@ export const FEEDS: FeedSource[] = [
     // 国際情勢（中東・欧州・地政学）。原油やマクロ、各国・企業の評判に波及する材料を中立的に拾う。
     name: "BBC World",
     url: "https://feeds.bbci.co.uk/news/world/rss.xml",
+    category: "politics",
+  },
+  {
+    // 米公共放送。非営利で党派色が薄く、政治の市場・政策インパクトを中立的に報道（無料・description充実）。
+    name: "PBS Politics",
+    url: "https://www.pbs.org/newshour/feeds/rss/politics",
     category: "politics",
   },
 
@@ -110,6 +124,18 @@ export const FEEDS: FeedSource[] = [
     // 米公共放送の経済報道。金利・インフレ・消費などマクロを中立的に深掘り（無料・description充実）。
     name: "NPR Economy",
     url: "https://feeds.npr.org/1017/rss.xml",
+    category: "economy",
+  },
+  {
+    // 世界最高峰の調査報道。企業・経済の深掘り記事が豊富（RSSは無料、本文はペイウォール）。
+    name: "NYT Business",
+    url: "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+    category: "economy",
+  },
+  {
+    // 米公共放送。インフレ・消費・政策の経済記事が中立かつ詳しい（無料・descriptionが特に充実）。
+    name: "PBS Economy",
+    url: "https://www.pbs.org/newshour/feeds/rss/economy",
     category: "economy",
   },
 ];
