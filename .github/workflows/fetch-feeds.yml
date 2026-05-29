@@ -35,10 +35,11 @@ jobs:
         run: |
           git config user.name  'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
-          if git diff --quiet -- raw-items.json; then
+          git add raw-items.json
+          # 未追跡/変更の両方を staged 差分で判定（初回コミットも拾う）
+          if git diff --cached --quiet -- raw-items.json; then
             echo 'raw-items.json に変化なし。コミットしません。'
             exit 0
           fi
-          git add raw-items.json
           git commit -m "chore(fetch): update raw-items.json ($(date -u +%Y-%m-%d))"
           git push
