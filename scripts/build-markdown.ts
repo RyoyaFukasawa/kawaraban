@@ -76,7 +76,8 @@ function renderReadme(dates: string[]): string {
   const lines: string[] = [];
   lines.push("# News Digest");
   lines.push("");
-  lines.push("WSJ などの tech / 政治 / 経済ニュースを毎日自動で日本語に翻訳・要約して蓄積するリポジトリ。");
+  lines.push("米国株（特にテック個別株）の投資判断に効く tech / 政治 / 経済ニュースを、");
+  lines.push("毎日自動で日本語に翻訳・要約し、投資含意・関連銘柄つきで蓄積するリポジトリ。");
   lines.push("");
   lines.push("- **正本**: `digest.db`（SQLite）。検索・重複排除はここ。");
   lines.push("- **日付で読む**: `digests/YYYY/MM/YYYY-MM-DD.md`");

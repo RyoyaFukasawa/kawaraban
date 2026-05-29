@@ -1,5 +1,6 @@
 // フィード設定。ここを編集すれば収集ソースを足し引きできる。
 // category は 'technology' | 'politics' | 'economy' のいずれか。
+// テック個別株・マーケットの投資判断に効くソースを重視している。
 // WSJ のフィードURLはサイト改編で変わることがあるため、取得失敗しても
 // 他のソースは止まらない設計（fetch-feeds.ts 側でスキップ）。
 
@@ -27,6 +28,12 @@ export const FEEDS: FeedSource[] = [
   {
     name: "MarkTechPost",
     url: "https://www.marktechpost.com/feed/",
+    category: "technology",
+  },
+  {
+    // テック個別株・製品の動向。投資視点での要約に向く（無料・安定）。
+    name: "CNBC Technology",
+    url: "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910",
     category: "technology",
   },
 
@@ -60,6 +67,18 @@ export const FEEDS: FeedSource[] = [
     url: "https://www.ft.com/rss/home/international",
     category: "economy",
     paywalled: true,
+  },
+  {
+    // マーケット全体（金利・インフレ・指数）。無料でリード文が要約に足る。
+    name: "CNBC Markets",
+    url: "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258",
+    category: "economy",
+  },
+  {
+    // 決算速報。個別株投資の核心となる業績情報源（無料）。
+    name: "CNBC Earnings",
+    url: "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839135",
+    category: "economy",
   },
 ];
 
