@@ -1,0 +1,16 @@
+{
+  "name": "kawaraban",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "毎日のtech/政治/経済ニュースを日本語に翻訳・要約してSQLite+Markdownに蓄積する",
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "scripts": {
+    "fetch": "node --experimental-strip-types scripts/fetch-feeds.ts",
+    "ingest": "node --experimental-strip-types scripts/ingest.ts",
+    "build-md": "node --experimental-strip-types scripts/build-markdown.ts",
+    "query": "node --experimental-strip-types scripts/query.ts"
+  }
+}
