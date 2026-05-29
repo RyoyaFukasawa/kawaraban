@@ -4,19 +4,6 @@
 
 ## 2026-05-29
 
-### [Zscalerが上場来最大の31%暴落 — 慎重なガイダンスと営業組織の大規模刷新](https://www.cnbc.com/2026/05/27/zscaler-zs-earnings-q3-2026.html)
-*Zscaler tanks 31% for worst day ever on 'prudent' guidance, sales shakeup*
-出典: CNBC Technology ・ #technology #2026-05-29
-
-サイバーセキュリティ大手Zscalerの株価が単日で31%急落し、上場以来最大の下落幅を記録した。次四半期ガイダンスの下方修正と大規模な営業組織の刷新が売り材料となった。
-Zscalerはゼロトラストセキュリティのパイオニアとして高い評価を受けてきたが、過去1年間で株価はすでに半値近くに下落していた。クラウドセキュリティ市場での競争激化と企業IT支出の慎重姿勢が続いている。
-ガイダンスの表現として「慎重な（prudent）」という言葉が使われており、同時に営業部門の大幅な組織再編も発表した。営業体制の刷新は成長の停滞を認めるシグナルと市場に受け取られた。
-記事によれば同社の株価は過去1年で半値程度まで下落しており、今回の急落はその延長線上にある。サイバーセキュリティ需要そのものは堅調なはずだが、競合のPalo Alto Networks等との競争で顧客獲得に苦戦している可能性がある。
-💡 投資含意: Zscalerの失速はゼロトラスト・クラウドセキュリティ市場での競争激化を示す。Palo Alto Networks、CrowdStrikeなど競合他社の相対的な強さを再確認する機会となる。
-📈 関連銘柄: ZS（直接・急落）、PANW、CRWD（競合・相対強さ確認）
-⚖️ 弱気: サイバーセキュリティセクターのセンチメントに短期的な弱気材料
-📅 次の注目: Palo Alto Networks次回決算、CrowdStrikeのARR成長動向
-
 ### [サムスンが次世代AIメモリ「HBM4E」のサンプル出荷を開始 — 株価6%急騰](https://www.cnbc.com/2026/05/29/samsung-hbm4e-chip-samples-ai-memory.html)
 *Samsung's shares surge as much as 6% after company ships next-generation AI memory chip samples*
 出典: CNBC Technology ・ #technology #2026-05-29
@@ -70,3 +57,16 @@ AIモデル競争の激化を反映し、未公開株市場でのAI企業バリ�
 📈 関連銘柄: AMZN（大株主・追い風）、GOOGL（大株主・追い風）
 ⚖️ 強気: AI基盤モデル市場の評価拡大。AmazonとGoogleの保有株価値向上に強気。
 📅 次の注目: AnthropicのIPO時期、Q2収益10.9B達成の公式発表
+
+### [Zscalerが上場来最大の31%暴落 — 慎重なガイダンスと営業組織の大規模刷新](https://www.cnbc.com/2026/05/27/zscaler-zs-earnings-q3-2026.html)
+*Zscaler tanks 31% for worst day ever on 'prudent' guidance, sales shakeup*
+出典: CNBC Technology ・ #technology #2026-05-29
+
+サイバーセキュリティ大手Zscalerの株価が単日で31%急落し、上場以来最大の下落幅を記録した。次四半期ガイダンスの下方修正と大規模な営業組織の刷新が売り材料となった。
+Zscalerはゼロトラストセキュリティのパイオニアとして高い評価を受けてきたが、過去1年間で株価はすでに半値近くに下落していた。クラウドセキュリティ市場での競争激化と企業IT支出の慎重姿勢が続いている。
+ガイダンスの表現として「慎重な（prudent）」という言葉が使われており、同時に営業部門の大幅な組織再編も発表した。営業体制の刷新は成長の停滞を認めるシグナルと市場に受け取られた。
+記事によれば同社の株価は過去1年で半値程度まで下落しており、今回の急落はその延長線上にある。サイバーセキュリティ需要そのものは堅調なはずだが、競合のPalo Alto Networks等との競争で顧客獲得に苦戦している可能性がある。
+💡 投資含意: Zscalerの失速はゼロトラスト・クラウドセキュリティ市場での競争激化を示す。Palo Alto Networks、CrowdStrikeなど競合他社の相対的な強さを再確認する機会となる。
+📈 関連銘柄: ZS（直接・急落）、PANW、CRWD（競合・相対強さ確認）
+⚖️ 弱気: サイバーセキュリティセクターのセンチメントに短期的な弱気材料
+📅 次の注目: Palo Alto Networks次回決算、CrowdStrikeのARR成長動向

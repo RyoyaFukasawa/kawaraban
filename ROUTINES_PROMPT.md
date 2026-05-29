@@ -94,8 +94,9 @@
    ]
    ```
 
-6. `npm run ingest` を実行して `digest-input.json` をSQLite（`digest.db`）に投入する。
-   既出URLは自動で重複排除される。
+6. `npm run ingest` を実行して `digest-input.json` を**正本 `articles.json`** に取り込む。
+   既出URLは自動で重複排除される。（検索用 `digest.db` も同時に再生成されるが、これは
+   git 管理外の派生物。記事の正本はテキストの `articles.json`。）
 
 7. `npm run build-md` を実行して、日次Markdown・カテゴリ別ビュー・READMEを再生成する。
 
@@ -112,7 +113,8 @@
 
 9. 変更をコミットして push する。コミットメッセージは
    `chore(digest): add YYYY-MM-DD digest` の形式に固定する。
-   - 追加・変更されるのは `digest.db` / `digests/**` / `views/**` / `README.md` / `ops-log/YYYY-MM-DD.md`。
+   - 追加・変更されるのは `articles.json`（記事の正本）/ `digests/**` / `views/**` / `README.md` / `ops-log/YYYY-MM-DD.md`。
+   - `digest.db` は git 管理外（検索用の派生物）。コミットされない＝それで正しい。
    - `raw-items.json` は GitHub Actions が管理するファイルなので、**この routine ではコミットしない**。
 
 ### 注意

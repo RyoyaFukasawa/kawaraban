@@ -16,7 +16,7 @@
 import { readFileSync, existsSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
-import { openDb, insertArticles, type NewArticle } from "../src/db.ts";
+import { appendArticles, openDb, DB_PATH, type NewArticle } from "../src/db.ts";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const INPUT_PATH = join(__dirname, "..", "digest-input.json");
@@ -59,10 +59,16 @@ function main() {
     process.exit(1);
   }
   const items = validate(JSON.parse(readFileSync(INPUT_PATH, "utf-8")));
-  const db = openDb();
-  const added = insertArticles(db, items);
+
+  // 正本(articles.json)に追記。url 既出は重複排除される。
+  const nowIso = new Date().toISOString();
+  const added = appendArticles(items, nowIso);
+  console.log(`${items.length}件中 ${added}件を articles.json に新規追加しました（既出は重複排除）。`);
+
+  // 検索用 digest.db を正本から再生成（GUIで開く・ローカル検索用。git管理外）。
+  const db = openDb(DB_PATH);
   db.close();
-  console.log(`${items.length}件中 ${added}件を新規追加しました（既出は重複排除）。`);
+  console.log(`検索用 digest.db を再生成しました（articles.json が正本）。`);
 }
 
 main();

@@ -1,4 +1,4 @@
-// SQLite を正本として、閲覧用Markdownを再生成する:
+// articles.json を正本として、閲覧用Markdownを再生成する（内部で digest.db を生成して読む）:
 //   - digests/YYYY/MM/YYYY-MM-DD.md  (日付ビュー)
 //   - views/<category>.md            (カテゴリ別ビュー, 日付逆順)
 //   - README.md                      (索引: 最新の日付へのリンク)
@@ -83,7 +83,8 @@ function renderReadme(dates: string[]): string {
   lines.push("単なる株ニュースだけでなく、出来事が**評判・信頼・競争環境・業界地図にどう波及し、");
   lines.push("結果どの銘柄やセクターの見え方を変えるか**まで読み解くことを重視している。");
   lines.push("");
-  lines.push("- **正本**: `digest.db`（SQLite）。検索・重複排除はここ。");
+  lines.push("- **正本**: `articles.json`（テキスト）。重複排除もここ。git で差分が読める。");
+  lines.push("- **検索**: `digest.db`（SQLite）。`articles.json` から生成する派生物（git管理外）。");
   lines.push("- **日付で読む**: `digests/YYYY/MM/YYYY-MM-DD.md`");
   lines.push("- **カテゴリで読む**: `views/technology.md` / `views/politics.md` / `views/economy.md`");
   lines.push("");
@@ -113,7 +114,16 @@ function renderReadme(dates: string[]): string {
     lines.push(`- [${d}](digests/${y}/${m}/${d}.md)`);
   }
   lines.push("");
-  lines.push("## 検索例（SQLite）");
+  lines.push("## 検索");
+  lines.push("");
+  lines.push("CLI で手軽に（内部で `articles.json` から `digest.db` を生成して検索）:");
+  lines.push("");
+  lines.push("```sh");
+  lines.push("npm run query -- --category politics --month 2026-05");
+  lines.push("npm run query -- --keyword NVDA");
+  lines.push("```");
+  lines.push("");
+  lines.push("SQL を直接叩きたい場合（`npm run ingest` 等で生成された `digest.db` に対して）:");
   lines.push("");
   lines.push("```sql");
   lines.push("-- 2026年5月の政治記事だけ");
