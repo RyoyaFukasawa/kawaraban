@@ -1,6 +1,8 @@
 # 中間生成物（コミット不要）
-raw-items.json
 digest-input.json
+
+# raw-items.json は GitHub Actions(fetch-feeds) が生成し、
+# Claude routine がそれを読んで要約するため、あえて追跡する。
 
 # Node
 node_modules/
