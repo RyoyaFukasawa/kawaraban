@@ -4,20 +4,6 @@
 
 ## 2026-05-30
 
-### [Blue Originのロケットが発射台で爆発——Bezosの宇宙戦略に重大な後退](https://www.nytimes.com/2026/05/29/technology/blue-origin-amazon-rocket-explosion.html)
-*What's Next for Blue Origin After Rocket Explosion*
-出典: NYT Technology ・ #technology #2026-05-30
-
-Jeff Bezos創業のBlue Originのロケットが木曜夜に発射台で爆発した。Bezosが近年SpaceX・Starlinkに対して優位を取り戻しつつある矢先の出来事であり、重大な後退と位置づけられている。
-Blue OriginはSpaceXに長年遅れを取ってきたが、近年は巻き返しを強めていた。New Glenn ロケットの運用開始やAmazon Project Kuiperとの連携拡大など、競争力強化の兆しが見えていた中での爆発となった。
-発射台での爆発は通常、ロケットの全損と施設損傷を意味し、ミッション失敗の中でも最もコストが高い部類に入る。原因究明と安全検証のための長期的な飛行停止が予想される。詳細な損失額等は有料記事のため不明。
-今回の事故によりSpaceXの宇宙打ち上げ市場での独占的地位がさらに強化され、64.5億ドルの政府契約と相まってSpaceX IPOの評価額論拠が補強される。AmazonはBlue Originへの追加投資の是非を問われる可能性があり、Project Kuiperの展開スケジュールにも影響が出る可能性がある。
-💡 投資含意: SpaceXの競合が弱体化したことで、SpaceX IPOの相対的な評価が高まる。宇宙打ち上げの「1強」化が加速し、SpaceX IPO需要を強める可能性がある。
-🔗 波及: Amazonの衛星インターネット戦略（Kuiper）の遅延リスクが高まる。政府調達がSpaceXに集中することで独占依存リスクも生まれる。
-📈 関連銘柄: AMZN（Blue Origin損失分のネガティブ影響、ただし軽微）、SpaceX IPO期待（評価額上昇要因）
-⚖️ 強気/弱気: SpaceXに強気材料；Blue Origin、AMZN宇宙部門に弱気材料
-📅 次の注目: Blue Originの事故調査結果・Amazonの宇宙事業方針への影響
-
 ### [ソフトウェア株が2001年以来最高の月次上昇——「SaaS終焉論」が後退](https://www.cnbc.com/2026/05/29/software-stocks-wrap-best-month-since-2001-as-talk-of-saaspocalypse-.html)
 *Software stocks wrap up best month since 2001 as talk of 'SaaSpocalypse' subsides*
 出典: CNBC Technology ・ #technology #2026-05-30
@@ -32,19 +18,33 @@ AI時代に適応できたソフトウェア企業は「淘汰の敗者」では
 ⚖️ 強気/弱気: AI対応SaaS株に強気材料。持続性は来月以降の決算次第
 📅 次の注目: 6月のSalesforce決算・Snowflakeユーザーカンファレンスの動向
 
-### [Dellが史上最高の上昇率32%——AIサーバー売上が757%急増](https://www.cnbc.com/2026/05/29/dell-stock-earnings-ai-servers.html)
-*Dell stock skyrockets 32% for its best day ever as AI server revenue soars*
+### [SentinelOne株8%急落——AI投資へシフトで従業員8%を削減、弱気ガイダンスで市場は失望](https://www.cnbc.com/2026/05/29/sentinelone-s-stock-earnings-ai-layoffs.html)
+*SentinelOne stock drops 8% as cyber firm trims headcount to boost AI investments*
 出典: CNBC Technology ・ #technology #2026-05-30
 
-Dellテクノロジーズが2026年第1四半期決算を発表し、株価が32.76%急騰——同社史上最高の1日上昇率を記録した。2018年の株式市場再上場以来最速の収益成長ペースを達成し、AIブームへの対応が本格的に業績へ結実した。
-背景として、同社CEO Michael Dell氏とトランプ大統領の政治的関係が強固で、Trump Account支援への62.5億ドルの寄付、トランプ大統領自身による1〜500万ドルの株式購入が報じられている。トランプ大統領は国民に「Dellを買え」とまで呼びかけた。
-四半期売上高は前年同期比88%増。AIサーバー部門のみで前年比757%増の161億ドルを計上。調整後EPSは4.86ドルで市場予想2.94ドルを大幅に上回った。株価は2026年に入り累計234%上昇している。また水曜には国防総省から97億ドルのソフトウェア契約も獲得した。
-モルガン・スタンレーはAI需要の予測を大幅に外したことを認め「モデルを見直す」と表明。メリウスのアナリストは「ハードウェアカバレッジで最も印象的な四半期の一つ」と評した。AIインフラ投資が「期待値」から「確認された実需」へ転換したことを示す決算となった。
-💡 投資含意: DellのAIサーバー需要はNvidiaのGPU需要の直接確認材料。AIインフラへの実需が予想をはるかに超えるペースで現実化していることを示し、サーバー・GPU・周辺機器メーカー全体のセンチメント改善につながる。
-🔗 波及: NvidiaのGPU需要確認でNVDA株の支援材料に。SuperMicroなど競合AIサーバーメーカーにも連想買いが入りやすい環境。政府受注の積み上がりは長期的な売上可視性を高める。
-📈 関連銘柄: DELL（上昇済み）、NVDA（GPU需要確認で強気）、SMCI（連想で上昇可能性）
-⚖️ 強気/弱気: AIインフラ・ハードウェア関連全般に強気材料
-📅 次の注目: 次回決算でのAIサーバーバックログ動向・国防省との追加契約
+サイバーセキュリティ企業SentinelOneが、AI・データ投資拡大を目的に正社員の8%（約240名以上）を削減すると発表。これを受け株価は8%急落した。
+SentinelOneは4月末時点で3,000名超の従業員を抱えていた。CEOのTomer Weingarten氏は「複雑性を下げ、パフォーマンスを高め、よりアジャイルな組織へ——意図的な進化だ」と説明し、すでにAI活用で「目に見える生産性向上」を確認済みとした。人員削減に伴う一時費用は約2,500万ドル。
+今四半期売上見通しは2億8,900〜2億9,100万ドルで、アナリスト予想2億9,200万ドルに届かず。通期も11.95〜12.05億ドルでコンセンサスの12.1億ドルに未達。Morgan Stanleyは「カテゴリの重要性が増す局面で期待通りの上方修正なし——模様眺めが続く」とコメント。
+AI浸透がサイバーセキュリティ業界を揺さぶっている。Anthropicの「Mythos」モデル登場でAI脅威が深刻化し、本来セキュリティ需要は高まるはずが、SentinelOneは伸び悩む。AI対応の巧拙が競合との差を生む局面で、同週のWix（-20%）、今月Cisco（-5%）などと合わせ、AI起因の人員削減・業績選別が鮮明になっている。
+💡 投資含意: SentinelOneのガイダンス未達は同社固有の執行力の問題とも解釈でき、AI脅威の高まりで恩恵を受けるのはAI対応が進む競合の可能性が高い。
+🔗 波及: CrowdStrikeへの相対的選好が強まる。セキュリティ銘柄全体に悲観論が飛び火するリスクにも注意。
+📈 関連銘柄: S（弱材料）、CRWD（相対優位・強材料）、PANW（注目）
+⚖️ 弱気: SentinelOne株は弱気材料。AI時代のサイバーセキュリティ需要は中長期強気だが、同社の恩恵能力に疑問符。
+📅 次の注目: 次四半期ガイダンス修正、CrowdStrike・Palo Alto次回決算でのAI収益化比較
+
+### [EUがAnthropicの「Mythos」AIをめぐり米国との協議強化を要求——世界最強クラスのAIが国際規制の焦点に](https://www.cnbc.com/2026/05/29/mythos-ai-models-eu-talks-us.html)
+*EU seeks to 'intensify' talks with U.S. on advanced cyber AI models, official tells CNBC, amid Mythos concerns*
+出典: CNBC Technology ・ #technology #2026-05-30
+
+EU欧州委員会が、Anthropicの高度サイバー能力付きAIモデル「Claude Mythos」をめぐり、米政府との「協議の強化」を求めていることがCNBCへの取材で明らかになった。
+Anthropicは2026年4月にMythosを発表。強力なサイバー攻撃能力を持つとされ、各国政府・企業に安全保障面での深刻な懸念を巻き起こした。EUのAIオフィスを含む非米政府機関はいまだプレビューアクセスを得られておらず、ホワイトハウスはAnthropicがアクセスを拡大する計画に反対していた。
+AnthropicはEUに対し「Mythosへのアクセスを求めるには先に米政府の許可を取れ」と要求。ホワイトハウスはEU固有への共有には必ずしも反対していないが、非米政府機関への共有全般には慎重。CEO Dario Amodei氏は「Mythosが発見した数万の脆弱性を中国AIが追いつく前の6〜12ヶ月以内に修正する必要がある」と警告していた。
+Anthropicは「数週間内にMythosクラスのモデルを全顧客に提供できる見込み」と発表し、収益化タイムラインが加速する可能性がある。AIモデルの「輸出管理」に類似した国際的な規制議論が本格化すれば、AI企業の競争環境と市場参入に直接影響する。特にEU向けエンタープライズ展開を先行できるかどうかが長期的な競争優位に直結する。
+💡 投資含意: 「数週間内の全顧客提供」声明はMythosの収益化加速を示唆。EU・政府向けエンタープライズ市場開拓はAnthropicの長期成長ドライバーで、大株主のAmazon・Googleに好材料。
+🔗 波及: AI安全保障の国際化はAnthropicに先行優位を与える可能性。EU AI Act準拠能力が競争力の差別化要因になり、大手AI企業と中小の差が開く。
+📈 関連銘柄: AMZN（Anthropic大株主・強材料）、GOOGL（Anthropic大株主・強材料）
+⚖️ 強気: Anthropic・AI企業のエンタープライズ・政府市場展開に強気材料。AI安全保障インフラとしての地位確立は長期的な堀（moat）を生む。
+📅 次の注目: AnthropicのMythos全顧客公開（数週間内）、EU・米政府間AI安全保障協議の進展
 
 ### [SpaceX、宇宙軍から64.5億ドル受注——IPO直前に政府依存の規模が明確に](https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/)
 *SpaceX awarded $6.45B in Space Force contracts ahead of IPO*
