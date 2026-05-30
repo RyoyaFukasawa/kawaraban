@@ -22,7 +22,10 @@ import { extractArticle } from "../src/extract.ts";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const BODY_DIR = join(__dirname, "..", "article-bodies");
-const MAX_CHARS = 2000; // 1記事あたりの本文上限（要約に十分・コンテキスト軽量）
+// 1記事あたりの本文上限。本文は個別ファイルに保存し routine は「1記事ずつ」読むため、
+// 同時にコンテキストへ乗るのは1記事分だけ。要約の質を優先して厚め(6000字)にしている。
+// （以前の失敗は「全15件の本文を1つのJSONで一気にstdout返し」が原因で、上限値ではない。）
+const MAX_CHARS = 6000;
 
 async function fetchHtml(url: string, timeoutMs = 20000): Promise<{ status: number; html: string }> {
   const controller = new AbortController();
