@@ -116,8 +116,9 @@
    - これは記録だけで、`src/feeds.ts` 等のコードは**この日次タスクでは変更しない**
      （コード改善は週次の改善 routine が PR で行う）。
 
-9. 変更をコミットして push する。コミットメッセージは
+9. 変更をコミットして、**`main` ブランチに push する**。コミットメッセージは
    `chore(digest): add YYYY-MM-DD digest` の形式に固定する。
+   - 作業ブランチで作業した場合は、`main` へマージしてから push する。
    - 追加・変更されるのは `articles.json`（記事の正本）/ `digests/**` / `views/**` / `README.md` / `ops-log/YYYY-MM-DD.md`。
    - `digest.db` は git 管理外（検索用の派生物）。コミットされない＝それで正しい。
    - `raw-items.json` は GitHub Actions が管理するファイルなので、**この routine ではコミットしない**。
