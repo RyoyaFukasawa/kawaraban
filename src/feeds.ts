@@ -17,6 +17,11 @@ export interface FeedSource {
   category: Category;
   /** 本文が有料の壁の向こうか（要約はRSS記載範囲ベースになる旨の注記用） */
   paywalled?: boolean;
+  /**
+   * このパターンに一致する記事 URL は fetch-feeds 段階でスキップする。
+   * 例: CBS News の /video/ ページは動画のみで本文が常に 0 字になるため除外。
+   */
+  skipUrlPattern?: RegExp;
 }
 
 export const FEEDS: FeedSource[] = [
@@ -72,9 +77,11 @@ export const FEEDS: FeedSource[] = [
     category: "politics",
   },
   {
+    // /video/ 配下は動画ページで本文が常に 0 字（ops-log 2026-05-29〜31 で確認済み）。
     name: "CBS News",
     url: "https://www.cbsnews.com/latest/rss/main",
     category: "politics",
+    skipUrlPattern: /\/video\//,
   },
   {
     // 国際情勢（中東・欧州・地政学）。原油やマクロ、各国・企業の評判に波及する材料を中立的に拾う。
