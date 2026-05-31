@@ -1,6 +1,78 @@
 # 🖥 テクノロジー — 全アーカイブ
 
-全10件 / 日付の新しい順
+全15件 / 日付の新しい順
+
+## 2026-05-31
+
+### [GoogleエンジニアがPolymarketで社内データ使い120万ドルの不正取引——DOJが起訴、予測市場規制論争が再燃](https://www.npr.org/2026/05/27/nx-s1-5836659/google-polymarket-insider-trading-doj-charges)
+*DOJ charges Google staffer over Polymarket trades netting $1.2 million*
+出典: NPR Technology ・ #technology #2026-05-31
+
+Google社員のMichele Spagnuolo氏（36歳）が社内の検索トレンドデータを使いPolymarketで計270万ドルをベットし120万ドルの利益を得たとして、DOJがコモディティ詐欺・電信詐欺・マネーロンダリング等の連邦罪で起訴した。
+「AlphaRaccoon」名義で活動したSpagnuolo氏は、Googleが毎年発表する「最多検索人物」マーケットで社内ツールにアクセスし結果を事前把握。コンセンサスが「ほぼゼロ」だったD4vd（殺人罪起訴のラッパー）に大金を賭けるなど計25件のベットで120万ドルを稼いだ。Polymarket上でのトレードが目立ち始めたため、オンラインスルースが「AlphaRaccoon has alpha」と注目し他のユーザーが後追いベットをする現象が起きていた。
+CFTCも別途民事訴訟を提起。Googleは調査に協力しSpagnuolo氏を一時停職処分に。Polymarket CLOは「透明・追跡可能なクリプト取引が摘発を可能にした」と声明。Trumpは起訴状公開の翌日、Polymarket等を「thriving」させると宣言した。
+予測市場の成長がインサイダー情報の流入問題を顕在化させている。今回は証券市場とは異なる法律（商品先物法）の適用という「予測市場固有のグレーゾーン」が焦点。TrumpのJr.がPolymarketの顧問かつ1789 Capitalの共同経営者という政治的絡み合いも注目点。
+💡 投資含意: Polymarket・Kalshi等への直接上場投資手段はないが、予測市場規制の方向性がフィンテック・クリプト系企業全般の規制環境に影響。GOOGLへの直接影響は軽微。
+🔗 波及: インサイダートレーディング規制の予測市場への適用拡大が進む可能性。暗号通貨取引プラットフォーム全般の規制強化への先例。テック大手の社員管理・情報アクセス統制コストが増大。
+📈 関連銘柄: GOOGL（企業ガバナンス懸念・軽微）、暗号通貨・フィンテック規制全般への影響
+⚖️ 中立: 予測市場の普及には長期強気だが、規制リスク増でプラットフォームの成長に制約が生じる可能性。
+📅 次の注目: DOJ・CFTCのPolymarket規制スタンス、州vs連邦の管轄権争い、他の内部情報ベット摘発動向
+
+### [Nvidiaが直近3ヶ月でフォトニクス企業に65億ドル超を投資——AIの電力・帯域ボトルネックを「光」で解消へ](https://www.cnbc.com/2026/05/29/nvidia-photonics-investment-ai.html)
+*Nvidia is investing billions into this emerging technology that could change the AI industry*
+出典: CNBC Technology ・ #technology #2026-05-31
+
+Nvidiaが過去3ヶ月でLumentum・Coherent・Marvell（各20億ドル）、Corning（5億ドル）、Ayar Labs（Series E 5億ドル参加）など計65億ドル超をフォトニクス技術関連企業に投資した。
+フォトニクスとは電気の代わりに光を使ってデータを転送する技術。電気信号より大幅に省エネ・高速で、GPU間の帯域幅とエネルギー消費がAI規模拡大の深刻なボトルネックになっている中、その解決策として注目される。Jensen Huang CEOは「シリコンフォトニクスのスケールアップが始まった。世界の生産キャパシティが今必要な量に全く達していない」と述べた。
+Nvidiaの投資先株価（年初来）：Lumentum +134%、Coherent +96%、Marvell +122%、Corning +111%。ただし製造歩留まりや光学コンポーネントの精密整列が課題で、大規模採用は2028年以降の見通し（Futurumアナリスト）。AMD・Alphabet・Microsoftもフォトニクス投資を加速しており、業界全体のトレンドとなっている。
+AI電力消費問題が緩和されれば、AI展開コストが下がりクラウド各社の利益率改善につながる。フォトニクスは銅線・電力インフラから光ファイバー・光学部品メーカーへの需要シフトを起こす可能性がある。
+💡 投資含意: Nvidiaの投資先（LITE・COHR・MRVL・GLW）は既に急騰しているが、2028年以降の大規模採用を見据えた長期テーマとして継続注目。
+🔗 波及: AIインフラのエネルギー問題が緩和されればクラウド企業の利益率改善へ。電力グリッドへの負荷軽減で電力株に微負の影響も。
+📈 関連銘柄: LITE（強材料）、COHR（強材料）、MRVL（強材料）、GLW（強材料）、NVDA（投資主体・長期正の連鎖）
+⚖️ 強気: フォトニクス関連全般に強気。急騰後のバリュエーションは慎重に確認を。
+📅 次の注目: NvidiaのBlackwell以降ロードマップでのフォトニクス採用発表、各社の製造能力拡大タイムライン
+
+### [Microsoftがセキュリティ研究者を刑事告訴で脅し——業界が「研究者の信頼を壊す危険な前例」と一斉批判](https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/)
+*Microsoft under fire for threatening security researcher with criminal investigation*
+出典: TechCrunch ・ #technology #2026-05-31
+
+「Nightmare Eclipse」を名乗る独立系セキュリティ研究者がMicrosoftのDefender・BitLockerに影響する脆弱性（BlueHammer・RedSun等）を公開後、MicrosoftがDigital Crimes Unitによる法的措置・警察通報を示唆し、セキュリティ業界で激しい反発を招いた。
+Microsoftの主張：研究者は事前に報告せず脆弱性を公開し悪意あるハッカーを利した（一部はCISAが実攻撃を確認）。研究者側：MicrosoftがSecurity Response Center（脆弱性報告ポータル）のアクセスを剥奪したため選択肢なく公開。研究者のGitHub・GitLabアカウントも凍結（GitHubはMicrosoft傘下）。
+Microsoftのバグバウンティを立ち上げた元Microsoft社員Katie Moussouris（Luta Security）は「訴追の脅しは研究者のMicrosoftへの信頼を失わせ、社会全体にとって不安全になる」と強く批判。元Microsoftセキュリティ研究者Kevin Beaumont氏は「PoC（実証コード）公開を刑事行為とするのは新たな最低点」と非難した。
+セキュリティ研究者が萎縮すると未報告の脆弱性が増え、長期的にはMicrosoft製品のセキュリティリスクが高まり企業ユーザーの信頼に影響する。Microsoftの企業ブランドと、次のバグを見つけた研究者が報告するかどうかに直接影響する問題だ。
+💡 投資含意: 直接の株価インパクトは軽微。ただしエンタープライズセキュリティにおけるMicrosoftの評判に悪影響。脆弱性エコシステムが崩れると長期のリスクになる。
+🔗 波及: Microsoftへの研究者の不信→競合Alphabetの相対的な評判向上の可能性。CrowdStrike・Palantirなど外部セキュリティパートナーへの需要増につながりうる。
+📈 関連銘柄: MSFT（評判リスク・軽微な弱材料）、GOOGL（相対的なセキュリティ研究文化の優位）
+⚖️ 弱気: Microsoftの企業セキュリティブランドに軽微な弱気材料。長期的には研究者エコシステムの崩壊リスク。
+📅 次の注目: Microsoftの訴訟実行有無、業界の反応と他社の対応、Microsoft Security Response Centerの方針変更
+
+### [WaymoがテキサスのAV登録数でテスラを14倍超引き離す——自動運転市場の実態がはじめて公開データで可視化](https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/)
+*Waymo dominates autonomous vehicle registrations as Tesla trails behind*
+出典: TechCrunch ・ #technology #2026-05-31
+
+WaymoがテキサスDMVの新しいAV登録追跡ツールで577台を登録し、Tesla（42台）を約14倍上回ることが明らかになった。Avride 317台、Nuro 47台がこれに続く。
+テキサス州は2026年5月28日施行の新法により、自動運転車をテスト・展開する企業にDMVへの登録を義務付けた。これにより、各社の実際の保有台数が初めて公開データとして可視化された。自律走行トラック分野ではAurora 91台、Gatik AI 64台、Kodiak AI 33台、Waabi 13台。
+テスラはロボタクシーの大規模展開を公約しながら、商業運用しているWaymoの14分の1しか稼働していない。WaymoはAustin・Dallas・Houston・San Antonioで商業運用中。ただしWaymoは今月初め洪水対応で一部テキサス都市で一時運用停止するなど、課題も残る。
+「マスターナラティブ（テスラのFSD+ロボタクシー支配）」と現実の乖離が明確になった。テスラのロボタクシー期待が株価評価に織り込まれている分、データによる「現実の直視」は評価圧力につながる可能性がある。
+💡 投資含意: Alphabet（Waymo）の商業AV規模の優位をデータが裏付けた。テスラのロボタクシー期待バリュエーションには割引圧力が増す材料。
+🔗 波及: TSLA→ロボタクシープレミアムの剥落リスク。GOOGL→Waymoの商業優位確認で強材料。AUR（Aurora）→自律走行トラック市場での実績も確認可能に。
+📈 関連銘柄: GOOGL（Waymo親・強材料）、TSLA（ロボタクシー期待剥落リスク・弱材料）、AUR（自律トラック・注目）
+⚖️ 弱気: TSLA株の「ロボタクシープレミアム」に弱材料。GOOGL株には強材料。
+📅 次の注目: テキサスDMVの月次更新、テスラのロボタクシー展開加速発表、WaymoのIPO・独立計画
+
+### [AWSがAIエージェント専用インフラを発表——Cloudflare「2027年前半に非人間トラフィックが人間を超える」](https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/)
+*The internet is being rebuilt for machines*
+出典: TechCrunch ・ #technology #2026-05-31
+
+AWSがAIエージェントの非線形なトラフィックに対応したOpenSearch Serverlessの次世代版をリリースした。コンピュートとストレージを分離し、エージェントのタスク実行時に即時スケールアップ、アイドル時はゼロにスケールダウンするアーキテクチャを採用する。
+Cloudflareの調査：直近6ヶ月でHTTPトラフィックの31%がボット。AIクローラー・検索・アシスタントがbotリクエストの約25%。Cloudflare senior PMは「2027年前半に非人間トラフィックが人間を超える」と予測。AWSのSFTGMは「エージェントは予告なく急増し、予告なくアイドルになる。以前のサーバーレスでも最低1インスタンスの稼働が必要だったが、新世代は完全にゼロにスケールダウン可能」と説明。
+Databricks・Snowflake・Microsoft Azure・Cloudflareもそれぞれエージェント対応インフラを展開中。Google I/Oでもユーザーが旅行・購買などをAIエージェントに委任するシナリオを発表。エンタープライズ企業も社内・顧客向けにエージェントを展開し機械間トラフィックが急増している。
+インターネットの基盤設計が「人間→機械」へのパラダイムシフトしており、AI推論・エージェントのコスト構造が劇的に低下する可能性がある。エージェント普及が加速するほど、この新インフラへの投資が正のフィードバックループを生む。
+💡 投資含意: AWSを擁するAmazonはエージェントインフラ市場で先行投資をリード。クラウド3社（AWS・Azure・GCP）のAIエージェント対応競争が次の数年の成長ドライバーになる。
+🔗 波及: エージェント対応クラウドへの移行はSaaSからAPIベースサービスへのトラフィック移行を加速。Cloudflare（NET）もエージェントトラフィック急増から恩恵。
+📈 関連銘柄: AMZN（AWS・強材料）、GOOGL・MSFT（クラウド競合）、NET（Cloudflare・エージェントトラフィック成長）
+⚖️ 強気: クラウドインフラ全般に中長期強気。エージェントファースト設計に先行した企業が次の覇権を握る。
+📅 次の注目: クラウド3社の次回決算でのエージェントワークロード収益初期報告、非人間トラフィックの実際の成長ペース
 
 ## 2026-05-30
 
