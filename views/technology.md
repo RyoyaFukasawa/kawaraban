@@ -1,8 +1,37 @@
 # 🖥 テクノロジー — 全アーカイブ
 
-全15件 / 日付の新しい順
+全20件 / 日付の新しい順
 
 ## 2026-05-31
+
+### [AnthropicとOpenAIのスーパーPACが中間選挙で激突——AI競争が政治・選挙の場にまで拡大](https://www.nytimes.com/2026/05/30/us/politics/anthropic-openai-super-pacs-midterms.html)
+*Powerful A.I. Super PACs Duel Over the Midterms: 'This Is a War'*
+出典: NYT Technology ・ #technology #2026-05-31
+
+Anthropicに関連するスーパーPAC（政治活動委員会）とOpenAIに連動するスーパーPACが、2026年米中間選挙で数百万ドルを投じて互いに競合候補者を支援していることが明らかになった（NYT報道）。
+AI業界の競争は製品・技術の競争に留まらず、AI規制政策の方向性を左右する政治の世界にまで延伸した。AnthropicとOpenAIは自社に有利な規制を形成してくれる議員を選挙で支援することで、競争優位を政治的に確保しようとしている。
+「これは戦争だ」と表現される今回の政治介入は、両社の規制コストを巡る戦略的競争の一環とみることができる。スーパーPACを通じた政治献金は法的に認められているが、巨大AI企業が選挙に直接介入する構図への批判も高まる可能性がある。
+Anthropicは政府向けAI・安全保障分野での優位をすでに確立しており、規制が自社に有利な方向に形成されれば事業拡大が大幅に加速する。OpenAIは逆に規制の緩和・普及促進を政治的に後押しする立場と見られる。
+AI企業が政治的影響力を武器に競争する構図は、AI規制の行方に直接影響する。中間選挙の結果によってAI規制の方向性が大きく変わる可能性があり、AI株投資における政治リスクの評価が重要になる。
+💡 投資含意: AI企業が政治的影響力を武器に競争する構図はAI規制の方向性を左右する。Anthropicが支援する議員が中間選挙で勝利すれば、政府・安全保障向けAI市場でのAnthropicの優位が制度的に固定化される可能性がある。
+🔗 波及: Amazon（Anthropic大株主）・Alphabet（Anthropic出資者）・Microsoft（OpenAI）に規制環境の変化が波及する可能性。AI規制関連の立法動向が業界全体の投資判断に影響。
+📈 関連銘柄: AMZN（Anthropic・規制優位なら強材料）、GOOGL（Anthropic出資）、MSFT（OpenAI）
+⚖️ 中立〜強気: 規制環境の形成過程でのリスクはあるが、業界プレイヤーが政治的にコントロールを持とうとする動きは長期的に産業保護につながりうる。
+📅 次の注目: 2026年11月中間選挙の結果、Anthropic・OpenAI支援候補者の当落と規制法案への影響
+
+### [Blue Originロケット爆発でAmazonのKuiper計画に打撃——ベゾスはSpaceXへの追撃路線を失うか](https://www.nytimes.com/2026/05/29/technology/blue-origin-amazon-rocket-explosion.html)
+*What's Next for Blue Origin After Rocket Explosion*
+出典: NYT Technology ・ #technology #2026-05-31
+
+Jeff Bezosが率いるBlue Originのロケットがフロリダの発射台で爆発するという深刻な事故が発生し、Amazon創業者がElon MuskのSpaceX・Starlinkに追いつこうとしていた宇宙戦略に大きな障害が生じた（NYT報道）。
+Blue Originは近年、New Glennロケットの打ち上げ成功などを経てSpaceXとの差を縮めてきた。NASAのアルテミス計画（月着陸ミッション）では月面着陸船の開発も担当しており、今回の爆発はNASAの月ミッションのタイムラインにも影響を与える可能性がある。
+Blue OriginはAmazonのProject Kuiper（衛星インターネットサービス）の打ち上げ能力の一部を担っており、今回の事故は打ち上げ能力の回復・原因究明に時間を要する分、Kuiperの展開スケジュールに不確実性をもたらす可能性がある。
+宇宙産業全体から見ると、SpaceXが大幅なリードを持ちながらもBlue Originが存在感を高めていたが、今回の爆発で競合関係のバランスが一段とSpaceX優位に傾く。NASAの月ミッション計画にも波及しうる重大な事故だ。
+💡 投資含意: Blue Originはまだ非上場だが、この事故はSpaceXの競合優位を直接強化する。AmazonのKuiper計画の遅延リスクが増し、AMZN株には軽微な弱材料。SpaceXのIPO評価額には強材料。
+🔗 波及: SpaceX IPO評価額への正の影響（競合弱体化）。Amazon KuiperのStarlink対抗能力に制約→通信衛星市場での競争力に影響。NASAのアルテミス計画タイムライン悪化リスク。
+📈 関連銘柄: AMZN（Kuiper遅延リスク・軽微な弱材料）、SpaceX（非上場・競合優位強化）
+⚖️ 弱気: Amazon株にKuiper遅延リスクで軽微な弱材料。SpaceXの競争優位には強材料。
+📅 次の注目: Blue Originの原因究明・復旧タイムライン、NASAアルテミス計画への影響発表、SpaceX IPO評価額への反映
 
 ### [GoogleエンジニアがPolymarketで社内データ使い120万ドルの不正取引——DOJが起訴、予測市場規制論争が再燃](https://www.npr.org/2026/05/27/nx-s1-5836659/google-polymarket-insider-trading-doj-charges)
 *DOJ charges Google staffer over Polymarket trades netting $1.2 million*
@@ -31,6 +60,50 @@ AI電力消費問題が緩和されれば、AI展開コストが下がりクラ�
 📈 関連銘柄: LITE（強材料）、COHR（強材料）、MRVL（強材料）、GLW（強材料）、NVDA（投資主体・長期正の連鎖）
 ⚖️ 強気: フォトニクス関連全般に強気。急騰後のバリュエーションは慎重に確認を。
 📅 次の注目: NvidiaのBlackwell以降ロードマップでのフォトニクス採用発表、各社の製造能力拡大タイムライン
+
+### [Dell株が史上最高の32%急騰——AIサーバー売上が前年比757%増の1.6兆円超](https://www.cnbc.com/2026/05/29/dell-stock-earnings-ai-servers.html)
+*Dell stock skyrockets 32% for its best day ever as AI server revenue soars*
+出典: CNBC Technology ・ #technology #2026-05-31
+
+Dell Technologiesが発表した第1四半期決算が市場予想を全方位で超過し、株価が32.76%急騰して同社史上最高の1日上昇率を記録した。2026年の累計上昇率は234%に達する。
+急成長の核心はAIサーバー部門で、前年同期比757%増の161億ドルを売上げた。四半期全体の売上高は前年比約88%増で、2018年のNYSE再上場以来最速の成長率。調整後EPSも4.86ドルと予想2.94ドルを大幅超過した。
+MeliusのBen Reitzes氏は「すべての指標でビートした。AIだけでなく執行力の優秀さを示した。こんな決算は見たことがない」と驚き、Morgan Stanleyは「我々が間違っていた。モデルと目標株価を見直す」と異例のコメントを出した。
+背景には政治的絡み合いもある。トランプ大統領はDell株を100万〜500万ドル購入し、Mother's Dayイベントで「Dellを買え」と推奨。翌日にはDellに97億ドルの国防総省契約が決まった。Michael Dell CEOはトランプ支援として62.5億ドルの寄付を行っていた。
+AI需要の実需が「証明」されたことで、NvidiaのGPU需要継続が裏付けられ、AIインフラ全体のセンチメントが改善。Dellのサーバー急成長はNvidiaへの旺盛な需要を間接的に示す強力な証拠となった。
+💡 投資含意: Dellの決算はAIサーバー実需を正面から証明した。Nvidia・HPEなど同業者にも正のセンチメントが波及する。政治的関係リスクは内包されるが、短期の強材料は明確。
+🔗 波及: NvidiaのGPU需要確認→NVDA株に強材料。HPE・SuperMicroなど競合AIサーバー企業も注目。「Trump-proximity premium」が継続する間はDell株の優位が続く。
+📈 関連銘柄: DELL（上昇済みだが勢い継続）、NVDA（需要確認・強材料）、HPE・SMCI（比較注目）
+⚖️ 強気: AIサーバー・インフラ需要が実需として確認。強気材料。
+📅 次の注目: Dellの次四半期AIサーバー受注残と納期、Nvidiaの決算でのAIサーバー需要確認
+
+### [GitHub Copilotが6月1日から従量課金に転換——「月29ドルが750ドルに」と開発者が猛反発](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/)
+*'What a joke': Github Copilot's new token-based billing spurs consternation among devs*
+出典: TechCrunch ・ #technology #2026-05-31
+
+MicrosoftのGitHub Copilotが2026年6月1日から課金モデルをリクエスト数ベースの月額定額制からトークン消費量ベースの従量制に変更する。一部のユーザーは月額コストが29ドルから750ドル、50ドルから3,000ドルに急騰すると報告し、Reddit・Xで激しい批判が噴出している。
+Copilotはこれまで低コストの定額制で、開発者が大量のプロンプトを気軽に投げられる環境を提供してきた。しかしAIエージェント型ワークフローの普及でトークン消費量が急増し、Microsoftは補助金モデルの維持が困難になったとみられる。
+TechCrunchが取材したユーザーの声は両極端だ。「Microsoftがこのシステムを作り、サブエージェントを追加してまで大量消費を促しておきながら突然ルールを変えた。悪いのはMicrosoftだ」という批判と、「正しく使えばそれほど費用はかからない。大量消費はバイブコーダーの問題だ」という反論が対立している。
+MicrosoftはTechCrunchのコメント要求に回答していない。課金変更は6月1日施行だが、一部大企業顧客は別途交渉で保護されている可能性もある。
+今回の変更はMicrosoftのAIコスト管理戦略の転換点を示す。Copilotの「安く大量に」モデルが持続不可能だったことが明らかになり、AI開発ツール全体の「現実的な価格付け」への移行を示す先例になる可能性がある。
+💡 投資含意: 短期的にはCopilotのユーザー離れリスクがありMSFT株に評判上の軽微な悪材料。長期的にはAIコストの正直な価格付けが利益率改善につながる可能性。競合Cursor・WindsurfなどのAIコーディングツールが受け皿となりうる。
+🔗 波及: GitHub Copilot離れ→競合コーディングツール（Cursor・Windsurf・JetBrains AI等）への乗り換え加速。企業のAI工具コスト管理への意識が高まる。
+📈 関連銘柄: MSFT（短期評判リスク・軽微な弱材料）、Cursor・Windsurf（非上場、競合として恩恵可能性）
+⚖️ 弱気: Microsoft Copilotブランドに軽微な弱気材料。競合AIコーディングツールには相対的強気。
+📅 次の注目: 6月1日以降のCopilot解約率・ユーザー数変化、Microsoftの料金調整発表
+
+### [ソフトバンクがフランスに最大8.7兆円を投資——欧州最大のAIデータセンター網を2031年までに建設](https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/)
+*SoftBank says it will invest up to €75 billion to build French data centers*
+出典: TechCrunch ・ #technology #2026-05-31
+
+SoftBankグループが欧州最大規模のAIデータセンター投資として、フランスに最大750億ユーロ（約870億ドル＝約8.7兆円）を投入すると発表した。目標は5ギガワットの追加データセンターキャパシティの開発・運用で、これはSoftBankの欧州最大のAIインフラ投資となる。
+第1フェーズとして、フランス北部オー=ド=フランス地域のDunkirk（Loon-Plage）・Bosquel・Bouchainに3.1ギガワット分のデータセンターを2031年までに建設する。OpenAIの大型投資家かつ顧客でもあるSoftBankが欧州のAIインフラ主導を宣言した形で、フランス経済大臣Roland Lescureは「フランスをAIバリューチェーン全体でリーディング拠点にするマクロン大統領の野望の証明だ」と述べた。
+米国ではデータセンター建設への環境上の反対運動と電力網への影響懸念が高まっており、欧州展開に有利な環境が生まれている。SoftBankは別途、米国オハイオ州でも9.2ギガワット規模の天然ガス発電所を伴うデータセンター計画を進めている。
+SoftBankによる欧州の大規模投資はAIインフラ整備の地理的分散と加速を示す。OpenAIとの連携を考えると欧州展開の基盤となる可能性があり、欧州の電力・冷却・建設企業への需要を生む。
+💡 投資含意: SoftBankの大規模投資はフランスをAIインフラのハブとして位置付け、関連建設・電力・冷却企業への需要を生む。OpenAIの欧州展開資本提供とも解釈できる。
+🔗 波及: 欧州の電力需要増（フランス電力大手EDF等）、データセンター建設・冷却企業への需要増。米国での環境反対運動が欧州投資に有利な環境を作り出している。
+📈 関連銘柄: SFTBY（SoftBank ADR）、VRT・ETN（冷却・電源管理）、欧州電力・建設株
+⚖️ 強気: AIインフラ需要の地球規模での継続確認。欧州AI投資加速の強材料。
+📅 次の注目: 建設着工タイミング・欧州AIデータセンター電力調達契約の内容、OpenAIとの役割分担の詳細
 
 ### [Microsoftがセキュリティ研究者を刑事告訴で脅し——業界が「研究者の信頼を壊す危険な前例」と一斉批判](https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/)
 *Microsoft under fire for threatening security researcher with criminal investigation*
