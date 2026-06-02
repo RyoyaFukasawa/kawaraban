@@ -78,6 +78,7 @@ async function main() {
       for (const item of items) {
         const url = item.link.trim();
         if (!url) continue;
+        if (feed.skipUrlPattern?.test(url)) continue; // 本文取得不可パターンをスキップ
         if (seen.has(url) || perCategoryUrls.has(url)) continue; // 重複排除
         if (!isFresh(item.pubDate, nowMs)) {
           stale++; // 古い記事は除外（前日以前の事件の再掲を防ぐ）
