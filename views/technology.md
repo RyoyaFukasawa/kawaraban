@@ -1,6 +1,89 @@
 # 🖥 テクノロジー — 全アーカイブ
 
-全25件 / 日付の新しい順
+全30件 / 日付の新しい順
+
+## 2026-06-02
+
+### [HPEが株価+30%——AI サーバー需要で2018年以来最大の決算サプライズ、通期EPS ガイダンスを大幅上方修正](https://www.cnbc.com/2026/06/01/hpe-stock-earnings-q2.html)
+*HPE skyrockets 30% on biggest earnings beat since 2018*
+出典: CNBC Technology ・ #technology #2026-06-02
+
+Hewlett Packard Enterprise（HPE）の Q2 決算は市場予想を大幅に上回り、株価は月曜日に30%急騰した。2018年2月以来最大の EPS サプライズとなった。
+Cloud & AI セグメント収益は71.1億ドル（予想68.7億ドル）を達成し、その中のサーバー収益は54.5億ドルと予想の46.6億ドルを大幅に上回り前年比三桁成長。Antonio Neri CEO は「従来型サーバーの受注が前年比三桁増で、過去最大のバックログを記録した」と述べた。
+通期 EPS ガイダンスは3.35〜3.45ドルへ1ドル幅引き上げ（従来: 2.30〜2.50ドル）。「自社の長期計画より1.5年前倒しで目標に到達しつつある」とコメントした。
+Computex で Nvidia の Vera CPU を搭載した次世代 ProLiant サーバー（第12世代）を発表。NYSE（ニューヨーク証券取引所）が同サーバーを採用し、1日1兆件以上のメッセージ処理に活用する予定と明らかにした。
+アナリストは「Neocloudへの供給を競合する Dell より、国家研究機関・企業向けのオンプレミス AI に特化しているのが高マージンを実現する差別化要因」と分析。メモリコストは2027年まで高止まりが続くとされ、これが中期的なリスク。
+HPE の急騰は AI インフラ投資サイクルが予想以上に強いことを市場に示す証左となり、Dell・Cisco・Pure Storage など同業他社へのセンチメント改善波及が期待される。
+
+💡 投資含意: AI サーバー需要の強さが HPE 決算で確認された。同業の Dell・Cisco 等サーバー・ネットワーク機器株にも強材料。Nvidia Vera CPU の本格普及への確認材料としても機能。
+🔗 波及: DELL（同業・センチメント改善）、CSCO（ネットワーク・AI インフラ）、NVDA（Vera CPU の主要顧客が拡大）。メモリコスト高止まりは MU・SK ハイニックスの価格支持要因。
+📈 関連銘柄: HPE（決算確認・強気）、DELL（同業強材料）、NVDA（AI チップ需要確認）
+⚖️ 強気: AI インフラ投資加速の確認材料。メモリコスト高止まりは軽微な逆風。
+📅 次の注目: Dell の次の決算発表、Nvidia Vera CPU 搭載サーバーの本格出荷開始（秋）
+
+### [NvidiaがComputexでARM系PCチップ「RTX Spark」発表——AI エージェントPC を今秋Dell・HP・Microsoftから](https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/)
+*Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP*
+出典: TechCrunch ・ #technology #2026-06-02
+
+Nvidia が台北 Computex の基調講演で ARM アーキテクチャベースの新型 PC 向けチップ「RTX Spark」を発表した。Jensen Huang CEO は「コンピュータの再発明」と宣言し、AI エージェントがローカルで安全に動作する PC 時代の幕開けを告げた。
+1 ペタフロップの演算能力を持つ RTX Spark 搭載 PC は、今秋に ASUS・Dell・HP・Lenovo・Microsoft Surface・MSI などから出荷開始予定。Microsoft は自社製品を「歴代最強の Surface Laptop」として「Surface Laptop Ultra」と命名した。
+チップは CPU・GPU・NPU（AI アクセラレータ）・Nvidia CUDA ソフトウェア基盤を統合し、ローカルで LLM（大規模言語モデル）を実行できる。Adobe・Blender・Riot Games・Xbox を含む100超の Windows 開発者が採用を表明。
+過去の失敗として2013年の Microsoft Surface RT（Nvidia ARM チップ搭載で大失敗、MS が9億ドル償却）に言及しつつ、「今回は全くの別物」と強調。Huang は5月決算説明会で「AI エージェント向け CPU は2000億ドルの新市場」と宣言しており、Vera サーバー CPU はすでに200億ドル相当を受注している。
+価格は未発表で、競合する Apple Silicon（Mac Mini 等）に対する優位性は今後の具体的な価格設定次第。
+
+💡 投資含意: NVDA の投資ケースが GPU→CPU・PC 市場へと明確に拡張された。TAM 拡大は長期的な株価支持要因。AIエージェント PC が普及した場合、ソフトウェア・サービスのエコシステム収益化も見込まれる。
+🔗 波及: INTC・AMD（CPU 市場シェア侵食リスク）、QCOM（ARM PC で先行していたが強力競合出現）、Dell・HP・Lenovo 等 PC OEM は Nvidia への依存が深まる。
+📈 関連銘柄: NVDA（TAM 拡大・強気）、INTC・AMD（競合リスク・弱材料）、QCOM（ARM PC 先行者・競合出現）
+⚖️ 強気（NVDA）・弱気（INTC・AMD・QCOM の PC CPU セグメント）
+📅 次の注目: RTX Spark 搭載 PC の価格発表・秋の出荷状況、Apple Silicon との比較ベンチマーク結果
+
+### [フロリダ州が全米初の州政府によるOpenAI 訴訟——銃乱射との関与を主張、Altman 個人責任も追及](https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/)
+*Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents*
+出典: TechCrunch ・ #technology #2026-06-02
+
+フロリダ州の James Uthmeier 司法長官が月曜日、OpenAI と CEO のサム・アルトマンを相手取り83ページに及ぶ訴状を提出した。米国の州政府として初めて、AI チャットボットによる人的被害を根拠に AI 企業を訴えた事例となる。
+訴状は「OpenAI は AI 軍拡競争で勝利し巨富を積み上げようとする飽くなき追求の中で、内外の安全警告を無視した」と主張する。焦点は昨年のフロリダ州立大学銃乱射事件で、犯行前に容疑者が ChatGPT に問い合わせた疑いがある。4月に刑事捜査が開始されており、被害者家族による民事訴訟も並行して継続中。
+訴状はさらに「自殺を推奨した」「専門家を公に中傷させた」「ユーザーの批判的思考力を低下させた」「未成年が感情擬似表現ツールに依存させられた」など幅広い被害を主張。83ページの訴状に銃乱射加担・自殺誘導・ストーカー・殺人への関与を主張する複数の事例が盛り込まれた。
+OpenAI はフロリダ大学銃乱射への関与を否定している。2024年の Elon Musk との訴訟（Musk 側が時効で敗訴）に続く大型法的リスクとなった。ChatGPT の自殺関与を主張する訴訟はカリフォルニアでも継続中で、他州 AG が追随した場合、連邦立法を促す呼び水となる可能性がある。
+OpenAI は現在 IPO 準備中であり、法的リスクの拡大は上場計画のディスカウント要因として機能しうる。
+
+💡 投資含意: OpenAI は非上場だが、AI 安全規制・立法の先例として上場 AI 関連株（GOOGL・META 等）への規制リスク拡大を示す材料となりうる。AI 安全コンプライアンスコストが業界全体で上昇する可能性。
+🔗 波及: 他州 AG の追随→連邦議会での AI 安全立法加速の可能性。OpenAI IPO への法的リスクとして上場評価に影響。プロプライエタリ AI のリスク管理コスト増大。
+📈 関連銘柄: GOOGL・META（AI 安全規制リスク・間接影響）
+⚖️ 弱気（AI 規制リスク全般）: 安全性訴訟が各州で相次ぐ場合、AI 企業全体の訴訟・規制対応コストが上昇。
+📅 次の注目: フロリダ訴訟の審理スケジュール、他州 AG の追随動向、OpenAI IPO 計画への影響
+
+### [AnthropicがSECにIPO機密申請——評価額約100兆円、AI史上最大規模の上場競争が本格化](https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/)
+*Anthropic files to go public*
+出典: TechCrunch ・ #technology #2026-06-02
+
+Claude を開発する Anthropic が月曜日、IPO（新規株式公開）の機密申請を SEC に提出したと発表した。現在の評価額は9650億ドル（約100兆円）で、スペースX の IPO（評価額2兆ドル目標）と並ぶ米国史上最大規模のテック IPO になる可能性がある。
+申請の6日前に Anthropic は650億ドルのシリーズ H 資金調達を完了しており（Altimeter・Sequoia・Dragoneer 等が主導）、そのラウンド自体が IPO 準備を見越した機関投資家の先行エントリーとして位置づけられていた。
+年間売上ランレートは最近470億ドルを突破し、2025年末時点の90億ドルから約5倍に急拡大。主要成長エンジンは企業向けサービスとコード生成で、最先端モデル「Mythos」の一般提供拡大が次の加速要因とされる。同日、AnthropicがEU のサイバーセキュリティ機関に Mythos へのアクセスを提供するとも報道された。
+機密申請（Confidential Filing）により、株式数・発行価格を未定のまま非公開で SEC 審査を受ける。市場環境次第で S-1 正式開示に進む。
+OpenAI（2026年3月に8520億ドル評価で1220億ドル調達、IPO 準備中）との「AI IPO 争奪戦」が本格化。どちらが先に上場するかは、公開市場でのAI 企業バリュエーション水準を測るリトマス試験となる。
+
+💡 投資含意: Anthropic IPO が実現すれば公開市場での AI 企業バリュエーションのベンチマークになる。Anthropic の主要投資家である GOOGL・AMZN の株価にも肯定的なシグナル。
+🔗 波及: OpenAI IPO とのタイミング競争が激化。AWS・GCP（Anthropic の基盤クラウド）の収益可視性も高まる。上場により AI セクター全体の投資家裾野が広がる。
+📈 関連銘柄: GOOGL・AMZN（Anthropic 主要株主・恩恵）、MSFT（競合 OpenAI のパートナー・間接影響）
+⚖️ 強気: AI IPO シーズン本格化がテックセクター全体のセンチメントを底上げ。
+📅 次の注目: Anthropic S-1 正式開示のタイミング、IPO 価格帯・上場日程の発表
+
+### [AlphabetがAIインフラ整備に向け株式売却で8兆円超を調達——バークシャーが1400億円出資](https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/)
+*Alphabet plans to raise $80 billion to pay for AI buildout*
+出典: TechCrunch ・ #technology #2026-06-02
+
+GoogleグループのAlphabetが月曜日、AI インフラ整備のために800億ドル（約8.4兆円）規模の株式売却計画を発表した。調達資金は「AI インフラのスケールアップと世界規模のコンピュート拡充を含む一般企業目的」に充てる。
+計画の一環として、バークシャー・ハサウェイへの100億ドルの私募発行が含まれる。バフェット後継のグレッグ・エイベルCEO体制下のバークシャーが単一テック大手株をこれほどの規模で保有するのは異例で、機関投資家の信任として受け止められている。
+Alphabetは「AI ソリューションと サービスへの需要が企業・消費者から非常に強く、会社の供給能力を超えている」と認め、先行投資で競争優位を確保する狙いを示した。5月のGoogle I/O でPichai CEO は今年の設備投資を1800〜1900億ドルと公表しており、今回の800億ドル調達はその資金手当てとなる。
+テック各社合計で今年のAI設備投資は最大7000億ドル規模と試算されており、Alphabetは NVIDIA・Microsoft・Amazonと並ぶ最大の支出主体として位置づけられる。
+株式希薄化は短期的にEPSを圧迫するが、AI 需要の旺盛さを確認する材料でもあり、Google Cloud・Geminiの競争力維持への強い意思と受け取られている。バークシャーのテック株投資という意外性も市場の注目を集めた。
+
+💡 投資含意: Alphabet 自身の株式希薄化（800億ドル規模）は短期的にEPS・株主価値を圧迫するが、AI インフラへの積極投資がGoogleの競争優位維持につながるという長期の強気材料でもある。バークシャーの参画は信任シグナルとして株価を支える可能性がある。
+🔗 波及: AI インフラ関連サプライヤー（NVDA・AVGO・メモリ各社）への受注増が見込まれる。AWS・Azure 対 Google Cloud の競争がさらに激化する見通し。
+📈 関連銘柄: GOOGL（希薄化リスクと長期AI 強気のトレードオフ）、BRK.A/BRK.B（テック株化の戦略転換）、NVDA・AVGO（インフラサプライヤー・受注増）
+⚖️ 中立〜長期強気: 希薄化は短期逆風だが、AI CapEx トレンドへの確信を示す強気シグナル。
+📅 次の注目: 株式売却の実施タイミング・市場消化状況、Q2 決算での設備投資ガイダンス更新
 
 ## 2026-06-01
 
