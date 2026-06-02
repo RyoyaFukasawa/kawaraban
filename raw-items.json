@@ -1,1721 +1,1631 @@
 [
   {
-    "source": "WSJ Technology",
-    "category": "technology",
-    "paywalled": true,
-    "title_en": "What to Know About China's DeepSeek AI",
-    "url": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology",
-    "description": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
-    "pubDate": "Mon, 27 Jan 2025 13:17:00 -0500"
-  },
-  {
-    "source": "WSJ Technology",
-    "category": "technology",
-    "paywalled": true,
-    "title_en": "Tech, Media & Telecom Roundup: Market Talk",
-    "url": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-5908c510?mod=rss_Technology",
-    "description": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
-    "pubDate": "Mon, 27 Jan 2025 12:28:00 -0500"
-  },
-  {
-    "source": "WSJ Technology",
-    "category": "technology",
-    "paywalled": true,
-    "title_en": "Silicon Valley Is Raving About a Made-in-China AI Model",
-    "url": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology",
-    "description": "DeepSeek is called “amazing and impressive” despite working with less-advanced chips.",
-    "pubDate": "Mon, 27 Jan 2025 09:36:00 -0500"
-  },
-  {
-    "source": "WSJ Technology",
-    "category": "technology",
-    "paywalled": true,
-    "title_en": "Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup",
-    "url": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology",
-    "description": "The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.",
-    "pubDate": "Mon, 27 Jan 2025 08:00:00 -0500"
-  },
-  {
-    "source": "WSJ Technology",
-    "category": "technology",
-    "paywalled": true,
-    "title_en": "Can an App Replace a Personal Trainer? I Tested Nearly a Dozen to Find Out",
-    "url": "https://www.wsj.com/articles/strength-training-apps-review-950a2d19?mod=rss_Technology",
-    "description": "Apps can add flexibility and freshness to your routine. Just try not to get injured.",
-    "pubDate": "Sun, 26 Jan 2025 09:00:00 -0500"
-  },
-  {
-    "source": "WSJ Technology",
-    "category": "technology",
-    "paywalled": true,
-    "title_en": "Bill Gates on His Meeting With Trump, Musk's DOGE, His Childhood",
-    "url": "https://www.wsj.com/articles/bill-gates-on-his-meeting-with-trump-musks-doge-his-childhood-d4a02114?mod=rss_Technology",
-    "description": "The billionaire spoke with The Wall Street Journal ahead of his coming book, “Source Code.”",
-    "pubDate": "Fri, 24 Jan 2025 19:01:00 -0500"
-  },
-  {
-    "source": "WSJ Technology",
-    "category": "technology",
-    "paywalled": true,
-    "title_en": "Tech, Media & Telecom Roundup: Market Talk",
-    "url": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-d3dd8fb0?mod=rss_Technology",
-    "description": "Find insight on Quebecor, Verizon, Texas Instruments and more in the latest Market Talks covering technology, media and telecom.",
-    "pubDate": "Fri, 24 Jan 2025 16:55:00 -0500"
-  },
-  {
-    "source": "WSJ Technology",
-    "category": "technology",
-    "paywalled": true,
-    "title_en": "Meta Spending to Soar on AI, Massive Data Center",
-    "url": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology",
-    "description": "The social-media giant plans to spend between $60 billion and $65 billion, the latest sign of tech companies’ accelerating investments into artificial intelligence.",
-    "pubDate": "Fri, 24 Jan 2025 12:04:00 -0500"
-  },
-  {
-    "source": "WSJ Technology",
-    "category": "technology",
-    "paywalled": true,
-    "title_en": "Canada to Review Amazon Contracts After Quebec Layoffs",
-    "url": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology",
-    "description": "Canada has warned Amazon.com that it is reviewing business ties with the company’s cloud-computing unit following Amazon’s decision to shut down its warehouses in Quebec, leading to the layoff of 1,700 workers.",
-    "pubDate": "Thu, 23 Jan 2025 19:59:00 -0500"
-  },
-  {
-    "source": "WSJ Technology",
-    "category": "technology",
-    "paywalled": true,
-    "title_en": "Tech, Media & Telecom Roundup: Market Talk",
-    "url": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-28593f8d?mod=rss_Technology",
-    "description": "Find insight on Electronic Arts, consumer spending on videogames, Meta and more in the latest Market Talks covering Technology, Media and Telecom.",
-    "pubDate": "Thu, 23 Jan 2025 16:57:00 -0500"
-  },
-  {
-    "source": "WSJ Technology",
-    "category": "technology",
-    "paywalled": true,
-    "title_en": "Nvidia Supplier SK Hynix Posts Record Profit on AI Boom",
-    "url": "https://www.wsj.com/articles/sk-hynix-posts-strong-fourth-quarter-net-profit-on-ai-boom-6f32e38b?mod=rss_Technology",
-    "description": "The South Korean memory-chip maker reported record quarterly and annual results after stronger-than-expected earnings for the final quarter of 2024 on robust chip demand.",
-    "pubDate": "Wed, 22 Jan 2025 21:04:00 -0500"
-  },
-  {
-    "source": "WSJ Technology",
-    "category": "technology",
-    "paywalled": true,
-    "title_en": "Tech, Media & Telecom Roundup: Market Talk",
-    "url": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-85899e83?mod=rss_Technology",
-    "description": "Find insight on Netflix, U.S. advertising spending, AI joint venture Stargate and more in the latest Market Talks covering Technology, Media and Telecom.",
-    "pubDate": "Wed, 22 Jan 2025 16:56:00 -0500"
-  },
-  {
-    "source": "WSJ Technology",
-    "category": "technology",
-    "paywalled": true,
-    "title_en": "Tech Leaders Pledge Up to $500 Billion in AI Investment in U.S.",
-    "url": "https://www.wsj.com/articles/tech-leaders-pledge-up-to-500-billion-in-ai-investment-in-u-s-da506cd4?mod=rss_Technology",
-    "description": "OpenAI, Oracle and SoftBank unveiled AI infrastructure plans at White House.",
-    "pubDate": "Tue, 21 Jan 2025 20:08:00 -0500"
-  },
-  {
-    "source": "WSJ Technology",
-    "category": "technology",
-    "paywalled": true,
-    "title_en": "Tech, Media & Telecom Roundup: Market Talk",
-    "url": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-2b023358?mod=rss_Technology",
-    "description": "Find insight on diversified semiconductor vendors, Netflix, potential Canadian tariffs, and more in the latest Market Talks covering Technology, Media and Telecom.",
-    "pubDate": "Tue, 21 Jan 2025 16:53:00 -0500"
-  },
-  {
-    "source": "WSJ Technology",
-    "category": "technology",
-    "paywalled": true,
-    "title_en": "China Signals It Is Open to a Deal Keeping TikTok in U.S.",
-    "url": "https://www.wsj.com/articles/china-signals-it-wont-block-a-deal-to-keep-tiktok-in-the-u-s-54c4d1e8?mod=rss_Technology",
-    "description": "The founder of the app’s parent, Beijing-based ByteDance, met with Elon Musk last year.",
-    "pubDate": "Mon, 20 Jan 2025 08:34:00 -0500"
-  },
-  {
-    "source": "WSJ Technology",
-    "category": "technology",
-    "paywalled": true,
-    "title_en": "Tech, Media & Telecom Roundup: Market Talk",
-    "url": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-686b67ce?mod=rss_Technology",
-    "description": "Find insight on Tencent, TikTok, Reach and more in the latest Market Talks covering Technology, Media and Telecom.",
-    "pubDate": "Mon, 20 Jan 2025 04:38:00 -0500"
-  },
-  {
-    "source": "WSJ Technology",
-    "category": "technology",
-    "paywalled": true,
-    "title_en": "TikTok Restoring Service for U.S. Users, After Trump Signals He Will Save It",
-    "url": "https://www.wsj.com/articles/tiktok-goes-dark-for-u-s-users-while-trump-signals-he-will-save-it-0370b227?mod=rss_Technology",
-    "description": "The president-elect said he will issue an executive order, and the app said it will work on a long-term solution with the incoming administration.",
-    "pubDate": "Mon, 20 Jan 2025 03:46:00 -0500"
-  },
-  {
-    "source": "WSJ Technology",
-    "category": "technology",
-    "paywalled": true,
-    "title_en": "How People Actually Make a Living on TikTok",
-    "url": "https://www.wsj.com/articles/they-built-thriving-businesses-on-tiktok-the-ban-could-destroy-them-6918ab67?mod=rss_Technology",
-    "description": "The platform has provided a surge in discovery and revenue for companies that may not be able to replicate it elsewhere.",
-    "pubDate": "Sun, 19 Jan 2025 21:11:00 -0500"
-  },
-  {
-    "source": "WSJ Technology",
-    "category": "technology",
-    "paywalled": true,
-    "title_en": "What Happens Now That TikTok's Gone Dark?",
-    "url": "https://www.wsj.com/articles/tiktok-ban-phone-app-whats-next-2e73fbac?mod=rss_Technology",
-    "description": "The company told users the app isn’t available and told them to stay tuned. Trump said he will likely intervene.",
-    "pubDate": "Sat, 18 Jan 2025 23:48:00 -0500"
-  },
-  {
-    "source": "WSJ Technology",
-    "category": "technology",
-    "paywalled": true,
-    "title_en": "How a Little-Known Finnish Company Became One of the World's Hottest Gadget Startups",
-    "url": "https://www.wsj.com/articles/how-a-little-known-finnish-company-became-one-of-the-worlds-hottest-gadget-startups-ec1b3d09?mod=rss_Technology",
-    "description": "Oura’s smart ring measures heart health and can predict when you may be getting sick",
-    "pubDate": "Fri, 17 Jan 2025 21:00:00 -0500"
-  },
-  {
-    "source": "MarkTechPost",
+    "source": "TechCrunch",
     "category": "technology",
     "paywalled": false,
-    "title_en": "Meet mKernel: A Multi-GPU, Multi-Node Fused Kernel Library for GPU-Driven Communication",
-    "url": "https://www.marktechpost.com/2026/05/29/meet-mkernel-a-multi-gpu-multi-node-fused-kernel-library-for-gpu-driven-communication/",
-    "description": "UC Berkeley's UCCL team releases mKernel, fusing intra-node NVLink, inter-node RDMA, and dense compute into a single persistent CUDA kernel. The post Meet mKernel: A Multi-GPU, Multi-Node Fused Kernel Library for GPU-Driven Communication appeared first on MarkTechPost .",
-    "pubDate": "Fri, 29 May 2026 08:43:32 +0000"
+    "title_en": "Alphabet plans to raise $80 billion to pay for AI buildout",
+    "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+    "description": "The Google parent company plans to raise the funds by selling stock.",
+    "pubDate": "Mon, 01 Jun 2026 22:55:09 +0000"
   },
   {
-    "source": "MarkTechPost",
+    "source": "TechCrunch",
     "category": "technology",
     "paywalled": false,
-    "title_en": "Hexo Labs Open-Sources SIA: A Self-Improving Agent That Updates Both the Harness and the Model Weights",
-    "url": "https://www.marktechpost.com/2026/05/29/hexo-labs-open-sources-sia-a-self-improving-agent-that-updates-both-the-harness-and-the-model-weights/",
-    "description": "Hexo Labs released SIA, an open-source self-improving loop, under an MIT license. A Feedback-Agent reads each run's trajectory, then either rewrites the scaffold or triggers a LoRA weight update on gpt-oss-120b. Combining both levers beat scaffold-only iteration on LawBench, TriMul GPU kernels, and scRNA-seq denoising. The post Hexo Labs Open-Sources SIA: A Self-Improving Agent That Updates Both the Harness and the Model Weights appeared first on MarkTechPost .",
-    "pubDate": "Fri, 29 May 2026 07:28:37 +0000"
+    "title_en": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year",
+    "url": "https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/",
+    "description": "In a wild ride for 22-year-old founder and CEO Ethan Thornton, Mach Industries has raised another $300 million. It already has five autonomous vehicles in development and completed a major acquisition.",
+    "pubDate": "Mon, 01 Jun 2026 21:40:35 +0000"
   },
   {
-    "source": "MarkTechPost",
+    "source": "TechCrunch",
     "category": "technology",
     "paywalled": false,
-    "title_en": "How to Design an End-to-End Ansible Automation Lab with Playbooks, Inventories, Roles, Vault, Dynamic Inventory, and Custom Modules",
-    "url": "https://www.marktechpost.com/2026/05/28/how-to-design-an-end-to-end-ansible-automation-lab-with-playbooks-inventories-roles-vault-dynamic-inventory-and-custom-modules/",
-    "description": "In this tutorial, we build a complete Ansible lab that runs end-to-end in Google Colab or any Linux environment. We start by installing ansible-core, setting up a local workspace, creating an Ansible configuration file, and defining both static and dynamic inventories. We then explore key Ansible concepts, including group variables, host variables, variable precedence, ad [&#8230;] The post How to Design an End-to-End Ansible Automation Lab with Playbooks, Inventories, Roles, Vault, Dynamic Inventory, and Custom Modules appeared first on MarkTechPost .",
-    "pubDate": "Fri, 29 May 2026 03:49:31 +0000"
+    "title_en": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+    "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+    "description": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
+    "pubDate": "Mon, 01 Jun 2026 21:35:00 +0000"
   },
   {
-    "source": "MarkTechPost",
+    "source": "TechCrunch",
     "category": "technology",
     "paywalled": false,
-    "title_en": "Liquid AI Releases LFM2.5-8B-A1B: An On-Device MoE Model With 8.3B Total and 1.5B Active Parameters",
-    "url": "https://www.marktechpost.com/2026/05/28/liquid-ai-releases-lfm2-5-8b-a1b-an-on-device-moe-model-with-8-3b-total-and-1-5b-active-parameters/",
-    "description": "Liquid AI's LFM2.5-8B-A1B activates 1.5B of 8.3B parameters, offering 128K context, reasoning, and tool calling on consumer hardware. The post Liquid AI Releases LFM2.5-8B-A1B: An On-Device MoE Model With 8.3B Total and 1.5B Active Parameters appeared first on MarkTechPost .",
-    "pubDate": "Thu, 28 May 2026 23:29:49 +0000"
+    "title_en": "From the stage to the future: Where are Startup Battlefield&#8217;s alumni now?",
+    "url": "https://techcrunch.com/2026/06/01/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/",
+    "description": "We wanted to show you what happens after the confetti falls. We checked in with some of our recent alumni, many of whom have sat down with us on Build Mode: The Founder Survival Guide, TechCrunch's podcast for founders at every stage.",
+    "pubDate": "Mon, 01 Jun 2026 20:26:08 +0000"
   },
   {
-    "source": "MarkTechPost",
+    "source": "TechCrunch",
     "category": "technology",
     "paywalled": false,
-    "title_en": "Anthropic Ships Claude Opus 4.8 Alongside Dynamic Workflows and Cheaper Fast Mode, With Workflows Capped at 1,000 Subagents",
-    "url": "https://www.marktechpost.com/2026/05/28/anthropic-ships-claude-opus-4-8-alongside-dynamic-workflows-and-cheaper-fast-mode-with-workflows-capped-at-1000-subagents/",
-    "description": "Anthropic's Claude Opus 4.8 brings dynamic workflows and cheaper fast mode to Claude Code, now in research preview The post Anthropic Ships Claude Opus 4.8 Alongside Dynamic Workflows and Cheaper Fast Mode, With Workflows Capped at 1,000 Subagents appeared first on MarkTechPost .",
-    "pubDate": "Thu, 28 May 2026 22:12:16 +0000"
+    "title_en": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+    "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+    "description": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+    "pubDate": "Mon, 01 Jun 2026 20:03:40 +0000"
   },
   {
-    "source": "MarkTechPost",
+    "source": "TechCrunch",
     "category": "technology",
     "paywalled": false,
-    "title_en": "Perplexity AI Open-Sources Unigram Tokenizer That Achieves 5x Lower p50 Latency Than Hugging Face tokenizers Crate",
-    "url": "https://www.marktechpost.com/2026/05/28/perplexity-ai-open-sources-unigram-tokenizer-that-achieves-5x-lower-p50-latency-than-hugging-face-tokenizers-crate/",
-    "description": "Perplexity AI open-sources a rewritten Unigram tokenizer that reduces reranker latency and cuts production CPU utilization by 5-6x. The post Perplexity AI Open-Sources Unigram Tokenizer That Achieves 5x Lower p50 Latency Than Hugging Face tokenizers Crate appeared first on MarkTechPost .",
-    "pubDate": "Thu, 28 May 2026 09:08:20 +0000"
+    "title_en": "Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access",
+    "url": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/",
+    "description": "Several users on social media reported having their Instagram accounts hacked over the weekend. Meta's own support chatbot was blamed for allowing hackers to hijack accounts.",
+    "pubDate": "Mon, 01 Jun 2026 18:34:32 +0000"
   },
   {
-    "source": "MarkTechPost",
+    "source": "TechCrunch",
     "category": "technology",
     "paywalled": false,
-    "title_en": "A Coding Guide to Implement a pgvector-Powered Semantic, Hybrid, Sparse, and Quantized Vector Search System",
-    "url": "https://www.marktechpost.com/2026/05/28/a-coding-guide-to-implement-a-pgvector-powered-semantic-hybrid-sparse-and-quantized-vector-search-system/",
-    "description": "In this tutorial, we build a complete pgvector playground inside Google Colab and explore how PostgreSQL can work as a powerful vector database for modern AI applications. We start by installing PostgreSQL, compiling the pgvector extension, connecting through Psycopg, and registering vector types for smooth Python integration. Then, we create embeddings with SentenceTransformers, store them [&#8230;] The post A Coding Guide to Implement a pgvector-Powered Semantic, Hybrid, Sparse, and Quantized Vector Search System appeared first on MarkTechPost .",
-    "pubDate": "Thu, 28 May 2026 08:07:09 +0000"
+    "title_en": "Water access is now a risk factor in SpaceX&#8217;s IPO",
+    "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+    "description": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
+    "pubDate": "Mon, 01 Jun 2026 18:19:53 +0000"
   },
   {
-    "source": "MarkTechPost",
+    "source": "TechCrunch",
     "category": "technology",
     "paywalled": false,
-    "title_en": "Sakana AI Proposes DiffusionBlocks: a Block-wise Training Framework That Converts Residual Networks into Independently Trainable Denoising Modules",
-    "url": "https://www.marktechpost.com/2026/05/27/sakana-ai-proposes-diffusionblocks-a-block-wise-training-framework-that-converts-residual-networks-into-independently-trainable-denoising-modules/",
-    "description": "DiffusionBlocks converts residual networks into independently trainable blocks by interpreting layer updates as reverse diffusion denoising steps. The post Sakana AI Proposes DiffusionBlocks: a Block-wise Training Framework That Converts Residual Networks into Independently Trainable Denoising Modules appeared first on MarkTechPost .",
-    "pubDate": "Thu, 28 May 2026 00:51:53 +0000"
+    "title_en": "A new app, The Mall, is building a universal feed for online shopping",
+    "url": "https://techcrunch.com/2026/06/01/a-new-app-the-mall-is-building-a-universal-feed-for-online-shopping/",
+    "description": "The Mall lets shoppers build a personalized feed of brands, track sales and drops, and discover products across thousands of retailers.",
+    "pubDate": "Mon, 01 Jun 2026 17:50:18 +0000"
   },
   {
-    "source": "MarkTechPost",
+    "source": "TechCrunch",
     "category": "technology",
     "paywalled": false,
-    "title_en": "NVIDIA Releases Polar, a Token-Faithful Rollout Framework for GRPO Training Across Codex, Claude Code, and Qwen Code",
-    "url": "https://www.marktechpost.com/2026/05/27/nvidia-releases-polar-a-token-faithful-rollout-framework-for-grpo-training-across-codex-claude-code-and-qwen-code/",
-    "description": "NVIDIA researchers have introduced Polar, a rollout framework that trains language agents using reinforcement learning without modifying their agent harnesses. Polar places a model API proxy between the harness and the inference server, capturing token-level interactions and reconstructing trainer-ready trajectories. Using GRPO on a Qwen3.5-4B base model, Polar improves SWE-Bench Verified pass@1 by 22.6 points under the Codex harness, 4.8 points under Claude Code, and 6.2 points under Pi. The framework is registered as a NeMo Gym environment and released under the ProRL Agent Server repository. The post NVIDIA Releases Polar, a Token-Faithful Rollout Framework for GRPO Training Across Codex, Claude Code, and Qwen Code appeared first on MarkTechPost .",
-    "pubDate": "Wed, 27 May 2026 17:09:38 +0000"
+    "title_en": "Grand Theft Auto V cheat service gets hacked, exposing thousands of gamers",
+    "url": "https://techcrunch.com/2026/06/01/grand-theft-auto-v-cheat-service-gets-hacked-exposing-thousands-of-gamers/",
+    "description": "Hackers stole usernames, hashed passwords, and other data from a service that allowed players to cheat in Grand Theft Auto V.",
+    "pubDate": "Mon, 01 Jun 2026 17:22:46 +0000"
   },
   {
-    "source": "MarkTechPost",
+    "source": "TechCrunch",
     "category": "technology",
     "paywalled": false,
-    "title_en": "Meet EAGLE 3.1: The Speculative Decoding Algorithm That Fixes Attention Drift in LLM Inference",
-    "url": "https://www.marktechpost.com/2026/05/27/meet-eagle-3-1-the-speculative-decoding-algorithm-that-fixes-attention-drift-in-llm-inference/",
-    "description": "The EAGLE team, vLLM, and TorchSpec jointly release EAGLE 3.1 to fix speculative decoding instability in production. The post Meet EAGLE 3.1: The Speculative Decoding Algorithm That Fixes Attention Drift in LLM Inference appeared first on MarkTechPost .",
-    "pubDate": "Wed, 27 May 2026 07:23:10 +0000"
+    "title_en": "Zigging when most are zagging, ex-Meta CTO raises $250M climate fund",
+    "url": "https://techcrunch.com/2026/06/01/zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fund/",
+    "description": "Mike Schroepfer's Gigascale Capital has raised a large fund to back founders building climate-friendly solutions for the world's energy and material shortages.",
+    "pubDate": "Mon, 01 Jun 2026 16:42:22 +0000"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "technology",
+    "paywalled": false,
+    "title_en": "Anthropic files to go public",
+    "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+    "description": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models.",
+    "pubDate": "Mon, 01 Jun 2026 16:36:55 +0000"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "technology",
+    "paywalled": false,
+    "title_en": "SpaceX says it may issue &#8216;significant&#8217; equity in &#8216;future transactions&#8217;",
+    "url": "https://techcrunch.com/2026/06/01/spacex-says-it-may-issue-significant-equity-in-future-transactions/",
+    "description": "The company added a warning to prospective investors that a major dilution could be in the cards after it goes public.",
+    "pubDate": "Mon, 01 Jun 2026 16:09:56 +0000"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "technology",
+    "paywalled": false,
+    "title_en": "This AI weather startup is out-forecasting government agencies",
+    "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+    "description": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current model come from improvements in how the data collected by the balloons is fed into the models.",
+    "pubDate": "Mon, 01 Jun 2026 16:00:00 +0000"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "technology",
+    "paywalled": false,
+    "title_en": "DuckDuckGo makes its &#8216;no-AI&#8217; search engine easier to access as its traffic booms",
+    "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+    "description": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
+    "pubDate": "Mon, 01 Jun 2026 14:49:10 +0000"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "technology",
+    "paywalled": false,
+    "title_en": "Revolut rolls out services to thousands of users in India ahead of broader launch",
+    "url": "https://techcrunch.com/2026/06/01/revolut-rolls-out-services-to-thousands-of-users-in-india-ahead-of-broader-launch/",
+    "description": "The British fintech has built a waitlist of about 450,000 users in India as it prepares for a broader launch.",
+    "pubDate": "Mon, 01 Jun 2026 14:46:08 +0000"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "technology",
+    "paywalled": false,
+    "title_en": "Strava declares war on scrapers ahead of IPO",
+    "url": "https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/",
+    "description": "To stop scraping, the company is increasing security around its website and will now only allow authenticated users to view certain data. Earlier, users were able to see details like public profiles and fitness club listings without logging in. The company is putting all that data behind authentication to protect it from unauthorized AI scraping.",
+    "pubDate": "Mon, 01 Jun 2026 12:00:00 +0000"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "technology",
+    "paywalled": false,
+    "title_en": "Unastella, a South Korean rocket startup that launched from home, raises $24M",
+    "url": "https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/",
+    "description": "The Seoul-based rocket startup is developing its own launch vehicles and engines.",
+    "pubDate": "Mon, 01 Jun 2026 10:00:00 +0000"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "technology",
+    "paywalled": false,
+    "title_en": "This weekend’s two biggest movies were both directed by YouTubers",
+    "url": "https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
+    "description": "The YouTube-to-prestige-horror pipeline is looking very strong.",
+    "pubDate": "Sun, 31 May 2026 18:34:58 +0000"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "technology",
+    "paywalled": false,
+    "title_en": "‘This is fine’ artist KC Green reaches agreement with AI startup Artisan",
+    "url": "https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/",
+    "description": "The startup has apparently taken down the ads using KC Green's \"This is fine\" meme.",
+    "pubDate": "Sun, 31 May 2026 18:28:17 +0000"
   },
   {
     "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
-    "title_en": "Nvidia is investing billions into this emerging technology that could change the AI industry",
-    "url": "https://www.cnbc.com/2026/05/29/nvidia-photonics-investment-ai.html",
-    "description": "Photonics is considered to be a more efficient alternative to the current process of transferring data using electricity, which could be crucial to the AI boom.",
-    "pubDate": "Fri, 29 May 2026 05:00:02 GMT"
+    "title_en": "Jim Cramer says Jensen Huang’s Computex keynote revealed more winners in the AI boom",
+    "url": "https://www.cnbc.com/2026/06/01/jim-cramer-jensen-huang-computex-keynote-revealed-winners-ai-boom.html",
+    "description": "CNBC's Jim Cramer said Nvidia CEO Jensen Huang’s Computex keynote showed the AI infrastructure boom is creating winners well beyond Nvidia.",
+    "pubDate": "Mon, 01 Jun 2026 22:20:04 GMT"
   },
   {
     "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
-    "title_en": "Blue Origin rocket explodes on launchpad during ground test",
-    "url": "https://www.cnbc.com/2026/05/29/blue-origin-new-glenn-rocket-explosion-florida-test-nasa-artemis.html",
-    "description": "Jeff Bezos' rocket maker suffered a setback on Thursday as its New Glenn rocket went up in flames.",
-    "pubDate": "Fri, 29 May 2026 06:40:59 GMT"
+    "title_en": "Alphabet plans to raise $80 billion from stock sales to fund AI buildout",
+    "url": "https://www.cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html",
+    "description": "Alphabet said it plans to sell $80 billion in stock, including through a $10 billion investment by Berkshire Hathaway.",
+    "pubDate": "Mon, 01 Jun 2026 22:27:29 GMT"
   },
   {
     "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
-    "title_en": "LG Electronics' shares surge 24% after showing automotive innovations using Google tech",
-    "url": "https://www.cnbc.com/2026/05/29/lg-electronics-shares-jump-after-debut-of-google-based-car-products.html",
-    "description": "Shares of LG Electronics surged after it unveiled automotive innovations using Google technology.",
-    "pubDate": "Fri, 29 May 2026 02:29:02 GMT"
+    "title_en": "HPE skyrockets 30% on biggest earnings beat since 2018",
+    "url": "https://www.cnbc.com/2026/06/01/hpe-stock-earnings-q2.html",
+    "description": "HPE's blowout second-quarter earnings report was highlighted by a strong Cloud & AI segment that showed soaring server revenue.",
+    "pubDate": "Mon, 01 Jun 2026 21:30:07 GMT"
   },
   {
     "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
-    "title_en": "Samsung's shares surge as much as 6% after company ships next-generation AI memory chip samples",
-    "url": "https://www.cnbc.com/2026/05/29/samsung-hbm4e-chip-samples-ai-memory.html",
-    "description": "Shares of Samsung Electronics surged after the company began shipping HBM4E chip samples to its customers globally.",
-    "pubDate": "Fri, 29 May 2026 02:28:20 GMT"
+    "title_en": "Microsoft and Google are late to AI coding, but 'absolutely critical' they compete for growth",
+    "url": "https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html",
+    "description": "Coding tools are becoming an increasingly big target for Google and Microsoft as they try to catch up to Anthropic and OpenAI.",
+    "pubDate": "Mon, 01 Jun 2026 21:47:01 GMT"
   },
   {
     "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
-    "title_en": "Michael Dell courted Trump early. His company has reaped rewards",
-    "url": "https://www.cnbc.com/2026/05/28/michael-dell-trump-accounts-dod.html",
-    "description": "The dynamic is emblematic of how business is seeking to sow favor with the president in his second term, and has departed from the norms of big business philanthropy.",
-    "pubDate": "Fri, 29 May 2026 01:26:30 GMT"
+    "title_en": "SpaceX sets aside up to 5% of shares in IPO for certain employees and friends",
+    "url": "https://www.cnbc.com/2026/06/01/spacex-sets-aside-up-to-5percent-of-shares-in-ipo-for-employees-and-friends.html",
+    "description": "In an updated IPO prospectus, SpaceX said that up to 5% of stock being offered by the company in the offering will be available in a direct share program.",
+    "pubDate": "Mon, 01 Jun 2026 18:46:19 GMT"
   },
   {
     "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
-    "title_en": "Tesla Robotaxi fleet in Texas less than one-tenth size of Waymo's, filings reveal",
-    "url": "https://www.cnbc.com/2026/05/28/tesla-robotaxi-fleet-texas-one-tenth-size-of-waymos-filings-reveal.html",
-    "description": "Tesla has registered 42 automated vehicles in its driverless Robotaxi service in Texas, putting it far behind Waymo in the state.",
-    "pubDate": "Fri, 29 May 2026 00:03:40 GMT"
+    "title_en": "Florida AG sues OpenAI, seeks to hold CEO Altman personally liable for alleged harms",
+    "url": "https://www.cnbc.com/2026/06/01/florida-ag-open-ai-altman-lawsuit.html",
+    "description": "The complaint said the harms are the result of OpenAI's \"insatiable quest to win the AI arms race and amass large fortunes.\"",
+    "pubDate": "Mon, 01 Jun 2026 17:32:50 GMT"
   },
   {
     "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
-    "title_en": "This is the greatest time ever for semiconductors, says CEO of key equipment supplier",
-    "url": "https://www.cnbc.com/2026/05/28/this-is-the-greatest-time-ever-for-semiconductors-says-ceo-of-key-equipment-supplier.html",
-    "description": "Applied Materials CEO Gary Dickerson said the semiconductor industry is experiencing its strongest period ever.",
-    "pubDate": "Thu, 28 May 2026 23:19:44 GMT"
+    "title_en": "Nvidia's entrance into the PC market gives investors another reason to own the stock",
+    "url": "https://www.cnbc.com/2026/06/01/nvidias-entrance-into-the-pc-market-gives-investors-another-reason-to-own-the-stock.html",
+    "description": "The investment case for Nvidia just got broader and stronger.",
+    "pubDate": "Mon, 01 Jun 2026 16:25:12 GMT"
   },
   {
     "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
-    "title_en": "Jim Cramer says these 3 mistakes are keeping investors out of AI winners",
-    "url": "https://www.cnbc.com/2026/05/28/jim-cramer-says-these-3-mistakes-are-keeping-investors-out-of-ai-winners.html",
-    "description": "CNBC’s Jim Cramer pointed to three reasons investors may be missing some of the market’s biggest AI winners.",
-    "pubDate": "Thu, 28 May 2026 22:28:55 GMT"
-  },
-  {
-    "source": "CNBC Technology",
-    "category": "technology",
-    "paywalled": false,
-    "title_en": "Dell shares jump 39% after server maker reports fastest sales growth since return to public market in 2018",
-    "url": "https://www.cnbc.com/2026/05/28/dell-q1-earnings-report-2027.html",
-    "description": "Dell has gone from being a sleepy legacy tech company to a high-growth AI story, assembling servers packed with graphics processing units.",
-    "pubDate": "Thu, 28 May 2026 23:58:31 GMT"
-  },
-  {
-    "source": "CNBC Technology",
-    "category": "technology",
-    "paywalled": false,
-    "title_en": "Okta jumps 8%, tops first-quarter results on agentic AI demand",
-    "url": "https://www.cnbc.com/2026/05/28/okta-okta-earnings-q1-2027.html",
-    "description": "CEO Todd McKinnon said Okta is \"playing a long game\" on AI and is allocating more resources to agentic tools.",
-    "pubDate": "Thu, 28 May 2026 22:04:22 GMT"
-  },
-  {
-    "source": "CNBC Technology",
-    "category": "technology",
-    "paywalled": false,
-    "title_en": "Anthropic tops OpenAI as most valuable AI startup, nears $1 trillion valuation in latest round",
-    "url": "https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html",
-    "description": "Anthropic is now the most valuable AI company in Silicon Valley after a new $65 billion funding round.",
-    "pubDate": "Thu, 28 May 2026 21:10:06 GMT"
-  },
-  {
-    "source": "CNBC Technology",
-    "category": "technology",
-    "paywalled": false,
-    "title_en": "Mythos was the critical trigger for IBM's open-source cybersecurity push, Krishna says",
-    "url": "https://www.cnbc.com/2026/05/28/ibm-mythos-open-source-cybersecurity.html",
-    "description": "IBM has signed Goldman Sachs, Morgan Stanley, JPMorgan and Bank of America onto its open-source cybersecurity effort called Project Lightwell.",
-    "pubDate": "Thu, 28 May 2026 18:48:39 GMT"
-  },
-  {
-    "source": "CNBC Technology",
-    "category": "technology",
-    "paywalled": false,
-    "title_en": "2 major developments at Meta may have just put a floor in on the struggling stock",
-    "url": "https://www.cnbc.com/2026/05/28/2-major-developments-at-meta-may-have-just-put-a-floor-in-on-the-struggling-stock.html",
-    "description": "Is now the time to step and buy shares of Meta Platforms?",
-    "pubDate": "Thu, 28 May 2026 16:21:55 GMT"
-  },
-  {
-    "source": "CNBC Technology",
-    "category": "technology",
-    "paywalled": false,
-    "title_en": "Jim Cramer says to buy these two stocks — including one with nearly 20% upside",
-    "url": "https://www.cnbc.com/2026/05/28/jim-cramer-says-to-buy-these-two-stocks-including-one-with-nearly-20percent-upside.html",
+    "title_en": "Jim Cramer says this company's spin-off could unlock significant upside",
+    "url": "https://www.cnbc.com/2026/06/01/jim-cramer-says-this-companys-spin-off-could-unlock-significant-upside.html",
     "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-    "pubDate": "Thu, 28 May 2026 15:54:09 GMT"
+    "pubDate": "Mon, 01 Jun 2026 16:06:31 GMT"
   },
   {
     "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
-    "title_en": "Waymo opens Ojai robotaxis to select riders as company aims to lower cost of fleet expansion",
-    "url": "https://www.cnbc.com/2026/05/28/waymo-opens-ojai-robotaxis-to-some-riders-aims-to-lower-cost-of-fleet.html",
-    "description": "Alphabet's Waymo is adding new vehicles to its fleet of public robotaxis and is opening up its roomier Ojai vehicles to some riders.",
-    "pubDate": "Thu, 28 May 2026 15:57:22 GMT"
+    "title_en": "Anthropic confidentially files IPO prospectus with SEC, prepping Wall Street for landmark AI deal",
+    "url": "https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html",
+    "description": "Anthropic said it confidentially filed its IPO prospectus with the SEC, setting up a potentially historic share sale for investors ready to jump into AI.",
+    "pubDate": "Mon, 01 Jun 2026 18:33:49 GMT"
   },
   {
     "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
-    "title_en": "Snowflake surges 36% for best day ever on AI frenzy, fueling software rally",
-    "url": "https://www.cnbc.com/2026/05/28/snowflake-snow-software-stock-rally.html",
-    "description": "The Snowflake rally also lifted shares of ServiceNow, Oracle and Palantir, while Salesforce bucked the trend.",
-    "pubDate": "Thu, 28 May 2026 20:37:19 GMT"
+    "title_en": "Anthropic to offer EU access to its advanced Mythos model",
+    "url": "https://www.cnbc.com/2026/06/01/anthropic-eu-ai-mythos-access-advanced-model.html",
+    "description": "Anthropic is sharing access to its most advanced AI model, Mythos, with the EU after the bloc sought permission over cybersecurity concerns.",
+    "pubDate": "Mon, 01 Jun 2026 18:05:20 GMT"
   },
   {
     "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
-    "title_en": "AI part of another tech layoff as Wix CEO announces 20% workforce cut",
-    "url": "https://www.cnbc.com/2026/05/28/wix-layoffs-ai-exchange-rates.html",
-    "description": "Israel-based web development company Wix is cutting about 20% of its workforce, CEO Avishai Abrahami said.",
-    "pubDate": "Thu, 28 May 2026 15:04:59 GMT"
+    "title_en": "Stargate live updates: OpenAI's Altman says 'people are right to be anxious' about AI",
+    "url": "https://www.cnbc.com/2026/06/01/stargate-project-michigan-live-updates.html",
+    "description": "OpenAI, Oracle and Related Digital discuss the Stargate Michigan buildout, AI infrastructure, jobs and community plans.",
+    "pubDate": "Mon, 01 Jun 2026 22:39:25 GMT"
   },
   {
     "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
-    "title_en": "U.S.-Iran strikes, Snowflake soars, Robinhood's new AI tools and more in Morning Squawk",
-    "url": "https://www.cnbc.com/2026/05/28/5-things-to-know-before-the-market-opens.html",
+    "title_en": "Strategy shares fall after selling $2.5 million in bitcoin, its first sale since 2022",
+    "url": "https://www.cnbc.com/2026/06/01/strategy-shares-fall-after-selling-2point5-million-in-bitcoin-its-first-sale-since-2022.html",
+    "description": "Michael Saylor's Strategy sold bitcoin for the second time ever as geopolitical uncertainty continues to weigh on the cryptocurrency's price.",
+    "pubDate": "Mon, 01 Jun 2026 21:10:20 GMT"
+  },
+  {
+    "source": "CNBC Technology",
+    "category": "technology",
+    "paywalled": false,
+    "title_en": "Berkshire Hathaway deal, startups grapple with AI, the cost of the Iran war and more in Morning Squawk",
+    "url": "https://www.cnbc.com/2026/06/01/5-things-to-know-before-the-market-opens.html",
     "description": "Here are five key things investors need to know to start the trading day.",
-    "pubDate": "Thu, 28 May 2026 12:00:29 GMT"
+    "pubDate": "Mon, 01 Jun 2026 12:06:43 GMT"
   },
   {
     "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
-    "title_en": "Oura is launching its smallest smart ring yet, shrinking wearable design by 40%",
-    "url": "https://www.cnbc.com/2026/05/28/oura-ring-smallest-wearable-health-fitness.html",
-    "description": "Oura, the smart ring maker, is set to launch what it says will be the smallest smart ring available in the growing wearables market.",
-    "pubDate": "Thu, 28 May 2026 16:03:18 GMT"
+    "title_en": "'Disrupted or dead': AI is crushing a generation of startups built before ChatGPT",
+    "url": "https://www.cnbc.com/2026/06/01/ai-startup-valuations-pre-chatgpt.html",
+    "description": "The AI boom that has funneled more than $250 billion into OpenAI and Anthropic has left hundreds of startups built before ChatGPT's arrival in 2022 stranded.",
+    "pubDate": "Mon, 01 Jun 2026 15:37:30 GMT"
   },
   {
     "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
-    "title_en": "Ro Khanna is taking his economic message on the road. Will it lead to the White House?",
-    "url": "https://www.cnbc.com/2026/05/28/ro-khanna-2028-election-china-campaign-rust-belt-democrats-white-house.html",
-    "description": "Rep. Ro Khanna wasn't in the Rust Belt to campaign. But he could be soon.",
-    "pubDate": "Thu, 28 May 2026 10:30:01 GMT"
+    "title_en": "Nvidia, Meta and SLB rank among top companies in adopting AI, new study says",
+    "url": "https://www.cnbc.com/2026/06/01/nvidia-meta-walmart-among-top-companies-adopting-ai.html",
+    "description": "The AI-Driven Enterprise Institute released new research that breaks down the degree to which S&P 500 companies are adopting AI compared with their peers.",
+    "pubDate": "Mon, 01 Jun 2026 17:58:25 GMT"
   },
   {
     "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
-    "title_en": "This AI stock is surging after an ex-OpenAI employee's fund disclosed a stake. Here's why",
-    "url": "https://www.cnbc.com/2026/05/28/nebius-situational-awareness-ai-stock-ex-openai-stake.html",
-    "description": "Dutch cloud provider Nebius rose after an ex-OpenAI employee's fund took a sizeable stake in the firm.",
-    "pubDate": "Thu, 28 May 2026 14:48:45 GMT"
+    "title_en": "AI revolution is ‘50x bigger’ than the dot-com boom: SoftBank's Masayoshi Son to CNBC",
+    "url": "https://www.cnbc.com/2026/06/01/softbank-masayoshi-son-ai-revolution-investment.html",
+    "description": "The AI revolution will be 50 times bigger than the dot-com revolution in the 2000s, SoftBank CEO Masayoshi Son told CNBC Monday.",
+    "pubDate": "Mon, 01 Jun 2026 12:51:42 GMT"
   },
   {
     "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
-    "title_en": "Mistral to explore designing own chips, CEO says, as it ramps up infrastructure build",
-    "url": "https://www.cnbc.com/2026/05/28/mistral-arthur-mensch-design-chips-ai-data-centers.html",
-    "description": "Mistral's semiconductor ambitions underscore the French startup's bid to control more of its infrastructure as it competes with OpenAI and Anthropic.",
-    "pubDate": "Thu, 28 May 2026 08:57:24 GMT"
+    "title_en": "Nvidia picks Unitree for humanoid robot platform as Chinese startup eyes IPO",
+    "url": "https://www.cnbc.com/2026/06/01/nvidia-unitree-humanoid-robotics-system-researchers.html",
+    "description": "The U.S. chipmaker's first publicly available humanoid robotics system will use humanoids from Chinese startup Unitree.",
+    "pubDate": "Mon, 01 Jun 2026 05:45:45 GMT"
   },
   {
     "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
-    "title_en": "LG Energy Solution's shares surge as much as 16% after landing major U.S. battery storage deal",
-    "url": "https://www.cnbc.com/2026/05/28/lg-energy-solution-dte-energy-michigan-battery-storage-deal.html",
-    "description": "The deal comes as the South Korean battery company expands its energy storage systems business in the U.S.",
-    "pubDate": "Thu, 28 May 2026 09:44:41 GMT"
+    "title_en": "Nvidia-backed $5 billion AI company tells CNBC of major London expansion",
+    "url": "https://www.cnbc.com/2026/06/01/nvidia-backed-runway-london-expansion.html",
+    "description": "Runway follows U.S. AI giants including Anthropic and OpenAI in announcing big London growth plans.",
+    "pubDate": "Mon, 01 Jun 2026 06:13:44 GMT"
   },
   {
     "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
-    "title_en": "Former CIA chief Petraeus says drone swarms are the next danger — and growth opportunity",
-    "url": "https://www.cnbc.com/2026/05/28/petraeus-unmanned-systems-autonomous-drones-defense-investment.html",
-    "description": "Unmanned systems will be one of the biggest security threats and structural growth opportunities in defense over the next decade: David Petraeus",
-    "pubDate": "Wed, 27 May 2026 23:09:33 GMT"
+    "title_en": "Nvidia jumps into PCs with new Arm-based chip debuting in laptops from Microsoft, Dell, HP",
+    "url": "https://www.cnbc.com/2026/05/31/nvidias-new-chip-to-power-fresh-line-of-windows-laptops-by-dell-hp.html",
+    "description": "Nvidia CEO Jensen Huang unveiled a long-awaited Arm-based PC chip, breaking into PCs for the first time on new laptops by Dell, Microsoft, HP, ASUS and others.",
+    "pubDate": "Mon, 01 Jun 2026 16:09:43 GMT"
   },
   {
-    "source": "CNBC Technology",
+    "source": "BBC Technology",
     "category": "technology",
     "paywalled": false,
-    "title_en": "Mark Zuckerberg says a Meta cloud computing business 'definitely on the table'",
-    "url": "https://www.cnbc.com/2026/05/27/mark-zuckerberg-says-meta-starting-cloud-business-on-the-table.html",
-    "description": "Meta CEO Mark Zuckerberg said his company could enter the cloud computing market if it overspends on data centers and has excess capacity.",
-    "pubDate": "Thu, 28 May 2026 00:13:28 GMT"
+    "title_en": "How 'confused' AI rollout hurts firms and baffles staff",
+    "url": "https://www.bbc.com/news/articles/c74d1ydv01eo?at_medium=RSS&at_campaign=rss",
+    "description": "Some firms are putting pressure on staff to use AI, but have not thought through their AI rollout.",
+    "pubDate": "Mon, 01 Jun 2026 23:05:11 GMT"
   },
   {
-    "source": "CNBC Technology",
+    "source": "BBC Technology",
     "category": "technology",
     "paywalled": false,
-    "title_en": "Salesforce CEO Marc Benioff outlines his plan to turn around his struggling stock",
-    "url": "https://www.cnbc.com/2026/05/27/salesforce-ceo-marc-benioff-outlines-his-plan-to-turn-around-his-struggling-stock.html",
-    "description": "Salesforce CEO Marc Benioff said the company’s strategy during its stock slump is to continue delivering strong products for customers and buy back shares.",
-    "pubDate": "Wed, 27 May 2026 22:35:39 GMT"
+    "title_en": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
+    "url": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
+    "description": "Florida Attorney General James Uthmeier alleges OpenAI and boss Sam Altman built a 'web of deceit'",
+    "pubDate": "Mon, 01 Jun 2026 18:58:26 GMT"
   },
   {
-    "source": "CNBC Technology",
+    "source": "BBC Technology",
     "category": "technology",
     "paywalled": false,
-    "title_en": "Jim Cramer says ask yourself this question when looking for AI winners to buy",
-    "url": "https://www.cnbc.com/2026/05/27/jim-cramer-says-ask-yourself-this-question-when-looking-for-ai-winners-to-buy.html",
-    "description": "CNBC's Jim Cramer said investors should stop focusing on how much a stock has already rallied and instead think about how much upside may still remain.",
-    "pubDate": "Wed, 27 May 2026 22:17:33 GMT"
+    "title_en": "UK banks blocked from cyber AI tool Mythos get offer from rival OpenAI",
+    "url": "https://www.bbc.com/news/articles/cm2p3j6lvn7o?at_medium=RSS&at_campaign=rss",
+    "description": "Nine banks have been offered access to GPT 5.5 Cyber, as fierce rival Anthropic has blocked previews of its tool.",
+    "pubDate": "Mon, 01 Jun 2026 17:07:20 GMT"
   },
   {
-    "source": "CNBC Technology",
+    "source": "NPR Technology",
     "category": "technology",
     "paywalled": false,
-    "title_en": "Dell wins a $9.7 billion Pentagon software deal after donating to Trump accounts",
-    "url": "https://www.cnbc.com/2026/05/27/dell-dod-pentagon-software-deal-digital-infrastructure-trump.html",
-    "description": "The purchase comes after Dell spent considerable time courting the White House and after President Trump urged purchases of the company's computers.",
-    "pubDate": "Thu, 28 May 2026 15:23:48 GMT"
+    "title_en": "Florida sues OpenAI and Sam Altman over alleged safety lapses",
+    "url": "https://www.npr.org/2026/06/01/nx-s1-5843132/openai-florida-lawsuit-safety-chatgpt",
+    "description": "The lawsuit accuses the company of failing to warn users that ChatGPT could be dangerous and instead marketing it as safe and reliable.",
+    "pubDate": "Mon, 01 Jun 2026 15:52:02 -0400"
   },
   {
-    "source": "CNBC Technology",
+    "source": "NPR Technology",
     "category": "technology",
     "paywalled": false,
-    "title_en": "Amazon's top health exec is stepping down, will be replaced by Amwell co-founder",
-    "url": "https://www.cnbc.com/2026/05/27/amazons-top-health-exec-is-stepping-down-will-be-replaced-by-amwell-co-founder.html",
-    "description": "The company is tapping Dr. Roy Schoenberg, a cofounder of telemedicine provider Amwell, to replace Lindsay.",
-    "pubDate": "Wed, 27 May 2026 22:06:35 GMT"
+    "title_en": "AI giant Anthropic prepares to sell stock to the public; files preliminary IPO paperwork",
+    "url": "https://www.npr.org/2026/06/01/nx-s1-5843199/anthropic-ipo-filing-ai-large",
+    "description": "The Anthropic IPO, and those of other AI-related firms like OpenAI, could be among the biggest in U.S. history.",
+    "pubDate": "Mon, 01 Jun 2026 14:27:28 -0400"
   },
   {
-    "source": "CNBC Technology",
+    "source": "NYT Technology",
     "category": "technology",
     "paywalled": false,
-    "title_en": "Zscaler tanks 31% for worst day ever on 'prudent' guidance, sales shakeup",
-    "url": "https://www.cnbc.com/2026/05/27/zscaler-zs-earnings-q3-2026.html",
-    "description": "Zscaler has shed half its value over the last year.",
-    "pubDate": "Wed, 27 May 2026 20:36:47 GMT"
+    "title_en": "Anthropic Files to Go Public, Setting Stage for Huge I.P.O.",
+    "url": "https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html",
+    "description": "The artificial intelligence company, which is racing OpenAI to the stock market, has seen explosive growth over the last year thanks largely to technology that can automatically write computer code.",
+    "pubDate": "Mon, 01 Jun 2026 18:41:52 +0000"
+  },
+  {
+    "source": "NYT Technology",
+    "category": "technology",
+    "paywalled": false,
+    "title_en": "How Box Created 13 New Types of Jobs Because of A.I.",
+    "url": "https://www.nytimes.com/2026/06/01/technology/box-13-new-types-jobs-ai.html",
+    "description": "Box, a Silicon Valley software maker, expects to have more employees, not fewer, as it hires A.I. architects, A.I. solutions managers and other new A.I.-related positions.",
+    "pubDate": "Mon, 01 Jun 2026 20:07:42 +0000"
+  },
+  {
+    "source": "NYT Technology",
+    "category": "technology",
+    "paywalled": false,
+    "title_en": "Is A.I. Replacing Tech Workers or Providing an Excuse for Job Cuts?",
+    "url": "https://www.nytimes.com/2026/06/01/technology/ai-tech-job-cuts.html",
+    "description": "Tech industry layoffs are accelerating, and executives have been quick to say it’s because their companies are doing more with artificial intelligence, even when there may be more to it.",
+    "pubDate": "Mon, 01 Jun 2026 14:14:27 +0000"
+  },
+  {
+    "source": "NYT Technology",
+    "category": "technology",
+    "paywalled": false,
+    "title_en": "Nvidia Has a Plan to Put Its Chips in Personal Computers",
+    "url": "https://www.nytimes.com/2026/06/01/technology/nvidia-chips-personal-computers.html",
+    "description": "The world’s most valuable company is chasing Intel and Apple as it tries to bring A.I. agents to laptops and desktops.",
+    "pubDate": "Mon, 01 Jun 2026 14:01:28 +0000"
+  },
+  {
+    "source": "NYT Technology",
+    "category": "technology",
+    "paywalled": false,
+    "title_en": "Florida Sues OpenAI Over Chatbot Safety Concerns",
+    "url": "https://www.nytimes.com/2026/06/01/technology/florida-sues-openai-chatgpt-safety.html",
+    "description": "The state became the first to sue the ChatGPT maker over claims that its technology posed a risk to children and that the company had failed to warn the public of dangers.",
+    "pubDate": "Mon, 01 Jun 2026 18:24:37 +0000"
+  },
+  {
+    "source": "NYT Technology",
+    "category": "technology",
+    "paywalled": false,
+    "title_en": "Chinese Military Sought Nvidia Chips for Years, Report Says",
+    "url": "https://www.nytimes.com/2026/06/01/business/economy/china-military-nvidia-chips.html",
+    "description": "An analysis of six years of procurement records suggests that the People’s Liberation Army has openly tried to acquire restricted U.S. technology.",
+    "pubDate": "Mon, 01 Jun 2026 14:06:15 +0000"
+  },
+  {
+    "source": "NYT Technology",
+    "category": "technology",
+    "paywalled": false,
+    "title_en": "China Aims A.I. at Predicting Who Could Pose a Political Risk",
+    "url": "https://www.nytimes.com/2026/06/01/us/politics/china-ai-predicting-dissent.html",
+    "description": "New research examines how a Chinese company struggled to develop its predictive surveillance technology while U.S. restrictions were in place.",
+    "pubDate": "Mon, 01 Jun 2026 14:13:40 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Trump on Iran: &#039;They&#039;re very good negotiators&#039;",
-    "url": "https://thehill.com/homenews/administration/5900668-trump-iran-deal-negotiations/",
-    "description": "President Trump is asserting that the U.S. maintains the upper hand in ongoing talks to end the conflict in Iran because joint U.S.-Israeli strikes have weakened its military, even as he called the Iranians “very good negotiators.” “They’re very good negotiators, they're crafty, but in the end we have all the cards because we've defeated...",
-    "pubDate": "Fri, 29 May 2026 03:10:01 +0000"
+    "title_en": "Sanders says Platner ‘getting through’ marriage problems",
+    "url": "https://thehill.com/homenews/senate/5904925-bernie-sanders-graham-platner/",
+    "description": "Sen. Bernie Sanders (I-Vt.) defended Democratic Maine Senate candidate Graham Platner on Monday and told reporters that he’s not at all rethinking his endorsement of the progressive firebrand after media outlets reported he sent sexual messages to several women while he was married. “He’s prepared to take on the big-money interests. He believes that health...",
+    "pubDate": "Mon, 01 Jun 2026 23:07:44 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Martina McBride pulls out of America 250 concert: &#039;Turned out to be misleading&#039;",
-    "url": "https://thehill.com/blogs/in-the-know/5900628-martina-mcbride-drops-out-america-250/",
-    "description": "Country singer Martina McBride shared on Thursday that she will not be participating in a massive concert on the National Mall next month to celebrate America’s 250th birthday, claiming she was misled about the nature of the event. “I was presented with an opportunity to perform at a nonpartisan event but that turned out...",
-    "pubDate": "Fri, 29 May 2026 02:17:22 +0000"
+    "title_en": "Powell&#039;s warning",
+    "url": "https://thehill.com/newsletters/business-economy/5904912-powells-warning/",
+    "description": "Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story Powell warns of political pressure on Fed Former Federal Reserve Chair Jerome Powell on Sunday warned of growing political pressure on the central bank, saying it “has been undergoing a stress test.” © Greg Nash “If...",
+    "pubDate": "Mon, 01 Jun 2026 22:54:43 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Vance says US, Iran still &#039;going back and forth&#039; on &#039;nuclear stuff&#039;",
-    "url": "https://thehill.com/homenews/administration/5900599-vance-iran-deal-progress/",
-    "description": "Vice President Vance said on Thursday that the U.S. was “very close” to finalizing an agreement with Iran, but a few sticking points remained. The two sides have reached a tentative deal that would extend the already-fragile ceasefire for 60 days, reopen the Strait of Hormuz and launch further talks on the future of Tehran’s...",
-    "pubDate": "Fri, 29 May 2026 01:43:04 +0000"
+    "title_en": "Optimism over US-Iran deal fades; Trump scrambles to secure Lebanon truce",
+    "url": "https://thehill.com/homenews/administration/5904862-trump-iran-deal-fades-lebanon/",
+    "description": "The optimism that President Trump projected last week toward securing a deal with Iran to reopen the Strait of Hormuz has quickly faded, with Tehran on Monday suspending talks in protest of Israel’s punishing strikes on Lebanon. Trump sent varying messages as he scrambled Monday to secure a truce between Israel and Hezbollah, the Iran-linked...",
+    "pubDate": "Mon, 01 Jun 2026 22:34:35 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Americans&#039; savings rate falls to lowest level since 2022",
-    "url": "https://thehill.com/homenews/nexstar_media_wire/5900268-americans-savings-rate-falls-to-lowest-level-since-2022/",
-    "description": "Americans' savings rate fell to 2.6% in April — the first time it's dipped below 3% since June 2022.",
-    "pubDate": "Fri, 29 May 2026 00:29:21 +0000"
+    "title_en": "Mamdani signs order &#039;repealing bedtimes&#039; so kids can watch Knicks in NBA Finals",
+    "url": "https://thehill.com/policy/keeping-score/5904785-spurs-vs-knicks-nba-finals-mamdani/",
+    "description": "New York City Zohran Mamdani (D) on Monday signed an executive order \"repealing bedtimes\" to allow kids in the Big Apple to watch the New York Knicks in the NBA Finals. “Today, I signed an Executive Order temporarily repealing bedtimes in the City of New York so that kids of all ages can watch our...",
+    "pubDate": "Mon, 01 Jun 2026 22:26:24 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
-    "title_en": "White House launches &#039;aliens&#039; site touting immigrant arrests",
-    "url": "https://thehill.com/homenews/administration/5900475-white-house-aliens-site-immigrant-arrests/",
-    "description": "The White House is mocking the idea of the U.S. retaining secrets involving alien encounters by launching a space-themed website that touts the arrests of immigrants unauthorized to live in the U.S. The website, launched on Thursday, opens with a crawl similar to the one seen in the Star Wars franchise, with blocks of text...",
-    "pubDate": "Thu, 28 May 2026 23:37:32 +0000"
+    "title_en": "Trump cuts gas to electric swap from energy rebate program",
+    "url": "https://thehill.com/newsletters/energy-environment/5904856-trump-cuts-gas-to-electric-swap-from-energy-rebate-program/",
+    "description": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story Trump restricts energy rebate program Americans will no longer be able to get cash back for making the switch to electric appliances under a Trump administration change. © AP Photo/Mike Stewart The Energy Department recently issued guidance reinterpreting a program in the 2022 Inflation...",
+    "pubDate": "Mon, 01 Jun 2026 22:15:32 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Collins fires back at Platner&#039;s Iraq war criticism: &#039;He was not drafted&#039;",
-    "url": "https://thehill.com/homenews/campaign/5900413-collins-responds-to-platner/",
-    "description": "Sen. Susan Collins (R-Maine) hit back on Thursday at a comment from the top Democratic challenger in Maine's Senate race about her past support of U.S. military foreign intervention. Graham Platner, a Marine veteran and oyster farmer, told The New York Times earlier this month that the incumbent senator “voted to send me to Iraq.”...",
-    "pubDate": "Thu, 28 May 2026 23:13:18 +0000"
+    "title_en": "Demings &#039;surprised at the timing&#039; of Jill Biden interview about husband&#039;s health",
+    "url": "https://thehill.com/blogs/in-the-know/5904732-demings-surprised-jill-biden-timing/",
+    "description": "Former Rep. Val Demings (D-Fla.) on Sunday said she was \"surprised at the timing\" of former first lady Jill Biden's interview about former President Biden's health almost one and a half years after they left the White House. Demings appeared on NBC News's \"Meet the Press\" and was asked about Jill Biden's recent remarks about...",
+    "pubDate": "Mon, 01 Jun 2026 22:09:41 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
-    "title_en": "5 things to know about tentative US-Iran ceasefire deal",
-    "url": "https://thehill.com/policy/international/5900355-us-iran-ceasefire-extension-deal/",
-    "description": "A tentative agreement has been reached between the U.S. and Iran to extend a fragile ceasefire in the three-month conflict by 60 days, reopen the Strait of Hormuz and establish a framework for broader talks on Tehran’s nuclear program, according to U.S. sources. Negotiators have been working to finalize the terms of the memorandum of...",
-    "pubDate": "Thu, 28 May 2026 23:09:26 +0000"
+    "title_en": "The Memo: Do voters care about the Graham Platner sexting furor?",
+    "url": "https://thehill.com/homenews/campaign/5904793-platner-sexting-furore-maine-senate/",
+    "description": "The compelling but controversial candidacy of Maine Democrat Graham Platner has taken yet another turn with little more than a week left before the Senate primary in the Pine Tree State. Platner is enmeshed in a sexting furor after The Wall Street Journal and The New York Times reported that the candidate has in the...",
+    "pubDate": "Mon, 01 Jun 2026 22:01:03 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Kenya facility for Americans exposed to Ebola to open on Friday",
-    "url": "https://thehill.com/newsletters/health-care/5900447-kenya-ebola-facility-opens-friday/",
-    "description": "Click in for more news from The Hill {beacon} Health Care Health Care &#8202; The Big Story Kenya facility for Americans exposed to Ebola to open on Friday If you are an American health worker overseas, don’t expect to immediately come home if you are exposed to Ebola. © Moses Sawasawa, Associated Press A 50-bed field hospital...",
-    "pubDate": "Thu, 28 May 2026 23:08:45 +0000"
+    "title_en": "Sexting scandal is latest Graham Platner controversy to threaten his chances in Maine",
+    "url": "https://thehill.com/homenews/senate/5904697-sexting-scandal-threatens-platner-senate-bid/",
+    "description": "A sexting scandal is threatening to torpedo the insurgent Senate campaign of Democrat Graham Platner, who may represent the party’s best chance of ousting longtime GOP incumbent Sen. Susan Collins (Maine). Planter reportedly sent sexually explicit messages to multiple women, something his wife, Amy Gertner, discovered in spring 2025. Gertner notified Platner’s campaign last year,...",
+    "pubDate": "Mon, 01 Jun 2026 21:44:48 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Almost half million Russian soldiers killed in Ukraine war, UK spy chief says",
-    "url": "https://thehill.com/newsletters/defense-national-security/5900444-almost-half-million-russian-soldiers-killed-in-ukraine-war-uk-spy-chief-says/",
-    "description": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story Almost half million Russian soldiers killed in Ukraine war, UK spy chief says Nearly half a million Russian soldiers have been killed since the Kremlin's invasion of Ukraine began more than four years ago, the UK's...",
-    "pubDate": "Thu, 28 May 2026 22:59:50 +0000"
+    "title_en": "Trump says &#039;I don&#039;t care&#039; if Iran talks over: &#039;They started to get very boring&#039;",
+    "url": "https://thehill.com/homenews/administration/5904707-trump-iran-peace-talks-israel-hezbollah/",
+    "description": "President Trump on Monday expressed ambivalence about the status of peace talks with Iran, after he said earlier in the day that the Islamic Republic “really wants to make a deal” with his administration. “I don’t care if they’re over, honestly. I really don’t care,” Trump told CNBC’s Eamon Javers. “I couldn’t care less. If...",
+    "pubDate": "Mon, 01 Jun 2026 21:37:21 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Police respond to ‘swatting’ call at Justice Amy Coney Barrett&#039;s home",
-    "url": "https://thehill.com/regulation/court-battles/5900372-justice-barrett-swatting-incident/",
-    "description": "Supreme Court Justice Amy Coney Barrett was the victim of a swatting call Wednesday night at her Virginia home, according to local police. Police radio traffic shows law enforcement received a call for a “suspicious noise of gunshots” at Barrett’s suburban Virginia address. The dispatcher warned responding officers shortly afterward that a “high priority resident of the county” lived there and that the report may not be authentic. When reached for...",
-    "pubDate": "Thu, 28 May 2026 22:31:40 +0000"
+    "title_en": "Trump issues final rule requiring most Medicaid beneficiaries to work",
+    "url": "https://thehill.com/policy/healthcare/5904780-medicaid-beneficiaries-work-requirements/",
+    "description": "A new final rule from the Trump administration will require most Medicaid beneficiaries between the ages of 19 and 64 to prove they work, complete community service, or participate in a work program to win benefits. The rule outlines the broad policies each state is required to have in place when implementing the Medicaid work requirements from the One Big Beautiful Bill Act. The rule establishes the standards states must...",
+    "pubDate": "Mon, 01 Jun 2026 21:35:18 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Los Angeles mayoral race draws attention with viral moments, surprise rise of Bass challenger Pratt",
-    "url": "https://thehill.com/homenews/campaign/5900350-los-angeles-mayoral-race-pratt-bass/",
-    "description": "ATLANTA — The Los Angeles mayoral race has increasingly drawn national attention, transforming from a local contest into one of the more unconventional municipal races in recent memory. Mayor Karen Bass (D) faces a challenge on Tuesday from 15 candidates, including former reality TV star Spencer Pratt, whose candidacy has surged from novelty to serious contender. The nonpartisan primary sends...",
-    "pubDate": "Thu, 28 May 2026 22:22:36 +0000"
+    "title_en": "Trump’s checkup leaves unanswered questions",
+    "url": "https://thehill.com/newsletters/health-care/5904757-trumps-checkup-leaves-unanswered-questions/",
+    "description": "Presented by Planned Parenthood {beacon} Health Care The Big Story Trump’s checkup leaves unanswered questions Questions linger about the state of President Trump’s health after his physician declared he “remains in excellent health, demonstrating strong cardiac, pulmonary, neurological, and overall physical function.” © Kyle Mazza/Anadolu via Getty Images Trump has faced scrutiny over his health...",
+    "pubDate": "Mon, 01 Jun 2026 21:35:00 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
-    "title_en": "US Ebola quarantine facility in Kenya to open Friday",
-    "url": "https://thehill.com/policy/healthcare/5900320-field-hospital-quarantine-kenya/",
-    "description": "Trump administration officials confirmed Thursday that they will not allow any American who was exposed to Ebola back into the country. A 50-bed field hospital quarantine facility for Americans that is being constructed in Kenya will be operational on Friday, according to senior administration officials. If someone tests positive or develops symptoms, they will be sent elsewhere for advanced care. Officials weren’t clear where such patients would be sent but said...",
-    "pubDate": "Thu, 28 May 2026 21:54:19 +0000"
+    "title_en": "Trump wades into GOP fight over prediction markets",
+    "url": "https://thehill.com/newsletters/technology/5904648-trump-gop-fight-prediction-markets/",
+    "description": "{beacon} Technology The Big Story Trump wades into GOP fight over prediction markets President Trump is throwing his weight behind an effort to block state restrictions on prediction markets, as federal and state regulators vie for authority over the platforms in a legal dispute that has divided the GOP. © Jacquelyn Martin, Associated Press The...",
+    "pubDate": "Mon, 01 Jun 2026 21:17:02 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Google employee charged with insider trading on Polymarket",
-    "url": "https://thehill.com/newsletters/technology/5900308-google-employee-charged-with-insider-trading-on-polymarket/",
-    "description": "{beacon} Technology Technology &#8202; The Big Story Google employee charged with insider trading on Polymarket Federal prosecutors on Wednesday charged a Google employee with insider trading on Polymarket, marking the second case related to insider trading on prediction markets. © AP Photo/Matt Rourke, File In a seven-page complaint filed in federal court in the Southern District of...",
-    "pubDate": "Thu, 28 May 2026 21:49:52 +0000"
+    "title_en": "Rights groups allege abuses at largest US immigration detention center",
+    "url": "https://thehill.com/regulation/court-battles/5904627-ice-detention-abuses-lawsuit/",
+    "description": "Human rights groups, including the American Civil Liberties Union (ACLU), on Friday filed a lawsuit accusing Immigration and Customs Enforcement (ICE) of abuse and \"inhumane conditions\" at Camp East Montana in El Paso, Texas, the largest immigration detention center in the U.S. The ACLU, Human Rights Watch, the Texas Civil Rights Project and others filed...",
+    "pubDate": "Mon, 01 Jun 2026 21:16:11 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Oil prices dip amid reports of tentative deal",
-    "url": "https://thehill.com/newsletters/energy-environment/5900301-oil-prices-dip-amid-reports-of-tentative-deal/",
-    "description": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story Oil prices dip as U.S. signals deal with Iran Oil prices dipped Thursday amid reports that the U.S. and Iran had reached a tentative deal to extend their ceasefire and reopen the Strait of Hormuz. © Chinatopix Via AP International benchmark Brent crude was trading at about...",
-    "pubDate": "Thu, 28 May 2026 21:48:40 +0000"
+    "title_en": "Pentagon designates press office as off-limits to journalists",
+    "url": "https://thehill.com/policy/defense/5904725-pentagon-bars-reporters-press-office/",
+    "description": "The Pentagon has barred reporters from entering the building’s press office and designated the facility as a classified space, curtailing access to an area within the department that journalists have had for years. The Defense Department’s (DOD) public affairs office, where reporters were able to approach military public affairs officials without escorts and ask questions,...",
+    "pubDate": "Mon, 01 Jun 2026 21:14:29 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Michigan Democratic candidates square off in Senate debate: Key takeaways",
-    "url": "https://thehill.com/homenews/campaign/5900248-michigan-democratic-senate-debate/",
-    "description": "The Democratic candidates in Michigan’s Senate race squared off in a combative Thursday debate, clashing over foreign and corporate campaign donations. Rep. Haley Stevens (Mich.), state Sen. Mallory McMorrow and Abdul El-Sayed, a former Wayne County Health, Human and Veteran Services director, are running to replace retiring Sen. Gary Peters (D-Mich.) in a competitive Aug....",
-    "pubDate": "Thu, 28 May 2026 21:44:40 +0000"
+    "title_en": "Trump nixes rebates for switching from gas to electric appliances",
+    "url": "https://thehill.com/policy/energy-environment/5904706-trump-gas-appliances-electric-rebate/",
+    "description": "Americans will no longer be able to get cash back for making the switch to electric appliances under a Trump administration change. The Energy Department recently issued guidance reinterpreting a program in the 2022 Inflation Reduction Act that set up a rebate program for people who make high-efficiency electric purchases for their homes. The program...",
+    "pubDate": "Mon, 01 Jun 2026 21:07:58 +0000"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Ebola, hantavirus outbreaks raise questions about Trump&#039;s health agency cuts",
-    "url": "https://www.cbsnews.com/news/ebola-hantavirus-outbreak-trump-health-agency-cuts/",
-    "description": "Infectious disease specialists say the viruses are unlikely to become pandemics, but some are still raising concerns about the federal health response.",
-    "pubDate": "Fri, 29 May 2026 05:00:12 -0400"
+    "title_en": "DOJ says it will stop work on $1.8 billion \"anti-weaponization fund\"",
+    "url": "https://www.cbsnews.com/news/trump-anti-weaponization-fund-dropped-republican-revolt/",
+    "description": "The Justice Department said it will stop work on the $1.8 billion \"anti-weaponization\" fund following a district judge&#039;s decision temporarily blocking the program.",
+    "pubDate": "Mon, 01 Jun 2026 18:42:02 -0400"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Data center frenzy is spurring a jobs boomlet for blue-collar workers",
-    "url": "https://www.cbsnews.com/news/ai-data-center-jobs-construction-technician/",
-    "description": "The rush to build thousands of U.S. data centers is driving demand for some workers, though economists project fewer permanent jobs.",
-    "pubDate": "Fri, 29 May 2026 05:00:11 -0400"
+    "title_en": "Trump says Iran talks continuing after regime threatens \"other fronts\" in war",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strikes-ceasefire-lebanon-israel/",
+    "description": "The Iranians&#039; latest move in the war came in response to what it considers U.S. and Israeli ceasefire violations.",
+    "pubDate": "Mon, 01 Jun 2026 18:32:03 -0400"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Many artists drop out of Freedom 250 concerts shortly after lineup announced",
-    "url": "https://www.cbsnews.com/news/young-mc-morris-day-drop-out-freedom-250-concert-series/",
-    "description": "Many artists announced for the Freedom 250 concert series in Washington, D.C., this summer, say they won&#039;t be performing.",
-    "pubDate": "Fri, 29 May 2026 03:53:10 -0400"
+    "title_en": "Bus driver in Virginia crash that killed 5 facing more charges",
+    "url": "https://www.cbsnews.com/news/bus-driver-virginia-crash-involuntary-manslaughter-5-deaths/",
+    "description": "Jing Sheng Dong, a 48-year-old tour bus driver from Staten Island, New York, faces three additional felony counts in connection with the deaths.",
+    "pubDate": "Mon, 01 Jun 2026 18:09:08 -0400"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Claude Lemieux, 4-time Stanley Cup champion, dies at age 60",
-    "url": "https://www.cbsnews.com/news/claude-lemieux-dies-age-60-hockey-stanley-cup-champion/",
-    "description": "The NHL Alumni Association announced Claude Lemieux&#039;s death. A cause of death was not immediately available, nor was it clear where Lemieux was when he died.",
-    "pubDate": "Fri, 29 May 2026 02:48:08 -0400"
+    "title_en": "Horror films made by YouTubers take top spots at weekend box office",
+    "url": "https://www.cbsnews.com/video/horror-films-youtubers-top-spots-weekend-box-office/",
+    "description": "A pair of small-budget horror films made by YouTube creators, \"Backrooms\" and \"Obsession,\" had a big weekend at the box office. CBS News correspondent Carter Evans reports.",
+    "pubDate": "Mon, 01 Jun 2026 18:07:50 -0400"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Vance says \"still TBD\" if Trump will sign a U.S.-Iran deal",
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-strikes-trump-oman-strait-of-hormuz-deal/",
-    "description": "The vice president says the U.S. and Iran are \"very close\" to a deal, but are \"not there yet.\" Meanwhile, the U.S. struck Iran, which retaliated against a U.S. base.",
-    "pubDate": "Fri, 29 May 2026 02:29:18 -0400"
+    "title_en": "5 Ebola patients in Africa recover, World Health Organization says",
+    "url": "https://www.cbsnews.com/video/5-ebola-patients-africa-recover-world-health-organization/",
+    "description": "Confirmed Ebola cases continue to rise in the Democratic Republic of the Congo, but the World Health Organization confirms five infected patients have recovered. CBS News medical correspondent Dr. Céline Gounder, an infectious disease specialist who spent time in Guinea as an Ebola aid worker during the West African epidemic, joins to discuss.",
+    "pubDate": "Mon, 01 Jun 2026 18:06:53 -0400"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Blue Origin rocket explodes on launch pad in Florida",
-    "url": "https://www.cbsnews.com/news/blue-origin-new-glenn-rocket-explodes-launchpad-florida/",
-    "description": "Blue Origin, which is owned by Amazon founder Jeff Bezos, was gearing up for a June launch to put a batch of Amazon \"Leo\" internet satellites into orbit.",
-    "pubDate": "Fri, 29 May 2026 01:50:00 -0400"
+    "title_en": "Divided appeals court rules transgender military ban is unconstitutional",
+    "url": "https://www.cbsnews.com/news/trump-transgender-military-ban-appeals-court-unconstitutional/",
+    "description": "A divided federal appeals court ruled that the Trump administration&#039;s policy banning transgender individuals from serving in the military is likely unconstitutional.",
+    "pubDate": "Mon, 01 Jun 2026 18:06:28 -0400"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Shrey Parikh of California wins 2026 Scripps National Spelling Bee in spell-off",
-    "url": "https://www.cbsnews.com/news/shrey-parikh-2026-scripps-national-spelling-bee/",
-    "description": "Shrey Parikh of Rancho Cucamonga, California, emerged victorious Thursday in the 98th annual Scripps National Spelling Bee.",
-    "pubDate": "Thu, 28 May 2026 23:59:29 -0400"
+    "title_en": "Did Speaker Johnson&#039;s meeting with Trump lead DOJ to walk away from \"anti-weaponization\" fund?",
+    "url": "https://www.cbsnews.com/video/did-speaker-johnson-meeting-trump-lead-doj-walk-away-anti-weaponization-fund/",
+    "description": "After President Trump met with House Speaker Mike Johnson on Monday, the Justice Department announced it would be stopping work on a $1.776 billion \"anti-weaponization\" fund, citing a judge&#039;s ruling. CBS News senior White House and political correspondent Ed O&#039;Keefe has the latest.",
+    "pubDate": "Mon, 01 Jun 2026 18:06:04 -0400"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Russian drone strikes Romanian apartment building, Romania says",
-    "url": "https://www.cbsnews.com/news/russian-drone-strikes-romanian-apartment-building/",
-    "description": "The Russian drone struck an apartment building, wounding two people, Romanian officials said.",
-    "pubDate": "Thu, 28 May 2026 23:27:37 -0400"
+    "title_en": "Trump says Iran talks continuing at \"rapid pace\" despite Tehran saying negotiations are suspended",
+    "url": "https://www.cbsnews.com/video/trump-iran-talks-continuing-rapid-pace-tehran-saying-negotiations-suspended/",
+    "description": "On social media on Monday, President Trump said peace talks with Iran are continuing at a \"rapid pace.\" However, Iranian state media says negotiations are suspended. CBS News national security analyst Aaron MacLean joins to assess the state of the war.",
+    "pubDate": "Mon, 01 Jun 2026 18:04:12 -0400"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "At least 3 killed and 5 injured in Dallas explosion, officials say",
-    "url": "https://www.cbsnews.com/news/dallas-apartment-fire-9th-street-oak-cliff/",
-    "description": "The number of victims could change as details continue to unfold and crews search through the debris.",
-    "pubDate": "Thu, 28 May 2026 23:19:00 -0400"
+    "title_en": "Graham Platner&#039;s wife on sexting scandal: \"No marriage is perfect\"",
+    "url": "https://www.cbsnews.com/video/graham-platner-wife-sexting-scandal-no-marriage-perfect/",
+    "description": "The wife of Maine&#039;s presumptive Democratic nominee for Senate, Graham Platner, told his campaign in 2025 that he exchanged sexually explicit messages with several other women while they were married. CBS News congressional reporter Taurean Small has more.",
+    "pubDate": "Mon, 01 Jun 2026 18:02:57 -0400"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Video shows Blue Origin rocket exploding on Florida launch pad",
-    "url": "https://www.cbsnews.com/video/video-shows-blue-origin-rocket-exploding-on-florida-launch-pad/",
-    "description": "Blue Origin&#039;s New Glenn rocket exploded on Thursday night in Cape Canaveral, Florida. \"All personnel have been accounted for,\" Blue Origin said.",
-    "pubDate": "Thu, 28 May 2026 22:55:00 -0400"
+    "title_en": "3 killed, officer wounded in Oregon shooting",
+    "url": "https://www.cbsnews.com/news/oregon-shooting-sandy-officer-wounded/",
+    "description": "Police were called to the scene of \"a domestic disturbance and shooting\" in the city of Sandy, outside of Portland, Oregon, on Sunday.",
+    "pubDate": "Mon, 01 Jun 2026 18:01:07 -0400"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "U.S. carries out new strikes against Iranian military site, official says",
-    "url": "https://www.cbsnews.com/news/us-carries-out-new-strikes-against-iranian-military-site-official-says/",
-    "description": "The U.S. military carried out another round of strikes on Iran, a U.S. official confirmed to CBS News on Wednesday, another challenge to a shaky ceasefire between the two countries.",
-    "pubDate": "Thu, 28 May 2026 22:49:15 -0400"
+    "title_en": "United flight makes U-turn over \"four-letter word\" Bluetooth device",
+    "url": "https://www.cbsnews.com/news/united-flight-diverted-bluetooth-device-four-letter-word/",
+    "description": "According to air traffic control audio, security came to inspect the aircraft after someone named their Bluetooth device a \"certain four-letter word.\"",
+    "pubDate": "Mon, 01 Jun 2026 17:14:43 -0400"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "AI-generated movie \"Dreams of Violets\" director on why he used AI instead of actors",
-    "url": "https://www.cbsnews.com/video/ai-generated-movie-dreams-violets-director-producer-why-used-ai-instead-of-actors/",
-    "description": "\"Dreams of Violets\" is the first movie created entirely by artificial intelligence to debut at the Tribeca Film Festival. It&#039;s a fictional drama about five strangers who witnessed something very real, the massacre of Iranian civilians back in January. Ash Koosha, the film&#039;s director and producer, joins \"The Daily Report\" to discuss.",
-    "pubDate": "Thu, 28 May 2026 22:16:32 -0400"
+    "title_en": "United Airlines flight bound for Spain turns around over Bluetooth device name",
+    "url": "https://www.cbsnews.com/video/united-airlines-flight-turns-around-bluetooth-device-name/",
+    "description": "Over the weekend, a United Airlines plane had to turn around mid-flight en route to Spain because of the name of a Bluetooth device. CBS News&#039; Shanelle Kaul has more.",
+    "pubDate": "Mon, 01 Jun 2026 17:05:45 -0400"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "5/28: The Takeout with Major Garrett",
-    "url": "https://www.cbsnews.com/video/052826-the-takeout-with-major-garrett/",
-    "description": "Trump and Iran yet to give final approval on 60-day truce, sources say; Trump administration building Ebola quarantine facility in Kenya.",
-    "pubDate": "Thu, 28 May 2026 22:07:18 -0400"
+    "title_en": "Meteor explodes off coast of Massachusetts, causing loud boom",
+    "url": "https://www.cbsnews.com/news/massachusetts-coast-meteor-explodes-loud-boom/",
+    "description": "NASA said the energy released when the meteor broke up was equivalent to about 300 tons of TNT.",
+    "pubDate": "Mon, 01 Jun 2026 17:02:53 -0400"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Trump did not visit troops wounded in Iran war during medical center visit, sources say",
-    "url": "https://www.cbsnews.com/video/trump-did-not-visit-troops-wounded-iran-during-medical-center-visit-sources-say/",
-    "description": "When President Trump went to Walter Reed Medical Center for his six-month check-up on Tuesday, he also visited with U.S. service members. But he didn&#039;t see any of the 14 troops wounded in the war with Iran, according to a military official familiar with his visit and a family member of one of the soldiers. CBS News&#039; Michael Kaplan reports.",
-    "pubDate": "Thu, 28 May 2026 21:57:00 -0400"
+    "title_en": "Woman from Iran describes fear for loved ones: \"Sense of terror\"",
+    "url": "https://www.cbsnews.com/news/woman-iran-fear-trump-civilization-will-die-threat/",
+    "description": "An Iranian woman who now lives in the U.S. spoke with CBS News as the war with Iran entered its fourth month.",
+    "pubDate": "Mon, 01 Jun 2026 16:54:58 -0400"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "What challenges await James Talarico and Ken Paxton in Texas Senate election",
-    "url": "https://www.cbsnews.com/video/challenges-await-james-talarico-ken-paxton-texas-senate-election/",
-    "description": "Texas State Rep. James Talarico and Texas Attorney General Ken Paxton will face off for a U.S. Senate seat following Paxton&#039;s primary runoff win earlier this week. CBS News political director Fin Gómez has more on the road to the midterms.",
-    "pubDate": "Thu, 28 May 2026 21:49:59 -0400"
+    "title_en": "Charlie Kirk murder suspect&#039;s preliminary hearing will be open to public, judge rules",
+    "url": "https://www.cbsnews.com/video/charlie-kirk-murder-suspect-preliminary-hearing-open-public-judge/",
+    "description": "A preliminary hearing for Tyler Robinson, the man accused of killing conservative activist Charlie Kirk, will be open to the media and the public, a judge ruled Monday. CBS News&#039; Anna Schecter has more.",
+    "pubDate": "Mon, 01 Jun 2026 16:50:50 -0400"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "6 of 9 bodies recovered after chemical tank implosion at paper mill",
-    "url": "https://www.cbsnews.com/news/bodies-recovered-chemical-tank-implosion-washington-paper-mill/",
-    "description": "The tank ruptured Tuesday at Nippon Dynawave Packaging Co. facility in Longview, a city located along the southern Washington border with Oregon, killing 11 people.",
-    "pubDate": "Thu, 28 May 2026 20:05:00 -0400"
+    "title_en": "Early details on Anthropic&#039;s IPO filing",
+    "url": "https://www.cbsnews.com/video/early-details-anthropic-ipo-filing/",
+    "description": "Anthropic, the artificial intelligence company behind the chatbot Claude, has filed to go public, setting up one of the biggest initial public offerings in history. CBS News senior business and technology correspondent Jo Ling Kent has the details.",
+    "pubDate": "Mon, 01 Jun 2026 16:50:04 -0400"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Sisters of San Antonio bless the NBA&#039;s Spurs",
-    "url": "https://www.cbsnews.com/video/sisters-san-antonio-bless-nbas-spurs/",
-    "description": "A lot of San Antonio Spurs fans are praying the team can reach the NBA Finals this season, and some of those prayers are \"professional.\" Tony Dokoupil has the story of four sisters from a San Antonio covenant who are heavily rooting for the Spurs.",
-    "pubDate": "Thu, 28 May 2026 20:03:35 -0400"
+    "title_en": "New drug nearly doubles survival rates in some pancreatic cancer patients, study says",
+    "url": "https://www.cbsnews.com/news/pancreatic-cancer-treatment-daraxonrasib-survival-rate/",
+    "description": "New research shows a medication called daraxonrasib is helping people with advanced pancreatic cancer live longer.",
+    "pubDate": "Mon, 01 Jun 2026 16:35:41 -0400"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Now that divers found 5 gold miners trapped in Laos, how will they get out?",
-    "url": "https://www.cbsnews.com/video/now-divers-5-gold-miners-trapped-laos-how-get-out/",
-    "description": "After a grueling search, a team of elite divers found several gold miners trapped inside a mine in the Southeast Asian nation of Laos. Matt Gutman reports on the hardest part: getting them out.",
-    "pubDate": "Thu, 28 May 2026 20:01:02 -0400"
+    "title_en": "Why the Justice Department is stepping back from its \"anti-weaponization\" fund",
+    "url": "https://www.cbsnews.com/video/why-justice-department-stepping-back-anti-weaponization-fund/",
+    "description": "The Justice Department said Monday it will stop work on a $1.776 billion \"anti-weaponization\" fund. CBS News chief White House correspondent Nancy Cordes reports.",
+    "pubDate": "Mon, 01 Jun 2026 16:27:51 -0400"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Latest on Washington chemical blast",
-    "url": "https://www.cbsnews.com/video/latest-washington-chemical-blast/",
-    "description": "Crews continued to search Thursday for several people missing following a deadly tank incident in Longview, Washington. However, the mission has switched from rescue to recovery, and no additional survivors are expected. Carter Evans reports.",
-    "pubDate": "Thu, 28 May 2026 19:54:07 -0400"
+    "title_en": "About 1 in 4 professionals is stuck in a mid-career stall, study finds",
+    "url": "https://www.cbsnews.com/news/mid-career-stall-white-collar-workers-pay-promotions/",
+    "description": "Workers who go at least five years without a promotion or meaningful raise can miss out on thousands of dollars in earnings, researchers found.",
+    "pubDate": "Mon, 01 Jun 2026 16:16:08 -0400"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Bodycam video shows fire ripping through Oklahoma apartment complex",
-    "url": "https://www.cbsnews.com/video/bodycam-video-shows-fire-ripping-through-oklahoma-apartment-complex/",
-    "description": "Police bodycam footage showed the moment as a huge fire ripped through an Oklahoma apartment complex earlier this month. Mark Strassmann has more.",
-    "pubDate": "Thu, 28 May 2026 19:52:21 -0400"
+    "title_en": "Florida sues OpenAI over alleged harms caused by ChatGPT",
+    "url": "https://www.cbsnews.com/news/florida-openai-chatgpt-lawsuit-sam-altman/",
+    "description": "Florida has become the first state to sue OpenAI and its CEO, Sam Altman.",
+    "pubDate": "Mon, 01 Jun 2026 16:01:00 -0400"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "FBI says it found millions in gold bars, watches, cash in former CIA official&#039;s home",
-    "url": "https://www.cbsnews.com/video/fbi-finds-millions-gold-bars-watches-cash-former-cia-officials-home/",
-    "description": "In a raid earlier this month, the FBI said it found tens of millions of dollars in gold, cash and luxury goods in the home of a former CIA official. Charlie D&#039;Agata has more on the allegations and the loot.",
-    "pubDate": "Thu, 28 May 2026 19:48:00 -0400"
+    "title_en": "Justice Department to stop work on \"anti-weaponization fund\"",
+    "url": "https://www.cbsnews.com/video/justice-department-stop-work-anti-weaponization-fund/",
+    "description": "The Justice Department said Monday it will stop work on its \"anti-weaponization fund\" after a judge&#039;s ruling. CBS News&#039; Ed O&#039;Keefe and Jake Rosen have the latest.",
+    "pubDate": "Mon, 01 Jun 2026 16:00:46 -0400"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "U.S., Iran trade strikes amid peace talks",
-    "url": "https://www.cbsnews.com/video/us-iran-trade-strikes-amid-peace-talks/",
-    "description": "U.S. sources confirmed Thursday that a tentative memorandum of understanding for a 60-day ceasefire and the reopening of the Strait of Hormuz has been reached. It is now awaiting the approval of both President Trump and Iranian leadership. Imtiaz Tyab has more details.",
-    "pubDate": "Thu, 28 May 2026 19:46:21 -0400"
+    "title_en": "About Us",
+    "url": "https://www.cbsnews.com/news/about-us-60-minutes/",
+    "description": "\"60 Minutes\" airs Sundays at 7 p.m. ET/PT",
+    "pubDate": "Mon, 01 Jun 2026 15:59:09 -0400"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Jill Biden says, Joe \"was slowing down, he was getting older\"",
-    "url": "https://www.cbsnews.com/video/jill-biden-says-joe-slowing-down-getting-older/",
-    "description": "The former first lady Jill Biden told \"CBS Sunday Morning\" that former President Biden was indeed \"slowing down,\" as she put it, even as he ran for reelection. Nancy Cordes has more details.",
-    "pubDate": "Thu, 28 May 2026 19:41:34 -0400"
+    "title_en": "$50,000 short-term CD vs. $50,000 money market account: Here&#039;s which will earn more interest now",
+    "url": "https://www.cbsnews.com/news/50000-short-term-cd-vs-50000-money-market-account-which-earn-more-interest/",
+    "description": "A $50,000 deposit will grow differently in a short-term CD than it will in a money market account, especially now.",
+    "pubDate": "Mon, 01 Jun 2026 15:31:39 -0400"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "DOJ probing outside funding E. Jean Carroll received for Trump civil lawsuits",
-    "url": "https://www.cbsnews.com/news/justice-dept-reid-hoffman-e-jean-carroll-trump-lawsuits/",
-    "description": "DOJ is probing a nonprofit run by billionaire Reid Hoffman that funded a portion of E. Jean Carroll&#039;s civil litigation against President Trump, several sources said.",
-    "pubDate": "Thu, 28 May 2026 18:48:00 -0400"
+    "title_en": "Lab worker who vanished last year found dead in New Mexico national forest",
+    "url": "https://www.cbsnews.com/news/lab-worker-melissa-casias-dead-new-mexico-national-forest/",
+    "description": "Melissa Casias was employed at the Los Alamos National Laboratory when she went missing last year, her niece said.",
+    "pubDate": "Mon, 01 Jun 2026 15:13:05 -0400"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Trump administration proposes NDA rule for federal employees",
-    "url": "https://www.cbsnews.com/video/trump-administration-proposes-ndas-federal-employees/",
-    "description": "The Trump administration is proposing a rule for federal employees to sign non-disclosure agreements, or NDAs. CBS News legal contributor Jessica Levinson breaks it down.",
-    "pubDate": "Thu, 28 May 2026 18:45:00 -0400"
+    "title_en": "What to know about the major student loan changes coming July 1",
+    "url": "https://www.cbsnews.com/news/student-loan-changes-july-2026/",
+    "description": "The changes will affect how much students and their parents can borrow, as well as their repayment options.",
+    "pubDate": "Mon, 01 Jun 2026 15:09:23 -0400"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "5/28: CBS Evening News",
-    "url": "https://www.cbsnews.com/video/052826-cbs-evening-news/",
-    "description": "A gas explosion causes a massive fire at a Dallas apartment complex; several people are presumed dead after a Washington state chemical tank failure.",
-    "pubDate": "Thu, 28 May 2026 18:30:00 -0400"
+    "title_en": "Previewing Tuesday&#039;s primaries in six states, including California and Iowa",
+    "url": "https://www.cbsnews.com/video/previewing-tuesdays-primaries-in-six-states-including-california-and-iowa/",
+    "description": "Six states are holding primary elections on Tuesday. CBS News&#039; Fin Gómez breaks down the races.",
+    "pubDate": "Mon, 01 Jun 2026 15:05:12 -0400"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "U.S. setting up Ebola quarantine facility in Kenya, officials say",
-    "url": "https://www.cbsnews.com/news/us-ebola-quarantine-facility-kenya/",
-    "description": "The U.S. is in the process of setting up a quarantine facility in Kenya for Americans who were exposed to Ebola​ or infected with the deadly illness.",
-    "pubDate": "Thu, 28 May 2026 18:11:00 -0400"
+    "title_en": "Key hearing for Charlie Kirk murder suspect will be public, judge rules",
+    "url": "https://www.cbsnews.com/news/charlie-kirk-murder-suspect-tyler-robinson-hearing-public-judge-rules/",
+    "description": "A Utah judge denied a request from the suspect accused of killing Charlie Kirk to restrict access to parts of his July preliminary hearing.",
+    "pubDate": "Mon, 01 Jun 2026 13:07:39 -0400"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "USCG can send divers to Bahamas to search for Lynette Hooker, source says",
-    "url": "https://www.cbsnews.com/news/lynette-hooker-u-s-coast-guard-can-send-divers-to-bahamas-search/",
-    "description": "Lynette Hooker​ was reported missing by her husband in early April after the couple allegedly went for a nighttime ride aboard a dinghy.",
-    "pubDate": "Thu, 28 May 2026 17:20:00 -0400"
+    "title_en": "U.S. political commentators say U.K. barred them \"for criticizing Israel\"",
+    "url": "https://www.cbsnews.com/news/cenk-uygur-hasan-uk-denies-entry-israel-gaza-antisemitism/",
+    "description": "Left-wing streamers Cenk Uygur and Hasan Piker say Britain&#039;s government has denied them entry over their criticism of Israel.",
+    "pubDate": "Mon, 01 Jun 2026 12:12:00 -0400"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
-    "title_en": "Woman missing right hand speaks out about viral traffic stop video",
-    "url": "https://www.cbsnews.com/news/kathleen-thomas-texting-while-driving-right-hand-police-bodycam/",
-    "description": "Kathleen Thomas, who is missing her right hand, thought it was a misunderstanding when a deputy pulled her over for allegedly holding her phone with that hand while driving. Bodycam video shows the viral interaction.",
-    "pubDate": "Thu, 28 May 2026 17:16:00 -0400"
+    "title_en": "Can hackers pull your fingerprints from photos online? Experts explain.",
+    "url": "https://www.cbsnews.com/news/hackers-fingerprints-selfie-photo-ai-experts/",
+    "description": "Claims have circulated on social media that fingerprints can be pulled from photos featuring peace signs, but experts say the risk to the average person is low.",
+    "pubDate": "Mon, 01 Jun 2026 08:46:00 -0400"
   },
   {
-    "source": "CBS News",
+    "source": "BBC World",
     "category": "politics",
     "paywalled": false,
-    "title_en": "2 dead, 9 workers \"unrecovered\" after Washington chemical tank implosion",
-    "url": "https://www.cbsnews.com/news/washington-paper-mill-chemical-tank-explosion-deaths/",
-    "description": "The damaged tank at Nippon Dynawave Packaging Co. held approximately 900,000 gallons of white liquor, a chemical used in paper processing, authorities said.",
-    "pubDate": "Wed, 27 May 2026 21:18:00 -0400"
+    "title_en": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
+    "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+    "description": "Israel's PM Netanyahu warns that strikes on Beirut will go ahead if Hezbollah does not abide by the US proposal.",
+    "pubDate": "Mon, 01 Jun 2026 21:27:01 GMT"
   },
   {
-    "source": "WSJ Markets",
-    "category": "economy",
-    "paywalled": true,
-    "title_en": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-    "url": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
-    "description": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
-    "pubDate": "Mon, 27 Jan 2025 14:26:00 -0500"
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Bowen: Trump needs this war to end but Iran is not backing down",
+    "url": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
+    "description": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor.",
+    "pubDate": "Mon, 01 Jun 2026 21:50:52 GMT"
   },
   {
-    "source": "WSJ Markets",
-    "category": "economy",
-    "paywalled": true,
-    "title_en": "Comex Gold, Silver Settle Lower",
-    "url": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
-    "description": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
-    "pubDate": "Mon, 27 Jan 2025 14:01:00 -0500"
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Three Ebola vaccines in development amid growing outbreak fears",
+    "url": "https://www.bbc.com/news/articles/cn8pw93929wo?at_medium=RSS&at_campaign=rss",
+    "description": "IAVI, Moderna and the University of Oxford are all working on new vaccines.",
+    "pubDate": "Mon, 01 Jun 2026 14:30:39 GMT"
   },
   {
-    "source": "WSJ Markets",
-    "category": "economy",
-    "paywalled": true,
-    "title_en": "DeepSeek Won't Sink U.S. AI Titans",
-    "url": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
-    "description": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
-    "pubDate": "Mon, 27 Jan 2025 13:12:00 -0500"
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Hungarian PM threatens to oust Orbán-era president",
+    "url": "https://www.bbc.com/news/articles/c3w2vdd6jj3o?at_medium=RSS&at_campaign=rss",
+    "description": "Hungary's president has refused Prime Minister Péter Magyar's demands to step aside, setting up a constitutional clash.",
+    "pubDate": "Mon, 01 Jun 2026 16:54:28 GMT"
   },
   {
-    "source": "WSJ Markets",
-    "category": "economy",
-    "paywalled": true,
-    "title_en": "Financial Services Roundup: Market Talk",
-    "url": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
-    "description": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
-    "pubDate": "Mon, 27 Jan 2025 12:27:00 -0500"
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Williams, 44, to return to action in Queen's doubles",
+    "url": "https://www.bbc.com/sport/tennis/articles/cx21k06ddvyo?at_medium=RSS&at_campaign=rss",
+    "description": "Serena Williams will return to competitive tennis for the first time in nearly four years when she plays in the women's doubles at Queen's.",
+    "pubDate": "Mon, 01 Jun 2026 18:39:48 GMT"
   },
   {
-    "source": "WSJ Markets",
-    "category": "economy",
-    "paywalled": true,
-    "title_en": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
-    "url": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
-    "description": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on Colombia.",
-    "pubDate": "Mon, 27 Jan 2025 12:20:00 -0500"
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Italians bemused by Milan bull mosaic restoration",
+    "url": "https://www.bbc.com/news/articles/ckgp72v8q0wo?at_medium=RSS&at_campaign=rss",
+    "description": "Italians wondered what had happened to the animal's \"lucky-charm\" testicles.",
+    "pubDate": "Mon, 01 Jun 2026 18:18:06 GMT"
   },
   {
-    "source": "WSJ Markets",
-    "category": "economy",
-    "paywalled": true,
-    "title_en": "Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens",
-    "url": "https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main",
-    "description": "The Yen and Swiss Franc were stronger against the dollar as investors sought safe havens after Chinese start-up DeepSeek’s new AI model hit U.S. tech stocks.",
-    "pubDate": "Mon, 27 Jan 2025 09:55:00 -0500"
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "AI giant Anthropic says it plans to list on US stock market",
+    "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
+    "description": "The AI company behind Claude is set to offer the public shares of stock sometime this year.",
+    "pubDate": "Mon, 01 Jun 2026 18:50:13 GMT"
   },
   {
-    "source": "WSJ Markets",
-    "category": "economy",
-    "paywalled": true,
-    "title_en": "Natural Gas Falls on Shifting Weather Forecasts",
-    "url": "https://www.wsj.com/articles/u-s-natural-gas-futures-fall-on-shifting-weather-forecasts-1ef3e457?mod=rss_markets_main",
-    "description": "U.S. natural gas futures fell after weekend updates took some of the chill out of early February weather forecasts.",
-    "pubDate": "Mon, 27 Jan 2025 09:05:00 -0500"
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "US political commentators denied entry to UK by Home Office",
+    "url": "https://www.bbc.com/news/articles/cwy2rxyvvl1o?at_medium=RSS&at_campaign=rss",
+    "description": "The US citizens and left-wing content creators with huge online followings were due to speak at the SXSW London festival and Oxford this week.",
+    "pubDate": "Mon, 01 Jun 2026 15:40:58 GMT"
   },
   {
-    "source": "WSJ Markets",
-    "category": "economy",
-    "paywalled": true,
-    "title_en": "Building-Products Distributor QXO Launches Hostile Bid for Beacon",
-    "url": "https://www.wsj.com/articles/building-products-distributor-qxo-launching-hostile-bid-for-beacon-de024410?mod=rss_markets_main",
-    "description": "QXO is taking its offer directly to shareholders after being rebuffed on several occasions.",
-    "pubDate": "Mon, 27 Jan 2025 08:28:00 -0500"
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "France seized sanctioned Russian oil tanker with UK help, Macron says",
+    "url": "https://www.bbc.com/news/articles/cn8pwgej1gxo?at_medium=RSS&at_campaign=rss",
+    "description": "A British helicopter provided support during the operation on Sunday, the UK ministry of defence says.",
+    "pubDate": "Mon, 01 Jun 2026 11:53:26 GMT"
   },
   {
-    "source": "WSJ Markets",
-    "category": "economy",
-    "paywalled": true,
-    "title_en": "Natural-Gas Firm Diversified Energy Strikes Deal for Permian Basin Player",
-    "url": "https://www.wsj.com/articles/natural-gas-firm-diversified-energy-nears-deal-for-permian-basin-player-4c1c5ff5?mod=rss_markets_main",
-    "description": "Maverick Natural Resources has operations in Texas and Oklahoma.",
-    "pubDate": "Mon, 27 Jan 2025 06:57:00 -0500"
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Two possible Ebola cases in Brazil ruled out as patients test negative",
+    "url": "https://www.bbc.com/news/articles/c99lzgxzx2do?at_medium=RSS&at_campaign=rss",
+    "description": "The two patients had recently returned from the DR Congo and Uganda respectively.",
+    "pubDate": "Mon, 01 Jun 2026 21:40:19 GMT"
   },
   {
-    "source": "WSJ Markets",
-    "category": "economy",
-    "paywalled": true,
-    "title_en": "What's New This Tax Season That Can Save You Money",
-    "url": "https://www.wsj.com/articles/tax-season-2024-irs-filing-dates-explained-628a8b37?mod=rss_markets_main",
-    "description": "There are some new wrinkles, especially for those who sell things online or bought an EV.",
-    "pubDate": "Mon, 27 Jan 2025 05:30:00 -0500"
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Huge blast kills dozens in rebel-held village in Myanmar",
+    "url": "https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&at_campaign=rss",
+    "description": "Insurgents say it was caused by explosives being used for mining close to the Chinese border.",
+    "pubDate": "Mon, 01 Jun 2026 06:23:59 GMT"
   },
   {
-    "source": "WSJ Markets",
-    "category": "economy",
-    "paywalled": true,
-    "title_en": "Chinese Investors With Few Options Turn to Dividends",
-    "url": "https://www.wsj.com/articles/chinese-investors-with-few-options-turn-to-dividends-ad31dcc4?mod=rss_markets_main",
-    "description": "Companies with good payouts are now the hottest bet in China markets.",
-    "pubDate": "Mon, 27 Jan 2025 05:30:00 -0500"
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Voting suspended in parts of Ethiopia over security concerns",
+    "url": "https://www.bbc.com/news/articles/cn0pngz2rego?at_medium=RSS&at_campaign=rss",
+    "description": "Prime Minister Abiy Ahmed's party is expected to dominate the election as conflicts overshadow the vote.",
+    "pubDate": "Mon, 01 Jun 2026 14:35:36 GMT"
   },
   {
-    "source": "WSJ Markets",
-    "category": "economy",
-    "paywalled": true,
-    "title_en": "U.S. Treasury Yields Fall But Direction for Long-End Yields Still Seen Upward",
-    "url": "https://www.wsj.com/articles/jgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d?mod=rss_markets_main",
-    "description": "The 10-year U.S. Treasury yield fell and ING said the the long end of the Treasury curve will continue trading at higher yields even as Trump hasn’t delivered anything to shock markets so far.",
-    "pubDate": "Mon, 27 Jan 2025 05:02:00 -0500"
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Poland's controversial 'Highway to Hel' 666 bus revived",
+    "url": "https://www.bbc.com/news/articles/c1d2ld91635o?at_medium=RSS&at_campaign=rss",
+    "description": "Poland's seaside resort called Hel is getting its 666 bus service back, despite earlier opposition from Christian groups.",
+    "pubDate": "Mon, 01 Jun 2026 03:19:57 GMT"
   },
   {
-    "source": "WSJ Markets",
-    "category": "economy",
-    "paywalled": true,
-    "title_en": "Russia's Crude Exports Fairly Stable Despite U.S. Sanctions, Goldman Says",
-    "url": "https://www.wsj.com/articles/oil-futures-fall-after-trump-calls-for-tariffs-on-colombia-5b2a178c?mod=rss_markets_main",
-    "description": "Oil edged lower in early trade as Goldman Sachs said the latest round of U.S. sanctions against Russia haven’t had a significant impact on the country’s oil exports.",
-    "pubDate": "Mon, 27 Jan 2025 04:46:00 -0500"
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Nigeria police warn against reprisal attacks against South Africans",
+    "url": "https://www.bbc.com/news/articles/ce8prypdpz6o?at_medium=RSS&at_campaign=rss",
+    "description": "Tensions have been rising in South Africa in recent weeks following several anti-migrant protests.",
+    "pubDate": "Mon, 01 Jun 2026 10:02:49 GMT"
   },
   {
-    "source": "WSJ Markets",
-    "category": "economy",
-    "paywalled": true,
-    "title_en": "The Extra Reward for Owning Stocks Over Bonds Has Disappeared",
-    "url": "https://www.wsj.com/articles/the-extra-reward-for-owning-stocks-over-bonds-has-disappeared-c3f9c223?mod=rss_markets_main",
-    "description": "There is little sign of crimped demand for equities among individual investors, who remain bullish after two years of blockbuster gains.",
-    "pubDate": "Mon, 27 Jan 2025 01:05:00 -0500"
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Litterbugs now face on-the-spot fines in Tokyo's tourist hotspot",
+    "url": "https://www.bbc.com/news/articles/cr7py513njmo?at_medium=RSS&at_campaign=rss",
+    "description": "Dozens of officials will patrol world-famous Shibuya as Japan responds to the impacts of overtourism.",
+    "pubDate": "Mon, 01 Jun 2026 06:52:40 GMT"
   },
   {
-    "source": "WSJ Markets",
-    "category": "economy",
-    "paywalled": true,
-    "title_en": "Heard on the Street's Stock-Picking Series",
-    "url": "https://www.wsj.com/articles/heard-on-the-streets-stock-picking-series-98f04640?mod=rss_markets_main",
-    "description": "Check out the stocks Heard on the Street writers favor in their eighth annual stock-picking contest.",
-    "pubDate": "Sun, 26 Jan 2025 22:33:00 -0500"
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
+    "url": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss",
+    "description": "Left-wing senator Iván Cepeda will face Trump admirer Abelardo de la Espriella at the final ballot on 21 June.",
+    "pubDate": "Mon, 01 Jun 2026 01:53:03 GMT"
   },
   {
-    "source": "WSJ Markets",
-    "category": "economy",
-    "paywalled": true,
-    "title_en": "What Will It Take for Home Buyers to Start Asking for a Disaster Discount?",
-    "url": "https://www.wsj.com/articles/what-will-it-take-for-home-buyers-to-start-asking-for-a-disaster-discount-c662cb96?mod=rss_markets_main",
-    "description": "The real costs of owning a house in neighborhoods that are vulnerable to flooding and wildfires are becoming clearer.",
-    "pubDate": "Sun, 26 Jan 2025 06:00:00 -0500"
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "South Africa made to look like fools over World Cup visa issues, says minister",
+    "url": "https://www.bbc.com/news/articles/c86dxvql3qno?at_medium=RSS&at_campaign=rss",
+    "description": "After a day of uncertainty, the government confirms the team will depart for Mexico on Monday.",
+    "pubDate": "Sun, 31 May 2026 17:27:18 GMT"
   },
   {
-    "source": "WSJ Markets",
-    "category": "economy",
-    "paywalled": true,
-    "title_en": "Now Wanted in Silicon Valley: Ho-Hum Businesses With Thin Profit Margins",
-    "url": "https://www.wsj.com/articles/now-wanted-in-silicon-valley-ho-hum-businesses-with-thin-profit-margins-ab07de5f?mod=rss_markets_main",
-    "description": "Venture-capital firms are bringing AI and dealmaking to accounting, property management and other unglamorous fields.",
-    "pubDate": "Sun, 26 Jan 2025 05:30:00 -0500"
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Hundreds arrested and dozens of police injured after Champions League riots in France",
+    "url": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
+    "description": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
+    "pubDate": "Sun, 31 May 2026 18:13:39 GMT"
   },
   {
-    "source": "WSJ Markets",
-    "category": "economy",
-    "paywalled": true,
-    "title_en": "In China, a Cat-and-Mouse Game to Rein In Crypto",
-    "url": "https://www.wsj.com/articles/china-cryptocurrency-market-trading-restrictions-3e050cd9?mod=rss_markets_main",
-    "description": "Recent court cases reveal how middlemen are facilitating a booming trade, eluding a crackdown.",
-    "pubDate": "Sun, 26 Jan 2025 00:01:00 -0500"
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Dead whale towed ashore in Denmark ahead of autopsy",
+    "url": "https://www.bbc.com/news/articles/cpwpl9vn0yqo?at_medium=RSS&at_campaign=rss",
+    "description": "\"Timmy\" was found dead off the coast of Anholt despite multiple attempts to rescue it.",
+    "pubDate": "Sun, 31 May 2026 19:05:42 GMT"
   },
   {
-    "source": "WSJ Markets",
-    "category": "economy",
-    "paywalled": true,
-    "title_en": "One House, Three Owners: The Ballooning Cost of the American Dream",
-    "url": "https://www.wsj.com/articles/rising-house-mortgage-costs-north-carolina-home-468a46e5?mod=rss_markets_main",
-    "description": "The story of home affordability in the U.S. told from a single front porch.",
-    "pubDate": "Sat, 25 Jan 2025 21:00:00 -0500"
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Nicaraguan indigenous leader dies after three years in prison",
+    "url": "https://www.bbc.com/news/articles/cvgzyyrzj1jo?at_medium=RSS&at_campaign=rss",
+    "description": "Rights groups condemn the death of Brooklyn Rivera, 73, following his long arbitrary detention by the governing regime.",
+    "pubDate": "Sun, 31 May 2026 21:52:38 GMT"
   },
   {
-    "source": "WSJ Markets",
-    "category": "economy",
-    "paywalled": true,
-    "title_en": "Trump Adds Fuel to Claims That Big Banks Discriminate Against Conservatives",
-    "url": "https://www.wsj.com/articles/trump-big-bank-conservative-bias-accusations-168abb27?mod=rss_markets_main",
-    "description": "The president has told Bank of America and JPMorgan Chase to stop cutting conservatives off from doing business.",
-    "pubDate": "Sat, 25 Jan 2025 05:30:00 -0500"
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Laos cave survivors help with plan to find last two missing men",
+    "url": "https://www.bbc.com/news/articles/c8094jdpzv3o?at_medium=RSS&at_campaign=rss",
+    "description": "So far, five men have been freed from the narrow, flooded cave but efforts are ongoing to locate two more.",
+    "pubDate": "Sun, 31 May 2026 15:52:42 GMT"
+  },
+  {
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Trump seeking edits to US-Iran deal, US media report",
+    "url": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss",
+    "description": "The requested changes are related to the Strait of Hormuz and the removal of highly enriched uranium, according to US media.",
+    "pubDate": "Sun, 31 May 2026 22:54:20 GMT"
+  },
+  {
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Brazil monitors two patients for possible Ebola infection",
+    "url": "https://www.bbc.com/news/articles/cy72z48zd7po?at_medium=RSS&at_campaign=rss",
+    "description": "If confirmed, they would be the first infection cases outside Africa, since the outbreak began in DR Congo.",
+    "pubDate": "Sun, 31 May 2026 19:07:47 GMT"
+  },
+  {
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "'Cancel it', Trump says after artists drop out of US Freedom 250 festival",
+    "url": "https://www.bbc.com/news/articles/cwy2z23122zo?at_medium=RSS&at_campaign=rss",
+    "description": "Trump suggests holding a \"Make America Great Again\" rally instead after most headliners drop out of White-House-linked event.",
+    "pubDate": "Sun, 31 May 2026 17:40:58 GMT"
+  },
+  {
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Iran attacks damage 20 US military sites since start of war, satellite images show",
+    "url": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss",
+    "description": "Analysts told BBC Verify that Tehran's strikes were more extensive than publicly acknowledged.",
+    "pubDate": "Mon, 01 Jun 2026 05:33:18 GMT"
+  },
+  {
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "A year of grief after Air India crash: What remains when a plane falls from the sky",
+    "url": "https://www.bbc.com/news/articles/ce9pp53ky42o?at_medium=RSS&at_campaign=rss",
+    "description": "A mother still speaks about her son who died in the crash in the present tense and a brother waits for answers.",
+    "pubDate": "Mon, 01 Jun 2026 00:24:47 GMT"
+  },
+  {
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "The drivers risking death on Ukraine's most dangerous bus routes",
+    "url": "https://www.bbc.com/news/articles/c87q2eq8r1yo?at_medium=RSS&at_campaign=rss",
+    "description": "Russian drones are targeting public buses in Kherson, killing three transport workers so far this year.",
+    "pubDate": "Sun, 31 May 2026 23:40:57 GMT"
+  },
+  {
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Grammy-winning director explores his Nigerian grandfather's role in the Biafran war",
+    "url": "https://www.bbc.com/news/articles/c8r826465dko?at_medium=RSS&at_campaign=rss",
+    "description": "Filmmaker Meji Alabi directs a landmark BBC Africa Eye documentary about Nigeria's civil war.",
+    "pubDate": "Mon, 01 Jun 2026 01:32:07 GMT"
+  },
+  {
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Secret tunnels and unregistered workers: China's coal mine disaster is a reminder of darker days",
+    "url": "https://www.bbc.com/news/articles/cpwpeg57777o?at_medium=RSS&at_campaign=rss",
+    "description": "China's worst coal mining disaster in 15 years comes amid an ambitious pivot towards green energy.",
+    "pubDate": "Sun, 31 May 2026 23:32:04 GMT"
+  },
+  {
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Caribbean hot sauce producers warn of shortages and higher prices",
+    "url": "https://www.bbc.com/news/articles/cq8p1jy3vxlo?at_medium=RSS&at_campaign=rss",
+    "description": "Manufacturers in Jamaica say the key chilli peppers they need are in limited supply.",
+    "pubDate": "Sun, 31 May 2026 23:19:32 GMT"
+  },
+  {
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Watch: Fans break glass door trying to see TV star",
+    "url": "https://www.bbc.com/news/videos/cr7pye93n1ro?at_medium=RSS&at_campaign=rss",
+    "description": "Huge crowds formed outside a shopping centre in China to see Pursuit of Jade's Zhang Linghe.",
+    "pubDate": "Mon, 01 Jun 2026 11:34:19 GMT"
+  },
+  {
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Marilyn Monroe 'lookalikes' gather to celebrate her 100th birthday",
+    "url": "https://www.bbc.com/news/videos/cj4p7vwxr05o?at_medium=RSS&at_campaign=rss",
+    "description": "Fans set a new world record for the largest gathering of people dressed as Marilyn Monroe to celebrate what would have been the legendary actress’ centenary.",
+    "pubDate": "Mon, 01 Jun 2026 06:28:52 GMT"
+  },
+  {
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Between celebration and confrontation: Paris after PSG victory",
+    "url": "https://www.bbc.com/news/videos/czr2zzyrgdxo?at_medium=RSS&at_campaign=rss",
+    "description": "Nearly 800 people were arrested after clashes with police following the Champions League final.",
+    "pubDate": "Sun, 31 May 2026 20:38:19 GMT"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Trump's 'anti-weaponization' fund hits setback amid political pressure from Republicans",
+    "url": "https://www.pbs.org/newshour/show/trumps-anti-weaponization-fund-hits-setback-amid-political-pressure-from-republicans",
+    "description": "President Trump's $1.8 billion \"anti-weaponization\" fund established by the Department of Justice has hit a setback. The DOJ said Monday they will abide by a court ruling temporarily pausing payouts that could have gone to Jan. 6 defendants and other Trump supporters. This comes amid political pressure from Republicans who are upset about the fund. Liz Landers joins Geoff Bennett to discuss.",
+    "pubDate": "Mon, 01 Jun 2026 18:55:18 -0400"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "New report shows misinformation is a threat to election security",
+    "url": "https://www.pbs.org/newshour/show/new-report-shows-misinformation-a-major-threat-to-election-security",
+    "description": "New rules proposed by the U.S. Postal Service would make states give data on voters who receive mail-in ballots for federal elections. This after President Trump tightened mail-in voting rules with a stated goal of making more secure elections. But a new report says election security threats are more likely something else. Arron Rose of Check Point Software Technologies joins Liz Lander for more.",
+    "pubDate": "Mon, 01 Jun 2026 18:40:09 -0400"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Trump faces a new inflation warning from the bond market, adding to his midterm challenges",
+    "url": "https://www.pbs.org/newshour/politics/trump-faces-a-new-inflation-warning-from-the-bond-market-adding-to-his-midterm-challenges",
+    "description": "The world is getting more uptight about lending money to President Donald Trump's government.",
+    "pubDate": "Mon, 01 Jun 2026 18:36:22 -0400"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Tamara Keith and Jasmine Wright on the limits of Trump's power",
+    "url": "https://www.pbs.org/newshour/show/tamara-keith-and-jasmine-wright-on-the-limits-of-trumps-power",
+    "description": "NPR's Tamara Keith and Jasmine Wright of NOTUS join Geoff Bennett to discuss the latest political news, including President Trump's control of congressional Republicans, partisan politics and Freedom 250.",
+    "pubDate": "Mon, 01 Jun 2026 18:35:51 -0400"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "AP report: Trump is reconsidering $1.8 billion 'anti-weaponization' fund as DOJ temporarily pauses it",
+    "url": "https://www.pbs.org/newshour/politics/ap-report-trump-is-reconsidering-1-8-billion-anti-weaponization-fund-as-doj-temporarily-pauses-it",
+    "description": "The potential retreat is a recognition of the legal setbacks the fund has encountered since it was announced two weeks ago.",
+    "pubDate": "Mon, 01 Jun 2026 18:24:09 -0400"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "WATCH: Thune says Trump administration dropping anti-weaponization fund is 'best way to handle'",
+    "url": "https://www.pbs.org/newshour/politics/watch-thune-says-trump-administration-dropping-anti-weaponization-fund-is-best-way-to-handle",
+    "description": "Senate Majority Leader John Thune indicated Monday he was hopeful the White House would move to drop the $1.776 billion settlement fund designed to compensate Trump's allies.",
+    "pubDate": "Mon, 01 Jun 2026 17:21:26 -0400"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "WATCH LIVE: South Carolina Republican gubernatorial candidates meet for debate",
+    "url": "https://www.pbs.org/newshour/politics/watch-live-south-carolina-republican-gubernatorial-candidates-meet-for-debate",
+    "description": "South Carolina's Republican candidates for governor will take part in a debate hosted by public media station SCETV Monday.",
+    "pubDate": "Mon, 01 Jun 2026 17:12:15 -0400"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Trump administration says it will comply with court order that temporarily paused $1.8 billion compensation fund",
+    "url": "https://www.pbs.org/newshour/politics/trump-administration-says-it-will-comply-with-court-order-that-temporarily-paused-1-8-billion-compensation-fund",
+    "description": "The announcement from the Justice Department comes in response to a Friday court ruling by a federal judge in Virginia who ordered plans for the fund halted pending additional arguments later this month.",
+    "pubDate": "Mon, 01 Jun 2026 16:34:14 -0400"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Candidates for California governor and LA mayor make their final pitches to voters",
+    "url": "https://www.pbs.org/newshour/politics/candidates-for-california-governor-and-la-mayor-make-their-final-pitches-to-voters",
+    "description": "The many candidates running for California governor rushed to deliver their closing arguments to voters in the race's final days before the June 2 primary.",
+    "pubDate": "Mon, 01 Jun 2026 16:25:12 -0400"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "AP report: U.S. to drastically slash the number of embassies in Africa that can process visas",
+    "url": "https://www.pbs.org/newshour/politics/ap-report-u-s-to-drastically-slash-the-number-of-embassies-in-africa-that-can-process-visas",
+    "description": "The almost 50 U.S. embassies and consulates that are processing visa applications in Africa will be reduced to 20 \"hubs\" in the coming weeks, according to three U.S. officials and an internal memo obtained by The Associated Press.",
+    "pubDate": "Mon, 01 Jun 2026 15:50:51 -0400"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Trump says Israel and Hezbollah have agreed to dial back fighting after mediated talks",
+    "url": "https://www.pbs.org/newshour/world/trump-says-israel-and-hezbollah-have-agreed-to-dial-back-fighting-after-mediated-talks",
+    "description": "President Donald Trump said Monday that Israel and Hezbollah have agreed to dial back fighting after he held talks with Israeli Prime Minister Benjamin Netanyahu and communicated with the Lebanon-militant group through mediators.",
+    "pubDate": "Mon, 01 Jun 2026 14:41:28 -0400"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Appeals court panel rules that transgender troops were illegally barred from U.S. military service",
+    "url": "https://www.pbs.org/newshour/politics/appeals-court-panel-rules-that-transgender-troops-were-illegally-barred-from-u-s-military-service",
+    "description": "A Trump administration policy illegally banned transgender troops from military service, a divided panel of federal appeal court judges ruled on Monday.",
+    "pubDate": "Mon, 01 Jun 2026 14:09:15 -0400"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "New Jersey voters look for answers about Tom Kean Jr.'s prolonged absence from Congress",
+    "url": "https://www.pbs.org/newshour/politics/new-jersey-voters-look-for-answers-about-tom-kean-jr-s-prolonged-absence-from-congress",
+    "description": "The pressure is ratcheting up in the 7th Congressional District as Democrats are hoping to unseat Kean in their bid to regain control of Congress.",
+    "pubDate": "Mon, 01 Jun 2026 12:43:39 -0400"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Colorado elections clerk Tina Peters released from prison after governor commutes sentence",
+    "url": "https://www.pbs.org/newshour/politics/colorado-elections-clerk-tina-peters-released-from-prison-after-governor-commutes-sentence",
+    "description": "Peters served less than a quarter of her nine-year sentence.",
+    "pubDate": "Mon, 01 Jun 2026 11:38:18 -0400"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Jerome Powell uses award speech to warn against political pressure on Fed, courts and schools",
+    "url": "https://www.pbs.org/newshour/politics/jerome-powell-uses-award-speech-to-warn-against-political-pressure-on-fed-courts-and-schools",
+    "description": "The award also honored residents of Minnesota's Twin Cities for their actions during a federal immigration crackdown that led to thousands of arrests and two deaths.",
+    "pubDate": "Mon, 01 Jun 2026 10:26:06 -0400"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Standoff between Republicans and White House over the 'anti-weaponization' fund remains unresolved",
+    "url": "https://www.pbs.org/newshour/politics/standoff-between-republicans-and-white-house-over-the-anti-weaponization-fund-remains-unresolved",
+    "description": "Senate Republicans say they won't have the votes for the immigration spending bill until the White House works with them to put some parameters on a new $1.776 billion settlement fund designed to compensate Trump's allies — or scrap it altogether.",
+    "pubDate": "Mon, 01 Jun 2026 09:54:25 -0400"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Why a surge of election-related websites could spell rising cyber threats for the midterms",
+    "url": "https://www.pbs.org/newshour/politics/why-a-surge-of-election-related-websites-could-spell-rising-cyber-threats-for-the-midterms",
+    "description": "Check Point, a cyber security company, found that in January of this year, approximately 1,300 newly registered domains contained the keyword \"election,\" and approximately 2,957 contained \"vote.\"",
+    "pubDate": "Mon, 01 Jun 2026 05:55:32 -0400"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "title_en": "Platner's wife calls reports about Senate candidate's explicit texts with women 'shameful'",
+    "url": "https://www.pbs.org/newshour/politics/platners-wife-calls-reports-about-senate-candidates-explicit-texts-with-women-shameful",
+    "description": "Graham Platner's wife called reports that her husband had previously exchanged sexually explicit text messages with several women \"shameful\" over the weekend, the latest controversy to hit the Maine Democrat's whirlwind campaign.",
+    "pubDate": "Sun, 31 May 2026 17:10:47 -0400"
   },
   {
     "source": "Financial Times",
     "category": "economy",
     "paywalled": true,
-    "title_en": "Russia overspends on Putin’s war in Ukraine by $28bn",
-    "url": "https://www.ft.com/content/93674b5c-06ea-4e49-a005-dc08e1091574",
-    "description": "Finance ministry asked cabinet in February to freeze expenditure in other areas as cost of conflict mounts",
-    "pubDate": "Fri, 29 May 2026 08:05:12 GMT"
+    "title_en": "Alphabet to sell $80bn in stock to fund AI infrastructure spending spree",
+    "url": "https://www.ft.com/content/341f151b-f472-4530-8579-d4b803519257",
+    "description": "Landmark fundraising plans include $10bn private placement to Berkshire Hathaway",
+    "pubDate": "Mon, 01 Jun 2026 22:05:54 GMT"
   },
   {
     "source": "Financial Times",
     "category": "economy",
     "paywalled": true,
-    "title_en": "Russian drone hits apartment building in Romania",
-    "url": "https://www.ft.com/content/c834acfc-1c9c-4181-bb75-683cc3a9292f",
-    "description": "Nato and Bucharest condemn ‘reckless’ escalation after two people were injured in Galaţi",
-    "pubDate": "Fri, 29 May 2026 07:21:46 GMT"
+    "title_en": "Anthropic files for blockbuster initial public offering",
+    "url": "https://www.ft.com/content/4f82f41c-24e7-4323-899a-17a04badd29e",
+    "description": "Move sets up race with OpenAI and SpaceX, testing Wall Street’s appetite for the AI boom",
+    "pubDate": "Mon, 01 Jun 2026 17:34:12 GMT"
   },
   {
     "source": "Financial Times",
     "category": "economy",
     "paywalled": true,
-    "title_en": "How China is breaking apart a people and its culture",
-    "url": "https://www.ft.com/content/119d8c3a-e10f-4bf7-a198-90507293054b",
-    "description": "The campaign of repression against the Uyghurs has entered a new phase",
-    "pubDate": "Fri, 29 May 2026 04:00:10 GMT"
+    "title_en": "Florida sues OpenAI and Altman for ‘hurting’ children",
+    "url": "https://www.ft.com/content/7998db0a-22d1-4b80-b861-2e8b2448e97f",
+    "description": "State files lawsuit over ‘litany of harms’ it claims the company’s chatbots have caused",
+    "pubDate": "Mon, 01 Jun 2026 16:59:50 GMT"
   },
   {
     "source": "Financial Times",
     "category": "economy",
     "paywalled": true,
-    "title_en": "What if remote working, not AI, is to blame for weak junior hiring?",
-    "url": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
-    "description": "New evidence suggests the rise of working from home has made entry-level hires a less attractive proposition",
-    "pubDate": "Fri, 29 May 2026 04:00:17 GMT"
+    "title_en": "Trump claims Israel and Hizbollah agree ceasefire after Iran threats",
+    "url": "https://www.ft.com/content/a4f1e36d-f3a5-4959-b227-133300f01be1",
+    "description": "President’s comments come after Tehran said it was suspending peace talks with the US, sending oil prices higher",
+    "pubDate": "Mon, 01 Jun 2026 22:18:22 GMT"
   },
   {
     "source": "Financial Times",
     "category": "economy",
     "paywalled": true,
-    "title_en": "Don’t bet on Trump reining in the prediction markets",
-    "url": "https://www.ft.com/content/e4f9ec07-5964-45f7-ad07-af48f3790f63",
-    "description": "The sector is expanding at breakneck speed in the US",
-    "pubDate": "Fri, 29 May 2026 04:00:18 GMT"
+    "title_en": "Putin could pay a personal price for failure in Ukraine",
+    "url": "https://www.ft.com/content/7b986a53-3f7b-40fc-99ef-953905963ce3",
+    "description": "History suggests that military defeat often leads to radical political change in Moscow",
+    "pubDate": "Mon, 01 Jun 2026 11:33:43 GMT"
   },
   {
     "source": "Financial Times",
     "category": "economy",
     "paywalled": true,
-    "title_en": "Blue Origin rocket explodes on launch pad during test",
-    "url": "https://www.ft.com/content/11b2eb12-6623-4624-83a6-5d25c905f3e6",
-    "description": "Failure comes days before planned launch of internet satellites for Amazon",
-    "pubDate": "Fri, 29 May 2026 03:29:02 GMT"
+    "title_en": "The truth about the American profit machine",
+    "url": "https://www.ft.com/content/362ccc0a-d6e5-40df-817f-64aea4717cc8",
+    "description": "It’s not much stronger now than it was during the dotcom boom",
+    "pubDate": "Mon, 01 Jun 2026 04:00:20 GMT"
   },
   {
     "source": "Financial Times",
     "category": "economy",
     "paywalled": true,
-    "title_en": "Investors race to get exposure to SpaceX ahead of IPO",
-    "url": "https://www.ft.com/content/7a05e500-de0a-468f-bd82-0a454d99e165",
-    "description": "Net $14bn pours into funds with stakes in rocket company while ETF providers line up wave of new products",
-    "pubDate": "Fri, 29 May 2026 04:00:19 GMT"
+    "title_en": "Barry Diller launches $18bn takeover offer for MGM Resorts",
+    "url": "https://www.ft.com/content/2793d548-0535-4f0c-9959-14bf9554b8d0",
+    "description": "Casino resort group’s shares jump 15% after media veteran’s company People Inc makes take-private bid",
+    "pubDate": "Mon, 01 Jun 2026 16:11:33 GMT"
   },
   {
     "source": "Financial Times",
     "category": "economy",
     "paywalled": true,
-    "title_en": "Musk’s tweet undermines SpaceX’s claims about Anthropic data centre deal",
-    "url": "https://www.ft.com/content/7df0906c-6d9b-4440-b94e-65af0a785f7b",
-    "description": "Billionaire says the arrangement, described in IPO filings as a three-year agreement, only lasts for 180 days",
-    "pubDate": "Thu, 28 May 2026 19:17:18 GMT"
+    "title_en": "HPE shares soar 37% on booming demand for AI infrastructure",
+    "url": "https://www.ft.com/content/3ddf001d-d7f6-40f1-8fe4-1cc577868da0",
+    "description": "Data centre equipment provider says sales of servers and networking equipment are rising rapidly",
+    "pubDate": "Mon, 01 Jun 2026 21:48:18 GMT"
   },
   {
     "source": "Financial Times",
     "category": "economy",
     "paywalled": true,
-    "title_en": "Several BP shareholders found ousted chair ‘challenging’",
-    "url": "https://www.ft.com/content/b59bfe40-f814-4790-94b6-49ce61b9d0ea",
-    "description": "Several large investors say it was hard to arrange meetings with Albert Manifold before his removal from oil major",
-    "pubDate": "Fri, 29 May 2026 04:00:29 GMT"
+    "title_en": "Anthropic offers EU access to Mythos",
+    "url": "https://www.ft.com/content/f88d62e3-5b67-4aed-ad69-6f38b62559b3",
+    "description": "Bloc in talks to use American AI model in first expansion outside US and UK",
+    "pubDate": "Mon, 01 Jun 2026 12:11:32 GMT"
   },
   {
     "source": "Financial Times",
     "category": "economy",
     "paywalled": true,
-    "title_en": "KPMG Australia’s CEO resigns after whistleblower claims",
-    "url": "https://www.ft.com/content/0787af8d-ed4f-4764-9bab-80b85dc5c614",
-    "description": "Big Four firm says its investigations into allegations of data misuse lacked rigour",
-    "pubDate": "Fri, 29 May 2026 03:34:05 GMT"
+    "title_en": "BP backs Amanda Blanc to lead second chair search despite City unease",
+    "url": "https://www.ft.com/content/750e8a0c-e6c0-4f32-bd6a-0e644c363a5f",
+    "description": "Oil major’s senior independent director took lead on appointing shortlived chair Albert Manifold",
+    "pubDate": "Mon, 01 Jun 2026 19:34:08 GMT"
   },
   {
-    "source": "CNBC Markets",
+    "source": "Financial Times",
     "category": "economy",
-    "paywalled": false,
-    "title_en": "Core inflation hit an annual rate of 3.3% in April, as expected, Fed’s preferred gauge shows",
-    "url": "https://www.cnbc.com/2026/05/28/core-inflation-hit-an-annual-rate-of-3point3percent-in-april-as-expected-feds-preferred-gauge-shows-.html",
-    "description": "The PCE price index for April was expected to show an annual inflation rate of 3.8% for all items and 3.3% for core.",
-    "pubDate": "Thu, 28 May 2026 15:15:19 GMT"
+    "paywalled": true,
+    "title_en": "Trump drops $1.8bn ‘anti-weaponisation’ fund",
+    "url": "https://www.ft.com/content/5a7b5d46-d37f-4e17-8367-bf76f9f287f9",
+    "description": "Legal challenges and pushback from Republican lawmakers prompt U-turn from the US president",
+    "pubDate": "Mon, 01 Jun 2026 22:25:22 GMT"
   },
   {
-    "source": "CNBC Markets",
+    "source": "BBC Business",
     "category": "economy",
     "paywalled": false,
-    "title_en": "Energy inflation has been more persistent than expected, Fed's Goolsbee tells CNBC",
-    "url": "https://www.cnbc.com/2026/05/28/goolsbee-iran-energy-inflation-asia-stagflation-shock-ai-artificial-intelligence-jobs.html",
-    "description": "While oil prices have recently fallen on news that a peace deal between the U.S. and Iran could come, prices are still significantly higher than before the war.",
-    "pubDate": "Thu, 28 May 2026 06:08:44 GMT"
+    "title_en": "Wise under investigation over money laundering control concerns",
+    "url": "https://www.bbc.com/news/articles/cy42x8ye02vo?at_medium=RSS&at_campaign=rss",
+    "description": "Wise says it is working with the Brussels prosecutor's office but that \"no specific findings have been shared with us to date\".",
+    "pubDate": "Mon, 01 Jun 2026 16:44:16 GMT"
   },
   {
-    "source": "CNBC Markets",
+    "source": "BBC Business",
     "category": "economy",
     "paywalled": false,
-    "title_en": "Fed’s Kashkari tells CNBC that inflation fight takes priority as labor market is 'in decent shape'",
-    "url": "https://www.cnbc.com/2026/05/28/fed-reserve-neel-kashkari-inflation-job-market.html",
-    "description": "The Minneapolis Fed President warned that persistently high inflation risks becoming embedded in consumer expectations, potentially forcing tougher policy action later.",
-    "pubDate": "Thu, 28 May 2026 06:06:02 GMT"
+    "title_en": "Abusive passengers could be blacklisted from all airlines under new proposal",
+    "url": "https://www.bbc.com/news/articles/c707pknywjno?at_medium=RSS&at_campaign=rss",
+    "description": "The scheme would allow airlines to share information on disruptive passengers and potentially restrict their access to flights.",
+    "pubDate": "Mon, 01 Jun 2026 13:42:12 GMT"
   },
   {
-    "source": "CNBC Markets",
+    "source": "BBC Business",
     "category": "economy",
     "paywalled": false,
-    "title_en": "ECB 'will do what is necessary' to tame inflation, Bank of France governor tells CNBC",
-    "url": "https://www.cnbc.com/2026/05/26/ecb-villeroy-inflation-iran-war.html",
-    "description": "Markets are overwhelmingly pricing in a rate hike from the central bank at its next meeting.",
-    "pubDate": "Tue, 26 May 2026 13:53:22 GMT"
+    "title_en": "Put a £5 deposit on vapes to stop fires, say waste companies",
+    "url": "https://www.bbc.com/news/articles/c4g4vqex028o?at_medium=RSS&at_campaign=rss",
+    "description": "The industry body for waste companies says a refundable deposit would help boost vape recycling, but others disagree.",
+    "pubDate": "Mon, 01 Jun 2026 08:29:03 GMT"
   },
   {
-    "source": "CNBC Markets",
+    "source": "BBC Business",
     "category": "economy",
     "paywalled": false,
-    "title_en": "Americans are feeling inflation's pinch into the holiday weekend. Here's where prices are rising the most",
-    "url": "https://www.cnbc.com/2026/05/23/memorial-day-weekend-prices-inflation-war.html",
-    "description": "Prices related to travel, recreation and food saw particularly steep increases, stretching Americans' wallets as they celebrate the unofficial start of summer.",
-    "pubDate": "Sat, 23 May 2026 12:32:36 GMT"
+    "title_en": "Why is Lidl opening a pub?",
+    "url": "https://www.bbc.com/news/articles/cze222z1300o?at_medium=RSS&at_campaign=rss",
+    "description": "The debate about about what seems like a bizarre idea of having a cold pint after exploring the store's well known middle aisle.",
+    "pubDate": "Sun, 31 May 2026 23:16:27 GMT"
   },
   {
-    "source": "CNBC Markets",
+    "source": "BBC Business",
     "category": "economy",
     "paywalled": false,
-    "title_en": "Consumer sentiment hits fresh record low in May as Iran war fuels inflation worries",
-    "url": "https://www.cnbc.com/2026/05/22/consumer-sentiment-hits-fresh-record-low-in-may-as-iran-war-fuels-inflation-worries.html",
-    "description": "Consumer sentiment has tumbled to a fresh record low in May as fears of higher prices grow due to the U.S.-Iran war and elevated oil prices.",
-    "pubDate": "Fri, 22 May 2026 16:13:30 GMT"
+    "title_en": "EasyJet says possible takeover bid 'opportunistic'",
+    "url": "https://www.bbc.com/news/articles/c042071p96po?at_medium=RSS&at_campaign=rss",
+    "description": "US investment firm Castlelake is considering making an offer for the budget airline.",
+    "pubDate": "Mon, 01 Jun 2026 09:47:11 GMT"
   },
   {
-    "source": "CNBC Markets",
+    "source": "BBC Business",
     "category": "economy",
     "paywalled": false,
-    "title_en": "UK-Gulf trade deal a 'monumental achievement,' Bahrain industry minister tells CNBC",
-    "url": "https://www.cnbc.com/2026/05/21/uk-gcc-trade-deal-bahrain-gulf-investment.html",
-    "description": "Abdulla bin Adel Fakhro said the deal was a win-win for the U.K. and Gulf states.",
-    "pubDate": "Thu, 21 May 2026 08:42:03 GMT"
+    "title_en": "Nvidia announces new AI chip for personal computers",
+    "url": "https://www.bbc.com/news/articles/crmp9mppvzro?at_medium=RSS&at_campaign=rss",
+    "description": "The technology giant's boss Jensen Huang called the move the \"reinvention of the computer\".",
+    "pubDate": "Mon, 01 Jun 2026 11:14:13 GMT"
   },
   {
-    "source": "CNBC Markets",
+    "source": "BBC Business",
     "category": "economy",
     "paywalled": false,
-    "title_en": "Putin-Xi talks revive stalled Russian gas pipeline as Iran war rattles energy markets",
-    "url": "https://www.cnbc.com/2026/05/20/putin-xi-gas-pipeline-power-of-siberia-iran-war-.html",
-    "description": "Putin is expected to hold talks with Chinese leader Xi Jinping on Wednesday, with the long-stalled Power of Siberia 2 natural gas pipeline topping the agenda.",
-    "pubDate": "Wed, 20 May 2026 08:15:15 GMT"
+    "title_en": "What's happening to UK petrol and diesel prices?",
+    "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+    "description": "Motoring group RAC warns pump prices could keep rising if there is no resolution to the Iran war.",
+    "pubDate": "Mon, 01 Jun 2026 11:31:52 GMT"
   },
   {
-    "source": "CNBC Markets",
+    "source": "BBC Business",
     "category": "economy",
     "paywalled": false,
-    "title_en": "The AI economy is rewriting the American Dream — and blue-collar workers are poised to win",
-    "url": "https://www.cnbc.com/2026/05/19/ai-hiring-slowdown-skilled-trade-workers.html",
-    "description": "AI-driven hiring slowdowns are hitting some entry-level jobs for college graduates as companies like Ford and AT&T ramp up recruiting for skilled trade workers.",
-    "pubDate": "Tue, 19 May 2026 20:22:54 GMT"
+    "title_en": "Home care workers face fuel cost spike fears",
+    "url": "https://www.bbc.com/news/articles/cdrpv6y8m4do?at_medium=RSS&at_campaign=rss",
+    "description": "Home care workers must be paid for their mileage and travel time, a Sheffield-based carer says.",
+    "pubDate": "Mon, 01 Jun 2026 05:13:18 GMT"
   },
   {
-    "source": "CNBC Markets",
+    "source": "BBC Business",
     "category": "economy",
     "paywalled": false,
-    "title_en": "Kevin Warsh to be sworn in as Federal Reserve chair on Friday",
-    "url": "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html",
-    "description": "Trump will swear in Kevin Warsh, his hand-picked choice to lead the Federal Reserve, during a White House ceremony.",
-    "pubDate": "Tue, 19 May 2026 11:37:27 GMT"
+    "title_en": "Election 2026: Child poverty a 'huge red flag'",
+    "url": "https://www.bbc.com/news/articles/cn0pnx45qklo?at_medium=RSS&at_campaign=rss",
+    "description": "The children's commissioner says child poverty in Jersey \"is a big red flag\" for the community.",
+    "pubDate": "Mon, 01 Jun 2026 05:09:40 GMT"
   },
   {
-    "source": "CNBC Markets",
+    "source": "NPR Economy",
     "category": "economy",
     "paywalled": false,
-    "title_en": "The Fed will have to raise interest rates in July to appease 'bond vigilantes,' Yardeni says",
-    "url": "https://www.cnbc.com/2026/05/18/the-fed-will-have-to-raise-interest-rates-in-july-to-appease-bond-vigilantes-yardeni-says.html",
-    "description": "Sent to the Federal Reserve to lower interest rates, incoming Chair Kevin Warsh instead may have to push for higher levels.",
-    "pubDate": "Mon, 18 May 2026 16:08:35 GMT"
+    "title_en": "Former Fed chair Jerome Powell receives JFK Profile in Courage award",
+    "url": "https://www.npr.org/2026/06/01/nx-s1-5843108/former-fed-chair-jerome-powell-receives-jfk-profile-in-courage-award",
+    "description": "Former Federal Reserve chairman Jerome Powell was honored with the \"Profile in Courage\" award for helping to safeguard the central bank from political pressure from the White House.",
+    "pubDate": "Mon, 01 Jun 2026 18:12:44 -0400"
   },
   {
-    "source": "CNBC Markets",
+    "source": "NYT Business",
     "category": "economy",
     "paywalled": false,
-    "title_en": "Traders now see next Fed interest rate move as a hike following inflation surge",
-    "url": "https://www.cnbc.com/2026/05/15/traders-now-see-next-fed-interest-rate-move-as-a-hike-following-inflation-surge.html",
-    "description": "The fed funds futures market is pricing in an increase as soon as December.",
-    "pubDate": "Fri, 15 May 2026 18:55:25 GMT"
+    "title_en": "I.R.A. Rebates for Appliance Swaps Could Be Phased Out",
+    "url": "https://www.nytimes.com/2026/06/01/climate/energy-rebates-home-appliances.html",
+    "description": "New guidance from the Energy Department would prevent people from receiving rebates after making such swaps.",
+    "pubDate": "Mon, 01 Jun 2026 21:33:30 +0000"
   },
   {
-    "source": "CNBC Markets",
+    "source": "NYT Business",
     "category": "economy",
     "paywalled": false,
-    "title_en": "Inflation rate projected to hit 6% in the second quarter, top economic forecasters say",
-    "url": "https://www.cnbc.com/2026/05/15/inflation-rate-projected-to-hit-6percent-in-the-second-quarter-top-economic-forecasters-say.html",
-    "description": "The recent surge in inflation is likely to get worse over the next several months, according to a survey Friday.",
-    "pubDate": "Mon, 18 May 2026 16:11:13 GMT"
+    "title_en": "Oil Prices Jump as Middle East Tensions Build",
+    "url": "https://www.nytimes.com/2026/06/01/business/energy-environment/iran-war-oil-prices.html",
+    "description": "Some analysts said the main international oil price, which was up 6 percent on Monday, could climb much higher in the coming weeks if the Strait of Hormuz doesn’t reopen.",
+    "pubDate": "Mon, 01 Jun 2026 19:37:58 +0000"
   },
   {
-    "source": "CNBC Markets",
+    "source": "NYT Business",
     "category": "economy",
     "paywalled": false,
-    "title_en": "Bond market believes Fed behind the curve on inflation as Warsh takes over",
-    "url": "https://www.cnbc.com/2026/05/14/bond-market-fed-inflation-warsh-powell.html",
-    "description": "Bond traders are hoping that the central bank's easing bias is replaced with a skewed view toward tightening.",
-    "pubDate": "Thu, 14 May 2026 19:26:20 GMT"
+    "title_en": "Scott Pelley Accuses CBS News Boss of ‘Murdering’ ‘60 Minutes’",
+    "url": "https://www.nytimes.com/2026/06/01/business/media/cbs-60-minutes-scott-pelley-nick-bilton.html",
+    "description": "In an explosive staff meeting, Mr. Pelley, a correspondent for the long-running Sunday news show, blasted Bari Weiss, the CBS editor in chief, and Nick Bilton, the show’s new executive producer.",
+    "pubDate": "Mon, 01 Jun 2026 19:11:00 +0000"
   },
   {
-    "source": "CNBC Markets",
+    "source": "NYT Business",
     "category": "economy",
     "paywalled": false,
-    "title_en": "Bessent sees 'substantial disinflation' ahead as Warsh takes over the Fed",
-    "url": "https://www.cnbc.com/2026/05/14/bessent-sees-substantial-disinflation-ahead-as-warsh-takes-over-the-fed.html",
-    "description": "Bessent said the energy-fed inflation surge recently is likely to reverse as the U.S. is \"going to keep pumping.\"",
-    "pubDate": "Thu, 14 May 2026 16:22:18 GMT"
+    "title_en": "Tribeca Festival 25th Anniversary: An Interview With Robert De Niro, Jane Rosenthal, Rebecca Glashow",
+    "url": "https://www.nytimes.com/2026/06/01/movies/tribeca-festival-25-deniro-rosenthal-glashow.html",
+    "description": "Robert De Niro and Jane Rosenthal, who founded the event, and Rebecca Glashow, the new leader of Tribeca Enterprises, reflected on the festival’s legacy and ambitions.",
+    "pubDate": "Mon, 01 Jun 2026 19:25:04 +0000"
   },
   {
-    "source": "CNBC Markets",
+    "source": "NYT Business",
     "category": "economy",
     "paywalled": false,
-    "title_en": "Americans still feel pessimistic about the economy. When will it get better?",
-    "url": "https://www.cnbc.com/2026/05/14/consumer-confidence-us-economy-inflation-iran-war-trade.html",
-    "description": "U.S. consumer sentiment has been on a downward trend since the Covid pandemic. Inflation, wars and Trump's tariffs are to blame, economists say.",
-    "pubDate": "Fri, 15 May 2026 15:30:12 GMT"
+    "title_en": "Barry Diller’s People Inc. Plans a Takeover Bid for MGM Resorts",
+    "url": "https://www.nytimes.com/2026/06/01/business/dealbook/diller-people-mgm-resorts.html",
+    "description": "The mogul’s People Inc. is preparing an offer to buy the portion of the casino giant that it doesn’t already own, at an $18 billion valuation.",
+    "pubDate": "Mon, 01 Jun 2026 16:05:37 +0000"
   },
   {
-    "source": "CNBC Markets",
+    "source": "NYT Business",
     "category": "economy",
     "paywalled": false,
-    "title_en": "Wholesale inflation jumps 6% in April on annual basis, biggest increase since 2022",
-    "url": "https://www.cnbc.com/2026/05/13/ppi-inflation-report-april-2026-.html",
-    "description": "The producer price index was expected to increase 0.5% in April, according to the Dow Jones consensus.",
-    "pubDate": "Wed, 13 May 2026 13:21:15 GMT"
+    "title_en": "Prized by ‘MAHA’ Influencers and Chefs Alike, Craft Flour Is on the Rise",
+    "url": "https://www.nytimes.com/2026/06/01/business/craft-flour-maha.html",
+    "description": "Growing demand for fiber-rich grains is boosting the premium flour industry, which offers less processed, but pricier, alternatives to the classic grocery store brands.",
+    "pubDate": "Mon, 01 Jun 2026 17:26:25 +0000"
   },
   {
-    "source": "CNBC Markets",
+    "source": "NYT Business",
     "category": "economy",
     "paywalled": false,
-    "title_en": "Markets raise chances for a Fed rate hike following hot inflation report",
-    "url": "https://www.cnbc.com/2026/05/12/markets-raise-chances-for-a-fed-rate-hike-following-hot-inflation-report.html",
-    "description": "Market pricing took virtually any chance of a cut off the table between now and the end of 2027.",
-    "pubDate": "Tue, 12 May 2026 17:33:45 GMT"
+    "title_en": "Oil Prices Spike as U.S. and Iran Exchange Fire",
+    "url": "https://www.nytimes.com/2026/06/01/business/oil-gas-price-iran.html",
+    "description": "Oil prices climbed as investors weighed a renewed exchange of military strikes between the United States and Iran against signs that both sides remain engaged in negotiations.",
+    "pubDate": "Mon, 01 Jun 2026 20:16:35 +0000"
   },
   {
-    "source": "CNBC Markets",
+    "source": "NYT Business",
     "category": "economy",
     "paywalled": false,
-    "title_en": "It's not just Iran and oil raising inflation. Prices also are reaccelerating in these other areas",
-    "url": "https://www.cnbc.com/2026/05/12/iran-oil-energy-inflation-shelter-food-trump.html",
-    "description": "Here's some of the places where prices are rising fast for consumers.",
-    "pubDate": "Tue, 12 May 2026 21:04:59 GMT"
+    "title_en": "He Became China’s Largest Critic in Exile. Then the Threats Followed Him.",
+    "url": "https://www.nytimes.com/2026/06/01/business/teacher-li-transnational-repression.html",
+    "description": "Li Ying, known as Teacher Li to his 2.2 million followers on X, doesn’t live in China but still faces smear campaigns and death threats. He is not letting that stop him.",
+    "pubDate": "Mon, 01 Jun 2026 22:07:55 +0000"
   },
   {
-    "source": "CNBC Markets",
+    "source": "NYT Business",
     "category": "economy",
     "paywalled": false,
-    "title_en": "Consumer prices rose 3.8% annually in April, the highest since May 2023",
-    "url": "https://www.cnbc.com/2026/05/12/cpi-inflation-april-2026-.html",
-    "description": "The consumer price index was expected to increase by 3.7% annually in April, according to the Dow Jones consensus.",
-    "pubDate": "Tue, 12 May 2026 21:07:17 GMT"
+    "title_en": "U.S. Military Is Quietly Guiding Ships Through the Strait of Hormuz",
+    "url": "https://www.nytimes.com/2026/05/31/business/us-military-guides-strait-of-hormuz.html",
+    "description": "U.S. Central Command has helped around 70 commercial ships pass through the strait in the last three weeks, an official said.",
+    "pubDate": "Sun, 31 May 2026 20:48:58 +0000"
   },
   {
-    "source": "CNBC Markets",
+    "source": "NYT Business",
     "category": "economy",
     "paywalled": false,
-    "title_en": "Iran says it will 'never bow' as Trump rejects peace counteroffer, prolonging Middle East conflict",
-    "url": "https://www.cnbc.com/2026/05/11/iran-war-trump-negotiation-hormuz-nuclear-talks.html",
-    "description": "Washington has sought to press Beijing to lean on Tehran to reopen the strait, though China's appetite to act as a pressure mechanism remains unclear.",
-    "pubDate": "Mon, 11 May 2026 13:25:34 GMT"
+    "title_en": "Young Moviegoers Power ‘Backrooms’ to $82 Million in Ticket Sales",
+    "url": "https://www.nytimes.com/2026/05/31/business/media/young-moviegoers-backrooms-a24-box-office.html",
+    "description": "The horror film, which cost $10 million and came from a 20-year-old filmmaker, added to evidence that young people will go to theaters for the right offering.",
+    "pubDate": "Mon, 01 Jun 2026 02:33:13 +0000"
   },
   {
-    "source": "CNBC Markets",
+    "source": "NYT Business",
     "category": "economy",
     "paywalled": false,
-    "title_en": "From Singapore to Brussels, world leaders eye Trump-Xi summit from afar",
-    "url": "https://www.cnbc.com/2026/05/11/trump-xi-summit-beijing-global-leaders-iran-war-taiwan-strait-of-hormuz-.html",
-    "description": "The world will be watching the Trump-Xi summit.",
-    "pubDate": "Mon, 11 May 2026 14:00:13 GMT"
+    "title_en": "What Is Airbnb For, Exactly?",
+    "url": "https://www.nytimes.com/2026/05/31/business/airbnb-brian-chesky.html",
+    "description": "The home-sharing app recently added car rentals, groceries and — perhaps most surprisingly — hotels. Brian Chesky, the co-founder and chief executive, is always thinking about how to redesign it.",
+    "pubDate": "Sun, 31 May 2026 17:55:08 +0000"
   },
   {
-    "source": "CNBC Markets",
+    "source": "NYT Business",
     "category": "economy",
     "paywalled": false,
-    "title_en": "Retailers are on a hiring spree. But consumers are sending warning signs",
-    "url": "https://www.cnbc.com/2026/05/10/retailer-hiring-consumer-warning-jobs-report.html",
-    "description": "The retail trades added nearly 22,000 jobs in April, accounting for about one-fifth of total job growth.",
-    "pubDate": "Sun, 10 May 2026 11:29:25 GMT"
+    "title_en": "Is This the Future of Air Travel?",
+    "url": "https://www.nytimes.com/video/business/100000010859133/is-this-the-future-of-air-travel.html",
+    "description": "A new all-electric aircraft made a test flight in New York City. Our transportation reporter Niraj Chokshi describes what to know.",
+    "pubDate": "Mon, 01 Jun 2026 15:53:41 +0000"
   },
   {
-    "source": "CNBC Markets",
+    "source": "NYT Business",
     "category": "economy",
     "paywalled": false,
-    "title_en": "The Federal Reserve is quickly running out of reasons to cut interest rates",
-    "url": "https://www.cnbc.com/2026/05/08/the-federal-reserve-is-quickly-running-out-of-reasons-to-cut-interest-rates.html",
-    "description": "Friday's jobs report provided evidence that the central bank's larger concern is a cost of living that is getting increasingly hard to bear.",
-    "pubDate": "Mon, 11 May 2026 15:30:23 GMT"
+    "title_en": "Dang Van Phuoc Dies at 90; Intrepid Photojournalist in Vietnam War",
+    "url": "https://www.nytimes.com/2026/05/30/business/media/dang-van-phuoc-dead.html",
+    "description": "A photographer for The Associated Press, he spent a decade on the front lines of combat in his native Vietnam and lost his right eye in a grenade explosion.",
+    "pubDate": "Mon, 01 Jun 2026 17:58:37 +0000"
   },
   {
-    "source": "CNBC Markets",
+    "source": "NYT Business",
     "category": "economy",
     "paywalled": false,
-    "title_en": "Consumer sentiment falls to fresh record low in May as surging gas prices hit outlook",
-    "url": "https://www.cnbc.com/2026/05/08/consumer-sentiment-falls-to-fresh-record-low-in-may-as-surging-gas-prices-hit-outlook.html",
-    "description": "Surging gas prices due to the Iran war sent consumer sentiment to a new low in the early part of May.",
-    "pubDate": "Fri, 08 May 2026 16:10:36 GMT"
+    "title_en": "Providence Isn’t an Official World Cup Host, but It Sure Is Acting Like One",
+    "url": "https://www.nytimes.com/2026/05/29/us/boston-providence-world-cup.html",
+    "description": "A stadium outside Boston that will host seven World Cup games is actually closer to Providence, R.I., prompting officials there to capitalize on that proximity to lure fans.",
+    "pubDate": "Sun, 31 May 2026 23:15:35 +0000"
   },
   {
-    "source": "CNBC Markets",
+    "source": "PBS Economy",
     "category": "economy",
     "paywalled": false,
-    "title_en": "U.S. payrolls jump more than expected, but the report had several red flags for the economy",
-    "url": "https://www.cnbc.com/2026/05/08/jobs-report-april-2026.html",
-    "description": "Nonfarm payrolls were expected to increase by 55,000 in April, according to the Dow Jones consensus.",
-    "pubDate": "Fri, 08 May 2026 18:22:51 GMT"
-  },
-  {
-    "source": "CNBC Markets",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "Here's what to expect from Friday's release of the April jobs report",
-    "url": "https://www.cnbc.com/2026/05/07/heres-what-to-expect-from-fridays-release-of-the-april-jobs-report.html",
-    "description": "The total picture is one of a labor market that, while undoubtedly cooling, is generally stable and resilient despite a number of challenges.",
-    "pubDate": "Thu, 07 May 2026 19:20:55 GMT"
-  },
-  {
-    "source": "CNBC Markets",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "There's 'no chance' Warsh will be able to get the Fed to cut rates, Paul Tudor Jones says",
-    "url": "https://www.cnbc.com/2026/05/07/theres-no-chance-warsh-will-be-able-to-get-the-fed-to-cut-rates-paul-tudor-jones-says.html",
-    "description": "\"Do I think he'll cut rates? No chance,\" Jones said during a wide-ranging CNBC \"Squawk Box\" interview.",
-    "pubDate": "Thu, 07 May 2026 13:23:19 GMT"
-  },
-  {
-    "source": "CNBC Markets",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "Surging gas prices are hitting lower-income households harder, New York Fed study shows",
-    "url": "https://www.cnbc.com/2026/05/06/surging-gas-prices-are-hurting-lower-income-households-harder-study-shows.html",
-    "description": "Lower-income consumers are compensating for higher gas prices by buying less.",
-    "pubDate": "Wed, 06 May 2026 19:27:54 GMT"
-  },
-  {
-    "source": "CNBC Markets",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "Private payrolls rose by 109,000 in April, topping expectations, ADP says",
-    "url": "https://www.cnbc.com/2026/05/06/private-payrolls-rose-by-109000-in-april-topping-expectations-adp-says.html",
-    "description": "The report provided more evidence of a stable labor market and less incentive for the Fed to lower interest rates.",
-    "pubDate": "Wed, 06 May 2026 13:49:25 GMT"
-  },
-  {
-    "source": "CNBC Earnings",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "Costco issues a lukewarm quarter, but delivers on the metric that matters most",
-    "url": "https://www.cnbc.com/2026/05/28/costco-issues-a-lukewarm-quarter-but-delivers-on-the-metric-that-matters-most.html",
-    "description": "It was not the best quarter, but far from bad.",
-    "pubDate": "Fri, 29 May 2026 00:54:38 GMT"
-  },
-  {
-    "source": "CNBC Earnings",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "Stocks making the biggest moves after hours: Dell Technologies, American Eagle Outfitters, Gap & more",
-    "url": "https://www.cnbc.com/2026/05/28/stocks-making-the-biggest-moves-after-hours-dell-aeo-gap.html",
-    "description": "See which stocks are posting big moves after the bell.",
-    "pubDate": "Thu, 28 May 2026 22:57:39 GMT"
-  },
-  {
-    "source": "CNBC Earnings",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "Costco says it saw 'record-breaking' gas volumes amid rising prices",
-    "url": "https://www.cnbc.com/2026/05/28/costco-cost-q3-2026-earnings.html",
-    "description": "Costco saw \"recording-breaking volumes\" of gas sales and said rising fuel prices drove first-time members to its stations.",
-    "pubDate": "Thu, 28 May 2026 21:38:39 GMT"
-  },
-  {
-    "source": "CNBC Earnings",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "Gap shares tumble 14% as retailer cuts sales guidance after disappointing Old Navy performance",
-    "url": "https://www.cnbc.com/2026/05/28/gap-gap-earnings-q1-2026.html",
-    "description": "Gap issued mixed results as sales at its largest brand, Old Navy, fell short of estimates.",
-    "pubDate": "Thu, 28 May 2026 22:01:01 GMT"
-  },
-  {
-    "source": "CNBC Earnings",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "American Eagle's Aerie is booming, but its namesake brand is lagging despite Sydney Sweeney ads",
-    "url": "https://www.cnbc.com/2026/05/28/american-eagle-aeo-earnings-q1-2026.html",
-    "description": "American Eagle beat Wall Street's expectations but sales at its namesake banner fell short of estimates after its latest Sydney Sweeney campaign.",
-    "pubDate": "Thu, 28 May 2026 22:06:47 GMT"
-  },
-  {
-    "source": "CNBC Earnings",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "Kohl's stock spikes 20% as slumping retailer says sales trends are improving",
-    "url": "https://www.cnbc.com/2026/05/28/kohls-kss-earnings-q1-2026.html",
-    "description": "Kohl's reported its best comparable sales growth in four years on Thursday even as it saw revenue decline.",
-    "pubDate": "Thu, 28 May 2026 20:02:05 GMT"
-  },
-  {
-    "source": "CNBC Earnings",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "Best Buy stock climbs 15% on earnings beat as retailer aims to reinvigorate sales",
-    "url": "https://www.cnbc.com/2026/05/28/best-buy-bby-q1-2027-earnings.html",
-    "description": "Best Buy reported better-than-expected earnings on Thursday as the company works toward turning around its sales slump.",
-    "pubDate": "Thu, 28 May 2026 20:01:11 GMT"
-  },
-  {
-    "source": "CNBC Earnings",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "Salesforce's beat fails to convince the market that software can survive AI",
-    "url": "https://www.cnbc.com/2026/05/27/salesforces-beat-fails-to-convince-market-that-software-can-survive-ai.html",
-    "description": "Salesforce is doing everything it can to signal to the market that this year's sell-off is unwarranted.",
-    "pubDate": "Wed, 27 May 2026 23:11:08 GMT"
-  },
-  {
-    "source": "CNBC Earnings",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "Stocks making the biggest moves after hours: Snowflake, Marvell Technology, Agilent Technologies & more",
-    "url": "https://www.cnbc.com/2026/05/27/stocks-making-the-biggest-moves-after-hours-snow-mrvl-a.html",
-    "description": "See which stocks are posting big moves after the bell.",
-    "pubDate": "Wed, 27 May 2026 21:23:56 GMT"
-  },
-  {
-    "source": "CNBC Earnings",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "Salesforce beats on earnings and revenue but full-year guidance comes in light",
-    "url": "https://www.cnbc.com/2026/05/27/salesforce-crm-q1-earnings-report-2027.html",
-    "description": "Salesforce has been hammered by investors on concern that artificial intelligence models and services will disrupt some traditional software products.",
-    "pubDate": "Wed, 27 May 2026 22:22:13 GMT"
-  },
-  {
-    "source": "CNBC Earnings",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "Abercrombie shares jump 12% on earnings beat even as Iran conflict hits sales",
-    "url": "https://www.cnbc.com/2026/05/27/abercrombie-fitch-anf-earnings-q1-2026.html",
-    "description": "Abercrombie & Fitch saw sales in Europe, Middle East and Africa decline by 10%, thanks in large part to the conflict in the Middle East.",
-    "pubDate": "Wed, 27 May 2026 18:05:09 GMT"
-  },
-  {
-    "source": "CNBC Earnings",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "Foot Locker returns to growth but weighs on Dick's Sporting Goods as earnings miss",
-    "url": "https://www.cnbc.com/2026/05/27/dicks-sporting-goods-dks-earnings-q1-2026.html",
-    "description": "Since acquiring Foot Locker, Dick's Sporting Goods sales have surged, but its profitability has taken a hit given the high costs of the brand's turnaround.",
-    "pubDate": "Wed, 27 May 2026 13:01:46 GMT"
-  },
-  {
-    "source": "CNBC Earnings",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "Stocks making the biggest moves after hours: Zscaler, Insulet, Box and more",
-    "url": "https://www.cnbc.com/2026/05/26/stocks-making-the-biggest-moves-after-hours-zs-podd-box.html",
-    "description": "See which stocks are posting big moves after the bell.",
-    "pubDate": "Tue, 26 May 2026 20:57:46 GMT"
-  },
-  {
-    "source": "CNBC Earnings",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "Lenovo shares jump nearly 20% on record earnings as AI revenue nearly doubles",
-    "url": "https://www.cnbc.com/2026/05/22/lenovo-shares-jump-15percent-on-record-earnings-as-ai-revenue-nearly-doubles.html",
-    "description": "Shares of Lenovo surged over 15% on Friday, after the electronics giant posted strong revenue growth bolstered by its artificial intelligence business.",
-    "pubDate": "Fri, 22 May 2026 07:51:12 GMT"
-  },
-  {
-    "source": "CNBC Earnings",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "Workday jumps 5% as it bumps up margin forecast on AI strength",
-    "url": "https://www.cnbc.com/2026/05/21/workday-wday-q1-earnings-report-2027.html",
-    "description": "Workday's CEO says the company is seeing success in artificial intelligence.",
-    "pubDate": "Fri, 22 May 2026 14:03:44 GMT"
-  },
-  {
-    "source": "CNBC Earnings",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "Here we go again with Nvidia falling on earnings. What the sellers are missing",
-    "url": "https://www.cnbc.com/2026/05/21/here-we-go-again-with-nvidia-falling-on-earnings-what-the-sellers-are-missing.html",
-    "description": "Nvidia's stock is down again after earnings. The sellers are missing the bigger picture.",
-    "pubDate": "Thu, 21 May 2026 16:20:02 GMT"
-  },
-  {
-    "source": "CNBC Earnings",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "Walmart issues worse-than-expected outlook as high gas prices hit shoppers, shares drop 7%",
-    "url": "https://www.cnbc.com/2026/05/21/walmart-wmt-earnings-q1-2027.html",
-    "description": "Walmart's CFO, John David Rainey, said higher tax returns helped offset the effect of elevated gas prices in the first quarter.",
-    "pubDate": "Thu, 21 May 2026 16:06:12 GMT"
-  },
-  {
-    "source": "CNBC Earnings",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "Ubisoft shares fall after Assassin’s Creed maker warns of further losses to come",
-    "url": "https://www.cnbc.com/2026/05/21/ubisoft-fy-earnings-profit-loss-assassins-creed.html",
-    "description": "Ubisoft shares fell on Thursday after the Assassin's Creed maker warned of further losses this year.",
-    "pubDate": "Thu, 21 May 2026 16:02:57 GMT"
-  },
-  {
-    "source": "CNBC Earnings",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "Japan’s megabanks post record profits, but analysts warn growth may slow as risks mount",
-    "url": "https://www.cnbc.com/2026/05/21/japan-megabanks-profits-growth-risks-sumitomo-mitsui-mizuho-mitsubishi-ufj.html",
-    "description": "Japan's largest lenders may face some challenges to keep profit levels at record highs, amid higher credit costs and current geopolitical risks",
-    "pubDate": "Thu, 21 May 2026 06:35:46 GMT"
-  },
-  {
-    "source": "CNBC Earnings",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "We're raising our price target on Nvidia after another knockout quarter and guide",
-    "url": "https://www.cnbc.com/2026/05/20/were-raising-our-price-target-on-nvidia-after-another-knockout-quarter-and-guide-.html",
-    "description": "Nvidia shares aren't moving much in extended trading. But the initial reaction hardly tells the full story.",
-    "pubDate": "Wed, 20 May 2026 23:44:46 GMT"
-  },
-  {
-    "source": "CNBC Earnings",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "Anthropic set to hit $10.9 billion in revenue during second quarter, source says",
-    "url": "https://www.cnbc.com/2026/05/20/anthropic-revenue-explosive-growth-ipo-profitable-quarter.html",
-    "description": "If Anthropic hits the revenue target, it will post its first profitable quarter, a source told CNBC",
-    "pubDate": "Wed, 20 May 2026 23:25:28 GMT"
-  },
-  {
-    "source": "CNBC Earnings",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "E.l.f. Beauty to walk back some tariff price increases amid high gas prices and consumer 'suffering'",
-    "url": "https://www.cnbc.com/2026/05/20/elf-beauty-elf-earnings-q4-2026.html",
-    "description": "E.l.f. Beauty raised prices by $1 last August to offset the impact of tariffs. It's now planning to walk back some of that amid a consumer pullback.",
-    "pubDate": "Wed, 20 May 2026 21:36:26 GMT"
-  },
-  {
-    "source": "CNBC Earnings",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "Intuit plans to cut workforce by about 17% as tax software maker reckons with slowing growth",
-    "url": "https://www.cnbc.com/2026/05/20/intuit-intu-q3-earnings-report-2026-company-cutting-17percent-of-staff.html",
-    "description": "Intuit's stock has been hammered this year as investors worry that generative artificial intelligence models could threaten software companies.",
-    "pubDate": "Wed, 20 May 2026 22:35:41 GMT"
-  },
-  {
-    "source": "CNBC Earnings",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "TJX shows it's the right retail stock for this moment with a stellar quarter, guidance boost",
-    "url": "https://www.cnbc.com/2026/05/20/tjx-delivers-a-strong-quarter-shows-its-a-winning-retail-stock.html",
-    "description": "Shares of TJX jumped 6% Wednesday after kicking off its fiscal 2027 with better-than-expected results.",
-    "pubDate": "Wed, 20 May 2026 16:52:51 GMT"
-  },
-  {
-    "source": "CNBC Earnings",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "Lowe's beats Wall Street expectations against 'challenging' housing backdrop",
-    "url": "https://www.cnbc.com/2026/05/20/lowes-low-q1-2026-earnings.html",
-    "description": "Lowe's beat Wall Street expectations for its fiscal first-quarter earnings and reaffirmed its full-year guidance.",
-    "pubDate": "Wed, 20 May 2026 20:17:39 GMT"
-  },
-  {
-    "source": "CNBC Earnings",
-    "category": "economy",
-    "paywalled": false,
-    "title_en": "Target beats Wall Street estimates, hikes sales outlook as shoppers start to return",
-    "url": "https://www.cnbc.com/2026/05/20/target-tgt-q1-2026-earnings.html",
-    "description": "Target has been struggling with a sales slump and decreased customer traffic, though CEO Michael Fiddelke has said the retailer is poised for a turnaround.",
-    "pubDate": "Wed, 20 May 2026 20:18:28 GMT"
+    "title_en": "Older Americans often compelled to keep working &mdash; and face criticism for doing so",
+    "url": "https://www.pbs.org/newshour/economy/older-americans-often-compelled-to-keep-working-and-face-criticism-for-doing-so",
+    "description": "Over the past several decades, demographic and economic changes have significantly altered how people experience work and aging.",
+    "pubDate": "Sun, 31 May 2026 16:25:48 -0400"
   }
 ]
