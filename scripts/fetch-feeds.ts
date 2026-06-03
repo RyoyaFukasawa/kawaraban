@@ -35,6 +35,8 @@ export interface RawCandidate {
   source: string;
   category: string;
   paywalled: boolean;
+  /** 信憑性が裏取りされていない一次情報（Reddit等）。ダイジェストで⚠️付き報告の対象。 */
+  unverified: boolean;
   title_en: string;
   url: string;
   description: string;
@@ -88,6 +90,7 @@ async function main() {
           source: feed.name,
           category: feed.category,
           paywalled: !!feed.paywalled,
+          unverified: !!feed.unverified,
           title_en: item.title,
           url,
           description: item.description,

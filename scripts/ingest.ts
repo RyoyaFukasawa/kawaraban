@@ -17,11 +17,14 @@ import { readFileSync, existsSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import { appendArticles, openDb, DB_PATH, type NewArticle } from "../src/db.ts";
+import { CATEGORY_ORDER } from "../src/feeds.ts";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const INPUT_PATH = join(__dirname, "..", "digest-input.json");
 
-const VALID_CATEGORIES = new Set(["technology", "politics", "economy"]);
+// カテゴリの真実源は src/feeds.ts（Category 型 / CATEGORY_ORDER）。
+// ここで重複定義すると新カテゴリ追加時に取り込みが弾く事故になるため、必ず流用する。
+const VALID_CATEGORIES = new Set<string>(CATEGORY_ORDER);
 
 function validate(items: unknown): NewArticle[] {
   if (!Array.isArray(items)) throw new Error("digest-input.json は配列である必要があります");
