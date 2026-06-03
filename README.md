@@ -10,29 +10,37 @@
 - **正本**: `articles.json`（テキスト）。重複排除もここ。git で差分が読める。
 - **検索**: `digest.db`（SQLite）。`articles.json` から生成する派生物（git管理外）。
 - **日付で読む**: `digests/YYYY/MM/YYYY-MM-DD.md`
-- **カテゴリで読む**: `views/technology.md` / `views/politics.md` / `views/economy.md`
+- **カテゴリで読む**: `views/ai.md` / `views/technology.md` / `views/politics.md` / `views/economy.md`
 
 ## 仕組み
 
 1. **毎朝 6:50 JST** — GitHub Actions が RSS を取得し `raw-items.json` を生成（[.github/workflows/fetch-feeds.yml](.github/workflows/fetch-feeds.yml)）。
 2. **毎朝 7:00 JST** — Claude routine が記事を選定し、選んだ記事の本文を取得（[scripts/fetch-article.ts](scripts/fetch-article.ts)）して投資視点で翻訳・要約し、SQLite と Markdown に蓄積（[ROUTINES_PROMPT.md](ROUTINES_PROMPT.md)）。
-3. **毎週月曜** — 別の Claude routine が運用ログ（`ops-log/`）を分析し、フィード改善を PR で提案（[IMPROVE_PROMPT.md](IMPROVE_PROMPT.md)）。
+3. **毎週月曜** — 別の Claude routine が直近7日の運用ログ（`ops-log/`）を全件読み、(A)複数レンズのagentでブレスト→(B)推進派⇄懐疑派の対立議論＋ジャッジ裁定で改善を練る。結論に基づくフィード改善を PR で提案する（ブレスト/議論ログは [ops-log/DEBATES/](ops-log/DEBATES/) に蓄積）（[IMPROVE_PROMPT.md](IMPROVE_PROMPT.md)）。
 
 ## 情報源
 
 党派や地域に偏らないよう、信頼性の高い無料RSSを横断している（[src/feeds.ts](src/feeds.ts)）。
 
+- **AI・先進技術**: OpenAI・Google DeepMind・Hugging Face・MIT Tech Review・BAIR（一次情報重視・先進性優先）
 - **経済の事実報道**: WSJ・Financial Times・CNBC（Markets / Earnings）
 - **テック**: TechCrunch・CNBC Technology / NYT・BBC・NPR の各テック面
 - **中立・公共放送**: NPR・PBS・BBC
 - **保守寄り**: WSJ（論調） / **リベラル寄り**: NYT
+- **コミュニティ（⚠️未確認）**: Reddit r/LocalLLaMA・r/MachineLearning（報道より早いが裏取り前提）
 
 ※ 無料媒体（CNBC・NPR・BBC・PBS・TechCrunch 等）は記事本文まで取得して厚く要約する。
 WSJ・NYT・FT は本文がペイウォールのため要約は RSS のリード文の範囲。
+Reddit 等のコミュニティ発は ⚠️ 付きで「未確認情報」として明示し、事実断定を避ける。
 記事に無い数値・ティッカーは創作しない方針。投資判断の補助情報であり、売買推奨ではない。
 
 ## 最近のダイジェスト
 
+- [2026-06-03](digests/2026/06/2026-06-03.md)
+- [2026-06-02](digests/2026/06/2026-06-02.md)
+- [2026-06-01](digests/2026/06/2026-06-01.md)
+- [2026-05-31](digests/2026/05/2026-05-31.md)
+- [2026-05-30](digests/2026/05/2026-05-30.md)
 - [2026-05-29](digests/2026/05/2026-05-29.md)
 
 ## 検索

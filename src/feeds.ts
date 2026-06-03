@@ -6,7 +6,7 @@
 // WSJ のフィードURLはサイト改編で変わることがあるため、取得失敗しても
 // 他のソースは止まらない設計（fetch-feeds.ts 側でスキップ）。
 
-export type Category = "technology" | "politics" | "economy";
+export type Category = "technology" | "politics" | "economy" | "ai";
 
 export interface FeedSource {
   /** 表示用の出典名 */
@@ -17,6 +17,12 @@ export interface FeedSource {
   category: Category;
   /** 本文が有料の壁の向こうか（要約はRSS記載範囲ベースになる旨の注記用） */
   paywalled?: boolean;
+  /**
+   * 信憑性が裏取りされていない一次情報か（例: Reddit のスレッド）。
+   * true のソースはダイジェスト上で ⚠️ 付きの「未確認情報」として明示し、
+   * 事実として断定せず「〜という投稿がある」のトーンで扱う。
+   */
+  unverified?: boolean;
 }
 
 export const FEEDS: FeedSource[] = [
@@ -57,6 +63,56 @@ export const FEEDS: FeedSource[] = [
     name: "NYT Technology",
     url: "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
     category: "technology",
+  },
+
+  // --- AI・先進技術 ---
+  // 報道の二次情報より「研究所・企業が直接出す一次情報」を重視。先進性優先。
+  // Reddit はノイズが多く裏取り前提のため unverified: true（⚠️付きで報告）。
+  {
+    // OpenAI 公式の発表・リリース。新モデル/新機能の一次情報（無料・本文も無料）。
+    name: "OpenAI",
+    url: "https://openai.com/news/rss.xml",
+    category: "ai",
+  },
+  {
+    // Google DeepMind 公式ブログ。最先端研究の一次情報（無料・本文も無料）。
+    name: "Google DeepMind",
+    url: "https://deepmind.google/blog/rss.xml",
+    category: "ai",
+  },
+  {
+    // Hugging Face 公式ブログ。新モデル・OSSツール・手法の一次情報。実装寄りで先進的（無料）。
+    name: "Hugging Face",
+    url: "https://huggingface.co/blog/feed.xml",
+    category: "ai",
+  },
+  {
+    // MIT Technology Review の AI 面。報道だが先端テックの目利きが効く（無料RSS、本文は一部ペイウォール）。
+    name: "MIT Tech Review AI",
+    url: "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    category: "ai",
+    paywalled: true,
+  },
+  {
+    // Berkeley AI Research の研究ブログ。学術側の先端トピックを平易に解説（無料・本文も無料）。
+    name: "BAIR Blog",
+    url: "https://bair.berkeley.edu/blog/feed.xml",
+    category: "ai",
+  },
+  {
+    // ローカルLLM・新モデルの話題が報道より早く立つコミュニティ（無料・Atom）。
+    // ノイズが多く裏取り前提のため unverified。「今バズっている」の一次ソース。
+    name: "Reddit r/LocalLLaMA",
+    url: "https://www.reddit.com/r/LocalLLaMA/.rss",
+    category: "ai",
+    unverified: true,
+  },
+  {
+    // 機械学習研究の議論。論文・新手法の話題が早い（無料・Atom）。裏取り前提のため unverified。
+    name: "Reddit r/MachineLearning",
+    url: "https://www.reddit.com/r/MachineLearning/.rss",
+    category: "ai",
+    unverified: true,
   },
 
   // --- 政治 ---
@@ -144,9 +200,10 @@ export const FEEDS: FeedSource[] = [
 export const MAX_PER_CATEGORY = 5;
 
 export const CATEGORY_LABELS: Record<Category, string> = {
+  ai: "🤖 AI・先進技術",
   technology: "🖥 テクノロジー",
   politics: "🏛 政治",
   economy: "💹 経済・マーケット",
 };
 
-export const CATEGORY_ORDER: Category[] = ["technology", "politics", "economy"];
+export const CATEGORY_ORDER: Category[] = ["ai", "technology", "politics", "economy"];
