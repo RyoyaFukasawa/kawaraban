@@ -1,6 +1,38 @@
 # 🖥 テクノロジー — 全アーカイブ
 
-全30件 / 日付の新しい順
+全32件 / 日付の新しい順
+
+## 2026-06-03
+
+### [Marvell株が史上最大の1日上昇率+32%——Jensen HuangがComputexで「次の1兆ドル企業」と称賛](https://www.cnbc.com/2026/06/02/jensen-huang-nvidia-marvell-technology-trillion-dollar-ai.html)
+*Marvell stock soars 32% as Nvidia's Huang says it could be the next trillion-dollar company*
+出典: CNBC Technology ・ #technology #2026-06-03
+
+NvidiaのJensen Huang CEOがComputex会場のオンステージでMarvell TechnologyをNvidiaに続く1兆ドル企業と称賛し、株価が1日で32.52%急騰——Marvell社史上最大の1日上昇率を記録した。火曜終値時点の時価総額は約2,500億ドル。
+Marvellはデータセンター・AIインフラ向けのネットワーク・接続チップを設計する半導体企業。AIコンピューティングでは「処理を細分化して巨大クラスター全体に分散するほど、接続チップが不可欠になる」とHuangは説明した。NvidiaはMarvellに20億ドルを投資しており、両社の協力関係は深まっている。直近のFY2027 Q1決算では売上24億ドルで予想超え、データセンター部門が好調。
+Marvell株+32.52%（史上最大の1日上昇）。終値時点の時価総額は約2,500億ドル。Nvidia投資額は20億ドル。
+HuangのMarvell称賛は「コンピューティングを細分化・分散するほど接続が不可欠」という根拠に裏打ちされており、単なるリップサービスではない。AIデータセンター投資テーマの「受益企業」がGPUからネットワーク・接続チップにまで広がることが改めて確認された。BroadcomとともにAIインフラの周辺チップ企業として投資家の注目が高まる。
+
+💡 投資含意: AIインフラへの設備投資ブームがGPU以外の接続・ネットワークチップまで広がることが市場に確認された。Marvellへの評価引き上げは同様のポジションを持つ銘柄にも波及する。
+🔗 波及: Broadcom（AVGO）も類似のデータセンターネットワークチップを持ち、同様の評価引き上げが期待される。Nvidia Vera CPUサーバーの普及拡大と連動した収益増も見込まれる。
+📈 関連銘柄: MRVL（強気・ただし急騰後の調整リスクも）、AVGO（同様の追い風・要注目）、NVDA（投資先・AI半導体エコシステム拡大確認）
+⚖️ 強気（AI接続チップセクター）
+📅 次の注目: Marvell次回決算でのデータセンター収益動向、Broadcomの同様のコメント・評価引き上げ
+
+### [Blue Originの発射台、ロケット爆発で2028年まで復旧困難——Amazon KuiperとNASA月面計画に直撃](https://www.cnbc.com/2026/06/01/blue-origin-launchpad-may-not-be-restored-until-2028-nasas-isaacman.html)
+*Blue Origin launchpad damaged in rocket explosion may not be restored until 2028, NASA's Isaacman says*
+出典: CNBC Technology ・ #technology #2026-06-03
+
+Blue OriginのNew Glenn巨大ロケットが先週フロリダ州ケープカナベラルの発射台でホットファイアテスト中に爆発炎上し、NASAのJared Isaacman長官が「2028年前後の発射台復旧は可能な範囲だが、深刻な時間がかかる」と明言した。Blue Origin CEO Dave Limpは「今年中に再飛行を目指す」と宣言したが、発射台の全面復旧には相当の期間を要する。
+Blue OriginのNew Glenn発射台はケープカナベラルの1基のみが稼働中（カリフォルニア・ヴァンデンバーグは開発中）。爆発後、ジェフ・ベゾスとLimpが現地視察し対応策を協議。NASAはArtemisプログラムの一環でBlue Originと複数契約を結んでいる。
+2028年に発射台復旧が「可能な範囲」（Isaacman）。NASAの月面ローバー2台と無人着陸機Mark 1はBlue Origin経由で2028年に打ち上げ予定。Amazon Kuiperは48機の衛星打ち上げが直近予定されていた。AST SpaceMobile株は先週15%急落、月曜もさらに6%安。
+「重力型宇宙輸送市場でSpaceXとBlue Originしかいない、その一方が今ダウンしている」（Isaacman）という状況はSpaceXの相対的競争優位を劇的に高める。AmazonのKuiper事業はFCCへの衛星展開期限（来月）も抱えており、スケジュールリスクが急増した。NASAも「Falcon Heavyの出番」と事実上代替調達に言及している。
+
+💡 投資含意: SpaceXの競合優位が一時的に大幅強化。AmazonのKuiper事業（Starlinkの競合）の遅延はSpaceXの支配的地位をさらに固める。
+🔗 波及: AST SpaceMobile（ASTS）はBlue Origin依存で打ち上げ遅延リスク継続。NASAの月面計画スケジュールにも影響が波及する可能性。
+📈 関連銘柄: ASTS（Blue Origin依存で下方リスク）、AMZN（Kuiper遅延リスク・弱材料）
+⚖️ 弱気（Blue Origin関連）: 主力発射台の復旧に2028年前後まで時間を要すれば、複数の契約ミッションが長期遅延。
+📅 次の注目: Blue Originの「今年中再飛行」宣言の実現可能性、AmazonのFCC期限（来月）への対応策発表
 
 ## 2026-06-02
 
