@@ -1,6 +1,38 @@
 # 🏛 政治 — 全アーカイブ
 
-全33件 / 日付の新しい順
+全38件 / 日付の新しい順
+
+## 2026-06-04
+
+### [米政府、強制労働調査を根拠に主要貿易相手国に10〜12.5%の追加関税を提案](https://www.pbs.org/newshour/economy/u-s-says-it-plans-extra-tariffs-of-10-or-more-for-most-trading-partners-after-forced-labor-probe)
+*US proposes extra tariffs of 10-12.5% on most trading partners after forced labor probe*
+出典: PBS Politics ・ #politics #2026-06-04
+
+トランプ政権が通商法301条の強制労働条項を根拠に、カナダ・メキシコ・EU・英国・台湾など16経済圏に10%、中国・日本・インド・韓国など44カ国に12.5%の追加関税を提案。最高裁に違憲判決されたIEEPA関税の代替策として、食品・航空機部品・希少金属は適用除外。公聴会は7月7日開始予定で、即時発動ではないが貿易相手国からの反発は即座に起きている。
+
+### [米下院、215対208でイラン戦争権限決議を可決——議会がトランプ政権の軍事行動を牽制](https://www.cbsnews.com/live-updates/trump-iran-war-attacks-kuwait-airport-israel-hezbollah-ceasefire/)
+*House passes Iran war powers resolution 215-208 amid Middle East escalation*
+出典: CBS News ・ #politics #2026-06-04
+
+米下院がイランへの軍事行動に大統領権限を制限する戦争権限決議を215対208で可決、共和党4人（マッシー議員ら）が賛成票を投じた。トランプ政権がイラン船舶へのミサイル攻撃を実施したとされる一方、議会は行政府の軍事権限を制限しようとしている。イスラエル・レバノン停戦は更新されたが「試験的安全区域」設置をめぐり緊張が継続。米国の中東政策の方向性をめぐる政権と議会の対立が深まっている。
+
+### [イランがクウェートをミサイル・ドローン攻撃——中東緊張が一段と拡大](https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss)
+*Iran attacks Kuwait with missiles and drones in retaliation claims*
+出典: BBC World ・ #politics #2026-06-04
+
+イランがクウェートに対してミサイルとドローンによる攻撃を実施、イスラエルへの報復と主張している。中東情勢は湾岸諸国まで波及しており、原油供給インフラへのリスクが高まっている。イラン核交渉でも「目に見える進展なし」とイラン外相が表明、外交解決の見通しは不透明。エネルギー価格と地政学リスクプレミアムへの影響が注視される。
+
+### [米下院、ウクライナ軍事支援継続予算をトランプ反対を押し切り可決](https://thehill.com/homenews/house/5908723-house-vote-ukraine-military-aid-trump/)
+*House approves Ukraine military aid despite Trump opposition*
+出典: The Hill ・ #politics #2026-06-04
+
+米下院がトランプ大統領の反対にもかかわらずウクライナへの軍事支援継続を盛り込んだ予算案を可決した。共和党内の一部議員が政権方針に反して賛成票を投じており、対ウクライナ政策での共和党内の亀裂が顕在化している。欧州防衛関連株や防衛予算動向に影響を与える可能性がある。
+
+### [トランプ政権、連邦職員に「Schedule PC」分類を拡大——政治的忠誠度による公務員保護剥奪が加速](https://thehill.com/homenews/5908761-trump-federal-workers-schedule-pc/)
+*Trump moves to expand Schedule PC classification for federal workers*
+出典: The Hill ・ #politics #2026-06-04
+
+トランプ政権が連邦職員を「Schedule PC（Political Conviction）」に再分類する取り組みを拡大、政治的立場が反政権とみなされた公務員から解雇保護を剥奪できる仕組みを広げている。行政府の人事権強化と官僚機構の政治化が進んでおり、規制当局の独立性や政策継続性への懸念が高まっている。
 
 ## 2026-06-03
 

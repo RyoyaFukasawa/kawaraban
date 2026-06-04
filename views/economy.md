@@ -1,6 +1,38 @@
 # 💹 経済・マーケット — 全アーカイブ
 
-全35件 / 日付の新しい順
+全40件 / 日付の新しい順
+
+## 2026-06-04
+
+### [FT、AIと世界経済に関する新たな分析を報道](https://www.ft.com/content/d0be73c8-b8d8-4ffd-874e-e97a6ecffef7)
+*Financial Times analysis on AI investment and global economy*
+出典: Financial Times ・ #economy #2026-06-04
+
+フィナンシャル・タイムズがAI投資拡大と世界経済への影響に関する分析を掲載。SpaceX・Anthropic・OpenAIといった大型IPOや資本調達の連鎖が市場の資金需給を逼迫させつつある状況を背景に、機関投資家のポートフォリオ再配分や既存ポジションの整理売りが加速するリスクを指摘。AIインフラへの集中投資が株式市場全体のボラティリティを高めかねない点が論点となっている。
+
+### [クレイマー氏「AI関連の過剰供給が強気相場最大のリスク」——Nvidia株が「最大の貯金箱」に](https://www.cnbc.com/2026/06/03/jim-cramer-warns-excess-supply-could-be-the-next-biggest-threat-to-the-bull-market.html)
+*Jim Cramer warns excess AI supply could kill the bull market*
+出典: CNBC Technology ・ #economy #2026-06-04
+
+CNBCのジム・クレイマー氏がSpaceX・Anthropic・OpenAIの大型IPO連鎖が市場の株式供給過多を引き起こし、投資家が既存の勝ち株を売却して新規公開株の購入資金を捻出する悪循環を警告。Nvidia株は水曜日に3.6%下落し「最大の貯金箱」と表現される換金売りの標的になっている。短期的な需給悪化リスクを指摘しつつも、Nvidiaチップ購入企業が収益を上げ始めれば長期的なAI投資テーゼは維持されると見解を示した。
+
+### [ブロードコム第2四半期、AI売上高2倍増も株価15%急落——CEOがAI半導体見通し据え置きで失望売り](https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html)
+*Broadcom Q2 2026 earnings: AI revenue doubles but stock falls 15% on guidance hold*
+出典: CNBC Technology ・ #economy #2026-06-04
+
+ブロードコムの第2四半期はAI売上高が前年比2倍の108億ドルに達し売上高全体も48%増加したが、CEOのホック・タン氏がAI半導体の2026年度ガイダンス「100億ドル超」を据え置いたことで株価が15%急落。ソフトウェア部門は73億ドルとアナリスト予想を下回り、「チップのみ提供」へ戦略を変更。第3四半期のAI売上高は160億ドルへの3倍増を見込むが、期待を大きく超える上方修正がなければ高バリュエーション維持は困難との見方が広がっている。
+
+### [モルガン・スタンレー、MCP経由でAIエージェントを株式報酬管理プラットフォームに開放——ウォール街初の外部AI接続](https://www.cnbc.com/2026/06/03/ai-agents-morgan-stanley-wealth-management-funnel.html)
+*Morgan Stanley opens wealth management platform to external AI agents via MCP*
+出典: CNBC Technology ・ #economy #2026-06-04
+
+モルガン・スタンレーがModel Context Protocol（MCP）を活用し、株式報酬管理プラットフォーム「ShareWorks」「Equity Edge」をクライアント企業のAIエージェントに開放すると発表。来年までに3400社の法人クライアントに提供予定で、同行が$7.35兆の資産を抱えるウェルスマネジメント事業への入口として機能している職場戦略を踏まえた自然な進化。MCPを活用した大手金融機関初の外部AIエージェント接続事例として、金融サービス業でのエージェントAI普及を加速するモデルケースとなりうる。
+
+### [ADP5月雇用、予想上回る12万2000人増——2025年1月以来最強の伸びで労働市場の底堅さを確認](https://www.cnbc.com/2026/06/03/adp-jobs-report-may-2026-payrolls-increase-by-122000.html)
+*ADP May 2026 jobs report: payrolls increase by 122,000, strongest since January 2025*
+出典: CNBC Markets ・ #economy #2026-06-04
+
+ADP雇用レポートで5月の民間雇用者数が12万2000人増と市場予想（11万人）を上回り、2025年1月以来最強の伸びを記録。10業種中8業種が増加と広範な雇用拡大が確認された一方、情報サービス業は9000人減少しAI普及による雇用代替の影響が示唆される。賃金上昇率は同職継続者が4.4%、転職者が6.5%。FRBは6月16〜17日のFOMCで政策金利3.5〜3.75%の据え置きを維持する見通し。
 
 ## 2026-06-03
 

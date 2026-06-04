@@ -1,6 +1,38 @@
 # 🖥 テクノロジー — 全アーカイブ
 
-全32件 / 日付の新しい順
+全37件 / 日付の新しい順
+
+## 2026-06-04
+
+### [SpaceX、1株135ドル・時価総額1.77兆ドルでIPO価格決定——6月12日ナスダック上場へ](https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html)
+*SpaceX sets IPO price at $135 per share, targeting $75 billion raise*
+出典: CNBC Technology ・ #technology #2026-06-04
+
+SpaceXが1株135ドルの固定価格でIPOを決定、5億5560万株を販売し最大約860億ドルの調達を目指す。時価総額は1.77兆ドルとなり、ゴールドマン・サックス主幹事でナスダックに6月12日上場予定。マスク氏は82%超の議決権を維持し、xAIとの合併も組み込む。史上最大級のIPOとして市場の需給に与える影響が注目される。
+
+### [EU、米国依存脱却へ「クラウド・AI開発法」とチップス法2.0——技術主権戦略を本格化](https://www.cnbc.com/2026/06/03/europe-tech-sovereignty-us-tech-reliance.html)
+*Europe accelerates tech sovereignty push against US cloud reliance*
+出典: CNBC Technology ・ #technology #2026-06-04
+
+EUが「クラウド・AI開発法（CADA）」とチップス法2.0を通じて米国クラウド・AI依存からの脱却を加速している。CADAの最高主権ティアは米国のCloud Act適用を受ける米系企業を除外する設計で、「キルスイッチなし」原則を掲げる。欧州の規制が米テクノロジー企業の市場アクセスに与える影響は大きく、AWS・Azure・GCPへの中長期的な逆風となりうる。
+
+### [CrowdStrike、Q1増収増益で4対1の株式分割を発表——「Mythos」でAI防衛プラットフォーム強化](https://www.cnbc.com/2026/06/03/crowdstrike-crwd-q1-2027-earnings.html)
+*CrowdStrike Q1 2027 earnings: revenue up 26%, announces 4-for-1 stock split*
+出典: CNBC Technology ・ #technology #2026-06-04
+
+CrowdStrikeが第1四半期決算で売上高26%増、EPS 11セントを発表。7月に4対1の株式分割を実施し、AI防衛プラットフォーム「Mythos」で5000万ドル超のパイプラインを構築。SGNL（7億4000万ドル）とPangeaを買収しID管理とセキュリティ基盤を拡充。FY2027のARRガイダンスを65.3〜65.6億ドルに設定し、AIサイバーセキュリティ市場でのリーダーシップを強化している。
+
+### [米国のプリント基板シェアが30%から4%に急落——NvidiaチップへのPCB中国依存が安全保障上の懸念に](https://www.cnbc.com/2026/06/03/beneath-nvidia-ai-chips-chinese-pcbs-raise-security-concerns-in-us.html)
+*Beneath Nvidia AI chips, Chinese PCBs raise security concerns in US*
+出典: CNBC Technology ・ #technology #2026-06-04
+
+AIチップ需要の爆増でプリント基板（PCB）の中国依存が深刻化、米国のPCBシェアはかつての30%から4%まで低下し現在60%を中国が占める。関税の影響でPCB価格は3〜4月に40%高騰し、上場米国メーカーTTMとSanminaの株がそれぞれ500%・大幅高を記録。TTMはシラキュース（NY）とウィスコンシンに新工場を建設中。AIサプライチェーンの地政学リスクとして、半導体装置・材料セクターへの波及が注目される。
+
+### [Alphabet、AI事業向けに史上最大850億ドルの株式売却——バークシャーが100億ドル出資](https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/)
+*Alphabet's record-breaking $85B raise for Google's AI business*
+出典: TechCrunch ・ #technology #2026-06-04
+
+AlphabetがGoogle AI事業向けに850億ドルの株式売却を実施、第1弾450億ドルは400億ドルから増額されるほど需要超過となった。バークシャー・ハサウェイが100億ドルを出資し、ペトロブラスの2010年700億ドルを超えて史上最大の株式調達を記録。年間AIインフラ投資は1800〜1900億ドルに達する見通しで、テクノロジー企業への機関投資家の強い需要を示す。
 
 ## 2026-06-03
 

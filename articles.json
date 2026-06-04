@@ -1048,5 +1048,205 @@
     "url": "https://www.cnbc.com/2026/06/02/jensen-huang-nvidia-marvell-technology-trillion-dollar-ai.html",
     "summary": "NvidiaのJensen Huang CEOがComputex会場のオンステージでMarvell TechnologyをNvidiaに続く1兆ドル企業と称賛し、株価が1日で32.52%急騰——Marvell社史上最大の1日上昇率を記録した。火曜終値時点の時価総額は約2,500億ドル。\nMarvellはデータセンター・AIインフラ向けのネットワーク・接続チップを設計する半導体企業。AIコンピューティングでは「処理を細分化して巨大クラスター全体に分散するほど、接続チップが不可欠になる」とHuangは説明した。NvidiaはMarvellに20億ドルを投資しており、両社の協力関係は深まっている。直近のFY2027 Q1決算では売上24億ドルで予想超え、データセンター部門が好調。\nMarvell株+32.52%（史上最大の1日上昇）。終値時点の時価総額は約2,500億ドル。Nvidia投資額は20億ドル。\nHuangのMarvell称賛は「コンピューティングを細分化・分散するほど接続が不可欠」という根拠に裏打ちされており、単なるリップサービスではない。AIデータセンター投資テーマの「受益企業」がGPUからネットワーク・接続チップにまで広がることが改めて確認された。BroadcomとともにAIインフラの周辺チップ企業として投資家の注目が高まる。\n\n💡 投資含意: AIインフラへの設備投資ブームがGPU以外の接続・ネットワークチップまで広がることが市場に確認された。Marvellへの評価引き上げは同様のポジションを持つ銘柄にも波及する。\n🔗 波及: Broadcom（AVGO）も類似のデータセンターネットワークチップを持ち、同様の評価引き上げが期待される。Nvidia Vera CPUサーバーの普及拡大と連動した収益増も見込まれる。\n📈 関連銘柄: MRVL（強気・ただし急騰後の調整リスクも）、AVGO（同様の追い風・要注目）、NVDA（投資先・AI半導体エコシステム拡大確認）\n⚖️ 強気（AI接続チップセクター）\n📅 次の注目: Marvell次回決算でのデータセンター収益動向、Broadcomの同様のコメント・評価引き上げ",
     "created_at": "2026-06-03T22:21:10.516Z"
+  },
+  {
+    "date": "2026-06-04",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title_ja": "Hcompany、高速ローカル動作のコンピューターユースエージェント「Holo3.1」を発表",
+    "title_en": "Holo3.1: Fast & Local Computer Use Agents",
+    "url": "https://huggingface.co/blog/Hcompany/holo31",
+    "summary": "HcompanyがQwenファミリーベースのコンピューターユースエージェント「Holo3.1」を発表。AndroidWorldベンチマークで67%から79.3%に改善し、DGX Sparkで1ステップあたり6.8秒から3.3秒へ2倍高速化を達成。0.8B〜35B-A3Bの4サイズを提供し、FP8・Q4 GGUF・NVFP4の量子化チェックポイントでローカル実行を実現。AIエージェントのエッジ展開競争が本格化していることを示す。",
+    "created_at": "2026-06-04T22:27:49.848Z"
+  },
+  {
+    "date": "2026-06-04",
+    "category": "ai",
+    "source": "OpenAI",
+    "title_ja": "OpenAI、ライフサイエンス特化AIモデル「GPT-Rosalind」新機能を発表",
+    "title_en": "Introducing new capabilities to GPT-Rosalind",
+    "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+    "summary": "OpenAIはGPT-5.5のエージェント型コーディング能力と創薬推論を統合したライフサイエンス特化モデル「GPT-Rosalind」の新機能を発表した。化学・生物学・薬理学など6分野をカバーするベンチマーク「LifeSciBench」での高性能を示しており、適格な研究機関向けのリサーチプレビューとして提供開始。創薬・バイオ研究のAI活用加速と、OpenAIの垂直特化戦略の本格化を示す動向として注目される。",
+    "created_at": "2026-06-04T22:27:49.848Z"
+  },
+  {
+    "date": "2026-06-04",
+    "category": "ai",
+    "source": "Reddit r/LocalLLaMA",
+    "title_ja": "⚠️ MicrosoftがBuild 2026で「Aion 1.0 Instruct」と「Aion 1.0 Plan」モデルを公開したという投稿がある",
+    "title_en": "Microsoft Aion 1.0 Instruct and Aion 1.0 Plan models unveiled at Build 2026",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tvekng/microsoft_aion_10_instruct_and_aion_10_plan_models/",
+    "summary": "MicrosoftがBuild 2026でエージェントワークフロー向けの「Aion 1.0 Instruct」と計画立案特化の「Aion 1.0 Plan」という2モデルを公開したという投稿がある。CopilotやAzure AIとの統合が示唆されており、OpenAIへの依存を分散する自社モデル強化戦略の一環とみられる。⚠️ 未確認情報（Reddit発・要裏取り）",
+    "created_at": "2026-06-04T22:27:49.848Z"
+  },
+  {
+    "date": "2026-06-04",
+    "category": "ai",
+    "source": "Reddit r/LocalLLaMA",
+    "title_ja": "⚠️ GoogleがGemma 4 12Bをリリースという投稿がある",
+    "title_en": "Google Gemma 4 12B: unified encoder-free multimodal model",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tvtn6m/googlegemma412b_hugging_face/",
+    "summary": "Googleが「Gemma 4 12B」をリリースしたという投稿がある。エンコーダなしのユニファイド・マルチモーダルアーキテクチャを採用し、テキスト・画像・動画を統一的に処理できるとされる。ローカル推論コミュニティで関心が高まっており、オープンウェイト戦略の継続とGemmaシリーズの進化を示す動きとして注目される。⚠️ 未確認情報（Reddit発・要裏取り）",
+    "created_at": "2026-06-04T22:27:49.848Z"
+  },
+  {
+    "date": "2026-06-04",
+    "category": "ai",
+    "source": "Reddit r/MachineLearning",
+    "title_ja": "⚠️ MiniMaxが100万トークンコンテキストを実現する新アテンション機構「MSA」を発表したという投稿がある",
+    "title_en": "MiniMax dropped a new attention architecture (MSA) enabling 1M context",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1tvameq/minimax_dropped_a_new_attention_architecture_n/",
+    "summary": "MiniMaxが100万トークンコンテキストを実現する新しいアテンションアーキテクチャ「MSA（Multi-head Sparse Attention）」を発表したという投稿がある。超長文脈処理の計算コスト問題を解決するアプローチとされ、中国発のLLMアーキテクチャ革新として注目される。長文書・コードベース全体を扱うエンタープライズ用途への影響が期待される。⚠️ 未確認情報（Reddit発・要裏取り）",
+    "created_at": "2026-06-04T22:27:49.848Z"
+  },
+  {
+    "date": "2026-06-04",
+    "category": "economy",
+    "source": "CNBC Markets",
+    "title_ja": "ADP5月雇用、予想上回る12万2000人増——2025年1月以来最強の伸びで労働市場の底堅さを確認",
+    "title_en": "ADP May 2026 jobs report: payrolls increase by 122,000, strongest since January 2025",
+    "url": "https://www.cnbc.com/2026/06/03/adp-jobs-report-may-2026-payrolls-increase-by-122000.html",
+    "summary": "ADP雇用レポートで5月の民間雇用者数が12万2000人増と市場予想（11万人）を上回り、2025年1月以来最強の伸びを記録。10業種中8業種が増加と広範な雇用拡大が確認された一方、情報サービス業は9000人減少しAI普及による雇用代替の影響が示唆される。賃金上昇率は同職継続者が4.4%、転職者が6.5%。FRBは6月16〜17日のFOMCで政策金利3.5〜3.75%の据え置きを維持する見通し。",
+    "created_at": "2026-06-04T22:27:49.848Z"
+  },
+  {
+    "date": "2026-06-04",
+    "category": "economy",
+    "source": "CNBC Technology",
+    "title_ja": "モルガン・スタンレー、MCP経由でAIエージェントを株式報酬管理プラットフォームに開放——ウォール街初の外部AI接続",
+    "title_en": "Morgan Stanley opens wealth management platform to external AI agents via MCP",
+    "url": "https://www.cnbc.com/2026/06/03/ai-agents-morgan-stanley-wealth-management-funnel.html",
+    "summary": "モルガン・スタンレーがModel Context Protocol（MCP）を活用し、株式報酬管理プラットフォーム「ShareWorks」「Equity Edge」をクライアント企業のAIエージェントに開放すると発表。来年までに3400社の法人クライアントに提供予定で、同行が$7.35兆の資産を抱えるウェルスマネジメント事業への入口として機能している職場戦略を踏まえた自然な進化。MCPを活用した大手金融機関初の外部AIエージェント接続事例として、金融サービス業でのエージェントAI普及を加速するモデルケースとなりうる。",
+    "created_at": "2026-06-04T22:27:49.848Z"
+  },
+  {
+    "date": "2026-06-04",
+    "category": "economy",
+    "source": "CNBC Technology",
+    "title_ja": "ブロードコム第2四半期、AI売上高2倍増も株価15%急落——CEOがAI半導体見通し据え置きで失望売り",
+    "title_en": "Broadcom Q2 2026 earnings: AI revenue doubles but stock falls 15% on guidance hold",
+    "url": "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html",
+    "summary": "ブロードコムの第2四半期はAI売上高が前年比2倍の108億ドルに達し売上高全体も48%増加したが、CEOのホック・タン氏がAI半導体の2026年度ガイダンス「100億ドル超」を据え置いたことで株価が15%急落。ソフトウェア部門は73億ドルとアナリスト予想を下回り、「チップのみ提供」へ戦略を変更。第3四半期のAI売上高は160億ドルへの3倍増を見込むが、期待を大きく超える上方修正がなければ高バリュエーション維持は困難との見方が広がっている。",
+    "created_at": "2026-06-04T22:27:49.848Z"
+  },
+  {
+    "date": "2026-06-04",
+    "category": "economy",
+    "source": "CNBC Technology",
+    "title_ja": "クレイマー氏「AI関連の過剰供給が強気相場最大のリスク」——Nvidia株が「最大の貯金箱」に",
+    "title_en": "Jim Cramer warns excess AI supply could kill the bull market",
+    "url": "https://www.cnbc.com/2026/06/03/jim-cramer-warns-excess-supply-could-be-the-next-biggest-threat-to-the-bull-market.html",
+    "summary": "CNBCのジム・クレイマー氏がSpaceX・Anthropic・OpenAIの大型IPO連鎖が市場の株式供給過多を引き起こし、投資家が既存の勝ち株を売却して新規公開株の購入資金を捻出する悪循環を警告。Nvidia株は水曜日に3.6%下落し「最大の貯金箱」と表現される換金売りの標的になっている。短期的な需給悪化リスクを指摘しつつも、Nvidiaチップ購入企業が収益を上げ始めれば長期的なAI投資テーゼは維持されると見解を示した。",
+    "created_at": "2026-06-04T22:27:49.848Z"
+  },
+  {
+    "date": "2026-06-04",
+    "category": "economy",
+    "source": "Financial Times",
+    "title_ja": "FT、AIと世界経済に関する新たな分析を報道",
+    "title_en": "Financial Times analysis on AI investment and global economy",
+    "url": "https://www.ft.com/content/d0be73c8-b8d8-4ffd-874e-e97a6ecffef7",
+    "summary": "フィナンシャル・タイムズがAI投資拡大と世界経済への影響に関する分析を掲載。SpaceX・Anthropic・OpenAIといった大型IPOや資本調達の連鎖が市場の資金需給を逼迫させつつある状況を背景に、機関投資家のポートフォリオ再配分や既存ポジションの整理売りが加速するリスクを指摘。AIインフラへの集中投資が株式市場全体のボラティリティを高めかねない点が論点となっている。",
+    "created_at": "2026-06-04T22:27:49.848Z"
+  },
+  {
+    "date": "2026-06-04",
+    "category": "politics",
+    "source": "The Hill",
+    "title_ja": "トランプ政権、連邦職員に「Schedule PC」分類を拡大——政治的忠誠度による公務員保護剥奪が加速",
+    "title_en": "Trump moves to expand Schedule PC classification for federal workers",
+    "url": "https://thehill.com/homenews/5908761-trump-federal-workers-schedule-pc/",
+    "summary": "トランプ政権が連邦職員を「Schedule PC（Political Conviction）」に再分類する取り組みを拡大、政治的立場が反政権とみなされた公務員から解雇保護を剥奪できる仕組みを広げている。行政府の人事権強化と官僚機構の政治化が進んでおり、規制当局の独立性や政策継続性への懸念が高まっている。",
+    "created_at": "2026-06-04T22:27:49.848Z"
+  },
+  {
+    "date": "2026-06-04",
+    "category": "politics",
+    "source": "The Hill",
+    "title_ja": "米下院、ウクライナ軍事支援継続予算をトランプ反対を押し切り可決",
+    "title_en": "House approves Ukraine military aid despite Trump opposition",
+    "url": "https://thehill.com/homenews/house/5908723-house-vote-ukraine-military-aid-trump/",
+    "summary": "米下院がトランプ大統領の反対にもかかわらずウクライナへの軍事支援継続を盛り込んだ予算案を可決した。共和党内の一部議員が政権方針に反して賛成票を投じており、対ウクライナ政策での共和党内の亀裂が顕在化している。欧州防衛関連株や防衛予算動向に影響を与える可能性がある。",
+    "created_at": "2026-06-04T22:27:49.848Z"
+  },
+  {
+    "date": "2026-06-04",
+    "category": "politics",
+    "source": "BBC World",
+    "title_ja": "イランがクウェートをミサイル・ドローン攻撃——中東緊張が一段と拡大",
+    "title_en": "Iran attacks Kuwait with missiles and drones in retaliation claims",
+    "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
+    "summary": "イランがクウェートに対してミサイルとドローンによる攻撃を実施、イスラエルへの報復と主張している。中東情勢は湾岸諸国まで波及しており、原油供給インフラへのリスクが高まっている。イラン核交渉でも「目に見える進展なし」とイラン外相が表明、外交解決の見通しは不透明。エネルギー価格と地政学リスクプレミアムへの影響が注視される。",
+    "created_at": "2026-06-04T22:27:49.848Z"
+  },
+  {
+    "date": "2026-06-04",
+    "category": "politics",
+    "source": "CBS News",
+    "title_ja": "米下院、215対208でイラン戦争権限決議を可決——議会がトランプ政権の軍事行動を牽制",
+    "title_en": "House passes Iran war powers resolution 215-208 amid Middle East escalation",
+    "url": "https://www.cbsnews.com/live-updates/trump-iran-war-attacks-kuwait-airport-israel-hezbollah-ceasefire/",
+    "summary": "米下院がイランへの軍事行動に大統領権限を制限する戦争権限決議を215対208で可決、共和党4人（マッシー議員ら）が賛成票を投じた。トランプ政権がイラン船舶へのミサイル攻撃を実施したとされる一方、議会は行政府の軍事権限を制限しようとしている。イスラエル・レバノン停戦は更新されたが「試験的安全区域」設置をめぐり緊張が継続。米国の中東政策の方向性をめぐる政権と議会の対立が深まっている。",
+    "created_at": "2026-06-04T22:27:49.848Z"
+  },
+  {
+    "date": "2026-06-04",
+    "category": "politics",
+    "source": "PBS Politics",
+    "title_ja": "米政府、強制労働調査を根拠に主要貿易相手国に10〜12.5%の追加関税を提案",
+    "title_en": "US proposes extra tariffs of 10-12.5% on most trading partners after forced labor probe",
+    "url": "https://www.pbs.org/newshour/economy/u-s-says-it-plans-extra-tariffs-of-10-or-more-for-most-trading-partners-after-forced-labor-probe",
+    "summary": "トランプ政権が通商法301条の強制労働条項を根拠に、カナダ・メキシコ・EU・英国・台湾など16経済圏に10%、中国・日本・インド・韓国など44カ国に12.5%の追加関税を提案。最高裁に違憲判決されたIEEPA関税の代替策として、食品・航空機部品・希少金属は適用除外。公聴会は7月7日開始予定で、即時発動ではないが貿易相手国からの反発は即座に起きている。",
+    "created_at": "2026-06-04T22:27:49.848Z"
+  },
+  {
+    "date": "2026-06-04",
+    "category": "technology",
+    "source": "TechCrunch",
+    "title_ja": "Alphabet、AI事業向けに史上最大850億ドルの株式売却——バークシャーが100億ドル出資",
+    "title_en": "Alphabet's record-breaking $85B raise for Google's AI business",
+    "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+    "summary": "AlphabetがGoogle AI事業向けに850億ドルの株式売却を実施、第1弾450億ドルは400億ドルから増額されるほど需要超過となった。バークシャー・ハサウェイが100億ドルを出資し、ペトロブラスの2010年700億ドルを超えて史上最大の株式調達を記録。年間AIインフラ投資は1800〜1900億ドルに達する見通しで、テクノロジー企業への機関投資家の強い需要を示す。",
+    "created_at": "2026-06-04T22:27:49.848Z"
+  },
+  {
+    "date": "2026-06-04",
+    "category": "technology",
+    "source": "CNBC Technology",
+    "title_ja": "米国のプリント基板シェアが30%から4%に急落——NvidiaチップへのPCB中国依存が安全保障上の懸念に",
+    "title_en": "Beneath Nvidia AI chips, Chinese PCBs raise security concerns in US",
+    "url": "https://www.cnbc.com/2026/06/03/beneath-nvidia-ai-chips-chinese-pcbs-raise-security-concerns-in-us.html",
+    "summary": "AIチップ需要の爆増でプリント基板（PCB）の中国依存が深刻化、米国のPCBシェアはかつての30%から4%まで低下し現在60%を中国が占める。関税の影響でPCB価格は3〜4月に40%高騰し、上場米国メーカーTTMとSanminaの株がそれぞれ500%・大幅高を記録。TTMはシラキュース（NY）とウィスコンシンに新工場を建設中。AIサプライチェーンの地政学リスクとして、半導体装置・材料セクターへの波及が注目される。",
+    "created_at": "2026-06-04T22:27:49.848Z"
+  },
+  {
+    "date": "2026-06-04",
+    "category": "technology",
+    "source": "CNBC Technology",
+    "title_ja": "CrowdStrike、Q1増収増益で4対1の株式分割を発表——「Mythos」でAI防衛プラットフォーム強化",
+    "title_en": "CrowdStrike Q1 2027 earnings: revenue up 26%, announces 4-for-1 stock split",
+    "url": "https://www.cnbc.com/2026/06/03/crowdstrike-crwd-q1-2027-earnings.html",
+    "summary": "CrowdStrikeが第1四半期決算で売上高26%増、EPS 11セントを発表。7月に4対1の株式分割を実施し、AI防衛プラットフォーム「Mythos」で5000万ドル超のパイプラインを構築。SGNL（7億4000万ドル）とPangeaを買収しID管理とセキュリティ基盤を拡充。FY2027のARRガイダンスを65.3〜65.6億ドルに設定し、AIサイバーセキュリティ市場でのリーダーシップを強化している。",
+    "created_at": "2026-06-04T22:27:49.848Z"
+  },
+  {
+    "date": "2026-06-04",
+    "category": "technology",
+    "source": "CNBC Technology",
+    "title_ja": "EU、米国依存脱却へ「クラウド・AI開発法」とチップス法2.0——技術主権戦略を本格化",
+    "title_en": "Europe accelerates tech sovereignty push against US cloud reliance",
+    "url": "https://www.cnbc.com/2026/06/03/europe-tech-sovereignty-us-tech-reliance.html",
+    "summary": "EUが「クラウド・AI開発法（CADA）」とチップス法2.0を通じて米国クラウド・AI依存からの脱却を加速している。CADAの最高主権ティアは米国のCloud Act適用を受ける米系企業を除外する設計で、「キルスイッチなし」原則を掲げる。欧州の規制が米テクノロジー企業の市場アクセスに与える影響は大きく、AWS・Azure・GCPへの中長期的な逆風となりうる。",
+    "created_at": "2026-06-04T22:27:49.848Z"
+  },
+  {
+    "date": "2026-06-04",
+    "category": "technology",
+    "source": "CNBC Technology",
+    "title_ja": "SpaceX、1株135ドル・時価総額1.77兆ドルでIPO価格決定——6月12日ナスダック上場へ",
+    "title_en": "SpaceX sets IPO price at $135 per share, targeting $75 billion raise",
+    "url": "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html",
+    "summary": "SpaceXが1株135ドルの固定価格でIPOを決定、5億5560万株を販売し最大約860億ドルの調達を目指す。時価総額は1.77兆ドルとなり、ゴールドマン・サックス主幹事でナスダックに6月12日上場予定。マスク氏は82%超の議決権を維持し、xAIとの合併も組み込む。史上最大級のIPOとして市場の需給に与える影響が注目される。",
+    "created_at": "2026-06-04T22:27:49.848Z"
   }
 ]

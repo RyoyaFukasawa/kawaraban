@@ -1,6 +1,38 @@
 # 🤖 AI・先進技術 — 全アーカイブ
 
-全5件 / 日付の新しい順
+全10件 / 日付の新しい順
+
+## 2026-06-04
+
+### [⚠️ MiniMaxが100万トークンコンテキストを実現する新アテンション機構「MSA」を発表したという投稿がある](https://www.reddit.com/r/MachineLearning/comments/1tvameq/minimax_dropped_a_new_attention_architecture_n/)
+*MiniMax dropped a new attention architecture (MSA) enabling 1M context*
+出典: Reddit r/MachineLearning ・ #ai #2026-06-04
+
+MiniMaxが100万トークンコンテキストを実現する新しいアテンションアーキテクチャ「MSA（Multi-head Sparse Attention）」を発表したという投稿がある。超長文脈処理の計算コスト問題を解決するアプローチとされ、中国発のLLMアーキテクチャ革新として注目される。長文書・コードベース全体を扱うエンタープライズ用途への影響が期待される。⚠️ 未確認情報（Reddit発・要裏取り）
+
+### [⚠️ GoogleがGemma 4 12Bをリリースという投稿がある](https://www.reddit.com/r/LocalLLaMA/comments/1tvtn6m/googlegemma412b_hugging_face/)
+*Google Gemma 4 12B: unified encoder-free multimodal model*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-04
+
+Googleが「Gemma 4 12B」をリリースしたという投稿がある。エンコーダなしのユニファイド・マルチモーダルアーキテクチャを採用し、テキスト・画像・動画を統一的に処理できるとされる。ローカル推論コミュニティで関心が高まっており、オープンウェイト戦略の継続とGemmaシリーズの進化を示す動きとして注目される。⚠️ 未確認情報（Reddit発・要裏取り）
+
+### [⚠️ MicrosoftがBuild 2026で「Aion 1.0 Instruct」と「Aion 1.0 Plan」モデルを公開したという投稿がある](https://www.reddit.com/r/LocalLLaMA/comments/1tvekng/microsoft_aion_10_instruct_and_aion_10_plan_models/)
+*Microsoft Aion 1.0 Instruct and Aion 1.0 Plan models unveiled at Build 2026*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-04
+
+MicrosoftがBuild 2026でエージェントワークフロー向けの「Aion 1.0 Instruct」と計画立案特化の「Aion 1.0 Plan」という2モデルを公開したという投稿がある。CopilotやAzure AIとの統合が示唆されており、OpenAIへの依存を分散する自社モデル強化戦略の一環とみられる。⚠️ 未確認情報（Reddit発・要裏取り）
+
+### [OpenAI、ライフサイエンス特化AIモデル「GPT-Rosalind」新機能を発表](https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind)
+*Introducing new capabilities to GPT-Rosalind*
+出典: OpenAI ・ #ai #2026-06-04
+
+OpenAIはGPT-5.5のエージェント型コーディング能力と創薬推論を統合したライフサイエンス特化モデル「GPT-Rosalind」の新機能を発表した。化学・生物学・薬理学など6分野をカバーするベンチマーク「LifeSciBench」での高性能を示しており、適格な研究機関向けのリサーチプレビューとして提供開始。創薬・バイオ研究のAI活用加速と、OpenAIの垂直特化戦略の本格化を示す動向として注目される。
+
+### [Hcompany、高速ローカル動作のコンピューターユースエージェント「Holo3.1」を発表](https://huggingface.co/blog/Hcompany/holo31)
+*Holo3.1: Fast & Local Computer Use Agents*
+出典: Hugging Face ・ #ai #2026-06-04
+
+HcompanyがQwenファミリーベースのコンピューターユースエージェント「Holo3.1」を発表。AndroidWorldベンチマークで67%から79.3%に改善し、DGX Sparkで1ステップあたり6.8秒から3.3秒へ2倍高速化を達成。0.8B〜35B-A3Bの4サイズを提供し、FP8・Q4 GGUF・NVFP4の量子化チェックポイントでローカル実行を実現。AIエージェントのエッジ展開競争が本格化していることを示す。
 
 ## 2026-06-03
 
