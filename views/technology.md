@@ -1,6 +1,64 @@
 # 🖥 テクノロジー — 全アーカイブ
 
-全37件 / 日付の新しい順
+全41件 / 日付の新しい順
+
+## 2026-06-05
+
+### [トランプ政権とOpenAIが政府出資案を1年以上協議——「AIの恩恵を国民と分かち合う」公共基金構想](https://www.cnbc.com/2026/06/05/trump-open-ai-altman-stake.html)
+*Trump administration, OpenAI discussing possible government stake in the AI startup*
+出典: CNBC Technology ・ #technology #2026-06-05
+
+Sam Altman（OpenAI CEO）とトランプ政権が、米政府のOpenAIへの出資について1年以上にわたって継続協議していることをCNBCが確認した。Altmanが2025年にトランプ政権に提案を持ちかけたのが発端で、今週AltmanはワシントンDCで議員・政府高官と相次いで面会した。
+具体的スキームとして、OpenAIが政府に株式を寄贈し「公共資産基金（Public Wealth Fund）」の種銭とする案が浮上しており、その基金が長期投資を行い市民に利益を還元するという構想。トランプ大統領はエア・フォース・ワン機内で「国民が一種のパートナーになる形」と表現した。
+OpenAIはプライベート市場で8500億ドル超の評価を受けており、今年中のIPOを準備中。3月の資金調達ラウンドはアブダビ系政府ファンド（MGX）が共同リードしており、AIと国家資本の融合が世界的なトレンドになっている。また、トランプは国家安全保障組織向けに「最先端AIモデルの採用加速」を指示する大統領令にも署名した。
+政府がOpenAIの株主になれば、規制・政策において構造的な利益相反が生じる可能性がある一方、OpenAI IPO時に「政府が株主」というシグナルが評価額を支える可能性もある。
+💡 投資含意: 政府のOpenAI出資は、規制当局が出資者になることで規制の独立性を失うリスクがある一方、OpenAI IPO時の評価額の信頼性を高めうる。
+🔗 波及: この先例が生まれるとAnthropic・Google DeepMind・Metaなど他のAI企業も同様の「政府パートナーシップ」を求められる可能性。
+📈 関連銘柄: MSFT（OpenAI最大投資家、政府との関係が複雑化）
+⚖️ 混在（OpenAI IPO評価への支持vs.ガバナンスリスク）
+📅 次の注目: OpenAI IPO申請、トランプとAI幹部の会合
+
+### [WWDC直前、Tim CookのAI遺産が問われる——「真のSiriエージェント」を示せるか否かが株価のカギ](https://www.cnbc.com/2026/06/05/apple-wwdc-tim-cook-ai-siri-ternus.html)
+*Apple's WWDC: Tim Cook's AI legacy at stake in his final developer conference as CEO*
+出典: CNBC Technology ・ #technology #2026-06-05
+
+来週開催のWWDC（世界開発者会議）は、Tim CookのCEO最後の開発者向けカンファレンスとなる。焦点はSiriの抜本的刷新で、スタンドアロン型チャットボットアプリ・個人コンテキスト認識・画面認識・マルチステップコマンド実行・外部モデル（GoogleのGemini等）へのルーティングを備えた新Siriの登場が期待されている。
+Apple株は過去最高値付近、前期比約36倍のPER、時価総額は1年前比1.6兆ドル高と高評価で市場に入るが、MoffettNathansonは「株価はApple IntelligenceがすでにうまくいくことをBaked inしている」と警告。Siriが「真のエージェント」にならなければこの倍率を維持できないと分析。
+App Intentsのエコシステム（Uber・Amazon・Temu・YouTube・WhatsApp・Facebookなどが早期パートナーとして参加）の普及がカギだが、開発者が先行投資するには消費者需要の確認が必要という「鶏と卵」問題がある。Apple次期CEOのJohn Ternusへの引き継ぎも控え、このWWDCが戦略の分水嶺となる。
+SiriはGoogleクラウド上でNVIDIAチップを使って稼働する方向と報じられており、Apple初の「コア機能での外部クラウド依存」となる可能性。一方でAppleは巨額のデータセンター投資を避けてきた戦略がパートナーシップによる追いつきを可能にするとの見方もある。
+💡 投資含意: WWDC後の市場反応がAppleの高バリュエーション維持のカナリア。「期待どおり」では株価が下がる可能性が高い。サプライズがあれば次のiPhoneサイクルへの期待が高まる。
+🔗 波及: GoogleはAppleとのSiri提携でGeminiの大規模実証事例を獲得し、新たなAI収益化モデルを得る可能性。NVIDIAはApple/Googleクラウド経由のGPU需要拡大。
+📈 関連銘柄: AAPL（高リスク・高リターン）、GOOGL（Gemini追い風）、NVDA（GPU需要）
+⚖️ 混在（AAPL：発表内容次第）
+📅 次の注目: WWDC（来週）、iOS 20の詳細発表
+
+### [NSA、Anthropicの軍事AI「Mythos」をサイバー作戦に使用準備——連邦禁止令に反して](https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/)
+*NSA said to be readying Anthropic's Mythos for use in cyber operations*
+出典: TechCrunch ・ #technology #2026-06-05
+
+Financial Timesの報道（匿名筋情報）によると、Anthropicが国家安全保障局（NSA）に約6名のエンジニアを派遣し、同機関によるMythos（AnthropicのサイバーセキュリティAIモデル）の活用を支援していることが明らかになった。
+4月のAxiosによる「NSAがMythosを連邦禁止令にもかかわらず使用している」という報道に続く続報。連邦禁止令はDoD（国防総省）がAnthropicを「サプライチェーンリスク」に指定したことで発令されたもので、発端はAnthropicが政府による大規模国内監視・自律型兵器向けモデル利用を拒否したことにある。
+NSAはAnthropicのエンジニアがMythosをサイバー攻撃作戦に実際に使用しているかは不明とされており、NSAはコメントを拒否、Anthropicは返答しなかった。
+Anthropicは以前から「Mythosの脆弱性発見・ハック能力を懸念し、アクセスを制限していた」と述べてきたモデルである。禁令に反して政府機関がそれを利用しているならば、Anthropicの企業倫理・ガバナンスへの見方を変える重大事案となりうる。Anthropicが近くIPOを申請する見通しの中、投資家の評価にも影響しうる。
+💡 投資含意: Anthropicの政府との複雑な関係はIPO時の投資家評価を複雑にしうる。一方、政府が「禁令を破ってでも使いたい」ほどMythosが価値があることの証明とも読める。
+🔗 波及: AI企業の軍事・諜報機関との関係に対する議会・世論の監視強化。競合（OpenAI・Google DeepMind）の政府向けAI事業に間接的な影響。
+📈 関連銘柄: Anthropic（IPO準備中、混在材料）
+⚖️ 混在（Anthropicの評判リスクvs.政府需要の証明）
+📅 次の注目: Anthropic IPO申請・上場スケジュール
+
+### [GoogleがSpaceXに月額9億2000万ドルでGPUをリース——SpaceX IPO直前の巨大コンピュート契約](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/)
+*Google will pay SpaceX $920M per month for compute*
+出典: TechCrunch ・ #technology #2026-06-05
+
+Googleがスペース企業SpaceXのxAIデータセンターにある約11万基のNVIDIA GPUとCPUを、月額9億2000万ドルで2026年10月から2029年6月までリースする契約を規制当局への提出書類で明らかにした。
+Anthropicが5月末にColossus 1全体を月額12.5億ドルでリースする契約を発表してから1週間余りでの第2弾。GoogleはColossus 1のおよそ半量の計算資源にアクセスし、契約には90日前通知での解約条項が含まれる。Googleはこれを「Gemini Enterpriseへの需要が予想を大幅に上回り、橋渡し的な追加容量として確保した」と説明した。
+Alphabetはすでに今年のインフラ投資に1800億ドル超をコミットしており、2027年にはさらに増加する見込み。Alphabetが先週実施した800億ドルの株式売却もこの文脈の一部。GoogleはSpaceXの長年の投資家であり、IPO後の持ち分は1000億ドル超の価値になる見込みで、両社が軌道上データセンターの構築を協議中とも報じられている。
+IPO（6月12日ナスダック上場予定）直前の発表はSpaceXのデータセンターがAIクラウド需要の受け皿として機能していることを証明する形となり、SpaceXの企業価値（1.77兆ドル）の裏付けを強化した。
+💡 投資含意: SpaceXのAIインフラ収益化モデルが二大顧客（Google・Anthropic）で検証され、IPO評価の下支え要因となる。GoogleのAIエージェント需要は想定以上に急激で、Alphabetの追加資本調達が加速しうる。
+🔗 波及: NVIDIAのGPU需要（Colossusシリーズは全てNVIDIA製）が持続。AMZN・MSFT・Azureなど既存クラウドとの競合に「SpaceX/xAIクラウド」が新たに加わる構図。
+📈 関連銘柄: NVDA（GPU需要↑）、GOOGL（capex増・AI需要確認）
+⚖️ 強気材料（NVDA）、混在（GOOGL：需要強いが巨額capex負担）
+📅 次の注目: SpaceX IPO（6月12日ナスダック上場）
 
 ## 2026-06-04
 
