@@ -1,12 +1,12 @@
 // フィード設定。ここを編集すれば収集ソースを足し引きできる。
-// category は 'technology' | 'politics' | 'economy' のいずれか。
+// category は 'ai' | 'robotics' | 'technology' | 'politics' | 'economy' のいずれか。
 // テック個別株・マーケットの投資判断に効くソースを重視しつつ、
 // 党派バランスにも配慮: 保守寄り(WSJ論調) / リベラル寄り(NYT) / 中立公共放送(NPR・PBS・BBC)
 // を併せ持ち、CNBC・FT で経済の事実報道を厚くしている。
 // WSJ のフィードURLはサイト改編で変わることがあるため、取得失敗しても
 // 他のソースは止まらない設計（fetch-feeds.ts 側でスキップ）。
 
-export type Category = "technology" | "politics" | "economy" | "ai";
+export type Category = "technology" | "politics" | "economy" | "ai" | "robotics";
 
 export interface FeedSource {
   /** 表示用の出典名 */
@@ -115,6 +115,31 @@ export const FEEDS: FeedSource[] = [
     unverified: true,
   },
 
+  // --- フィジカルAI・ロボティクス ---
+  // フィジカルAI（物理世界で動くAI＝ロボット・自動運転・産業オートメーション・人型ロボ）の
+  // 投資テーマは半導体・自動車・産業・防衛まで広く波及する。AI枠と分離して独立カテゴリで扱う。
+  {
+    // NVIDIA 公式のロボティクス・ブログ。Isaac Sim / Jetson / 物理シミュレーション / 人型ロボの
+    // 一次情報。NVIDIA自身の戦略開示でもあり、フィジカルAI投資の核心ソース（無料・本文も無料）。
+    name: "NVIDIA Robotics",
+    url: "https://blogs.nvidia.com/blog/category/robotics/feed/",
+    category: "robotics",
+  },
+  {
+    // IEEE Spectrum のロボティクス専門。学術・産業双方をカバーする硬派メディア。
+    // 取材の質が高く、産業ロボ・自動運転・人型ロボの実態を中立的に拾える（無料）。
+    name: "IEEE Spectrum Robotics",
+    url: "https://spectrum.ieee.org/feeds/topic/robotics.rss",
+    category: "robotics",
+  },
+  {
+    // 業界専門メディア。M&A・受注・新製品など経済インパクトを伴うニュースに強い。
+    // 産業オートメーションの企業動向を拾うのに適（無料・本文も無料）。
+    name: "The Robot Report",
+    url: "https://www.therobotreport.com/feed/",
+    category: "robotics",
+  },
+
   // --- 政治 ---
   {
     name: "WSJ Politics",
@@ -201,9 +226,10 @@ export const MAX_PER_CATEGORY = 5;
 
 export const CATEGORY_LABELS: Record<Category, string> = {
   ai: "🤖 AI・先進技術",
+  robotics: "🦾 フィジカルAI・ロボティクス",
   technology: "🖥 テクノロジー",
   politics: "🏛 政治",
   economy: "💹 経済・マーケット",
 };
 
-export const CATEGORY_ORDER: Category[] = ["ai", "technology", "politics", "economy"];
+export const CATEGORY_ORDER: Category[] = ["ai", "robotics", "technology", "politics", "economy"];
