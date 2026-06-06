@@ -1,6 +1,81 @@
 # 🖥 テクノロジー — 全アーカイブ
 
-全41件 / 日付の新しい順
+全46件 / 日付の新しい順
+
+## 2026-06-06
+
+### [SpaceX IPO、1株135ドルで史上最大の上場へ——サウジアラムコ超えの調達規模](https://www.nytimes.com/2026/06/03/technology/spacex-ipo-pricing.html)
+*SpaceX IPO to Be Largest Ever at $135 Share Price*
+出典: NYT Technology ・ #technology #2026-06-06
+
+イーロン・マスク率いるSpaceXが1株135ドルのIPO価格を設定し、2019年のサウジアラムコIPOを調達額・評価額ともに超える史上最大の新規公開株式となることが明らかになった。
+直前にGoogle（月額9.2億ドル）とAnthropic（月額12.5億ドル）との大型AIコンピュート契約が公表されており、SpaceXがロケット企業からAIインフラ企業への転換を果たしつつあることを投資家に印象付けた。評価額は1.77兆ドル超と報じられており、6月12日のナスダック上場が予定されている。
+サウジアラムコIPO（2019年）は当時の評価額1.9兆ドルで世界最大の記録を持っていたが、SpaceXはAI・宇宙・データセンターという複合的な成長ストーリーで訴求している。今回のIPOでは個人投資家も参加できる仕組みが整備されており、広範な注目を集めている。
+IPO後のロックアップ期間終了とその後の株価動向が焦点となる。AI需要に支えられたデータセンター収益が高い評価額を正当化できるかが問われる局面だ。
+
+💡 投資含意: SpaceX上場は「宇宙+AIインフラ」への直接投資機会。評価額の高さゆえIPO後のボラティリティが高まりやすく、慎重な参入タイミングが求められる。
+🔗 波及: SpaceX上場成功はAnthropicのIPO評価にも好影響（AIインフラ企業への市場期待が高まる）。NVDA（SpaceX ColossusのGPU）との需要が継続。
+📈 関連銘柄: SpaceX（ナスダック予定）、NVDA（データセンターGPU需要継続）、GOOGL・Anthropic（SpaceXコンピュート利用者）
+⚖️ 強気材料（AI+宇宙インフラへの市場の期待）
+📅 次の注目: SpaceX IPO（6月12日ナスダック）
+
+### [Marvell TechnologyとFlexがS&P 500に採用——AI半導体の市場への組み込みが象徴的に確立](https://www.cnbc.com/2026/06/05/marvell-technology-flex-sp-500-campbells-pool.html)
+*Marvell Technology and Flex to join S&P 500 index, replacing Pool and Campbell's*
+出典: CNBC Technology ・ #technology #2026-06-06
+
+AIインフラ向けチップを手掛けるMarvell Technologyと電子機器受託製造のFlexが、6月22日付でS&P 500指数に新規採用される。既存の構成銘柄Pool Corp（プール関連製品）とCampbell's（食品大手）に代わって組み入れられる。
+今週NVIDIAのCEOジェンスン・フアン氏がMarvellを「次の1兆ドル企業」と呼び、NVIDIAが同社に20億ドルを投資したとも報じられており、S&P 500採用発表後に株価は時間外で5%上昇した。Marvellは1995年にスピニングディスク向け部品メーカーとして設立されたが、現在はAIデータセンター向けの高速接続チップ・カスタムASICに注力している。FlexはAppleとNVIDIAの製造パートナーでもあり、時間外で4%上昇した。
+S&P 500への組み入れはインデックスファンドの自動購入（数百億ドル規模のパッシブ投資）を呼び込む「強制需要」を生み出す。Pool（プール製品）とCampbell's（食品）からAI半導体・電子製造への入れ替えは、インデックス内のテクノロジー比率のさらなる上昇を意味する。
+
+💡 投資含意: S&P 500採用後のパッシブ資金流入で短期的な株価サポートが期待できる。MarvellはカスタムチップでGoogleやAmazonとの提携があり、AI半導体のNVIDA集中リスクのヘッジ先としても注目される。
+🔗 波及: カスタムAI半導体市場でMarvellとBroadcomが競合するため両社の成長は同時に起きうる。Flexの採用はApple・NVIDA製品の需要と直結。
+📈 関連銘柄: MRVL（S&P 500採用↑）、FLEX（S&P 500採用↑）、NVDA（Marvell投資・連動）
+⚖️ 強気材料（インデックス採用によるパッシブ資金流入）
+📅 次の注目: 6月22日のインデックス組み入れ日
+
+### [WWDC 2026直前プレビュー——SiriにGemini連携・会話型AIと「Sirisアプリ」、AIエージェントとApp Store統合も](https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/)
+*What to expect from WWDC 2026: Siri's highly anticipated revamp and Apple Intelligence updates*
+出典: TechCrunch ・ #technology #2026-06-06
+
+Appleの年次開発者会議WWDC 2026が6月9日（月）から始まる。今年の最大の目玉はSiriの大規模刷新で、文脈理解・複数ステップタスク処理・自然なアプリ間連携が可能な会話型アシスタントへの変貌が期待される。重要な点はGoogle Gemini技術を採用することでSiriの能力を強化するという選択で、Apple IntelligenceがGoogleのモデルを活用するという新たな局面を示している。
+Bloombergのリーク情報では、スタンドアロンの「Sirisアプリ」（ChatGPT・Claude・Geminiと直接競合）と会話の自動削除機能が登場予定。The InformationによればAIエージェントとApp Storeを統合し、予約・タスク管理・スマートホーム操作などをSiriが代行できる機能も導入予定とのこと。
+その他の期待機能として、CameraアプリへのVisual Intelligence（Google画像検索連携）、PhotosアプリのAI編集（自然言語指示による）、Image Playgroundのアップグレード（高品質画像生成・スタイル追加）、Walletアプリへの割り勘機能追加（レシート撮影→支払いリクエスト生成）、AIウォレットパス生成などが挙げられている。
+Apple Intelligence（2025年から段階展開）が本格的な機能セットに到達する節目となる可能性があり、伸び悩むiPhoneアップグレードサイクルを再点火するトリガーとして市場が注目している。
+
+💡 投資含意: WWDC発表がApple Intelligenceの「本命」アップデートとなれば、iPhoneの買い替えサイクルが再活性化し、サービス収益（App Store・サブスクリプション）も押し上げる可能性がある。
+🔗 波及: SiriのGemini採用継続はGoogleにとってAppleエコシステムへの組み込みを強化。ChatGPT（MSFT）・Gemini（GOOGL）との会話AIの直接競合が激化。
+📈 関連銘柄: AAPL（アップグレード需要期待↑）、GOOGL（Gemini連携によるAppleへの組み込み継続）
+⚖️ 強気材料（AAPL：AI機能本格化によるデバイス需要・サービス収益↑）
+📅 次の注目: WWDC基調講演（6月9日月曜）
+
+### [トランプ政権、OpenAIへの政府出資を検討——「米国民をAIの恩恵の受益者に」](https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/)
+*The Trump administration might take an equity stake in OpenAI*
+出典: TechCrunch ・ #technology #2026-06-06
+
+トランプ大統領が「米国民がAIの成功から恩恵を受けられるような取引を検討している」と発言し、政府によるAI企業への出資の可能性が浮上している。CNBCはトランプ政権がOpenAIとの出資交渉を実際に進めていると報じており、一部の株式は「公共富ファンド（Public Wealth Fund）」の種銭として使われる可能性があるという。
+OpenAIが以前提案した公共富ファンドは「AI主導の成長で生まれた利益を、出発点や資産に関わらずより多くの人々に直接分配する」ことを目的とするもの。CEOのサム・アルトマン氏は2025年初頭から政府による大手AI企業への出資について協議していたとされる。
+バーニー・サンダース上院議員はOpenAI・Anthropic・xAIなどに一回限り50%の株式形態での課税を提案しており、左右両側から「AIの公的受益化」への関心が高まっている構図だ。トランプ政権が昨年Intelに10%出資したことと同様の「官民融合」パターンで、政府がAI分野に株主として参入する構想となる。
+OpenAIのIPO準備中というタイミングでの政府出資交渉は、上場後の価格形成にも影響する可能性がある。
+
+💡 投資含意: 政府出資が実現すればOpenAIのIPO評価が国家保証を得る形となり市場の信認が高まる可能性がある。ただし政治的介入によるガバナンスリスクも浮上する。
+🔗 波及: Anthropic・xAI（SpaceXの一部）など他のAIフロンティアラボにも同様の出資提案が及ぶ可能性。政府とAI企業の一体化はEU・中国との技術競争に影響。
+📈 関連銘柄: OpenAI（非上場・IPO関連）、MSFT（最大既存投資家）
+⚖️ 強気材料（政府の信認を得るIPO価格支持）、弱気材料（ガバナンス・政治リスク）
+📅 次の注目: OpenAI IPO申請の進捗・SEC審査
+
+### [リード・ホフマン、マイクロソフト取締役を退任——AI創薬スタートアップ「Manus」に専念](https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/)
+*Reid Hoffman is leaving Microsoft's board to go 'founder mode' with startup Manus*
+出典: TechCrunch ・ #technology #2026-06-06
+
+LinkedIn共同創業者でOpenAIの初期投資家でもあるリード・ホフマン氏が、Microsoftの取締役を退任することが発表された。2016年のLinkedIn買収（262億ドル）を機に取締役となり、約10年間にわたりMicrosoft-OpenAI関係の「橋渡し役」を担ってきた。
+退任の理由は、自身が投資・創業メンバーとして参画するAI創薬スタートアップ「Manus」への注力。Manusは昨年2つのシードラウンドで5000万ドル超を調達しており、General Catalystも出資している。CEOは「癌の伝記」でピューリッツァー賞を受賞した医師のシッダールト・ムカジー氏が務める。ホフマン氏は会長兼共同創業者として「フォウンダーモード」に入ると語っている。
+ホフマン氏は2023年にOpenAIの取締役も退任しており、これでMicrosoftとOpenAIの両方のボードシートを失ったことになる。Microsoftは2019年にOpenAIへの10億ドル投資（ホフマン氏も取締役として承認）を行ったが、現在の両社関係はホフマン氏なしで継続される。
+Manusはがん領域における「Move 37型AI」（人間の創造性を超えるAI）の実現を目指しており、AI創薬という急成長分野への著名VCの本格参入を示す。
+
+💡 投資含意: ホフマン氏の退任でMicrosoftとOpenAIの関係を仲介する影響力が一つ失われる。Manusへの傾注はAI創薬・バイオテック分野への著名VC資金流入を加速させる可能性。
+🔗 波及: AI創薬市場（Recursion・Exscientia・DeepMind AlphaFold周辺）への注目が高まる。ホフマン氏の「超知性のがん治療応用」という訴求が資金調達市場に影響。
+📈 関連銘柄: MSFT（ガバナンス面のマイナー変動）、RXRX（AI創薬関連）
+⚖️ どちらともいえない（MSFT基本影響小）
 
 ## 2026-06-05
 
