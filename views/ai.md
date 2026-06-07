@@ -1,6 +1,86 @@
 # 🤖 AI・先進技術 — 全アーカイブ
 
-全20件 / 日付の新しい順
+全25件 / 日付の新しい順
+
+## 2026-06-07
+
+### [AGIBOT「World Challenge 2026」開催——シミュレーション偏重から実機ロボットの実世界評価へシフトが加速](https://www.therobotreport.com/agibot-holds-world-challenge-2026-see-how-ai-models-perform-real-tasks/)
+*AGIBOT holds World Challenge 2026 to see how AI models perform on real tasks*
+出典: The Robot Report ・ #ai #2026-06-07
+
+中国のロボティクス企業AGIBOTが「World Challenge 2026」をICRA（国際ロボット自動化学会）2026と併催でウィーンにて開催した。27カ国から526チームが参加し、過去最大規模の実機ロボット競技となった。
+競技は「Reasoning to Action（R2A）」と「World Model（WM）」の2トラック。R2Aは環境理解・タスク計画・物理実行の一連プロセスを評価し、WMはロボット行動に基づく物理世界変化の予測モデルを競った。いずれもシミュレーターではなくAGIBOT G2ヒューマノイド実機を使ったオフラインファイナルを実施した点が特徴。
+R2A優勝はvivo製PrismBotチーム（43.47点）、WM優勝は中国科学院・AutomationとAmap CVの合同チーム。参加機関には清華大・UCSD・ロシアのSber Robotics Centerも含まれる。100チーム以上が公式ベースラインを超えた。
+AGIBOTはEWMBenchとGenie Sim 3.0によるオープンソースのフルスタックツールチェーンを公開し、標準化された評価指標を国際的に広める意図を示した。「シミュレーションスコアから実世界タスクへの評価転換」という方針は、今後の業界ベンチマーク策定に影響を与える可能性が高い。
+中国勢が実機評価インフラとデータセットの標準化で先導することは、西側ロボットスタートアップへの競争的なシグナルとなる。
+
+💡 投資含意: 実機評価ベンチマークの標準化はヒューマノイドロボット商用化を加速させる。評価インフラを握る企業が業界の技術スペック設定に影響力を持ちうる。
+🔗 波及: Boston Dynamics（Hyundai傘下）・Figure AI・Tesla Optimusなど西側ロボットスタートアップへの競争圧力増大。NVDAのJetson等ロボット向け推論チップ需要を後押し。
+📈 関連銘柄: TSLA（Optimus関連）、NVDA（ロボット向けAI推論チップ）
+⚖️ 強気材料（ロボティクスAI全体・GPU推論チップ）
+📅 次の注目: Tesla Bot（Optimus）の量産スケジュール発表・AGIBOT国内外展開計画
+
+### [⚠️ llama.cpp、Gemma 4のMTP（マルチトークン予測）サポートがマージ——推論速度が約2倍に](https://www.reddit.com/r/LocalLLaMA/comments/1tzbcyp/llamacpp_gemma4_mtp_support_merged/)
+*llama.cpp Gemma4 MTP support merged!*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-07
+
+Googleの最新オープンモデル「Gemma 4」向けにMTP（Multi-Token Prediction）サポートがllama.cppのGitHub PR #23398としてマージされたという投稿がコミュニティで話題になっている。
+MTPはSpeculative Decoding（投機的デコーディング）の一種で、専用のドラフトモデルが次トークンを先読みし、メインモデルが一括で検証することで、1回のGPUパスで複数トークンを確定する手法。Gemma 4はGoogle公式のドラフト（アシスタント）モデルを提供しており、llama.cppが対応したことで一般ユーザーもこの恩恵を受けられる環境が整った。
+関連ベンチマーク（RTX 4070 Super 12GB、Gemma 4 12B QAT）によれば、MTBなしの約60 tok/sからMTP有効化後は平均約120 tok/sへ倍増したという。ドラフト受諾率は総合65.78%で、数学・コード補完では80%超と高く効果が顕著だという。
+一方、セットアップにはPR #23398ブランチでのllama.cppcustom ビルド、UnslothのQATモデル、および公開されたドラフトモデルの2ファイルが必要で、VRAM余裕次第ではコンテキスト調整が必要になる場合があるという。
+12GBという一般消費者向けGPUでフロンティアモデル級の速度が実現されることは、ローカル推論の実用性を大きく引き上げる転換点となりうる。
+⚠️ 未確認情報（Reddit発・要裏取り）
+
+💡 投資含意: ローカル推論速度の向上はクラウドAIへの依存を構造的に低下させる。長期的にはOpenAI・AnthropicのAPI収益モデルへの圧力となりうる。
+🔗 波及: NVDAのコンシューマー向けGPU（RTX 4070/5000系）の活用幅が広がり需要を下支え。Googleは自社モデルのエコシステムがllama.cppを通じて広がることで認知度と採用率を向上させる立場。
+📈 関連銘柄: NVDA（コンシューマーGPU需要）、GOOGL（Gemma4エコシステム）
+⚖️ 弱気材料（クラウドAI APIプロバイダー）、強気材料（コンシューマーGPU・Googleオープンソース戦略）
+
+### [⚠️ open-deepthink、完全な知識蒸留モードを実装——クローズドソースLLMの知識をJSON形式で体系的に抽出する多エージェントフレームワーク](https://www.reddit.com/r/LocalLLaMA/comments/1tz0zwy/5_months_later_opendeepthink_now_has_full/)
+*5 Months Later: open-deepthink Now Has Full Knowledge Distillation Mode*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-07
+
+多エージェントAIフレームワーク「open-deepthink」が5ヶ月ぶりのアップデート（beta-0.0.3）をリリースし、フル知識蒸留（knowledge distillation）モードが追加されたという投稿がコミュニティにある。
+このフレームワークは固定の7層QNNトポロジー（エージェントネットワーク）を使い、設定したトークンバジェット内でエージェントが動的に進化・協調する多エージェント推論システムだとされる。知識蒸留モードでは、Geminiなどのクローズドソースモデルをターゲットとして特定トピックの知識を体系的に引き出し、エポックごとのエージェントの推論過程・突然変異履歴・難易度上昇の記録を含む構造化JSONデータセットとして出力できるという。
+beta-0.0.3では11バグ修正と195/195テスト通過が確認されており、OpenRouterを通じて任意のAPIモデルを100エージェントで40エポック（約60時間）実行するような大規模な使い方も可能とされている。
+投稿者はGeminiが神智学や応用生物学などのニッチなトピックに詳しいことを活用し、仮想問答形式でその知識を蒸留してファインチューン用データセットを構築するユースケースを例示している。実験的な段階であり投資・研究への直接的な実用性は要検証だが、「複数エージェントで難問に長時間取り組む」アプローチはAI研究コミュニティで注目を集めている。
+⚠️ 未確認情報（Reddit発・要裏取り）
+
+💡 投資含意: 知識蒸留の普及はクローズドソースモデルの知識優位を間接的に侵食する可能性があり、長期的にはAPIサービス収益を圧迫しうる。
+🔗 波及: OpenRouterなどAPIアグリゲーターへの需要増加。小規模開発者がコスト効率よくモデルチューニングデータを生成できるようになれば、AIスタートアップの参入障壁が低下。
+📈 関連銘柄: 直接的な上場銘柄の特定が難しい段階
+⚖️ 弱気材料（プロプライエタリLLM APIの長期的優位性）
+
+### [⚠️ Gemma 4 12B QAT×MTPで12GB VRAMから120 tok/s——実測ベンチマーク詳報](https://www.reddit.com/r/LocalLLaMA/comments/1typjmc/120_toks_on_12gb_vram_with_gemma_4_12b_qat_mtp/)
+*120 tok/s on 12GB VRAM with Gemma 4 12B QAT MTP*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-07
+
+Gemma 4 12B QAT（量子化学習済み）とMTP（マルチトークン予測）ドラフトモデルを組み合わせた詳細ベンチマークが公開され、12GBのコンシューマーGPUで平均約120 tok/sを達成したという投稿がある。
+計測環境はLinux（CachyOS）・RTX 4070 Super 12GB・AMD Ryzen 7 9700X・32GB DDR5-6000。MTPなしの全タスクで約60 tok/sだったのに対し、MTP有効後は平均約120 tok/sへ倍増した。総合ドラフト受諾率は65.78%で、コード補完・数学・サマリでは70〜82%の高受諾率を記録する一方、クリエイティブライティングでは45.8%と低かったという。
+セットアップはllama.cpp PR #23398ブランチのカスタムビルド、UnslothのGGUF、コミュニティがHugging Faceにアップロードしたドラフトモデルの3点が必要。Windowsやメインとして使うGPUでは利用可能なVRAMが減るためコンテキストサイズの調整が必要になる場合があるという。
+このベンチマークは前日マージされたllama.cpp PR #23398の実証であり、より広いコミュニティへの普及を後押しするものだ。タスク種別による受諾率の差は今後のMTPチューニングの課題を示している。
+⚠️ 未確認情報（Reddit発・要裏取り）
+
+💡 投資含意: 12GBのGPUで最高性能クラスのオープンソースモデルがほぼリアルタイムで動く環境の整備は、企業のセルフホスト型AI採用を加速させる。
+🔗 波及: 速度2倍相当の改善はGPU購入層の需要動向に影響し、NVDAのRTX 4000〜5000番台の中価格帯GPUの価値訴求を強化。
+📈 関連銘柄: NVDA（RTX 4070/5070等コンシューマー需要）、GOOGL（Gemma4の採用拡大）
+⚖️ 強気材料（コンシューマーGPU・ローカルAIエコシステム）、弱気材料（クラウドAIサブスクリプション）
+
+### [OpenAI、プロンプトインジェクション対策「Lockdown Mode」を発表——企業向け機密データ保護機能として展開開始](https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/)
+*OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks*
+出典: TechCrunch ・ #ai #2026-06-07
+
+OpenAIがChatGPTに「Lockdown Mode（ロックダウンモード）」を新設した。悪意のある命令がウェブページや外部コンテンツに埋め込まれて実行される「プロンプトインジェクション攻撃」から機密データを保護するための機能で、ChatGPT Businessおよび一部の個人アカウントに段階的に展開を開始している。
+プロンプトインジェクションはAIエージェントの普及に伴って深刻化している攻撃手法。企業がChatGPTをワークフローに組み込むケースが急増する中、意図しないデータ外部送信リスクへの対応が強く求められていた。
+Lockdown Mode有効時には(1)ライブウェブブラウジングの無効化（キャッシュコンテンツは可）、(2)ウェブからの画像取得・表示の禁止（生成は可）、(3)Deep Researchの無効化、(4)Agentモードの無効化、という4つの制限が課される。
+OpenAIは「完全な防御ではなく、キャッシュコンテンツやアップロードファイルにも依然リスクは残る」と明記しており、情報開示の透明性を強調している。対象はChatGPT Business（自社管理型）および一部個人アカウントで、段階的な展開となる。
+このセキュリティ機能はAnthropicのClaude Enterpriseとのエンタープライズ競合における差別化要素となり、規制環境の厳しい金融・医療・法務分野での採用を後押しする可能性がある。
+
+💡 投資含意: エンタープライズAIセキュリティの充実はChatGPT Business/Enterpriseの契約獲得を支援し、高ARRのプランへの移行を促す。OpenAI IPO前の製品価値向上に貢献。
+🔗 波及: AIセキュリティ需要全体の高まりはPalo Alto Networks・CrowdStrike・Zscalerなどセキュリティプラットフォーム企業に追い風。
+📈 関連銘柄: PANW・CRWD・ZS（AIセキュリティ需要）、OpenAI（非上場・IPO関連）
+⚖️ 強気材料（エンタープライズAIセキュリティ市場全般）
+📅 次の注目: OpenAI IPO申請・Anthropic Enterpriseのセキュリティ機能対抗発表の動向
 
 ## 2026-06-06
 
