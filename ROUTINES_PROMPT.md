@@ -26,12 +26,18 @@
    - `raw-items.json` が存在しない、または空（候補0件）なら、コミットせずに「本日は新規記事なし」と報告して終了する。
    - 万一ファイルが古い（前日以前のものしかない）と判断できる場合も、無理に要約せずその旨を報告して終了する。RSSにない情報を記憶から創作してはならない。
 
-2. `raw-items.json` を読み込み、各カテゴリ（ai / technology / politics / economy）ごとに
+2. `raw-items.json` を読み込み、各カテゴリ（ai / robotics / technology / politics / economy）ごとに
    **最大5件**を選ぶ。重複する話題は1件にまとめる。
    - **AI・先進技術カテゴリ（`category: "ai"`）は「先進性」を最優先で選ぶ**。投資直結度は二の次でよい。
      新モデル・新手法・研究のブレイクスルー・ツールの登場など、「これは技術的に重要だ／流れを変える」と
      あなたが判断したものを積極的に拾う。投資含意は書ける範囲で添えれば足り、無理に株の話に寄せない。
      OpenAI / Google DeepMind / Hugging Face / MIT Tech Review / BAIR の一次情報を重視する。
+   - **フィジカルAI・ロボティクスカテゴリ（`category: "robotics"`）は独立した枠として扱う**——
+     ai枠に統合しない。ロボット・自動運転・産業オートメーション・人型ロボ・物理シミュレーション
+     （Isaac / Jetson 等）の動向を独立して評価する。投資テーマとして半導体（NVIDIA等）・自動車・産業
+     （FANUC・三菱電機等）・防衛まで広く波及するため、波及先まで描けるものを優先する。
+     NVIDIA Robotics / IEEE Spectrum Robotics / The Robot Report の3ソースを重視する。
+     候補が少ない日は5件埋めずに 1〜2件でよい（無理に水増ししない）。
    - **未確認ソース（`unverified: true`、現状 Reddit r/LocalLLaMA・r/MachineLearning）の扱い**:
      報道より早く新モデル・新ツールの話題が立つので拾う価値はあるが、**裏取りされていない**。
      採用する場合は (a) `title_ja` の先頭に ⚠️ を付ける、(b) `summary` 本文を「〜という投稿がある／
@@ -97,7 +103,8 @@
      投資含意も、RSSの情報から無理なく言える範囲にとどめる。
 
 5. 結果を `digest-input.json` に、以下の形式の配列で書き出す。`date` は本日の日付（JST, YYYY-MM-DD）。
-   `category` は `ai` / `technology` / `politics` / `economy` のいずれか（`ai` は AI・先進技術枠）。
+   `category` は `ai` / `robotics` / `technology` / `politics` / `economy` のいずれか
+   （`ai` は AI・先進技術枠、`robotics` はフィジカルAI・ロボティクス枠）。
    ```json
    [
      {

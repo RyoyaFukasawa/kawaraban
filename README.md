@@ -10,11 +10,11 @@
 - **正本**: `articles.json`（テキスト）。重複排除もここ。git で差分が読める。
 - **検索**: `digest.db`（SQLite）。`articles.json` から生成する派生物（git管理外）。
 - **日付で読む**: `digests/YYYY/MM/YYYY-MM-DD.md`
-- **カテゴリで読む**: `views/ai.md` / `views/technology.md` / `views/politics.md` / `views/economy.md`
+- **カテゴリで読む**: `views/ai.md` / `views/robotics.md` / `views/technology.md` / `views/politics.md` / `views/economy.md`
 
 ## 仕組み
 
-1. **毎朝 6:50 JST** — GitHub Actions が RSS を取得し `raw-items.json` を生成（[.github/workflows/fetch-feeds.yml](.github/workflows/fetch-feeds.yml)）。
+1. **毎朝 4:00 JST** — GitHub Actions が RSS を取得し `raw-items.json` を生成（[.github/workflows/fetch-feeds.yml](.github/workflows/fetch-feeds.yml)）。GitHub Actions のスケジュール実行は高負荷時間帯に遅延・ドロップする仕様で実測 50分〜1時間半ほど後ろにずれるため、7:00 routine に確実に間に合うよう前倒ししている。
 2. **毎朝 7:00 JST** — Claude routine が記事を選定し、選んだ記事の本文を取得（[scripts/fetch-article.ts](scripts/fetch-article.ts)）して投資視点で翻訳・要約し、SQLite と Markdown に蓄積（[ROUTINES_PROMPT.md](ROUTINES_PROMPT.md)）。
 3. **毎週月曜** — 別の Claude routine が直近7日の運用ログ（`ops-log/`）を全件読み、(A)複数レンズのagentでブレスト→(B)推進派⇄懐疑派の対立議論＋ジャッジ裁定で改善を練る。結論に基づくフィード改善を PR で提案する（ブレスト/議論ログは [ops-log/DEBATES/](ops-log/DEBATES/) に蓄積）（[IMPROVE_PROMPT.md](IMPROVE_PROMPT.md)）。
 
