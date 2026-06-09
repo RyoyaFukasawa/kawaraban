@@ -1,6 +1,83 @@
 # 🖥 テクノロジー — 全アーカイブ
 
-全51件 / 日付の新しい順
+全56件 / 日付の新しい順
+
+## 2026-06-08
+
+### [Marvell Technology、S&P 500採用決定で10%急騰——時価総額2,300億ドル、年初来+210%のAI半導体銘柄](https://www.cnbc.com/2026/06/08/marvell-sp500-index-addition.html)
+*Marvell Technology jumps 10% after news it will join the S&P 500 index*
+出典: CNBC Technology ・ #technology #2026-06-08
+
+AIチップメーカーのMarvell Technologyが6月22日付けでS&P 500指数に採用されることが発表され、月曜日の市場開場直後に株価が10.4%上昇した。年初来騰落率は210%に達する。
+背景には一連のポジティブなカタリストがある。NVIDIAが3月に20億ドルをMarvellに投資。先週のComputex週間でJensen Huang CEOがMarvellのCEOと共に登壇し「次の1兆ドル企業」と称えたことで、Marvellは6月2日に過去最大の32.5%の1日上昇を記録した。Marvellの時価総額は現在2,300億ドル。
+1Q 2026決算ではアナリスト予想を上回る24億ドルの売上高を計上し、データセンター事業の通年成長を示した。Marvellはクラウドコンピューティング・AI・エンタープライズネットワーキング・5G・車載システム向け高性能チップを専門とし、カスタムシリコン（ASICチップ）事業でHyperscaler向けの需要が増大している。
+S&P 500採用はインデックスファンドや機関投資家による強制的な買い需要を生む「購買イベント」で、6月22日に向けた需給上の下支えとなる。NVIDIAとの戦略的連携・S&P 500採用・Computex高揚感の三重奏が揃ったMarvellは、AI半導体インフラの「NVIDIAに続く中核銘柄」として地位を固めつつある。
+
+💡 投資含意: S&P 500採用はインデックスファンドの強制買いを生み、6月22日まで需給面での下支えとなる。NVIDIAとの戦略的連携により、AIデータセンターインフラ需要の「第2の受益者」として注目度が継続する。
+🔗 波及: Marvellの地位確立はAI半導体が「NVIDIAの独り勝ち」でなく複数のプラットフォーム企業を育てる構造を示す。Broadcom（AVGO）・AMDの評価見直しも促す。
+📈 関連銘柄: MRVL（直接）、NVDA（連携強化）、AVGO・AMD（類似ポジション）
+⚖️ 強気材料（AIデータインフラ半導体セクター全体）
+📅 次の注目: 6月22日のS&P 500正式採用・2Q 2026決算
+
+### [WWDC 2026：AppleがSiri AI全面刷新を発表——Gemini搭載の新Siriアプリ、ティム・クック最後のWWDCで集大成](https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/)
+*WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more*
+出典: TechCrunch ・ #technology #2026-06-08
+
+AppleがWWDC 2026でSiriの全面刷新「Siri AI」を発表した。ティム・クックCEO最後のWWDC（9月1日にジョン・テルナスへ引き継ぎ）となった本年のキーノートは、AIによるSiriの大変革を中心に構成された。
+Siri AIはスタンドアロンアプリとして独立する一方、全アプリにまたがって機能する新設計で、GoogleのGeminiファミリーとの共同開発によるApple Foundation Modelsが核心を支える。iOS 27ではMessages・Phone・Safari・Shortcutsへの深いAI統合が実現：通話中にメール/メッセージから文脈を引き出す機能、AIによる返信提案、自然言語でのShortcuts作成、システム全体の音声入力（Wispr Flow対抗）が加わる。プライバシー面では「AIにおけるプライバシーは交渉の余地がない」（Craig Federighi）と強調し競合差別化を図った。
+iOS 27は「これまで最多のユーザーが利用できるリリース」としてiPhone 11（2019年）以降に対応。写真の読み込み70%高速化・AirDrop転送80%高速化などのパフォーマンス改善も盛り込まれた。Photos AIではReframe（透視変換）・Extend（画像拡張）・Cleanup（生成AI補完）の3機能が追加。Image Playgroundも刷新された。
+市場はWWDC発表後に株価が一時下落（「材料出尽くし」）したが、CNBCの著名アナリストは「予想通りの完全AI刷新であり問題ない」と評価。GoogleのGemini統合はGOOGLにとって莫大な普及基盤を提供する。
+
+💡 投資含意: GoogleのGeminiがAppleエコシステムに統合されたことで、GOOGLに長期的な収益源と数十億台規模の普及チャンスが生まれる。Appleのプライバシーアーキテクチャは規制が強化される局面でAnthropicやOpenAIとの差別化ポイントになりうる。
+🔗 波及: Wispr Flow・Willowなど音声入力AIスタートアップはAppleの全システム対応により市場を侵食されるリスク。iPhone 11以降の広範対応は旧機種でのAI体験向上を実現するが、買い替え需要を減らす可能性もある。
+📈 関連銘柄: AAPL（長期的な強気）、GOOGL（Gemini統合で採用拡大・強気）
+⚖️ 弱気材料（AI音声スタートアップ競合）、強気材料（AAPL長期・GOOGL短中期）
+📅 次の注目: iOS 27一般提供開始（秋）・ジョン・テルナス体制下の製品ロードマップ
+
+### [WaymoがAppleの自動運転テスト施設を2億2,000万ドルで取得——Project Titan撤退後の5,500エーカーを引き継ぎ](https://techcrunch.com/2026/06/08/waymo-bought-apples-self-driving-car-proving-ground-for-220m/)
+*Waymo bought Apple's self-driving car proving ground for $220M*
+出典: TechCrunch ・ #technology #2026-06-08
+
+WaymoがアリゾナのWittmanにある5,500エーカー（約22km²）の自動車試験場を2億2,000万ドルで取得したことが、マリコパ郡への法的届出で判明した。売却はデラウェア州のペーパーカンパニーを経由しており、Appleとの関連が確認されている。
+Appleは2021年にこの施設を1億2,500万ドルで取得し、自動運転プロジェクト「Project Titan」の車両テストに使用してきた。しかし2024年初頭にAppleがProject Titanを正式に中止したことで施設は宙に浮いた状態だった。4年で7,500万ドルのキャピタルゲインを得た計算になる。
+施設には115エーカーの市街地コース・35エーカーの車両ダイナミクスエリア・4マイルの楕円コース・高速道路コースが含まれ、Waymoはライダー専用テスト・モーション制御・運用訓練・将来的な拡張テストに活用する計画だ。
+Alphabet傘下のWaymoは現在約4,000台のロボタクシーフリートを保有し、Zeekrバンの量産で数万台規模への拡大を目指している。この取得はWaymoが物理的テストインフラへ長期投資していることを示す。Appleの自動運転資産をWaymoが引き継ぐ取引は、自動運転業界が「プラットフォーム企業の実験場」から「専業自動運転企業の主戦場」へ収斂しつつあることを象徴している。
+
+💡 投資含意: WaymoのテストインフラへのコミットメントはAlphabetの自動運転への長期投資姿勢を示す。地理的拡大と車種拡充加速の実用インフラとして評価できる。
+🔗 波及: Appleの自動運転資産の外部流出はProject Titanの完全撤退を確認。テスラ・Cruiseとの競合においてWaymoのインフラ先行優位が広がることを示す。
+📈 関連銘柄: GOOGL（Waymo親会社・Alphabet）、TSLA（競合・Waymoとの差の拡大）
+⚖️ 強気材料（GOOGL・Waymo長期）
+📅 次の注目: Waymoのアリゾナ新拠点でのテスト開始・Zeekrロボタクシーの量産スケール
+
+### [ペンタゴン、アリババ・百度・BYD・ユニツリーを「中国軍支援企業リスト」に追加——中国テック・EV・ロボティクス全域に制裁網が拡大](https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/)
+*Pentagon says Alibaba, Baidu, BYD and Unitree support China's military*
+出典: TechCrunch ・ #technology #2026-06-08
+
+米国防総省が「1260Hリスト」を更新し、アリババ・百度（Baidu）・BYD・ユニツリー（Unitree）など複数の中国企業を「中国軍を支援する企業」として追加した。同リストはNDAA 2021の1260H条項に基づき、米企業との取引制限や輸出規制強化の根拠となりうる。
+リストには現在188社が含まれ、中国の主要AIプレーヤーのほぼ全てを網羅する状態となった（テンセントは昨年追加済み）。今回はEV（BYD・Nio）・バッテリー（CALB・EVE Energy）・LIDAR（RoboSense）・自動運転（Baidu）など中国モビリティサプライチェーンが特に標的となった。人型ロボットで世界的な注目を集めるユニツリーの追加は、ロボティクスへの制裁包囲網が拡大していることを示す。
+このリスト更新は2月に一度連邦官報に公開された後、理由の説明なく撤回され、今回改めて発効した。規制の不安定さを示すとともに、トランプ政権がAI大企業への政府株式取得を検討している（別項参照）同じタイミングでの発表は、「国内AI強化と中国AI抑制」という二面政策の一環として読める。
+ほとんどの中国AI主要企業が今やリストに掲載され、米国企業との取引に法的リスクが生じている。スタートアップ・研究機関も含めた中国AI研究との国際連携が難しくなる方向性を示している。
+
+💡 投資含意: 中国企業の制裁リスト掲載はU.S.サプライチェーンへの依存度が高いEV・LiDAR・ロボティクス分野で調達先の見直しを迫り、米国・台湾・韓国の代替サプライヤーに恩恵をもたらす。
+🔗 波及: BYDの掲載はテスラのEV競合への間接的な追い風。RoboSense掲載はLuminar Technologies（LAZR）などLiDAR競合の価値を高める。ユニツリー掲載は米系ロボティクス企業（Boston Dynamics・Figure AI等）への相対的な注目を増す。
+📈 関連銘柄: TSLA（EV競合への追い風）、LAZR（LiDAR代替）、BABA・BIDU（中国ADR、弱気）
+⚖️ 強気材料（米国・台湾・韓国サプライヤー代替需要）、弱気材料（中国テック・ADR全般）
+📅 次の注目: 追加規制（取引制限・輸出禁止）の発動有無・アリババ・百度のADR動向
+
+### [マイクロソフト、70件超のAzure・AIツール関連GitHubリポジトリを停止——AIコーディングツール標的のサプライチェーン攻撃](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/)
+*Microsoft's open source tools were hacked to steal passwords of AI developers*
+出典: TechCrunch ・ #technology #2026-06-08
+
+マイクロソフトが70件以上のオープンソースGitHubリポジトリへのアクセスを停止した。AzureのクラウドサービスやAI開発ツール（Claude Code・Gemini CLIのVS Code拡張等）に関連するプロジェクトがハッキングされ、コードにパスワード窃取型マルウェアが注入されたためだ。
+セキュリティ企業CloudsmithとOpenSourceMalwareが最初に発見。影響を受けたツールをAIコーディングアプリで開いた開発者のパスワードや認証情報が盗まれる可能性がある。マイクロソフトは「一時的にリポジトリを削除した」と確認し、影響を受けた少数の顧客への通知を行ったとした。
+特筆すべきはこの攻撃が「再侵害（re-compromise）」の性格を持つ点だ。5月中旬に発見されたDurable Taskプロジェクトへの侵害の後、完全な排除が達成できなかったか、または全く別の新たな侵害が起きた可能性を示している。AIコーディングツールを使う開発者は高価値なクラウド認証情報を持つことが多く、「AIツールのサプライチェーン攻撃」は被害が大きい。
+これは2026年上半期に相次いでいるオープンソースサプライチェーン攻撃（Trivy・Bitwarden・Checkmarxなど）の最新事例で（前日既報）、AIコーディングエコシステム全体のセキュリティに警鐘を鳴らしている。マイクロソフトほどのリソースを持つ大企業が同類の攻撃を繰り返し受けたことは異例だ。
+
+💡 投資含意: AI開発ツールを標的とするサプライチェーン攻撃の増加はDevSecOps・ソフトウェアサプライチェーンセキュリティへの支出を加速させる。Snyk・Sonatype・CrowdStrikeのコードセキュリティ製品に追い風。
+🔗 波及: AIコーディングツール（GitHub Copilot・Claude Code等）の利用企業によるセキュリティ審査が厳格化し、エンタープライズ導入サイクルが長期化する可能性。マイクロソフトの信頼性への短期的な打撃。
+📈 関連銘柄: CRWD・PANW（DevSecOps需要）、MSFT（信頼性への打撃だが長期影響は限定的）
+⚖️ 弱気材料（MSFT短期）、強気材料（サイバーセキュリティ企業）
+📅 次の注目: 侵害の全容公開・被害開発者数の判明・リポジトリの完全復旧
 
 ## 2026-06-07
 
