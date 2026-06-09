@@ -1,6 +1,56 @@
 # 🦾 フィジカルAI・ロボティクス — 全アーカイブ
 
-全4件 / 日付の新しい順
+全8件 / 日付の新しい順
+
+## 2026-06-09
+
+### [Walmart×Wing、ドローン配送を7市場に拡大——累計100万件突破、2027年末に4000万人カバー目標](https://www.therobotreport.com/walmart-wing-add-7-markets-in-drone-delivery-expansion/)
+*Walmart, Wing add 7 markets in drone delivery expansion*
+出典: The Robot Report ・ #robotics #2026-06-09
+
+WalmartとAlphabet傘下のWingがドローン配送をメンフィス・ニューオーリンズ・フィラデルフィア・フェニックス・サンディエゴ・サンフランシスコ湾岸・ソルトレイクシティの7市場に拡大すると発表した。Wing全体での累計配送数は100万件を突破し、2027年末までに4000万人のアメリカ人がサービスを利用できる目標を掲げる。今回の7市場追加は南部・西部中心だった展開地域を北東部・太平洋岸にまで広げる動きで、商用スケールアップの加速を示す。
+
+💡 投資含意: WalmartとGoogleの提携によるドローン配送の急拡大はラストマイル物流コスト低減に直結する。Google（Alphabet）とWalmartの両社にとって競争優位となりうる。
+🔗 波及: ドローン配送の本格スケールはAmazon・FedEx・UPSの配送事業モデルへの競争圧力を高める。
+📈 関連銘柄: GOOGL（Alphabet/Wing・強気）、WMT（Walmart・強気）
+⚖️ 強気材料（GOOGL Wing・WMT eコマース物流）
+📅 次の注目: FAA規制対応・競合他社のドローン配送市場参入状況
+
+### [Standard Botsが2億ドルシリーズCを完了——評価額10億ドル、NYで7万平方フィート拡張、AI教示型ロボット量産へ](https://www.therobotreport.com/standard-bots-raises-200m-expand-u-s-manufacturing-footprint/)
+*Standard Bots raises $200M to expand U.S. manufacturing footprint*
+出典: The Robot Report ・ #robotics #2026-06-09
+
+AIネイティブ型産業ロボットスタートアップのStandard Botsが2億ドルのシリーズCを完了し、評価額10億ドルのユニコーンとなった。ニューヨーク州グレンコーブで7万平方フィートの製造・展示拠点を拡張し、米国製造業への雇用・設備投資を強調している。同社のロボットは「教示ベース」のAI学習を採用しており、エンジニア不要でオペレーターが直接動作を教えられる設計が特徴。フォーチュン100企業から中小製造業まで幅広い顧客層を持ち、米国製造回帰（リショアリング）の流れを直接取り込む戦略をとっている。
+
+💡 投資含意: 米国製造業回帰トレンドの受益株として中小製造業向けAIロボット市場に注目。SMEへの裾野拡大は市場規模拡大の鍵となる。
+🔗 波及: リショアリング加速に伴う産業ロボット需要増大は部品・センサーサプライチェーン全体に恩恵をもたらす。
+📈 関連銘柄: NVDA（AI推論チップ・ロボット向け）、ROK（Rockwell Automation・産業オートメーション競合/受益）
+⚖️ 強気材料（米国製造回帰・AIネイティブ産業ロボット市場）
+📅 次の注目: グレンコーブ施設の稼働開始・IPO検討の有無
+
+### [超党派「国家ロボット委員会」設立法案が前進——中国は米国の9倍のロボットを稼働、業界が一枚岩で支持](https://www.therobotreport.com/effort-establish-national-commission-on-robotics-advances-congress/)
+*Effort to establish a National Commission on Robotics advances in Congress*
+出典: The Robot Report ・ #robotics #2026-06-09
+
+上院でMcCormick（共和党）・Hickenlooper（民主党）による超党派「National Commission on Robotics」設立法案が前進した。2025年時点でアメリカより9倍多いロボットを中国が稼働させているとのデータを背景に、Boston Dynamics・Agility Robotics・Locus Roboticsなど業界大手が支持を表明している。委員会は米国のロボット政策を一元的に統括する機関として位置づけられ、連邦レベルの明確なロボット投資・規制フレームワーク策定に向けた重要な一歩となる。
+
+💡 投資含意: 米国のロボット産業政策が明確化されることで、国防・製造・物流向けロボット企業は長期的な事業計画を立てやすくなる。連邦調達・補助金政策の整備につながる可能性がある。
+🔗 波及: 中国ロボット産業との競争を意識した政策強化はサプライチェーン国産化・部品調達先の選別にも波及しうる。
+📈 関連銘柄: NVDA（ロボットAI）、TER（Teradyne/Universal Robots親会社）
+⚖️ 強気材料（米国ロボット産業政策整備・長期）
+📅 次の注目: 法案の本会議採決・委員会メンバーの選定プロセス
+
+### [AGILINKがICRA 2026で「接触知能」を実証——風船アニマル操作デモとOmniHand 3 Ultra-M（20自由度・0.005N触覚分解能）を発表](https://spectrum.ieee.org/agilink-contact-intelligence-robot-manipulation)
+*Beyond Dexterity: Why Contact May Define the Next Era of Robotics*
+出典: IEEE Spectrum Robotics ・ #robotics #2026-06-09
+
+AGILINKがICRA 2026（ウィーン）で「接触知能（contact intelligence）」を中核に据えた2つのデモを披露した。目玉は風船アニマル作り：高変形・高摩擦感度の風船を破裂させずにねじり続けるタスクで、長期シーケンス実行（motion intelligence）と接触維持（contact intelligence）の両立を実証した。専業バルーンアーティストからの人間デモと失敗復帰事例を収集し強化学習でポリシーを構築している。同時発表のOmniHand 3 Ultra-Mは20自由度・完全直接駆動を採用し、力制御帯域幅と透明性を向上。300以上の3D触覚センシングポイントが掌全体に分布し、個別センサーの力分解能は約0.005 N（紙1枚の重さ相当）、空間分解能0.04 mm、感覚点密度5万点/cm²を実現する。ケーブル挿入・衣類処理・コネクタ嵌合など自動化困難タスクの突破口となりうる。
+
+💡 投資含意: 接触知能は従来の産業ロボットが苦手とする非構造環境タスクを切り開く。直接駆動・高密度触覚センシングを組み合わせた商業製品の登場は、製造・物流・医療向けロボット市場の次の成長波を示唆する。
+🔗 波及: AGILINKの技術路線はBoston Dynamics・Figure・Physical Intelligenceなど人型・ドエクスタラス系スタートアップ全体のハードウェア要求水準を引き上げる。
+📈 関連銘柄: NVDA（AI推論インフラ）、ABB・FANUC（既存産業ロボット競合/受益）
+⚖️ 強気材料（ロボット接触知能商業化の前進）
+📅 次の注目: OmniHand 3 Ultra-Mの商用リリーススケジュール・実作業ベンチマーク結果
 
 ## 2026-06-08
 

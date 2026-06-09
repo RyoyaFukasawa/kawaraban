@@ -1,6 +1,72 @@
 # 🤖 AI・先進技術 — 全アーカイブ
 
-全30件 / 日付の新しい順
+全35件 / 日付の新しい順
+
+## 2026-06-09
+
+### [⚠️ CohereがNorth Mini Code 1.0を正式リリース——30B A3BのコーディングMoEモデル、HuggingFaceでウェイト公開](https://www.reddit.com/r/LocalLLaMA/comments/1u1ci1r/releasing_cohere_north_mini_code/)
+*Releasing Cohere North Mini Code*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-09
+
+CohereのJay Alammarがr/LocalLLaMAで「North Mini Code 1.0」を正式リリースしたという投稿がある。30Bパラメータ・3Bアクティブパラメータ（A3B）のMoEアーキテクチャで、HuggingFaceでウェイト（fp8量子化版含む）が公開されている。vLLMでの動作にはvLLM mainブランチとCohereのmelodyライブラリが必要。Artificial Analysisスコア28（Qwen 3.6 35B: 43に劣るが）、コーディングインデックスではQwen 3.6 35Bの35に対し33と競争力があり、Gemma 4 26Bの22を大きく上回る。OpenCode（opencode.ai）で無料試用可能。投稿者がCohere公式スタッフ（Jay Alammar）であることから情報の信頼性は比較的高いが、未確認ソースのルールを適用する。
+⚠️ 未確認情報（Reddit発・要裏取り）
+
+💡 投資含意: オープンウェイトのコーディングモデル競争激化はGitHub Copilot・Cursor等のコーディングAI製品の差別化圧力を高める。ローカルモデルへの移行を後押しし、Anthropic・OpenAIのAPI課金への代替圧力が増す。
+🔗 波及: 低コストで動作するオープンコーディングモデルの普及は中小企業・個人開発者のAIコーディングツール採用を加速しうる。
+📈 関連銘柄: MSFT（GitHub Copilot競合リスク）
+⚖️ 弱気材料（クローズドAPIコーディングサービス事業者）、強気材料（ローカル推論インフラ・NVDA）
+📅 次の注目: vLLM正式対応リリース・コミュニティベンチマーク充実
+
+### [⚠️ ICML 2026採択論文「ntkMirror」——情報予算ゲートでLLMの幻覚を0.7%以下に抑制する手法を公開](https://www.reddit.com/r/LocalLLaMA/comments/1u19vn2/our_icml_paper_on_predictable_hallucination/)
+*Our ICML paper on predictable hallucination (information-budget abstention gate), + ntkMirror: a training-free open-weight implementation we're releasing today*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-09
+
+ICML 2026採択論文「Predictable Compression Failures」の著者が、LLMの幻覚を情報量ベースで予測・制御するオープンソース実装「ntkMirror」をGitHubで公開したというr/LocalLLaMAの投稿が注目されている。核心の理論「Expectation-level Decompression Law（EDFL）」は、証拠文書の提示順序を変えた際の回答確率変動（順序感受性）を利用し、複数の証拠順列での回答分散からISR（情報過不足比）を計算する仕組み。ISR=1を棄権の境界として理論値から直接導出するためしきい値チューニングが不要で、fine-tuning不要・第2モデル不要の推論時ゲートとして動作する。事前設定の保留テストでは、棄権率約24%で棄権しなかった回答の幻覚率を0.0〜0.7%に抑制したと報告。Gemma E4B等でAUROC 0.84〜0.96を記録した。
+⚠️ 未確認情報（Reddit発・要裏取り）
+
+💡 投資含意: LLM信頼性向上の実装（OSS）の登場はエンタープライズAI導入加速につながりうる。医療・法律・金融など高リスク領域でのAI活用の信頼基盤として採用候補技術となりえる。
+🔗 波及: 幻覚制御技術の普及はAI導入を迷っていた規制当局・企業コンプライアンス部門の判断を前向きに変えうる。
+📈 関連銘柄: MSFT・GOOGL・Salesforce（エンタープライズAI信頼性向上の恩恵）
+⚖️ 強気材料（エンタープライズAI採用加速・信頼性技術全般）
+📅 次の注目: ICML 2026本会議・商用AI製品への組み込み事例
+
+### [⚠️ AppleがWWDCで「CoreAI」を発表——CoreMLの後継となるデバイス上推論エンジンで20Bパラメータ超のモデルに対応へ](https://www.reddit.com/r/LocalLLaMA/comments/1u1516w/apple_announced_new_on_device_inference_engine/)
+*Apple announced new on device inference engine for Apple Silicon*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-09
+
+AppleがWWDCで「CoreAI」を発表したという投稿がr/LocalLLaMAで注目を集めている。CoreMLの後継となるデバイス上AI推論エンジンで、MLX・llama.cpp・PyTorchに代わるiPhone/iPad向けの最適化実行環境を目指す設計という。CoreMLが数十億パラメータ以下・限定オペレーションしか対応できなかったのに対し、CoreAIはApple Neural Engine（ANE）のオペレーション群を大幅に拡張する。20BパラメータのMoEモデルをデバイス上でレイジーロードして動かすことを想定した設計とされる。AppleのFoundation Models第3世代とも連動し、アプリが自前の大規模モデルをデバイス内展開できる将来像を示す。投稿者は現時点で性能データはなくMLXに劣る可能性も留保しているが、CoreMLの制約（数Bパラメータ上限・ANEオペレーション不足）を解消しうると評価する。
+⚠️ 未確認情報（Reddit発・要裏取り）
+
+💡 投資含意: デバイス上で20Bモデルが動くなら、クラウドAI APIへの依存を構造的に減らしうる。Apple Siliconの付加価値向上はAAPLの競争優位を強化する。
+🔗 波及: クラウドAI API（OpenAI・Anthropic）のコンシューマー向け課金に代替圧力が高まる。
+📈 関連銘柄: AAPL（オンデバイスAI・長期強気）
+⚖️ 強気材料（AAPL・Apple Silicon価値向上）、弱気材料（クラウドAI API事業者）
+📅 次の注目: CoreAIの正式ドキュメント・Apple Developer向け対応モデルリスト公開
+
+### [二言語混在発話（コードスイッチング）ベンチマーク公開——企業音声AIの多言語対応能力に新評価軸](https://huggingface.co/blog/ServiceNow-AI/code-switching)
+*Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech*
+出典: Hugging Face ・ #ai #2026-06-09
+
+ServiceNow AIがHugging Faceで、コールセンターや企業ヘルプデスク向けにコードスイッチング（二言語混在発話）への音声認識（ASR）対応を測るベンチマーク「AU-Harness」を公開した。スペイン語-英語・フランス語-英語・カナダフランス語-英語・ドイツ語-英語の4言語ペアを対象に、HRおよびITサービス管理シナリオで7モデルを評価。評価指標はWER（単語誤り率）・SWER（意味的WER）・AER（回答誤り率）の3種を採用し、文字精度だけでなく意味保持とダウンストリームタスクへの影響まで測定する。
+結果、ElevenLabs Scribe V2、Gemini 3 Flash、AssemblyAI Universal 3-Proが上位に立ち、DeepgramのNova-3は意味理解の弱さが際立った。コードスイッチングの「コスト」（モノリンガル対比の精度低下幅）はモデルと言語ペアによって大きく異なることも示された。
+
+💡 投資含意: ElevenLabs・AssemblyAIのエンタープライズ音声API採用を後押しする評価結果。GOOGLのGemini 3 Flashが上位に入ることは、Google Cloud AIの多言語企業需要取り込みに有利に働く。
+🔗 波及: コードスイッチング対応が音声AI選定の標準指標になれば、多言語対応の弱いAPIが競争で劣位になる。
+📈 関連銘柄: GOOGL（Gemini Flashの企業API採用加速）
+⚖️ 強気材料（GOOGL Gemini Flash・多言語対応音声AIプロバイダー全般）
+📅 次の注目: ElevenLabs・AssemblyAIのエンタープライズ採用事例・ベンチマークへの他モデル追加
+
+### [Gemini 3.5がリアルタイム音声翻訳に対応——Google AI Studio・Translate・Meetに展開](https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/)
+*Fluid, natural voice translation with Gemini 3.5 Live Translate*
+出典: Google DeepMind ・ #ai #2026-06-09
+
+Google DeepMindが「Gemini 3.5 Live Translate」をリリースした。Gemini 3.5をベースにしたほぼリアルタイムの自然な音声翻訳機能で、Google AI Studio、Google Translate、Google Meetの3製品に展開される。
+
+💡 投資含意: Google MeetとTranslateという主要製品への音声翻訳統合は、Workspace・Google Cloudの非英語圏エンタープライズ需要を強化しうる。
+🔗 波及: Zoom・Microsoft Teamsのリアルタイム翻訳機能と直接競合する。
+📈 関連銘柄: GOOGL（Workspace/AI翻訳強化・強気）、ZM（競合リスク）
+⚖️ 強気材料（GOOGL Workspace多言語機能拡充）
+📅 次の注目: Meetへの段階的ロールアウトとエンタープライズ展開スケジュール
 
 ## 2026-06-08
 

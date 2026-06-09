@@ -1,6 +1,68 @@
 # 🖥 テクノロジー — 全アーカイブ
 
-全56件 / 日付の新しい順
+全61件 / 日付の新しい順
+
+## 2026-06-09
+
+### [MetaのAIソフト脆弱性でInstagramアカウントを誰でも乗っ取り可能に——Meta修正済みと発表](https://www.nytimes.com/2026/06/09/technology/instagram-hack-ai-bug.html)
+*Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts*
+出典: NYT Technology ・ #technology #2026-06-09
+
+MetaのAIソフトウェアの脆弱性により、誰でもInstagramアカウントを乗っ取ることができる欠陥が存在していたことが明らかになった。MetaはすでにこのBugを修正済みとしている。
+
+💡 投資含意: MetaのAIソフトウェアに重大なセキュリティ脆弱性が存在したことは、AI統合のセキュリティリスクを浮き彫りにする。修正済みとはいえ、規制当局・ユーザーの信頼への影響と潜在的な罰則が懸念材料となる。
+🔗 波及: AIとプラットフォームセキュリティを統合する企業全体のセキュリティ審査厳格化の流れを加速しうる。
+📈 関連銘柄: META（規制・信頼リスク・短期弱気）、CRWD・PANW（セキュリティ需要）
+⚖️ 弱気材料（META・セキュリティインシデント対応コスト・信頼毀損リスク）
+📅 次の注目: 規制当局の調査開始有無・EUのGDPR罰則の可能性
+
+### [Microsoftが出資するD-MatrixがCorsair AIチップの量産開始——GPU比10倍速・5分の1の消費電力、SRAM採用でDRAM不足を回避](https://www.cnbc.com/2026/06/09/nvidia-d-matrix-chip-production-microsoft.html)
+*Upstart chipmakers keep challenging Nvidia. This time it's Microsoft-backed D-Matrix*
+出典: CNBC Technology ・ #technology #2026-06-09
+
+Nvidiaチャレンジャーの D-Matrixが「Corsair」AIチップの量産を開始した。GPU比で推論速度10倍・消費電力5分の1（小規模ワークロード対象）を謳い、DRAM不足を回避するSRAMベースのアーキテクチャを採用する。D-Matrixはこれまでに累計5億ドルを調達し、評価額は20億ドル。MicrosoftのM12ベンチャーファンドが投資家に名を連ねる。製品はArista・Broadcom・SuperMicroとの「SquadRack」パートナーシップを通じて展開され、今月から出荷開始予定。
+
+💡 投資含意: SRAM+高効率推論チップの商用出荷開始はデータセンター向けAI推論コスト削減を現実化するステップ。小規模ワークロード向けという制約はあるが、コスト効率重視の推論需要を直撃しうる。
+🔗 波及: Nvidia GPUに対する推論専用チップの本格競争が始まる。Arista・Broadcom・SuperMicroはSquadRackエコシステムを通じた追加売上を得る可能性がある。
+📈 関連銘柄: NVDA（競合リスク）、ANET（SquadRackパートナー）、AVGO（パートナー）、SMCI（パートナー）、MSFT（M12投資家・間接恩恵）
+⚖️ 弱気材料（NVDA・推論専用チップの競合激化）、強気材料（ANET・AVGO・SMCI・MSFT）
+📅 次の注目: Corsairの出荷数・SquadRackの初期顧客採用事例・中規模ワークロードへの性能検証
+
+### [EUがMetaにWhatsAppをライバルAIチャットボットへ開放するよう命令——Meta「規制の行き過ぎ」と反発](https://www.bbc.com/news/articles/cn8qj8wjgxwo)
+*EU orders Meta to open WhatsApp to rival AI chatbots*
+出典: BBC Technology ・ #technology #2026-06-09
+
+EUがMetaに対し、WhatsAppをライバルAIチャットボットに開放するよう命じた。MetaはEUの決定を「規制の行き過ぎ（regulatory overreach）」と批判し、この措置によってOpenAIのような大手テック企業がWhatsAppに無料でアクセスできるようになると主張している。
+
+💡 投資含意: EUの強制インターオペラビリティ命令はMetaのWhatsAppメッセージング市場における独占的ポジションを弱体化させるリスクがある。一方、WhatsAppプラットフォームを活用したいAIエージェント事業者には参入機会が生じる。
+🔗 波及: EU規制がAIエージェントの相互接続を義務化する初事例となれば、他のメッセージングプラットフォームにも波及しうる。
+📈 関連銘柄: META（規制リスク・短期弱気）
+⚖️ 弱気材料（META WhatsApp収益化・独占性への打撃）
+📅 次の注目: MetaのEU規制当局への不服申立て・対応スケジュール
+
+### [Rivian R2 SUVの納車開始——$58Kスタート、2026年末2.5万台目標、Uber4万台ロボタクシー契約が下支え](https://techcrunch.com/2026/06/09/rivian-starts-deliveries-of-its-all-important-r2-suv/)
+*Rivian starts deliveries of its all-important R2 SUV*
+出典: TechCrunch ・ #technology #2026-06-09
+
+RivianがR2 SUVの納車を開始した。価格は5万8000ドルからで、2026年末までに2〜2.5万台の納車を目指す。イリノイ州工場で生産中で、ジョージア州工場は2028年に稼働予定。UberとのEV供給契約（12.5億ドル、ロボタクシー4万台）は長期受注として財務を下支えする。連邦EVタックスクレジット（7,500ドル）がトランプ政権下で廃止されており購入コストが増加する逆風があるが、R1系より低価格なR2は市場の裾野を広げる設計。
+
+💡 投資含意: R2の納車開始はRivianの収益化への重要な一歩。イリノイ工場のランプアップ速度が2026年の財務見通しを左右する。EV税控除廃止は短期的な販売逆風だが、低価格帯製品ラインの拡充はそれを部分相殺しうる。
+🔗 波及: RivianのUber契約は自動運転タクシー向けEV需要の具体的な数字を提示し、セクター全体のEV普及ペースを測るベンチマークとなる。
+📈 関連銘柄: RIVN（直接）、UBER（ロボタクシー/EV採用）
+⚖️ 弱気材料（EV税控除廃止・短期販売逆風）、強気材料（RIVN R2量産立ち上げ・Uber契約）
+📅 次の注目: 2026年Q2納車台数・イリノイ工場の月次生産キャパシティ開示
+
+### [AnthropicがClaude Fable 5を一般公開——入力$10/出力$50per Mトークン、30日データ保持義務、6/22以降無償利用廃止](https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/)
+*Anthropic's Claude Fable 5 is a version of Mythos the public can access today*
+出典: TechCrunch ・ #technology #2026-06-09
+
+AnthropicがClaude Fable 5を一般公開した。同社のMythos 5モデルが先行限定展開されていたが、Fable 5はその公開版として位置づけられる。料金は入力1Mトークン$10・出力1Mトークン$50で、前フラッグシップモデルOpus 4.8の約2倍の価格設定。Anthropicの内部ではセッションの95%超がFable 5上で完結し、残り5%のみOpusにフォールバックするという。APIを通じた全ユーザーに30日間のデータ保持が義務化され、6月22日以降は無償利用も終了する。外部バグバウンティを通じた1000時間超のレッドチームが実施され、ユニバーサルジェイルブレイクは発見されなかったと報告。BI・分析プラットフォームのHexはFable 5で90%の分析ベンチマークを達成したと報告している。
+
+💡 投資含意: 価格引き上げと6/22の無償廃止は収益化の本格加速を示す。30日データ保持義務は規制対応コストを上乗せするが、エンタープライズ顧客への信頼感を高める。
+🔗 波及: AnthropicのMythos公開はOpenAI・Google GeminiとのエンタープライズAI競争に新局面をもたらす。
+📈 関連銘柄: GOOGL・MSFT（競合AI事業）、Salesforce・HubSpot（Anthropic API採用企業）
+⚖️ 強気材料（Anthropicエンタープライズ品質訴求・収益化加速）、弱気材料（価格引き上げによる中小顧客流出リスク）
+📅 次の注目: 6月22日以降のAPIティア変更・Fable 5のベンチマーク第三者評価
 
 ## 2026-06-08
 
