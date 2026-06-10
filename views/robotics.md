@@ -1,6 +1,35 @@
 # 🦾 フィジカルAI・ロボティクス — 全アーカイブ
 
-全8件 / 日付の新しい順
+全10件 / 日付の新しい順
+
+## 2026-06-10
+
+### [NEURAロボティクス、NVIDIAとAmazonから最大14億ドルのシリーズCを調達——欧州発の人型ロボット企業がグローバル展開加速](https://www.therobotreport.com/neura-robotics-raise-up-1-4b-in-series-c-funding-physical-ai/)
+*NEURA Robotics to raise up to $1.4B in Series C funding for physical AI*
+出典: The Robot Report ・ #robotics #2026-06-10
+
+ドイツ・Metzingen拠点のNEURA Roboticsが、NVIDIAとAmazonを含む戦略投資家から最大14億ドルのシリーズCラウンドを発表した。人型ロボット（4NE1）・モバイルロボット（MAV）・軽量ロボットアームに加え、AIロボット学習基盤「Neuraverse」の構築を手掛ける。
+投資家構成が極めて多様で戦略的な点が特徴。NVIDIA、Amazon、Qualcomm（エッジAI）、Bosch、Schaeffler（精密機械）、欧州投資銀行（EIB）、暗号資産企業Tetherまで参加しており、製造・物流・金融の各側面から「フィジカルAIのインフラ」としての期待を集める。1月にBoschとの人型ロボットソフトウェア開発提携、4月にDassault Systèmesとのsim-to-real格差縮小提携なども続いており、エコシステム形成が急ピッチ。
+同社は既存受注残と戦略展開パイプラインが10億ドル超と主張。CEOのRegerは「シリコンバレー以外からもAIインフラ企業が生まれ得ることを証明する」と主張し、Figure・1X・Unitree（宇樹）など米中有力企業への対抗を示唆。
+製造と物流の自動化に向けた人型ロボット競争に欧州勢が本格参入したことは、米中二極構造に変化をもたらす可能性がある。Qualcommのコメントにある通り「知覚・推論・即時動作をオンデバイスで行う最も高度なエッジAIユースケース」として、人型ロボットは半導体・センサー・ソフトウェア全体への需要を生む。
+💡 投資含意: NVIDIAがロボット会社への直接出資（戦略投資）を進めており、Isaac Sim/Jetsonプラットフォームの市場拡大が加速。AmazonもAWS・物流自動化の観点から参画しており、倉庫ロボット化の波が続く。
+🔗 波及: 人型ロボット製造には半導体（NVDA）・精密部品（Schaeffler/FANUC等）・センサー（Bosch）が大量に必要で、サプライチェーン全体に恩恵。Qualcommはエッジ推論チップの主要サプライヤーとして位置付け。
+📈 関連銘柄: NVDA（物理AIエコシステム拡張・強気）、AMZN（ロジスティクス自動化加速・強気）、QCOM（エッジAI需要・強気）
+⚖️ 強気: 人型ロボット・フィジカルAIセクター全体に強気材料
+
+### [NVIDIA、ロボタクシー向け安全OS「Halos OS」を発表——ISO 26262 ASIL D認定の量産対応スタック](https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/)
+*For Robotaxis, Safety Must Be Built In, Not Bolted On*
+出典: NVIDIA Robotics ・ #robotics #2026-06-10
+
+NVIDIAが自動運転車（ロボタクシー）向けの統合安全オペレーティングシステム「Halos OS」を正式発表した。NVIDIA DRIVE Hyperionプラットフォーム上に構築された量産対応の安全基盤で、単なるソフトウェアコンポーネントではなくOS・SDK・アプリ・クラウドインフラを包括する4層構造を持つ。
+背景として、ロボタクシー産業はWaymo等が商業展開段階に移行しており、規制当局と認証機関が「性能が高い」だけでなく「システム全体の信頼性・フォールト分離・動作境界の証明」を求めている。従来は「安全ガードレールを後付けする」設計が多かったが、Halos OSは「最初から安全性を組み込む」（built-in not bolted-on）アーキテクチャを標榜。
+Halos Coreは次世代NVIDIA DriveOS。ISO 26262 ASIL D（自動車安全最高規格）認定済みで、NVIDIA CUDAとTensorRT安全認定版を含む。ハイパーバイザー（安全クリティカル機能を隔離し、障害が車両制御に到達しない設計）を内蔵。Halos SDKはセンサー抽象化層（カメラ・レーダー・LiDARを統一インターフェースで扱う）と車両抽象化層を提供。Halos Applicationsには自動緊急ブレーキ・車線逸脱警告など従来のADASに加え、NVIDIAが新たに公開したAlpamayoオープンモデル族（自動運転向け連鎖思考推論）を統合できる。
+Halos Infraはクラウド側のトレーニング・シミュレーション・バリデーション環境で、今月別途発表されたHalos Safety Evaluation Framework（330本以上の研究論文・1,000件以上の特許に基づく）と連携。
+NVIDIAはハードウェア（GPU・DRIVE Hyperion）から安全認定OS・SDKまでを一体で提供することで、自動運転スタックの「NVIDIA化」によるスイッチングコスト向上を狙う戦略が鮮明。
+💡 投資含意: NVIDIAが自動運転OSレイヤーまで支配することで、Qualcomm Snapdragonやモービルアイとの競合軸が「ハードウェア性能」から「認定済みソフトウェアスタック」へと移行する。自動運転参入企業はNVIDIAのエコシステムを採用するインセンティブが高まる。
+🔗 波及: センサー企業（LiDAR等）はHalos SDK対応が競争力の前提条件に。自動運転スタートアップはNVIDIA Halos OS採用でTier 1認証コストを削減できる→参入加速。
+📈 関連銘柄: NVDA（自動運転スタック覇権確立・強気）、LAZR（センサー対応次第・中立）、MBLY（Halos競合・若干弱気）
+⚖️ 強気: NVDAの自動運転エコシステム支配力強化に強気材料
 
 ## 2026-06-09
 
