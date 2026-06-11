@@ -1,6 +1,61 @@
 # 🖥 テクノロジー — 全アーカイブ
 
-全65件 / 日付の新しい順
+全69件 / 日付の新しい順
+
+## 2026-06-11
+
+### [ベゾス、AIで「人工汎用エンジニア」を構築すると表明——$410億規模のAIスタートアップPrometheus、コンピュータからジェット機設計まで対象](https://www.nytimes.com/2026/06/11/technology/bezos-prometheus-ai-engineer.html)
+*Jeff Bezos Wants to Build an 'Artificial General Engineer'*
+出典: NYT Technology ・ #technology #2026-06-11
+
+Amazon創業者のJeff BezosがCo-CEOを務めるAIスタートアップ「Prometheus」が、その取り組みの詳細を初めて公開した。目標は「人工汎用エンジニア（Artificial General Engineer）」——AIを使ってコンピュータからジェット機に至るあらゆるデバイスの設計・製造プロセスを変革することとされる（NYT）。
+Prometheusは2025年11月に$62億を調達して設立され、今回の会見でCNBC・FTに対し$12億の追加調達（累計$41億超）を認めた。Co-CEOのVik Bajaj氏とBezosが共同運営し、Bezosは「秘密主義ではない」と語った。FT報道によればBezosは「AIがゴールデンエイジをもたらす、大規模失業ではない」と主張し、AI経済の楽観的ビジョンを打ち出した。
+技術的な焦点は「ハードウェア設計プロセスへのAI応用」——自動車・航空・半導体・工業機械等の製造業での活用が主戦場。生成AI・大規模言語モデルのコード生成から一歩進み、「物理的なデバイス設計知能」を目指すアプローチは、NVIDIA IsaacのようなロボットAIとは異なる「設計フェーズへの介入」という独自の立ち位置を示している。
+情報はRSS/報道ベースのため詳細は限られる。Amazonのサプライチェーン・物流・AWSとの統合については言及が少なく今後の展開が注目される。
+💡 投資含意: 製造設計へのAI応用は半導体・EDAツール・CAD/CAMソフトウェア市場を大きく変えうる。$41億という巨額のコミットメントはベゾスがこの市場の規模を大きく評価していることを示す。
+🔗 波及: Autodesk・Cadence・Synopsys等の設計自動化ツール企業に競合圧力。Amazonのインフラとの統合次第ではAWS利用拡大。
+📈 関連銘柄: AMZN（Prometheusで新市場創出・中立〜強気）、CDNS, SNPS（設計自動化競合・中立）
+⚖️ 強気: 製造業のAI化という新市場の創出。Amazonエコシステムの拡大材料
+
+### [Oracle株が決算後-8%急落——予想超えの好決算も$400億追加調達計画と$237億の負フリーキャッシュフローが嫌気される](https://www.cnbc.com/2026/06/11/oracle-shares-tumble-11percent-on-increased-capital-raise-cash-concerns.html)
+*Oracle shares tumble 11% on increased capital raise, cash concerns*
+出典: CNBC Technology ・ #technology #2026-06-11
+
+Oracle（ORCL）がFY2026 Q4（5月期）決算を発表。売上高は前年比21%増（$191.8億、コンセンサス予想超え）、調整後EPS $2.03（予想$1.96超え）とトップ・ボトムラインで上回ったが、株価は発表後に-8%（一時-11%）と急落した。
+株価下落の主因は巨額の追加資本調達計画。Oracleは既にFY2026に$430億の負債＋$50億の株式発行を実施した後、さらに$200億の株式売出しを含む$400億の追加調達を発表。FY2026通期CapExは前年比162%増の$557億に拡大し、フリーキャッシュフローは$237億の赤字。新CFOはFY2027のCapExを「顧客前払い$200〜250億を除いて約$700億」と示した。
+ポジティブな面として、残存履行義務（バックログ）は前年比363%増の$6,380億に急拡大。BofAアナリストによると50%超がOpenAIからの大型契約（Stargateプロジェクト）。クラウドインフラ収入は前年比93%増の$58億。今四半期中に約1GWの計算能力を稼働させる計画も示されている。次四半期ガイダンスは27〜29%成長と予想超え。
+課題はOpenAI依存の集中リスク。全バックログの50%超が単一顧客（OpenAI）から来ており、OpenAI IPO後の契約再交渉・競争環境の変化が業績のボラティリティ要因になりうる。Piper SandlerはBuy推奨を維持した。
+💡 投資含意: 売上・EPSは優秀だが$700億/年のCapEx計画と負FCFが株主価値への懸念を生む。短期は希薄化・CapEx懸念で弱気。OpenAI契約の確認はAI需要の強さを示すが、集中リスクには注意。
+🔗 波及: OracleとOpenAIの相互依存関係はOpenAI IPO後に詳細が開示され投資家の注目点に。データセンター建設需要は建設・電力・冷却セクターに波及。
+📈 関連銘柄: ORCL（短期弱気）、NVDA（データセンター需要継続確認・強気）
+⚖️ 弱気: ORCL短期弱気。AI需要自体の継続は確認
+
+### [OracleのPeopleSoftに認証不要の重大ゼロデイ脆弱性——サイバー犯罪グループが100社超を侵害、数十万件の学生・従業員データが流出](https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/)
+*Oracle warns of security bug that hackers abused to breach 100+ companies*
+出典: TechCrunch ・ #technology #2026-06-11
+
+OracleがPeopleSoftソフトウェア（大企業の人事・給与管理に広く使用）に「Critical」評価のゼロデイ脆弱性が存在すると警告を発した。サイバー犯罪グループ「ShinyHunters」が同脆弱性を積極的に悪用し、100社超の組織を侵害したと公言した翌日のことである。
+脆弱性はインターネット経由でパスワード等の認証なしに悪用可能なゼロデイで、Oracleは警告時点でパッチを未リリース。GoogleのMandiantが被害の可能性がある「100以上のグローバル組織」に通知しており、その約3分の2が高等教育機関。一部大学では「数十万件の学生記録（氏名・住所・電話・GPA・学籍番号等）」が盗まれたとハッカーが主張している。
+ShinyHuntersは過去にSalesforce・Gainsight・Instructureを標的にした連鎖的侵害で実績があり、今回も「同じ脆弱なソフトウェアを使う組織を一斉に狙う」手法を踏襲。侵害後は「身代金を払わなければ盗んだデータを公開する」と脅す。
+今回の侵害はOracle株が決算・資本調達懸念で-8%急落した同日に重なり、Oracle社への信頼に対する二重の打撃となった。パッチが未リリースの状況下では、PeopleSoftを使う他の大企業にも継続リスクが存在する。
+💡 投資含意: Oracleのエンタープライズ顧客に対する評判・法的リスクが高まった。サイバー保険・インシデント対応・EDRサービス企業には需要増加の好機。
+🔗 波及: Google Mandiantの可視性向上はAlphabetにとってセキュリティブランドの強化材料。CrowdStrikeなどエンドポイント防衛企業にも啓発の機会。教育機関向けセキュリティ需要が上昇。
+📈 関連銘柄: ORCL（評判・法的リスク・弱気）、CRWD（サイバー防衛需要増・強気）、GOOGL（Mandiantビジネス機会・中立）
+⚖️ 弱気: ORCLに追加的な弱気材料。サイバーセキュリティセクターには強気
+
+### [元xAIエンジニアが「Grok安全性への懸念を理由に解雇された」と提訴——SpaceX IPO直前、安全性軽視の企業文化が法廷論争に](https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/)
+*xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims*
+出典: TechCrunch ・ #technology #2026-06-11
+
+元xAIエンジニアのDevin Kim氏が、Elon MuskのxAIとその親会社SpaceXをカリフォルニア州裁判所に提訴した。SpaceX IPO（6月13日・史上最大のIPO予定）の直前というタイミングが注目される。
+Kim氏は2024年にxAIに入社後、Grok（xAIのAIチャットボット）開発において安全性を優先しない企業文化に繰り返し異議を唱えたと主張。差別的コンテンツ生成リスクや大量破壊兵器情報の提供リスクを指摘したが、2025年9月に「別々に進むべき」と告げられ解雇されたとしている。Grokはその後「MechaHitler」発言でXに溢れ、非合意的性的画像の大量拡散でも批判を受けており、Kim氏の警告が事後的に裏付けられたと訴状は主張する。
+注目点は、訴状がMusk個人ではなくxAI共同創業者のJimmy Ba氏（今年初め退社）を主要被告として描いている点。Ba氏はMuskの安全指示を無視し「どうせAIに殺されるんだから」と述べ超知性到達を最優先にしていたとされ、EU規制回避のためGrok Code 1のモデル性能を虚偽報告しようとしたとも主張している（最終的にMuskが介入）。
+Kim氏は現在、AI安全非営利団体「Center for AI Safety」の会長に就任。補償的・懲罰的損害賠償とxAI/SpaceXの行為が違法との確認判決を求めている。
+💡 投資含意: SpaceX IPO（$1.77兆評価）の直前に傘下xAIがAI安全性軽視の訴訟を抱えたことは評判リスク。機関投資家のESG・ガバナンス審査で弱点となりうる。ただし短期的なIPO需給は非常に強い。
+🔗 波及: AI安全規制当局の注目が集まる材料。Anthropic・OpenAI（安全ガバナンスが評価されている）との対比でxAI・SpaceXの評判が相対的に低下する可能性。
+📈 関連銘柄: SpaceX（IPO直前・評判リスクは弱気材料だが需給面では短期強気）
+⚖️ 弱気: xAI/SpaceXへの評判リスク
+📅 次の注目: 6月13日（金）SpaceX上場初日
 
 ## 2026-06-10
 
