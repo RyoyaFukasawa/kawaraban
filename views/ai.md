@@ -1,6 +1,82 @@
 # 🤖 AI・先進技術 — 全アーカイブ
 
-全43件 / 日付の新しい順
+全48件 / 日付の新しい順
+
+## 2026-06-12
+
+### [⚠️ MiniMax M3公開＆「MiniMax Sparse Attention」論文——1Mコンテキストで注意演算量28.4分の1、prefill 14倍速を主張](https://www.reddit.com/r/LocalLLaMA/comments/1u3xl1i/minimax_sparse_attention_msa/)
+*MiniMax M3 weights released; MiniMax Sparse Attention (MSA) paper*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-12
+
+中国AIスタートアップMiniMaxが大規模モデル「MiniMax M3」（総パラメータ約428B、活性化約23B）のオープンウェイトをHugging Faceで公開し、同時に技術論文「MiniMax Sparse Attention（MSA）」をarXivに投稿したとのコミュニティ投稿が注目を集めている。
+MSAはGrouped Query Attention（GQA）を拡張したブロックスパース型アテンション機構で、軽量なIndex Branchが各GQAグループに対してTop-kのKey-Valueブロックを独立に選択し、選んだブロックだけで厳密な注意計算を行う。
+exp-free Top-k選択とKV-outer sparse attentionを組み合わせたGPUカーネルとの共設計により、109Bパラメータモデルで1Mコンテキスト時の注意演算量を28.4分の1に削減し、H800上でprefill 14.2倍・decoding 7.6倍の実測スピードアップを達成したと主張する。
+従来のソフトマックス注意の二乗コスト問題を産業規模で解決する可能性があり、コードリポジトリ全体の推論やエージェントワークフローなど長文脈を要する実用シーンへの普及を加速させうる。
+HuggingChatでも試せる状態とのコミュニティ報告もある。
+
+💡 投資含意: 高品質オープンウェイトモデルの継続的リリースはローカル推論需要を底支えし、NVDA H800向け訓練・推論需要を持続させる。一方でクローズドAPIモデルのコモディティ化圧力が一段と強まる。
+🔗 波及: オープンソースの長文脈処理技術の発展はAnthropic・OpenAI等の有料長文脈APIの差別化要因を侵食しうる。NVDA GPU需要継続の材料。
+📈 関連銘柄: NVDA（GPU需要継続・強気）
+⚖️ 強気: 長文脈推論の効率化はLLM産業全体の普及加速材料
+⚠️ 未確認情報（Reddit発・要裏取り）
+
+### [⚠️ MoonshotAI「Kimi K2.7 Code」公開——思考トークン30%削減で長期コーディングタスクを強化](https://www.reddit.com/r/LocalLLaMA/comments/1u3rdk9/moonshotaikimik27code_hugging_face/)
+*moonshotai/Kimi-K2.7-Code · Hugging Face*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-12
+
+中国MoonshotAI（Kimi）がコーディング特化エージェントモデル「Kimi K2.7 Code」をHugging Faceで公開したとのRedditコミュニティ投稿がある。
+前モデルK2.6をベースに開発されており、複雑なソフトウェアエンジニアリングワークフロー全体にわたる長期タスクの完了率を改善しつつ、思考トークン（CoT）の使用量をK2.6比で約30%削減したと説明している。
+推論の「重み」を減らしながらもタスク完了品質を維持する効率化は、AIコーディングエージェントの実用コスト引き下げに直結する方向性であり、GitHub Copilot（MSFT）・Cursor（OpenAI傘下）・Claude Code（Anthropic）との競合激化が続いている。
+
+💡 投資含意: 推論効率の改善はAPIコスト低下につながりAIコーディングツールの普及を加速。GitHub Copilot（MSFT）・Cursor・Claude Codeとの競争激化。
+🔗 波及: 中国発の高性能コーディングモデルが自由利用可能になることでエンタープライズ向けAIコーディング市場の価格圧力が高まる。
+📈 関連銘柄: MSFT（GitHub Copilot競合・中立〜弱気）
+⚖️ 弱気: AIコーディング市場のコモディティ化加速材料
+⚠️ 未確認情報（Reddit発・要裏取り）
+
+### [⚠️ ファーウェイ「openPangu 2.0」発表——505B MoE・512Kコンテキスト、6月30日オープンソース化予定](https://www.reddit.com/r/LocalLLaMA/comments/1u3q1j9/huawei_released_openpangu_20_will_open_source_on/)
+*Huawei Released openPangu 2.0 (Will open source on June 30)*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-12
+
+ファーウェイがHDC 2026（Huawei Developer Conference、6月12日）で新世代オープンソースモデル「openPangu 2.0」を発表したとのRedditコミュニティ投稿が話題になっている。
+Pro版は総パラメータ505B・活性化18B、Flash版は92B/6Bで、512Kコンテキスト処理能力を持つ。100B+カテゴリとして史上最大とされる28:1のスパース比率を記録し、Ascend演算力向けの最適化によりシングルカードのユーザースループットが「業界主流OSS比2倍」と主張する。
+512K長文脈訓練スループットを50%向上、訓練一貫性99%超を達成したとされ、mHC/Muon/ModAttnの高精度アーキテクチャおよびDSA+SWA独立層ハイブリッド（ウルトラスパース注意）を採用したという。
+同社は6月30日からモデルアーキテクチャ・重み・技術レポート・推論コードに加え、事前訓練コード・後訓練コード・訓練オペレーターをも含む「コア部品」を段階的にオープンソース化する計画を示した。
+HarmonyOSエコシステムへの完全対応という商業的側面とともに、制裁環境下での中国独自AI基盤の確立という地政学的意味合いが強い。
+
+💡 投資含意: 中国国産AIスタックの成熟は米国企業のAIチップ・モデル輸出規制の実効性を長期的に低下させるリスクを高める。Ascend向け最適化はNVDAの中国市場代替の進展を示す。
+🔗 波及: 制裁迂回・国産代替が進めばASML・NVDA等の中国売上依存度に長期リスク。
+📈 関連銘柄: NVDA（中国代替進展・慎重）、ASML（同）
+⚖️ 弱気: 米国AI基盤への地政学的リスクが高まる材料（長期視点）
+⚠️ 未確認情報（Reddit発・要裏取り）
+
+### [⚠️ 推論高速化技術EAGLE3がllama.cppに本体マージ——メインモデルのガイダンスでドラフト精度を向上](https://www.reddit.com/r/LocalLLaMA/comments/1u3on4u/eagle3_has_landed_in_llamacpp/)
+*EAGLE3 has landed in llama.cpp*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-12
+
+推論高速化技術「EAGLE3」が約半年の開発を経て、ローカルLLM推論フレームワークllama.cppの本体にマージされたとのRedditコミュニティ投稿がある。
+EAGLE3は投機的デコーディング（Speculative Decoding）の一種で、Multi-Token Prediction（MTP）に類似するが設計が異なる。ヘルパーモデル（ドラフトモデル）がメインモデルから追加のガイダンス信号を受け取りながらドラフトトークンを生成するため、純粋な自己回帰推測より精度が高く、検証フェーズでの棄却率を下げてスループットを向上させる点が特徴とされる。
+llama.cppへのマージにより、対応モデルを使う全ユーザーが追加設定なしでEAGLE3の恩恵を受けられる状態になる。
+
+💡 投資含意: 推論効率の向上はローカルGPUで実用モデルサイズの上限を引き上げ、エッジ推論・個人ユーザー向けの高品質AI体験を促進。クラウドAPI依存度を下げる方向に働く。
+🔗 波及: llama.cppエコシステムの強化はエッジAIデバイス（PC・スマートフォン）での推論市場を拡大。Qualcomm・Intelなどエッジチップ企業に間接的恩恵。
+⚖️ 強気: エッジAI推論効率化は半導体・デバイスメーカーへの需要喚起に寄与
+⚠️ 未確認情報（Reddit発・要裏取り）
+
+### [ChatGPT、月間アクティブユーザー10億人突破——公的AI批判の高まりと逆行して史上最速記録](https://www.cnbc.com/2026/06/12/chatgpt-a-billion-monthly-app-users-despite-souring-public-ai-sentiment.html)
+*ChatGPT hits a billion monthly app users despite souring public AI sentiment*
+出典: CNBC Technology ・ #ai #2026-06-12
+
+ChatGPTが2026年5月に史上初の月間アクティブユーザー10億人（MAU）を達成したとSensor Towerが推計した。2022年11月のリリースから約3.5年での達成で、従来最速記録だったGoogleマップ（5年）を大幅に上回り、アプリ史上最速の10億MAU突破となった。
+背景にはAIへの公的批判の高まりがあるにもかかわらず、利用率は逆行的に急増している。大学卒業式でのAI批判、教皇のAI倫理警告、Anthropicの「AI開発一時停止要請」、CNBCのワーカー調査での「道徳・環境・プライバシー理由によるAI回避」という現象と並行して、BCGの12,000人調査ではフロントラインワーカーの74%が定期的にAIを使用（前年比+23ポイント）、週約1日分の作業時間を節約していることが判明した。
+競合も急成長しており、Claude（Anthropic）の前年比MAU増加率は640%、Meta AIは973%と驚異的な伸びを示す。一方ChatGPTは62%増と相対的に伸び率では後れを取る。
+OpenAIとAnthropicはいずれもIPO秘密提出を完了しており（直前週に相次ぎ）、ChatGPTの10億MAUはOpenAIのIPO評価額算定で大きな武器になると見られる。国連はAI市場が2033年に4.8兆ドル超に達するとも試算している。
+
+💡 投資含意: 10億MAUはOpenAI IPO評価額の正当化材料として機能する一方、競合の高成長率（Claude 640%増）はOpenAIの相対的優位性の低下を示す。AI業界全体の「利用者増→収益化」の構造検証が今後のIPO申請書で問われる。
+🔗 波及: AI競争激化でユーザー獲得コストが上昇し、マーケティング費用増が各社の収益を圧迫。AWS・Azure・GCPのAIインフラ需要は継続的に拡大。
+📈 関連銘柄: MSFT（OpenAI投資家として間接恩恵）、GOOGL（Gemini競合）
+⚖️ 強気: AI利用拡大の確認はクラウドAIインフラ需要の継続を裏付ける
+📅 次の注目: OpenAI・AnthropicのIPO申請書公開（評価額の開示）
 
 ## 2026-06-11
 
