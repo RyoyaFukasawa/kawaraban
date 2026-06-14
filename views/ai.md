@@ -1,6 +1,81 @@
 # 🤖 AI・先進技術 — 全アーカイブ
 
-全52件 / 日付の新しい順
+全57件 / 日付の新しい順
+
+## 2026-06-14
+
+### [⚠️ 「Heretic Grimoire」v1.4公開——9KBでモデルを復元可能にする検閲耐性システム、Metaの法的通告後にIPFS分散配布を開始](https://www.reddit.com/r/LocalLLaMA/comments/1u5lmge/introducing_the_heretic_grimoire_the/)
+*Introducing the Heretic Grimoire: The takedown-resilient, local-first backup system that keeps uncensored models available forever*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-14
+
+「Heretic」プロジェクト（安全制限を除去したアンセンサードモデル作成ツール）がv1.4をリリースし「Grimoire（魔術書）」システムを導入した。モデルの再現情報を9KBのJSONファイルに凝縮し、このファイルさえ手元にあれば数分で元モデルを復元できる仕組みだ。
+HereticはMetaから法的な削除通告（Takedown notice）を受け、主流メディアでも批判されている。Hugging FaceやGitHubがいつでもコンテンツを削除できるという単一障害点リスクへの対策として、v1.4ではIPFS（分散型ファイルシステム）での全リリース配布とMatrix Spaceの分散コミュニティも採用した。
+Grimoireの仕組み：`heretic --collect-reproducibles` で全公開モデルの再現ファイルをローカル収集、`heretic --reproduce` でモデルを復元。9KBのファイルを数千個スマートフォンに保存可能。すでに削除済みモデル10件の復元情報を保存・公開している。LoRA形式での出力も新たに対応した。
+MetaがAI安全制限除去ツールに法的圧力を加え、開発者コミュニティがIPFS・分散ネットワークで対抗するという構図は、AI規制・著作権・言論の自由をめぐる法的攻防の前哨戦として注目される。オープンウェイトへの規制圧力が高まる中、分散型AI配布インフラの重要性が増す。
+⚠️ 未確認情報（Reddit発・要裏取り）
+💡 投資含意: AI安全規制の回避ツールへの法的圧力強化でIPFS等分散型インフラへの需要増加。クラウドAI企業にはコンプライアンスコスト、オープンウェイト推進派には規制リスク顕在化。
+🔗 波及: オープンウェイトモデルへの規制強化はMeta（Llama）・Mistral等に影響。分散コンテンツ配布需要はWeb3・分散型ストレージ技術に注目を集める。
+📈 関連銘柄: META（Llama系への規制リスク・弱気要因）
+⚖️ 弱気（規制コスト・オープンウェイト企業）
+
+### [⚠️ 小米がDFlashで推論1000〜3000トークン/秒を達成——MiMo V2.5を大規模展開、オープンソース公開も予告](https://www.reddit.com/r/LocalLLaMA/comments/1u5jtr8/xiaomi_is_now_serving_mimo_v25_at_10003000tps/)
+*Xiaomi is now serving MiMo V2.5 at 1000-3000tps using DFlash & Persistent kernel. DFLash model is out, open-source release promised coming soon*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-14
+
+Xiaomi（小米）が自社開発モデルMiMo V2.5を、新推論エンジン「DFlash」と「Persistent kernel」を用いて毎秒1000〜3000トークンの速度で商用サービスを開始したというコミュニティ投稿がある。
+DFlashはXiaomiが独自に開発した推論最適化技術で、公式ブログ（mimo.xiaomi.com）で発表されている。DFlashモデル自体の公開と、近日中のオープンソース公開も予告されているという。
+毎秒1000〜3000トークンという数字は一般的な推論速度（通常数十〜数百トークン/秒）を大幅に上回る主張だが、量子化レベル・バッチサイズ・ハードウェア構成などの詳細は現時点で不明。
+Xiaomiは中国最大のスマートフォン・IoTメーカー。高速推論エンジンの自社開発は中国テック企業のAIインフラ自立化を示す事例となりうる。オープンソース公開が実現すれば高速推論技術が広く普及し、推論コスト民主化が加速する。クラウドAI API依存モデルのビジネスへの競合圧力も増す。
+⚠️ 未確認情報（Reddit発・要裏取り）
+💡 投資含意: 高速推論技術の中国発オープンソース化はクラウドAI API単価への下方圧力を高める。一方でNVDA等の推論GPU需要は技術の普及で増加。
+🔗 波及: 中国テック企業の自立的AI推論能力の高まりは地政学的技術覇権争いを加速。クラウドAIサービスへの競合圧力が増大。
+📈 関連銘柄: NVDA（推論需要継続・中立〜強気）
+⚖️ 中立〜弱気（クラウドAPI企業）・強気（推論インフラ）
+📅 次の注目: DFlashモデルのオープンソース公開、技術的詳細と独立ベンチマーク検証
+
+### [⚠️ DGX Spark 2台構成でDeepSeek V4 Flash 350トークン/秒——フロンティア級MoEモデルのローカル商用推論ベンチマーク公開](https://www.reddit.com/r/LocalLLaMA/comments/1u5g9pr/dual_dgx_sparks_40tks_single_1m_350_tks_agg/)
+*Dual DGX Sparks - 40tk/s single 1M; 350 tk/s agg. - Deepseek V4 Flash (vs RTX Pro 6000 vs Mac M2 Ultra 192)*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-14
+
+NVIDIA DGX Sparkを2台並列構成（FP8 + vLLM + 200Gbps ConnectX-7インターコネクト）でDeepSeek V4 Flashを動かした詳細ベンチマークがRedditで公開された。
+DeepSeek V4 Flashはフロンティアクラスの性能を持つMoE（Mixture of Experts）モデル。2台のDGX Sparkを200Gbps高速ケーブル（180ドル）でテンソル並列構成にして動かす手法を詳述している。
+実測結果：2×DGX Spark（FP8）= decode約41 tk/s（単一ストリーム・1Mコンテキスト）・集計約350 tk/s（c=32並列）・prefill約1785 tk/s。比較：RTX Pro 6000（96GB GDDR7）= 46.9 tk/s（単一のみ）、Mac Studio M2 Ultra（192GB）= 29.7 tk/s。2台構成は並列処理で3桁の集計スループットを実現している。
+約9400ドルの2台構成＋180ドルケーブルでフロンティア級モデルを商用に近い速度で動かせる事実は、AI推論民主化の新段階を示す。NVIDIAがDGX Sparkエコシステムを普及させることで、高性能推論需要がエンタープライズだけでなくデベロッパー・中小企業レベルに拡大する。
+⚠️ 未確認情報（Reddit発・要裏取り）
+💡 投資含意: NVIDIAのDGX Sparkエコシステムが「フロンティア級AIの民主化」を実現しつつある。1万ドル以下でクラウドAPI代替が可能になり、長期的にクラウドAI APIへの競合圧力が増す。
+🔗 波及: DGX Sparkの普及でNVIDIAのコンシューマー・SMB向けハードウェア収益が拡大。クラウドAIサービス企業には長期的競合圧力。
+📈 関連銘柄: NVDA（DGX Spark需要・強気）
+⚖️ 強気（NVDA・コンシューマーAIハードウェア）
+📅 次の注目: DGX Spark出荷数の推移、AMD Strix Haloとの比較ベンチマーク
+
+### [⚠️ 2026年中盤ローカルAIの現在地——「メモリ増設不要」でフロンティア級が家庭で動く時代に、技術革新が壁を突破](https://www.reddit.com/r/LocalLLaMA/comments/1u5fv6n/local_models_in_mid2026/)
+*Local models in mid-2026*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-14
+
+開発者ブログ（coles.codes）からの投稿が、2026年中盤時点でのローカルAIモデルの技術的到達点を総括し、コミュニティで議論されている。
+要旨は「フロンティアに近いオープンウェイトモデルが家庭で動くようになったのは、RAMを増やしたからではなく、技術革新によって必要なRAMを減らしたから」というもの。具体的な技術革新として、スパース・アテンション、MoE（Mixture of Experts）、潜在KV圧縮（Latent KV Compression）、マルチトークン予測（MTP）、4ビット量子化を挙げている。
+主な事例として：DeepSeek V4 Flash（フロンティア級MoEモデル）がM3 Max 96GBで動作すること、AMD Strix Halo（128GB）が3999ドルで購入可能であること、Anthropicのクラウドサービス停止がローカルAI需要を大きく押し上げたことが指摘されている。
+Anthropicモデル停止の直後にLocalLLaMAコミュニティが活況を呈していることは、クラウドAI依存からローカルAIへのトレンドシフトの加速を如実に示す。技術的障壁が下がり続けることで、エンタープライズ・個人ともにローカル推論へのシフトが今後さらに加速するとみられる。
+⚠️ 未確認情報（Reddit発・要裏取り）
+💡 投資含意: ローカルAI推論の普及はコンシューマーGPU需要（NVDA・AMD）を支える。中長期的にクラウドAI APIへの依存度低下がAPI収益モデルへの逆風となる。
+🔗 波及: ローカルAI普及でNVDA・AMD（コンシューマーGPU）の需要増加。クラウドAI API企業（Anthropic・OpenAI等）には競合圧力の増大。
+📈 関連銘柄: NVDA（強気）、AMD（強気）
+⚖️ 強気（ローカル推論ハードウェア）・弱気（クラウドAI API）
+
+### [⚠️ AMDが3999ドルのAIデスクトップでNVIDIAのDGX Sparkに挑戦——Strix Halo搭載・128GB統合メモリ・Windows 11対応で700ドル安](https://www.reddit.com/r/LocalLLaMA/comments/1u59ibr/strix_halo_desktop_trying_to_compete_against_dgx/)
+*Strix Halo desktop trying to compete against DGX Spark*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-14
+
+AMDが「Ryzen AI Halo」（Strix Haloアーキテクチャ）搭載のコンシューマー向けAIデスクトップを3999ドルで発表し、NVIDIAのDGX Spark（4699ドル）に正面から対抗するとTom's Hardwareが報じた（Redditコミュニティで話題に）。
+NVIDIAのDGX Sparkは2025年末登場の個人・開発者向けAIワークステーションとして市場をリードしてきた。AMDのStrix Haloは同等の128GB統合メモリを搭載しつつ、Windows 11ネイティブ対応という差別化を図っている（DGX SparkはLinux/Ubuntu主体）。
+価格差700ドル（約16%安）とWindows 11対応は、幅広いユーザー層への訴求力となる。ただし具体的なAI推論パフォーマンスの比較データはまだ限定的で、AIエンジニアコミュニティでの実用評価が注目される。
+AMDがNVIDIAのAI専用デスクトップ市場に参入したことは、プレミアムAIハードウェア市場に本格的な競争をもたらす。NVIDIAのマージン圧迫リスクが浮上する一方、市場全体の拡大でAIハードウェア需要が増加する効果もある。コンシューマー向けAIハードウェア市場の価格競争激化が見込まれる。
+⚠️ 未確認情報（Reddit発・要裏取り）
+💡 投資含意: AMDのAIハードウェア市場参入はNVDAのプレミアム価格帯に圧力をかける。市場全体の拡大でAMDにも強気材料だが、短期的にはNVDA中立〜弱気。
+🔗 波及: コンシューマーAIデスクトップ市場の拡大でソフトウェアツール企業も恩恵。Windows対応でMicrosoftのAIエコシステムとの連携強化の可能性。
+📈 関連銘柄: AMD（コンシューマーAI市場参入・強気）、NVDA（競合激化・中立〜弱気）、MSFT（Windows AIエコシステム拡大・強気）
+⚖️ AMD強気・NVDA中立〜弱気（競合激化）
+📅 次の注目: Strix Halo実機のAI推論ベンチマーク、DGX Sparkとの実用比較
 
 ## 2026-06-13
 
