@@ -21,17 +21,50 @@
 
 | 論点 | 種別 | 状態 | 初出 | 最終更新 | メモ |
 |---|---|---|---|---|---|
-| FT / NYT が全記事 paywalled で本文取得不可 | ソース | 🟡継続 | 2026-05-30 | 2026-06-07 | 7日連続で全件 paywalled/403。Reuters/AP の追加を検討中（要URL検証。下記「Reuters/AP economy 追加」行参照） |
-| CBS News の `/video/` URL は本文0字 | 仕組み | 🔵検証中 | 2026-05-30 | 2026-06-07 | 06-07 に 29件中1件のみ採用。`/video/` フィルタ + skipped ログ追加の PR を今週提出 |
-| BBC / The Hill が本文取得で403（bot遮断疑い） | 仕組み | 🟡継続 | 2026-05-30 | 2026-06-07 | 7日連続403。RSS description で代替中。User-Agent 調整の検討を次週以降に積む |
-| WSJ Politics フィードが SKIP（HTTP 403/サイト改編疑い） | ソース | 🟡継続 | 2026-05-29 | 2026-06-07 | 7日連続で完全 SKIP（0件）。代替ソース未定 |
-| AI枠（先進性優先）の効き具合は要観測 | 仕組み | 🟢解消 | 2026-06-02 | 2026-06-07 | 06-04〜06-07 でOpenAI/HuggingFace 本文取得成功。Reddit r/LocalLLaMA も description 経由で機能。報道より早い一次情報の取得を確認。ただし r/MachineLearning のノイズ継続（下記行参照） |
-| Reddit r/MachineLearning のノイズ（議論スレが多く採用率低） | ソース | 🔵検証中 | 2026-06-07 | 2026-06-07 | 06-07 は6件全件が議論スレで採用0件。採用率が継続的に低ければ削除を次週以降に検討 |
-| Reuters Business / AP Business を economy に追加すること | ソース | 🔵検証中 | 2026-06-07 | 2026-06-07 | コンテナ環境でURL検証不可のため今週は保留。次の検証手順で確認後に追加：(1) コンテナ外で `curl -I https://feeds.reuters.com/reuters/businessNews` → HTTP 200 + XML であること (2) `<item>` タグ含むことを確認 (3) AP: `https://feeds.apnews.com/rss/apf-business` も同様。確認後 economy カテゴリに追加する |
+| FT / NYT が全記事 paywalled で本文取得不可 | ソース | 🟡継続 | 2026-05-30 | 2026-06-14 | 直近7日（06-08〜06-14）全日で全件 paywalled/403 継続。Economy は実質 CNBC + PBS のみ。Reuters/AP URL はコンテナ環境から検証不可（下記行参照） |
+| CBS News の `/video/` URL は本文0字 | 仕組み | 🟢解消 | 2026-05-30 | 2026-06-14 | /video/ フィルタPR導入済み（06-07実施）。06-09ログで「フィルタが機能している」を確認。ただし `/transcript/` URL 問題が新たに浮上（下記行参照） |
+| CBS News の `/transcript/` URL（番組書き起こし）がノイズ | 仕組み | 🟡継続 | 2026-06-14 | 2026-06-14 | 06-14ログで初めて明示的に指摘。Face the Nation等のトランスクリプト記事が5〜6件/日混入。/video/ フィルタと同様に除外が有効。今週PRで対処予定 |
+| BBC / The Hill が本文取得で403（bot遮断疑い） | 仕組み | 🟡継続 | 2026-05-30 | 2026-06-14 | 直近7日全日403継続。RSS description で代替中（代替できている日が多い）。User-Agent 調整は検討続行 |
+| WSJ Politics フィードが SKIP（HTTP 403/サイト改編疑い） | ソース | 🔴悪化 | 2026-05-29 | 2026-06-14 | 06-14時点で15日以上連続 SKIP（0件）。Politicsカテゴリに実質的な穴。代替ソース（Politico Tech等）の検討が急務 |
+| AI枠（先進性優先）の効き具合は要観測 | 仕組み | 🟡継続 | 2026-06-02 | 2026-06-14 | 機能はしているが Reddit r/LocalLLaMA への依存度が高まっている（06-14はAI枠全5件がLocalLLaMA）。OpenAI/DeepMind 記事が出ない日の補完として機能しているが、「unverified」ソース依存は継続リスク |
+| Reddit r/MachineLearning のノイズ（議論スレが多く採用率低） | ソース | 🔴悪化 | 2026-06-07 | 2026-06-14 | 直近7日（06-08〜06-14）全日で採用0件。直近3日（06-12〜06-14）はフィード自体が0件取得（フィード停止疑い）。今週DEBATESで削除裁定→削除PR提出 |
+| Reuters Business / AP Business を economy に追加すること | ソース | 🔵検証中 | 2026-06-07 | 2026-06-14 | 週次コンテナ環境ではDNS解決不可（全外部ホストが403/host not in allowlist）のため今週も検証不可。日次ルーティン環境での検証が必要。次回検証手順：curl -I https://feeds.reuters.com/reuters/businessNews で HTTP 200+XML かつ `<item>` タグ確認 |
 
 ---
 
 ## 週次エントリ（末尾に追記していく）
+
+### 2026-06-14 — Reddit r/ML 削除・CBS /transcript/ フィルタ PR
+
+**読んだ日次ログ**: 2026-06-08〜2026-06-14 の7件全件。
+
+**今週の最大の課題**:
+- **Reddit r/MachineLearning の機能不全**: 直近7日で採用件数0件。直近3日（06-12〜06-14）はフィード自体が0件取得されていない（フィード停止の可能性）。維持するコストに見合う価値がなく、削除が妥当。
+- **CBS News /transcript/ URL 混入（新規発見）**: 06-14ログで Face the Nation 等の番組書き起こし記事が5〜6件/日混入していることが判明。/video/ フィルタと同様の対処（/transcript/ URLをfetch段階でスキップ）が有効。
+- **Economy 機能不全継続**: FT/NYT全件paywalled + BBC本文403 が7日連続。実質CNBC（2〜3件/日）+ PBS（1〜2件/日）のみ。Reuters/AP のURL検証は週次コンテナから不可（日次環境での検証待ち）。
+
+**最新性/先進性の担保**:
+AI枠は機能しているが Reddit r/LocalLLaMA への依存度が高まっている（06-14: AI枠全5件がLocalLLaMA）。OpenAI BlogやHugging Faceの記事が出ない日の補完として機能しているが、「未確認ソース」への過度な依存は継続リスクとして認識。
+
+**ソース構成の穴（今週の診断）**:
+1. Economy: Reuters/AP 不在が最大の穴（前週から継続）。週次コンテナ環境の制約で検証できず、保留継続。
+2. Politics: WSJ Politics 15日以上連続SKIP。代替ソース（Politico Tech等）の追加が急務。
+3. AI: r/MachineLearning が実質死んでいる。削除してクリーンに保つ方が良い。
+
+**選定ロジックの妥当性**:
+MAX 5件/カテゴリ維持。CBS Newsの /transcript/ URLs（番組書き起こし）がノイズとして6件程度/日混入しており、/video/ フィルタと同様にコード側でフィルタすることで候補の質が上がる。
+
+**打った手（今週のPR）**:
+- `src/feeds.ts` から Reddit r/MachineLearning を削除（採用率0%・フィード停止）
+- `scripts/fetch-feeds.ts` に CBS News `/transcript/` URL フィルタを追加
+- 議論ログ: `ops-log/DEBATES/2026-06-14.md`
+
+**残した宿題**:
+1. Reuters/AP Business URL の日次ルーティン環境での実際のURL検証（weekly コンテナから不可のため）
+2. WSJ Politics の代替ソース（Politico Tech 等）のURL検証と追加（同上）
+3. BBC/The Hill の User-Agent 調整による403解消の試み（継続）
+
+---
 
 ### 2026-06-07 — CBS /video/ フィルタ PR 提出、Reuters/AP は保留
 
