@@ -107,13 +107,16 @@ export const FEEDS: FeedSource[] = [
     category: "ai",
     unverified: true,
   },
-  {
-    // 機械学習研究の議論。論文・新手法の話題が早い（無料・Atom）。裏取り前提のため unverified。
-    name: "Reddit r/MachineLearning",
-    url: "https://www.reddit.com/r/MachineLearning/.rss",
-    category: "ai",
-    unverified: true,
-  },
+  // [一時停止 2026-06-14] Reddit r/MachineLearning: 06-02追加〜06-14の13日間で採用実績ゼロ。
+  // 直近3日（06-12〜06-14）はフィード自体が0件取得（フィード停止疑い）。
+  // 一時停止として除外。2026-07-14 に採用実績あり→復帰 / なし→恒久削除 で判定。
+  // 復帰条件: 「実際に採用された記事が存在すること」（将来性の議論のみでは復帰しない）
+  // {
+  //   name: "Reddit r/MachineLearning",
+  //   url: "https://www.reddit.com/r/MachineLearning/.rss",
+  //   category: "ai",
+  //   unverified: true,
+  // },
 
   // --- フィジカルAI・ロボティクス ---
   // フィジカルAI（物理世界で動くAI＝ロボット・自動運転・産業オートメーション・人型ロボ）の
