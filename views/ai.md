@@ -1,6 +1,64 @@
 # 🤖 AI・先進技術 — 全アーカイブ
 
-全57件 / 日付の新しい順
+全61件 / 日付の新しい順
+
+## 2026-06-15
+
+### [⚠️ オープンソースのサイバーセキュリティ特化LLM「OpenMythos」がHugging Faceで公開——SFT+RLVR訓練でCVE脆弱性検出に特化](https://www.reddit.com/r/LocalLLaMA/comments/1u6qw5b/we_trained_a_cybersecurityfocused_mythos_like_llm/)
+*We trained a cybersecurity-focused Mythos like LLM open weights on HuggingFace*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-15
+
+「Build Small Hackathon」に向けて、サイバーセキュリティタスクに特化したオープンウェイトLLM「OpenMythos」がHugging Faceで公開されたという投稿がある（名称はAnthropicのMythosを意識）。
+訓練データはArXivのcs.CR論文1万件をフィルタリングした1,840件の高品質脆弱性記録と、影響コード・修正コンテキストを含む構造化CVEデータセット。Stage 1（SFT）で脆弱性識別・CVE解説・コードレビュー・緩和策を学習し、Stage 2（RLVR）ではGitHubの脆弱/修正ペアリポジトリを使った報酬学習を実施した。
+RLVRにより類似脆弱性クラスの混同が減り、不確実性の校正精度が向上したとされる。汎用LLMはCVE詳細の幻覚生成・本物の脆弱性パターン見落としが多いという課題意識が出発点で、Anthropicのモデル停止の文脈でオープンソース代替としての注目度が高い。ただしこれはハッカソン成果物であり実用レベルの検証は今後の課題。
+ドメイン特化型ファインチューニング＋強化学習の組み合わせは実務応用への一歩だが、本番環境での品質・信頼性の独立検証が必須。Anthropic Mythosのような規制されたプロプライエタリモデルの機能的代替への需要の高さを示している。
+⚠️ 未確認情報（Reddit発・要裏取り）
+💡 投資含意: ドメイン特化オープンソースLLMの発展はサイバーセキュリティ市場での汎用AI利用を加速。プロプライエタリAIセキュリティ製品への競合圧力が中長期的に増す。
+🔗 波及: オープンウェイトのサイバーセキュリティAIが普及すれば大手セキュリティ企業のAI機能差別化が困難に。
+📈 関連銘柄: CRWD（競合リスク・中立〜弱気）
+⚖️ 中立〜弱気（プロプライエタリセキュリティAI企業）・強気（オープンウェイト活用企業）
+
+### [⚠️ Qwen3.6-27BがRTX 3090でKV圧縮6%・256Kコンテキスト38.6tok/s達成——速度2倍・VRAMを21GB→17.5GBへ削減](https://www.reddit.com/r/LocalLLaMA/comments/1u6bca1/this_is_amazing_token_speed_doubled_kv_cache_now/)
+*This is amazing. Token speed doubled + kv cache now need low vram - qwen 27b*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-15
+
+「KV Flash」と呼ばれる新しいKVキャッシュ圧縮手法をQwen3.6-27Bモデルに適用したという投稿がRedditコミュニティで注目を集めているという報告がある。
+RTX 3090（単一GPU）上のQwen3.6-27B Q4_K_Mにて、ネイティブ256Kコンテキストを38.6トークン/秒で実行しつつKVキャッシュが常駐メモリ72MiB（従来の6%）に収まるとされる。ニードル精度は88〜100%、ベンチマーク精度はフルキャッシュ（36/36）と同一を維持。VRAM使用量は21GBから17.5GBへ削減され生成速度はほぼ2倍になったという。
+技術的核心は、選択的KV圧縮と低精度（q4_0）量子化の組み合わせによって「有効な推論に必要なキャッシュ」を劇的に削減すること。GitHubで公開されており（lucebox-hub）検証可能な状態とされるが、第三者による独立ベンチマークはまだ限定的。
+コンシューマーGPU上での256Kコンテキスト高速推論の実現は、長文書類処理・コードベース解析・エージェントタスクへのローカルAI活用を大きく前進させる。VRAM削減と速度向上の両立はローカル推論の採用閾値を下げ、クラウドAPI依存からのシフトを加速させる可能性がある。
+⚠️ 未確認情報（Reddit発・要裏取り）
+💡 投資含意: ローカル推論の効率向上はクラウドAI APIの代替を促しうる。NVDAのコンシューマーGPUの推論用途が広がり中長期の需要増につながる。
+🔗 波及: クラウドAI API企業（Anthropic・OpenAI等）に長期的な競合圧力。NVDAには推論需要拡大で強気材料。
+📈 関連銘柄: NVDA（コンシューマーGPU推論需要・強気）
+⚖️ 強気（ローカル推論ハードウェア）・弱気（クラウドAPIコスト優位の侵食）
+
+### [AnthropicがトランプPoliticsと緊急会合——Fable 5・Mythos 5停止を「誤解」と主張、Amazon CEO関与も浮上](https://www.cnbc.com/2026/06/15/anthropic-mythos-trump-ai.html)
+*Anthropic to meet with Trump administration over Mythos dispute*
+出典: CNBC Technology ・ #ai #2026-06-15
+
+Anthropicのシニアスタッフが6月15日（月）、Fable 5・Mythos 5の停止をめぐりトランプ政権当局者とワシントンで会合を開いた。
+AnthropicはFable 5・Mythos 5を発表した直後の6月13日（金）に「国家安全保障を理由とする輸出管理指令」を受け、すべての顧客向けに両モデルへのアクセスを無効化した。政府が呼び出したのは午後1時、正式書面は午後5時半というわずか数時間での急展開だった。
+Anthropicはモデル発売前に政府機関と協力してテストを行い、一度はデプロイ承認を得ていたと説明。問題は「潜在的な狭い非普遍的ジェイルブレーク」——Fable 5にコードベースを読ませてセキュリティ欠陥を修正させるよう誘導できる可能性——だが、同社は「誤解」と位置付け「業界標準で適用すれば全フロンティアモデルの新規デプロイが停止する」と反論している。
+注目すべきはAmazon CEO Andy Jassyが「AIの安全リスク」についてホワイトハウス当局者に懸念を伝えたと報じられた点。Amazonは2024年にAnthropicへ80億ドルを投資し、さらに最大250億ドルの追加投資を約束済みでありながら、政府側の情報提供者になった可能性がある。AnthropicはDODの「サプライチェーンリスク」指定を撤回させるため政府を提訴中であり、訴訟継続中にIPO準備を進める複雑な状況だ。
+💡 投資含意: AnthropicのIPO評価は規制リスクの不確実性を反映せざるを得ない。本件が解決しても「Fable/Mythos級のモデルはいつでも停止させられる」という前例が設定されたことで、AI企業の規制リスクプレミアムが市場全体で高まる。
+🔗 波及: Amazon（AWS Bedrock経由でAnthropic APIを顧客に提供しつつ、JassyがWhite Houseに懸念を伝達という構造的矛盾）のレピュテーションリスク。Anthropic離れが加速すればGoogle Gemini・OpenAIへの流入増加。
+📈 関連銘柄: AMZN（Anthropic投資家かつ情報提供者の矛盾・弱気要因）、GOOGL（相対的競争優位・強気）、MSFT（同上）
+⚖️ 弱気（Anthropic IPOバリュエーション・AI規制リスク）・強気（競合AI企業）
+📅 次の注目: 交渉結果、Fable 5・Mythos 5の再開時期、AnthropicのIPO申請書でのリスク開示
+
+### [OpenAIが1.5億ドル投資のパートナーネットワーク発足——2026年末までに30万人認定コンサルタント育成、エンタープライズ展開加速へ](https://openai.com/index/introducing-openai-partner-network)
+*Introducing the OpenAI Partner Network*
+出典: OpenAI ・ #ai #2026-06-15
+
+OpenAIがエンタープライズAI採用を加速するための「OpenAI Partner Network」を正式発足させた。パートナーエコシステムの構築に1億5000万ドルを投資し、2026年末までに30万人の認定コンサルタントを育成することを目標とする。
+OpenAIは「企業のAI採用の律速因子はモデルの能力ではなく、ユースケース特定・ワークフロー再設計・システム統合・変更管理になった」という認識のもと、SIer・コンサルを取り込んだ間接販売モデルを整備する。
+パートナーはSelect・Advanced・Eliteの3段階ティアで認定され、売上パフォーマンス・技術能力・共同販売実績・デプロイ経験で評価される。今後はCodex・サイバーセキュリティ・エージェントなどの専門分野別「スペシャライゼーション」も取得可能。複雑な案件向けには「Forward Deployed Experts」プログラム（パートナー実務家とOpenAIエンジニアの共同配置）も試験的に開始する。
+このモデルはSalesforceのPDOやMicrosoftのパートナープログラムに類似した構造で、独立系SIer・コンサルを通じてエコシステムを形成する戦略だ。IPO前の収益多角化として直販依存から脱却し、エンタープライズ向けの持続的収益基盤を示せる。MicrosoftのAzure OpenAIサービスやGoogleのVertex AI、SalesforceのAgentforceとの競合が本格化する。
+💡 投資含意: OpenAIが間接販売チャネルを整備することでAPI収益を超えた「パートナーエコシステム型収益」が育つ。IPO前の収益多角化として正の評価。競合であるMicrosoftやSalesforceのパートナーチャネルとの競合激化。
+🔗 波及: パートナー参加のSIer・コンサル企業はOpenAI依存度が高まり、Microsoft・GoogleのAIサービスとの競合評価が必要に。
+📈 関連銘柄: MSFT（競合・中立〜弱気）、GOOGL（競合・中立〜弱気）、CRM（Agentforceとの競合激化・弱気要因）
+⚖️ 強気（OpenAI独立性・IPO価値向上）・弱気（既存AIクラウドパートナープログラムへの圧力）
+📅 次の注目: 主要パートナー企業の発表、OpenAI IPOでのエンタープライズ収益開示
 
 ## 2026-06-14
 
