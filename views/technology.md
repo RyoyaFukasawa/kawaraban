@@ -1,6 +1,68 @@
 # 🖥 テクノロジー — 全アーカイブ
 
-全88件 / 日付の新しい順
+全92件 / 日付の新しい順
+
+## 2026-06-17
+
+### [Waymoの自動運転タクシーが全米展開で政治の壁に——技術は準備できているが地方政治・規制・労働組合が立ちはだかる](https://www.nytimes.com/2026/06/17/technology/waymo-driverless-taxis-politics.html)
+*Why Waymo's Driverless Taxis Won't Be on Your Streets Anytime Soon*
+出典: NYT Technology ・ #technology #2026-06-17
+
+Waymo（Alphabet傘下）の自動運転タクシーが、全米展開に向けて政治的障壁に直面していることをNYTが詳報した。技術的な準備は整いつつあるが、地方政治・労働組合・規制当局の反発が普及の最大の律速因子になっている。
+Waymoはサンフランシスコ・フェニックス・ロサンゼルスで商業展開中だが、他の主要都市（ニューヨーク・シカゴ等）への拡大には各市の交通委員会・運転手組合・市議会の承認が必要だ。TechCrunchが「AI解雇波は火薬庫」（6月15日報道）と指摘したのと同様の文脈で、自動運転タクシーは「AIが職を奪う」最も直接的な象徴として政治的標的になりやすい。
+全米規模での展開が遅延すれば、Waymoの事業が損益分岐点に達するタイミングが後ろ倒しになる。Alphabetは長年Waymoに多額の投資を続けており、「技術は完成したのに普及できない」というシナリオはAlphabetの投資家にとってフラストレーションとなる。
+NYT記事はRSSのリード文のみの情報のため詳細は限定的だが、自動運転が純粋な技術競争から政治・規制競争に移行しつつある構造変化を示す重要な記事だ。
+
+💡 投資含意: Waymoの展開遅延はAlphabet（GOOGL）の自動運転事業評価に影響。技術優位性があっても規制・政治障壁が企業価値に上値プレッシャーをかける典型例として注目される。
+🔗 波及: Uber・Lyftにとっては競合の展開遅延が短期的な追い風。ライドシェアドライバーの組合化・政治組織化が加速する可能性。
+📈 関連銘柄: GOOGL（Waymo展開遅延・中立〜弱気）、UBER・LYFT（競合遅延で短期強気）
+⚖️ 弱気（GOOGL Waymo事業評価への政治的プレッシャー）・短期強気（既存ライドシェア）
+📅 次の注目: 各都市の自動運転タクシー規制審議結果、WaymoのIPO評価と独立化計画
+
+### [SpaceXがAIコーディング「Cursor」を600億ドルで買収——IPO数日後に過去最大M&A、Anthropicと真っ向対決へ](https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html)
+*SpaceX to acquire the AI coding startup Cursor for $60 billion*
+出典: CNBC Technology ・ #technology #2026-06-17
+
+SpaceXが6月16日（火）、AIコーディングスタートアップCursorを600億ドルのクラスA株式で買収することを正式発表した。スペースX史上最大のM&Aで、IPOを実施したわずか数日後の大型ディールとなった。
+Cursorは2022年創業のAIコーディングツールメーカーで、コード生成・編集・レビューを自動化するプロダクトが急成長し2024年11月に年換算売上10億ドルを達成。ただし市場シェアはAnthropicに侵食されており、2025年6月の41%から2026年5月に26%まで低下（Anthropicが同市場の約50%を支配）。SpaceXはすでにxAI（Elon Musk AIスタートアップ）と合併済みで、CursorはxAIの「Composer」モデルの補強として機能する。
+取引条件はIPOバリュエーションの3.4%希薄化に相当するクラスA株式600億ドル（現金支出なし）。2026年Q3クローズ予定で、破談の場合はSpaceXがCursorに15億ドルの解約手数料＋85億ドル分のコンピューティングリソースを支払う義務がある。SpaceX株はこのニュースで16%上昇し、米国時価総額4位（AmazonとMicrosoftを超過）に浮上。Thrive Capitalが両社に保有を持ち、合計ポジションは100億ドル超となった。
+AnthropicがコーディングAI市場の50%を支配する中、SpaceXがCursorを取り込んでAI×宇宙×Starlink通信の複合プラットフォームを強化する構図だ。これは単なるコーディングツール買収ではなく、xAIとの合併と合わせた「AI企業としてのSpaceX」の本格形成といえる。
+
+💡 投資含意: SpaceXがAIコーディング市場に直接参入しAnthropicの50%シェアに挑戦する。SPCX株にはAI部門の成長ストーリーが追加され、宇宙×AI×通信の複合バリュエーションが高まる。
+🔗 波及: AnthropicのコーディングAI市場シェアに競合圧力。GitHub Copilot（MSFT）・Cursor（SpaceX傘下）・Claude for coding（Anthropic）の三つ巴競争が本格化。
+📈 関連銘柄: SPCX（SpaceX・AIコーディング参入・中長期強気）、MSFT（GitHub Copilot競合・中立）
+⚖️ 強気（SpaceX AI事業拡大・IPO後のバリュー強化）
+📅 次の注目: Q3取引クローズ、CursorとxAI Composerの統合詳細、Cursorの市場シェア回復状況
+
+### [「世界モデル」AIスタートアップOdysseyがAmazon・GV支援で評価額14.5億ドル——LLMを超える次世代AI、ゲーム・ロボット・自動運転へ](https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/)
+*World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names*
+出典: TechCrunch ・ #technology #2026-06-17
+
+自動運転スタートアップ創業者らが2023年に設立したワールドモデルAI企業「Odyssey」がSeries Bで3億1000万ドル（評価額14.5億ドル）を調達した。Amazon・AMD Ventures・GV（Google Ventures）・Natural Capitalが参加し、ユニコーンへの到達を果たした。
+「ワールドモデル」は物理世界のデータを収集し正確な物理法則でシミュレートするAI。テキストベースのLLMを超えた「次の大きなAIの波」として業界で注目が高まっている。Odysseyのデータ収集はGoogle Earth的アプローチで、人がカメラを背負って街中を撮影する手法を採用している（Google Street Viewが車で撮影するのと対比的）。
+Amazonの参加によりAWSが優先クラウドプロバイダーとなり、NVIDIAのH100対抗であるAWS Trainiumチップで最適化される。CEO Oliver CameronはGM CruiseのVP（Voyage創業者）、CTO Jeff HawkeはUK自動運転スタートアップWayveのエンジニア出身。エンジェル投資家にはJeff Dean（Google AI）・Elad Gil・Garry Tan・Kyle Vogt（Cruise創業者）が名を連ねる。
+現在はビデオゲーム制作・ロボティクス・自動運転の3分野で商用展開中。テキストプロンプトから豊かなインタラクティブビデオを生成する機能が特に注目されており、3億3700万ドルを累計調達した。
+
+💡 投資含意: ワールドモデル市場への大型資金流入が確認された。AmazonのAWS Trainium差別化を強化し、NVDA依存脱却の文脈でAMDにも追い風。ゲーム・ロボット・映像生成のマルチ産業へのAI展開が加速。
+🔗 波及: ゲームエンジン企業（Unity・Epic等）にワールドモデルが本格競合する可能性。自動運転ではWaymo・Cruiseとの競合。映像制作AIではSora（OpenAI）・Veo（Google）との競合。
+📈 関連銘柄: AMZN（AWS Trainium差別化・強気）、AMD（Trainium経由・強気）、NVDA（競合チップ・中立）
+⚖️ 強気（ワールドモデル市場形成・長期）
+📅 次の注目: Odysseyの正式商用リリース・売上開示、AWSとの統合状況
+
+### [G7でマクロン・モディが警告——世界はアメリカのAIを使いたいが「スイッチを切られるリスク」はご免、デジタル主権が外交議題に](https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/)
+*World leaders want American AI. They just don't want America to be able to turn it off.*
+出典: TechCrunch ・ #technology #2026-06-17
+
+G7サミット（フランス・エヴィアン）でフランスのマクロン大統領とインドのモディ首相が、米国がいつでも自国向けのAIアクセスを遮断できる状況への懸念を公に表明した。AIデジタル主権が主要国首脳レベルの正式な外交議題に上がった歴史的な瞬間だ。
+直接のきっかけはAnthropicのFable 5・Mythos 5が6月13日に米政府の輸出管理指令で一夜にして停止された事例。マクロンはOpenAI・AnthropicのCEOとトランプ大統領が同席するランチで「米国がスイッチを一夜で切れば、欧州の経済を傷つけるだけでなく、AIベンダー自身のビジネスも損なう」と警告。モディは「民主主義国家は重要インフラ保護のため最高水準のAIモデルへの自由なアクセスを確保すべき」と述べた。
+G7では「信頼パートナー」スキームの議論が行われた。中国への対抗防衛目的に使用することを条件に非米国の国・企業がAnthropic・OpenAIのモデルにアクセスできる国際的な枠組みだ。カナダのCohere CEO Aidan Gomezは「少数の大企業への依存はデジタル主権への危険だ。誰が基盤技術を制御するかが、数十年の経済安全保障を決定する」と声明を発表した。
+Anthropicの停止事例は「米国AIインフラ上に構築する者は、いつでも予告なしにアクセスを失うリスクを抱える」ことを世界に示した。この意識が欧州独自のAI開発投資加速、Mistral（仏）・Cohere（加）等のノンUS代替AIへの需要を高める。
+
+💡 投資含意: AIデジタル主権問題が外交・政策案件に昇格した。欧州・インドの独自AI開発投資が加速し、Mistral・Cohere等のノンUS AI企業への資金流入が増加。米国AI企業の国際展開に政治的リスクプレミアムが加わる。
+🔗 波及: G7の「信頼パートナー」スキームが実現すれば、米政府がAnthropic・OpenAIの国際展開を部分的に制御する新たな規制枠組みが誕生。欧州のAI Act規制と重複し規制コスト上昇リスク。
+📈 関連銘柄: GOOGL（Gemini・競合優位になりうる・中立〜強気）、MSFT（Azure OpenAI・中立〜強気）
+⚖️ 弱気（Anthropic・OpenAIの国際展開リスク増）・強気（欧州・インド代替AI企業）
+📅 次の注目: G7「信頼パートナー」スキームの具体化、Anthropic Fable 5・Mythos 5の輸出再開時期
 
 ## 2026-06-15
 
