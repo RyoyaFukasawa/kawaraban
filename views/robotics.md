@@ -1,6 +1,41 @@
 # 🦾 フィジカルAI・ロボティクス — 全アーカイブ
 
-全22件 / 日付の新しい順
+全25件 / 日付の新しい順
+
+## 2026-06-18
+
+### [Richtech Robotics、NVIDIA Jetson Thor搭載ヒューマノイド「ADAM」の24時間ライブストリームサービスをAzure Marketplaceで提供開始](https://www.therobotreport.com/richtech-robotics-launches-livestream-adam-ai-powered-humanoid/)
+*Richtech Robotics launches 24/7 livestream platform for ADAM humanoid on Azure Marketplace*
+出典: The Robot Report ・ #robotics #2026-06-18
+
+ヒューマノイドロボット企業Richtech Roboticsが、NVIDIA Jetson Thor搭載の「ADAM」向け24時間365日ライブストリームプラットフォームを発表し、Microsoft Azure Marketplace経由での提供を開始した（2026年4月）。NVIDIA Isaac Open Platformを活用し、ケネディ宇宙センター（2025年）やタイムズスクエアでのバリスタとしての実展開実績を持つ。常時ストリーミングにより遠隔監視・制御と運用データ収集が可能になり、ヒューマノイドロボットのサービス品質向上と自律化への足がかりとなる。NVIDIAエコシステムとMicrosoftクラウドとの統合は、エンタープライズ向けロボティクス・アズ・ア・サービス（RaaS）の実現を加速する。クラウド接続型ロボットモデルへの移行は、ハードウェア売り切りから継続課金への収益モデル転換を促す。
+💡投資含意: ヒューマノイドロボットのクラウド接続プラットフォーム化はNVIDIAとMicrosoftの両エコシステムへの依存度を高め、両社のロボティクス市場覇権を後押しする。
+🔗波及: ロボティクス・アズ・ア・サービス（RaaS）、クラウドエッジ統合、食品サービス自動化
+📈関連銘柄: NVIDIA（NVDA）、Microsoft（MSFT）、Richtech Robotics（非上場）
+⚖️強気弱気: 強気）クラウドRaaS移行でスケールが加速 / 弱気）24時間稼働の信頼性と遠隔制御遅延が実用上の課題
+📅次の注目: Azure Marketplace上のADAM導入契約数と宇宙・ホスピタリティ以外の業種展開
+
+### [RealSense、第5世代カスタムSoC搭載のロボット向けAIネイティブ深度カメラ「D585 Pro」を発表](https://www.therobotreport.com/realsense-unveils-ai-native-d585-pro-depth-camera-for-robots/)
+*RealSense unveils AI-native D585 Pro depth camera with Gen5 SoC for robots*
+出典: The Robot Report ・ #robotics #2026-06-18
+
+Intelから独立（2025年7月）した後の初の旗艦製品として、RealSenseが第5世代カスタムSoC搭載の「D585 Pro」深度カメラを発表した。前世代比で深度品質を2倍に向上させ、120×100°の広視野角、60FPS、IP65（防塵・防水）に対応する。エッジでのAI推論機能も内蔵しており、産業用ロボットや自律移動ロボット（AMR）に最適化された設計だ。Intelのコンシューマー路線から脱し、産業特化のロボティクスセンサー企業として市場を再定義しようとしている。出荷は2027年第1四半期を予定しており、AMR・産業用ロボット向けの先行予約が注目される。独立企業としての資金調達動向も今後の成長を占う重要な指標となる。
+💡投資含意: ロボット向け深度センサー市場でIP65・エッジAI統合を武器に既存センサー会社（Velodyne系）へ競合圧力をかける。産業ロボット採用加速の恩恵を受ける。
+🔗波及: 産業用ロボット、AMR（自律移動ロボット）、スマートファクトリー向けセンシング
+📈関連銘柄: Rockwell Automation（ROK）、Teradyne（TER）、オムロン（6645）
+⚖️強気弱気: 強気）IP65・エッジAI統合でエンタープライズ採用加速 / 弱気）新興独立会社としての販売網整備に時間がかかりQ1 2027出荷まで猶予が必要
+📅次の注目: 2027年Q1出荷開始と主要AMRメーカーとの採用契約発表
+
+### [Kinova、IEC 62304 Class C準拠の医療用ロボットアーム「KIMA」を発表――コントロールボックス不要の統合設計](https://www.therobotreport.com/kinova-launches-kima-medical-robotic-arm/)
+*Kinova launches KIMA medical robotic arm with IEC 62304 Class C safety certification*
+出典: The Robot Report ・ #robotics #2026-06-18
+
+カナダのロボットアームメーカーKinovaが、医療グレードの安全規格IEC 62304 Class CとISO 14971（リスク管理）に準拠した医療用ロボットアーム「KIMA」を発表した。3kgのペイロードと13kgの本体重量を実現しながらコントロールボックスを廃し、EtherCAT通信でシームレスに医療機器へ統合できる設計が特徴だ。クラスCの認証は医療機器の最高リスクカテゴリへの適合を意味し、手術補助・リハビリテーション・検体処理など高度な医療応用への道を開く。従来の産業用ロボットアームが医療環境への参入で苦戦する中、設計段階から規制準拠を組み込んだアーキテクチャは強力な差別化要因となる。コントロールボックス廃止による設置スペース削減は手術室への統合を現実的にし、OEM採用の裾野を広げる。
+💡投資含意: 医療用ロボットは規制ハードルが高い分、認証取得済み製品の独占的地位が長期利益を生み出す参入障壁の高いニッチ市場。
+🔗波及: 医療機器OEM、手術支援ロボット、リハビリテーション機器
+📈関連銘柄: Intuitive Surgical（ISRG）、Stryker（SYK）、Kinova（非上場）
+⚖️強気弱気: 強気）IEC/ISO認証が医療機関への採用障壁を一気に下げる / 弱気）3kgペイロードは重量物ハンドリングには不十分で用途が限定的
+📅次の注目: FDA 510(k)申請と主要病院グループとの採用パイロット発表
 
 ## 2026-06-17
 

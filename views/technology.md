@@ -1,6 +1,63 @@
 # 🖥 テクノロジー — 全アーカイブ
 
-全92件 / 日付の新しい順
+全97件 / 日付の新しい順
+
+## 2026-06-18
+
+### [トランプ大統領がApple・Intel協業を発表――Intel株10%急騰、時価総額6,080億ドルに](https://www.cnbc.com/2026/06/18/trump-intel-apple-chip-design-deal.html)
+*Trump announces Apple-Intel chip design deal; Intel stock surges 10% to $608B market cap*
+出典: CNBC Technology ・ #technology #2026-06-18
+
+トランプ大統領がTruth Socialで、Appleが米国内でのチップ設計・製造においてIntelと協業することに合意したと発表した。Intel株はこの発表を受け10%超の急騰を見せ、時価総額は6,087億ドルに達した（過去12ヶ月の上昇率は464%）。同投稿ではNVIDIAがIntelファウンドリでの製造に合意していること、Elon Muskが「TerraFab（テラファブ）」と呼ばれる世界最大規模のチップ工場をIntelの技術チームと共同設計していることも明かされた。かつてAI競争で出遅れたIntelにとって、「America First」政策と一致した米国製造の中核企業としての再定義が本格化している。Appleが長年依存してきたTSMC製造からの部分的な移行先としてIntelファウンドリが浮上することは、半導体サプライチェーンの地政学的再編を加速させる。
+💡投資含意: 米国政府のチップ製造内製化推進が本格化しており、Intelがその最大受益者として再浮上。半導体サプライチェーンの地政学的再編が急速に進む。
+🔗波及: 台湾TSMCへの需要（一部流出）、米国国内半導体投資、CHIPS法補助金
+📈関連銘柄: Intel（INTC）、Apple（AAPL）、NVIDIA（NVDA）、TSMC（TSM）
+⚖️強気弱気: 強気）政治的後ろ盾とNVDA・Apple需要で製造稼働率が急回復 / 弱気）Intelファウンドリの歩留まり改善には時間がかかり技術的リスク残存
+📅次の注目: Apple向けチップ製造の開始時期とTSMCの顧客流出量
+
+### [Google Gemini共同リードのNoam Shazeer、IPO直前にOpenAIへ移籍](https://www.cnbc.com/2026/06/18/google-gemini-co-lead-noam-shazeer-leaves-for-openai.html)
+*Google Gemini co-lead Noam Shazeer leaves for OpenAI ahead of company IPO*
+出典: CNBC Technology ・ #technology #2026-06-18
+
+GoogleのGemini AIモデル共同リードでVP Engineeringを務めるNoam Shazeerが、OpenAIへの参加を表明した。ShazeerはAI史上最も影響力のある論文の一つ「Attention is All You Need」の共著者であり、2021年にGoogleを退社してCharacter.AIを創業後、2024年8月にGoogleがCharacter.AIとの提携で迎え返したばかりだった。OpenAIが機密IPOを直前に控えた時期の大型引き抜きは、AI人材争奪戦の激化を象徴する出来事だ。Geminiの開発体制に打撃を与えると同時に、OpenAIの技術力への信認を高める動きとして市場に受け止められる。Transformerアーキテクチャの発明者クラスの研究者がOpenAIに集結することで、次世代モデル開発においてOpenAIの優位性がさらに強化される。
+💡投資含意: Transformerアーキテクチャ発明者クラスの研究者がOpenAIに集結することでIPO時の評価額が押し上げられ、対照的にGoogleクラウドのAI競争力に短期的な懸念が生じる。
+🔗波及: Google（Alphabet）の株価、OpenAI IPO評価額、AI人材コスト上昇
+📈関連銘柄: Alphabet（GOOGL）、Microsoft（MSFT/OpenAI出資）
+⚖️強気弱気: 強気）OpenAIの研究能力強化でLLM競争の主導権維持 / 弱気）Google Gemini開発遅延リスクでGoogleクラウドのAI競争力が短期的に低下
+📅次の注目: OpenAI IPO正式申請の時期と公開時の評価額
+
+### [Waymo、高速道路工事区域への侵入インシデントで約4,000台のロボタクシーをリコール](https://techcrunch.com/2026/06/18/waymo-recalls-nearly-4000-robotaxis-to-stop-them-driving-into-highway-construction-zones/)
+*Waymo recalls ~4,000 robotaxis after 13 highway construction zone incidents*
+出典: TechCrunch ・ #technology #2026-06-18
+
+Waymoが約4,000台のロボタクシーに対し、高速道路の工事区域への不適切な侵入を引き起こすソフトウェアの欠陥を受けてリコールを実施した。フェニックスで4月に6件、サンフランシスコで5月に7件の計13件のインシデントが報告され、5月18日には高速道路での運行を全面停止する措置も取られた。同社にとって6回目のリコールとなる今回の問題は、1億7,000万マイル超の自律走行実績を持ちながらもエッジケース対応における課題が残ることを示した。ソフトウェアアップデートによる修正が適用され次第、運行は再開される見込みだ。20都市以上への拡大計画は継続中であり、長期的な自律走行タクシー市場のリーダーシップには影響がないとの見方が多い。
+💡投資含意: リコール自体は短期的ネガティブだが、Waymoがリコール制度を通じて安全性の透明性を確保していること自体は業界標準化への貢献と評価される側面もある。
+🔗波及: 自律走行タクシー競合（Cruise、Zoox）、NHTSA規制強化リスク、ライドシェア市場
+📈関連銘柄: Alphabet（GOOGL/Waymo親会社）、Uber（UBER）、Lyft（LYFT）
+⚖️強気弱気: 強気）ソフトウェアリコールで問題を素早く修正し安全記録を再構築 / 弱気）繰り返すリコールがNHTSAの規制強化圧力を高め展開速度を制約
+📅次の注目: 修正パッチ適用後の運行再開時期とラスベガス等の新都市展開
+
+### [AmazonがAIチップ「Trainium」の外部販売を検討――年間500億ドル超の売上目標でNVIDIAに挑戦](https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/)
+*Amazon in talks to sell Trainium AI chips externally, targeting $50B+ annual revenue to rival Nvidia*
+出典: TechCrunch ・ #technology #2026-06-18
+
+AmazonがNVIDIAへの対抗策として、自社開発AIチップ「Trainium」の外部企業への販売交渉を進めていることが明らかになった。Peter DeSantisが主導し、年間500億ドル（約7兆円）以上の売上目標が語られている。現状ではTSMCの製造キャパシティが制約となっており、次世代のTrainium4は既に完売済みという逼迫した需給状況だ。AmazonはAWS内での内部利用に留まっていたチップビジネスを外販モデルに転換することで、NVIDIAが独占するAIアクセラレーター市場に直接挑戦する姿勢を示している。供給制約の解消と外部顧客開拓が成功すれば、データセンター市場の勢力図を塗り替える可能性がある。GoogleのTPU外販やIntelのファウンドリ戦略と合わせて、AI半導体市場の多極化が加速する。
+💡投資含意: Amazonの外販参入はNVIDIAへの価格圧力となる一方、Trainium外販成功はAWSのAIクラウド覇権をさらに強固にする二重の効果がある。
+🔗波及: AIアクセラレーター市場、クラウドインフラプロバイダー、NVIDIA OEM顧客
+📈関連銘柄: Amazon（AMZN）、NVIDIA（NVDA）、AMD（AMD）、Intel（INTC）
+⚖️強気弱気: 強気）外販成功でNVIDIAの価格交渉力に初めて実質的な競合圧力 / 弱気）TSMC製造制約とCUDA代替エコシステム構築に時間がかかる
+📅次の注目: TrainiumのTSMC製造能力拡張契約と大手クラウド顧客への初の外販成約
+
+### [FERC、AIデータセンター向け送電網「優先接続」を命令――2035年に電力需要3倍の見通し](https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/)
+*FERC orders 6 grid operators to fast-track AI data center connections amid power demand surge*
+出典: TechCrunch ・ #technology #2026-06-18
+
+米連邦エネルギー規制委員会（FERC）が国内6つの電力系統オペレーターに対し、AIデータセンターの系統接続を優先する体制整備を義務付ける命令を発出した。30日以内に設備容量の現状報告、60日以内に料金体系の見直しを求める内容だ。データセンターの電力需要は2035年までに3倍になると予測されており、過去5年で卸電力価格が267%上昇する中、2.6億ドルが洋上風力プロジェクト阻止に費やされたという批判も背景にある。エネルギーインフラへの巨大投資サイクルが政府主導で加速する見通しで、送電網関連銘柄への注目が高まる。AIブームを支えるエネルギー供給の整備は、データセンター拡張計画の実現可能性を左右する根本的なボトルネックだ。
+💡投資含意: 政府命令による系統接続優先措置は、データセンター向け電力インフラへの設備投資を義務化する効果があり、電力・送電会社のキャッシュフロー改善期待が高まる。
+🔗波及: 送電網拡充、再生可能エネルギー接続、AIデータセンター開発事業者
+📈関連銘柄: NextEra Energy（NEE）、Vistra（VST）、GE Vernova（GEV）、Quanta Services（PWR）
+⚖️強気弱気: 強気）FERC命令が送電インフラ投資の「政府保証」として機能 / 弱気）接続申請の処理遅延と既存系統の物理的限界
+📅次の注目: 6オペレーターが30日・60日以内に提出する設備・料金報告書の内容
 
 ## 2026-06-17
 
