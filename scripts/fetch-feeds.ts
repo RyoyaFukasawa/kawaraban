@@ -77,9 +77,11 @@ async function main() {
       const items = await fetchFeed(feed.url);
       let kept = 0;
       let stale = 0;
+      let skipped = 0;
       for (const item of items) {
         const url = item.link.trim();
         if (!url) continue;
+        if (url.includes("/video/")) { skipped++; continue; } // 動画ページURL除外（本文0字になるため）
         if (seen.has(url) || perCategoryUrls.has(url)) continue; // 重複排除
         if (!isFresh(item.pubDate, nowMs)) {
           stale++; // 古い記事は除外（前日以前の事件の再掲を防ぐ）
@@ -100,7 +102,8 @@ async function main() {
       }
       staleTotal += stale;
       const staleNote = stale > 0 ? ` / 古い${stale}件除外` : "";
-      console.log(`OK   ${feed.name}: ${items.length}件取得 / 新規${kept}件${staleNote}`);
+      const skipNote = skipped > 0 ? ` / video除外${skipped}件` : "";
+      console.log(`OK   ${feed.name}: ${items.length}件取得 / 新規${kept}件${staleNote}${skipNote}`);
     } catch (err) {
       // 1本死んでも全体は止めない
       console.warn(`SKIP ${feed.name}: 取得失敗 (${(err as Error).message})`);
