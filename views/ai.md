@@ -1,6 +1,43 @@
 # 🤖 AI・先進技術 — 全アーカイブ
 
-全74件 / 日付の新しい順
+全79件 / 日付の新しい順
+
+## 2026-06-20
+
+### [⚠️ 任意の画像からリアルタイムでプレイ可能なゲームを生成するNN、コンシューマGPUでローカル動作を実現](https://www.reddit.com/r/LocalLLaMA/comments/1ub2kmt/deep_neural_network_that_can_turn_any_image_into/)
+*Deep neural network that can turn any image into a real-time playable game*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-20
+
+ゼロから学習した0.5Bパラメータのトランスフォーマー系モデルが、任意の画像をインプットとしてキーボード入力に応答するリアルタイムプレイ可能なゲーム環境を生成することに成功したとの報告。因果的・自己回帰的でKVキャッシュを活用し、RTX 5090でbf16精度にて動作。動きのブレや点滅などの品質課題があり、次バージョンは0.8Bを予定。ファインチューニング不要で任意の静止画から動作する点がユニーク。
+投資視点：ゲームエンジン・コンテンツ制作の生成AI化という大きなテーマを体現するデモ事例。Unityへの影響（クリエイターツール代替）と新たなゲーム体験創出の両面。Nvidiaのコンシューマ向けRTX 5090需要を可視化するユースケース。⚠️ 未確認情報（Reddit発・要裏取り）
+
+### [⚠️ EXL3量子化がApple Siliconで可能に──従来はCUDA専用だった高品質量子化形式がMacに解放](https://www.reddit.com/r/LocalLLaMA/comments/1ub0vqa/you_can_now_convert_exl3_quants_on_apple_silicon/)
+*You can now convert EXL3 quants on Apple Silicon*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-20
+
+ExLlamaV3（turboderp開発）のEXL3量子化形式がこれまでCUDA専用だったが、PonyExl3（Apache 2.0ライセンス）によってApple Silicon上での変換・実行が可能になった。MiniCPM5およびQwen3.6-27Bで動作確認済み。EXL3はMLX量子化と比較して約0.5bits/weight分の品質向上が得られるとされ、Mac上でのローカルLLM品質向上に直結する。
+投資視点：Appleのローカル推論エコシステムの競争力強化。Mac ProやMac Studio（統合HBMメモリ）を大規模モデル推論端末として訴求するAppleのAI戦略と合致。NvidiaのCUDA依存エコシステムに代替手段が拡充されることで、Apple M4/M5系シリコンの価値が高まる。⚠️ 未確認情報（Reddit発・要裏取り）
+
+### [⚠️ 「オープンモデルの経済学」が逆転へ──12〜18か月以内に「10倍コストで5%の改善」への疑問が主流ビジネスの意思決定者に届くという投稿](https://www.reddit.com/r/LocalLLaMA/comments/1ua5b16/the_economics_of_ai_are_starting_to_favor_open/)
+*The economics of AI are starting to favor open models*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-20
+
+DeepSeek・Qwen・GLM・Kimi・MiniMaxといった中国系オープンモデルが「高知性・低コスト」の象限を席巻しつつある現状を踏まえ、12〜18か月以内に主流ビジネスの意思決定者が「なぜ10倍のコストを払って5%の改善しか得られないのか」と問いかけるようになるとの見立てが投稿された。オープンモデルの優位性としてフルコントロール・プライバシー・カスタマイズ性が挙げられている。
+投資視点：OpenAI・Anthropic・Google等のクローズドAPI事業者の長期的な価格決定力が侵食されるシナリオを示唆。NvidiaはオープンモデルもGPU需要を牽引するため相対的に中立。オンプレ向けサーバーメーカー（Dell・HPE）やAMDはオープンモデル普及の恩恵を受けうる。⚠️ 未確認情報（Reddit発・要裏取り）
+
+### [ノーベル賞受賞者ジョン・ジャンパー、DeepMindを離れAnthropicへ転籍──同週にNoam ShazeerもOpenAIへ、DeepMind人材流出が加速](https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/)
+*Nobel laureate John Jumper is leaving DeepMind for rival Anthropic*
+出典: TechCrunch ・ #ai #2026-06-20
+
+AlphaFoldでデミス・ハサビスと共に2024年ノーベル化学賞を受賞したジョン・ジャンパーが、約9年在籍したDeepMindを離れAnthropicへ移籍することが6月20日に発表された。Bloombergの報道によれば、Anthropicではコーディングツール開発に携わる予定。同週にはCharacter AIの共同創業者ノーム・シャジールもDeepMindを離れOpenAIへ移籍しており、AI産業の「人材争奪戦」においてDeepMindが連続して主要研究者を失う事態となった。
+投資視点：Anthropicにとってジャンパー獲得はタンパク質構造予測＝生命科学AI分野への布石の可能性があり、同社のコーディングAI（Claude Code等）と生命科学の交差点に新たなプロダクト展開が見込まれる。DeepMindの人材流出はAlphabetの次世代AI競争力に疑問符を付け、Google株にとって中期的なリスク要因となりうる。Anthropicは非上場だが、株主であるAmazonとSalesforceへの間接的なポジティブ材料。
+
+### [「過去30年の失敗の繰り返し」──米政府のAnthropicモデル輸出禁止が問いかけるAI規制の本質](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/)
+*From PGP to Mythos: a brief history of export controls that didn't stop anyone*
+出典: TechCrunch ・ #ai #2026-06-20
+
+ホワイトハウスが先週金曜日にAnthropicのFable 5とMythosモデルへの輸出規制を命じ、Anthropicは約90分以内に両モデルへのアクセスを停止した。発端は(1)SK TelecomのMythosアクセスに中国との疑いがある回線が混入していた疑惑、(2)AmazonのCEOジャシーがFable 5の「脱獄」問題を政権に通報した可能性。記事はPGP暗号のCrypto Wars（失敗）からWassenaar協定のスパイウェア規制（大半が失敗）まで、輸出規制が技術拡散を止めた例はほとんどないと論じる。
+投資視点：AI輸出規制はAnthropicの国際展開（特にアジア太平洋市場）に制約を課すリスク。競合のOpenAI・Google DeepMindも同様のリスクを共有するが、規制対応コストは規模の小さいAnthropicに相対的に重くのしかかる。一方、米国内の国家安全保障関連AI予算の拡大（DIU・DOD向け）はAnthropicにプラスに働く二面性がある。AmazonはAnthropicへの出資者（$40B超）として規制当局との関係を仲介する立場に。
 
 ## 2026-06-19
 

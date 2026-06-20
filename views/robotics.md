@@ -1,6 +1,22 @@
 # 🦾 フィジカルAI・ロボティクス — 全アーカイブ
 
-全27件 / 日付の新しい順
+全29件 / 日付の新しい順
+
+## 2026-06-20
+
+### [米海軍「174,000人の作業員不足」に自律塗装ロボットで対応──GrayMatter Robotics、防衛製造現場の人手不足解決へ](https://www.therobotreport.com/defense-manufacturing-readiness-hinges-autonomous-surface-prep-says-graymatter/)
+*Defense manufacturing readiness hinges on autonomous surface prep, says GrayMatter*
+出典: The Robot Report ・ #robotics #2026-06-20
+
+米軍は2024年に45機種中42機種で航空機稼働率目標を未達（GAO報告）。背景には防衛製造業の深刻な人手不足があり、米海軍は今後10年で174,000人の新規作業員が必要と試算。初年度離職率50〜60%という構造的問題により、訓練パイプラインが需要に追いつかない。GrayMatter Roboticsは部品ごとに異なる腐食パターンに対応できるエッジ配置・エアギャップ型物理AIアーキテクチャを展開し、AFWERX SBIR Phase IIに選定。Navy depot効率化チャレンジでもHIIおよびPath Robotics（HYPRプログラム）と共に12社のファイナリストに選出。
+投資視点：米国防総省の調達案件として実績を積むGrayMatter Roboticsは非上場だが、防衛製造DX（自律ロボット＋AI）への政府支出拡大テーマに直接乗る。同分野の上場代理候補としてTeradyne（産業ロボット）、HEICO（防衛MRO）、TransDigm（航空機部品）などが関連。防衛製造AI化は超党派支持が得やすく予算継続性が高い。
+
+### [Genesis社「Eno」登場・Sanctuary AIが自動車ライン99.5%成功率・ANYmalが$63万損失を事前防止──週次ロボット動画まとめ](https://spectrum.ieee.org/video-friday-agentic-ai-robot)
+*Video Friday: Agentic AI Robot*
+出典: IEEE Spectrum Robotics ・ #robotics #2026-06-20
+
+今週のロボット動画まとめより主要トピック：Genesis AIが「Eno」を発表、AIエージェント＋汎用ロボットの融合形態で従来の人型ではない新カテゴリを標榜。Sanctuary AIのヒューマノイドがTier 1自動車サプライヤーでワイヤープラグ挿入を99.5%超の成功率・サイクルタイム2.54秒で量産ラインの基準を満たした。ANYmalロボットがコンクリートプラントに導入され、クラッシャー基礎のクラックを週次停止前に発見し約$630,000の生産損失を回避。NASAの月面・火星探査向けERNESTローバーはコロラド砂漠でフィールドテスト実施。Sony AI Aceが卓球プロ選手との反事実的軌道シミュレーションを実演。
+投資視点：産業ロボット導入のROI事例（ANYmal $630K節約）は製造業向けロボット投資の具体的根拠となり、Boston DynamicsやABBへの追い風。Sanctuary AIの量産ライン実績はヒューマノイド商業化のマイルストーン。Genesis AIは生成AI×ロボットの新カテゴリとして投資家の注目を集める可能性。
 
 ## 2026-06-19
 

@@ -1,6 +1,43 @@
 # 🖥 テクノロジー — 全アーカイブ
 
-全101件 / 日付の新しい順
+全106件 / 日付の新しい順
+
+## 2026-06-20
+
+### [ホンダ・ソニーのEVブランド「Afeela」撤退、1台も売らずに終了──自動車サブブランド戦略の難しさ改めて浮上](https://www.nytimes.com/2026/06/20/business/afeela-automakers-spinoffs-brands.html)
+*Honda and Sony's Afeela EV project collapses before selling a single car*
+出典: NYT Technology ・ #technology #2026-06-20
+
+ホンダとソニーが共同設立したEVブランド「Afeela」が、量産車を1台も市場に出すことなく事業撤退。大手自動車メーカーのサブブランド戦略は過去にも失敗例が多く、高級路線への集中が生き残りの条件との分析。両社はEV・自動運転への多額投資を行ってきたが、市場投入前に計画が崩壊した。
+投資視点：ホンダおよびソニー双方にとって実質的な埋没コスト発生。自動車業界のEV事業はリソース消耗リスクが高く、完成車メーカーより充電インフラ（ChargePoint・EVgo）やバッテリーセル（パナソニック、寧徳時代）のサプライヤー側が相対的に安定したポジション。EV市場でのトヨタの慎重なハイブリッド先行戦略が再評価されるシナリオ。
+
+### [韓国チップ大手が過去最大ボーナス、韓国銀行が「インフレ上昇圧力」警告──HBM好況が賃金から物価へ波及](https://www.cnbc.com/2026/06/20/south-korea-tech-samsung-sk-hynix-bonus-bank-of-korea.html)
+*South Korea tech: Samsung and SK Hynix bonuses prompt Bank of Korea inflation warning*
+出典: CNBC Technology ・ #technology #2026-06-20
+
+サムスン電子とSK Hynixの従業員が数百万ウォン規模の過去最大ボーナスを受領し、韓国銀行（BOK）がインフレ上昇圧力への警告を発した。HBM（高帯域幅メモリ）需要急増に牽引された半導体好況が、企業収益から雇用者報酬、そして物価へと波及するマクロサイクルに入りつつある。
+投資視点：SK HynixおよびSamsung ElectronicsのHBM収益化が従業員報酬に転化するほどのキャッシュフロー水準を示す好材料。韓国BOKのインフレ警告はウォン高・金利引き上げ圧力を通じて輸出競争力に一定の逆風となる可能性。Nvidiaの主要HBMサプライヤーとしてのSK Hynixの優位性は変わらず、次世代HBM4量産タイムラインに注目。
+
+### [AIインフラ競争で「テック投資家も債券市場を見なければならない時代」──4社合計7,500億ドルCapex・新Fed議長が利上げ示唆](https://www.cnbc.com/2026/06/20/ai-buildout-giving-tech-investors-new-reasons-to-watch-bond-market.html)
+*AI buildout giving tech investors new reasons to watch the bond market*
+出典: CNBC Technology ・ #technology #2026-06-20
+
+Amazon・Alphabet・Microsoft・Metaの2026年合計設備投資額は約$750B、前年比80%増。その大部分を社債発行で賄う戦略に転換しており、Nvidia・Oracle・Amazon・Alphabet・Metaはそれぞれ数百億ドル規模の債券発行を実施済み・計画中。新Fed議長ケビン・ウォーシュが初の記者会見で2026年利上げの可能性を示唆し、10年債利回りは4.45%付近。Amazonは2026年に$200B投資・フリーキャッシュフローがマイナスになる見通しで、GS試算ではビッグテック全体のCapexが$920Bに達する可能性。OpenAI CFO Sarah FriarはIPOの動機の一つとして債券市場アクセスを挙げた。SpaceXはNasdaq上場直後に$20B社債発行の準備を開始。
+投資視点：利上げリスクが高まる局面ではキャッシュリッチ・借入依存度の低い企業（Nvidia、Apple）が相対的に有利。Amazonの2026年マイナスFCF予測は同社株のバリュエーションに短期的な圧力。社債発行ラッシュは社債スプレッドを拡大させ、AIインフラ向けREIT・データセンター関連クレジットの利回り環境に変化をもたらす可能性。
+
+### [英国最高データ・AI規制当局トップが「不適切な言動」で辞任──AI規制の方針継続性に不確実性](https://www.bbc.com/news/articles/c0eyq7rnn22o)
+*UK's top data and AI regulator boss quits over inappropriate conduct*
+出典: BBC Technology ・ #technology #2026-06-20
+
+英国情報コミッショナーオフィス（ICO）のトップが「不適切なユーモアの試み」を理由に辞任。2022年1月就任以来の在任中はAI・データ保護規制の主要立案を担ってきた。後任人事が決まるまでの期間、英国のAI規制執行方針に一時的な空白が生じる可能性がある。
+投資視点：英国のAI規制環境の一時的不確実性は、英国でAI製品を展開する企業（特にDeepMind/Google、ArmベースのAIチップ企業）にとって短期的に監視緩和の窓が開く可能性と、逆に規制の予測不可能性が高まるリスクの二面性を持つ。EU AI法と英国の規制アプローチのダイバージェンスに注目。
+
+### [日本今年最大のIPO「Go」が自動運転タクシー参入を宣言──Waymoと提携、553億円調達でドライバー不足に挑む](https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/)
+*Go eyes robotaxis and acquisitions after Japan's biggest IPO of 2026*
+出典: TechCrunch ・ #technology #2026-06-20
+
+日本のタクシー配車アプリ最大手「Go」が2026年日本最大のIPOとして上場、¥88.6B（$553M）を調達。資金はロボタクシーR&D投資とM&Aに充当予定。Waymo（Alphabet子会社）および日本交通と提携するが、CEO中島宏は自律走行技術そのものへの自社投資は行わないと明言。日本のタクシー運転手数は近年約20%減少、高齢化で回復見込み薄。Goはアプリ市場シェア80%（利用時間ベース）・35M DL・85K台を擁し46都道府県をカバー。IPO価格¥2,400に対し初日終値¥2,314（-4%）。投資家にBlackRock・Wellington・M&Gが参加。競合としてUber+Wayve+日産が2026年末に東京でロボタクシー試験を予定。
+投資視点：Waymoへの追い風（Alphabetの自動運転事業に商業化の実績）。Go単体はIPO直後に下落しており短期では上値重い。しかし日本の自動運転市場の本格離陸を示すシグナルとして、Mobileye・Luminar等のAVサプライチェーン銘柄に中期的ポジティブ。
 
 ## 2026-06-19
 
