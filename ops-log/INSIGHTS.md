@@ -21,18 +21,57 @@
 
 | 論点 | 種別 | 状態 | 初出 | 最終更新 | メモ |
 |---|---|---|---|---|---|
-| FT / NYT が全記事 paywalled で本文取得不可 | ソース | 🟡継続 | 2026-05-30 | 2026-06-14 | 直近7日（06-08〜06-14）全日で全件 paywalled/403 継続。Economy は実質 CNBC + PBS のみ。Reuters/AP URL はコンテナ環境から検証不可（下記行参照） |
+| FT / NYT が全記事 paywalled で本文取得不可 | ソース | 🟡継続 | 2026-05-30 | 2026-06-21 | 直近2週（06-08〜06-21）全日で全件 paywalled/403 継続。Economy は実質 CNBC + PBS のみ。Reuters/AP URL はコンテナ環境から検証不可 |
 | CBS News の `/video/` URL は本文0字 | 仕組み | 🟢解消 | 2026-05-30 | 2026-06-14 | /video/ フィルタPR導入済み（06-07実施）。06-09ログで「フィルタが機能している」を確認。ただし `/transcript/` URL 問題が新たに浮上（下記行参照） |
-| CBS News の `/transcript/` URL（番組書き起こし）がノイズ | 仕組み | 🟡継続 | 2026-06-14 | 2026-06-14 | 06-14ログで初めて明示的に指摘。Face the Nation等のトランスクリプト記事が5〜6件/日混入。/video/ フィルタと同様に除外が有効。今週PRで対処予定 |
-| BBC / The Hill が本文取得で403（bot遮断疑い） | 仕組み | 🟡継続 | 2026-05-30 | 2026-06-14 | 直近7日全日403継続。RSS description で代替中（代替できている日が多い）。User-Agent 調整は検討続行 |
-| WSJ Politics フィードが SKIP（HTTP 403/サイト改編疑い） | ソース | 🔴悪化 | 2026-05-29 | 2026-06-14 | 06-14時点で15日以上連続 SKIP（0件）。Politicsカテゴリに実質的な穴。代替ソース（Politico Tech等）の検討が急務 |
-| AI枠（先進性優先）の効き具合は要観測 | 仕組み | 🟡継続 | 2026-06-02 | 2026-06-14 | 機能はしているが Reddit r/LocalLLaMA への依存度が高まっている（06-14はAI枠全5件がLocalLLaMA）。OpenAI/DeepMind 記事が出ない日の補完として機能しているが、「unverified」ソース依存は継続リスク |
-| Reddit r/MachineLearning のノイズ（議論スレが多く採用率低） | ソース | 🔴悪化 | 2026-06-07 | 2026-06-14 | 直近7日（06-08〜06-14）全日で採用0件。直近3日（06-12〜06-14）はフィード自体が0件取得（フィード停止疑い）。今週DEBATESで削除裁定→削除PR提出 |
-| Reuters Business / AP Business を economy に追加すること | ソース | 🔵検証中 | 2026-06-07 | 2026-06-14 | 週次コンテナ環境ではDNS解決不可（全外部ホストが403/host not in allowlist）のため今週も検証不可。日次ルーティン環境での検証が必要。次回検証手順：curl -I https://feeds.reuters.com/reuters/businessNews で HTTP 200+XML かつ `<item>` タグ確認 |
+| CBS News の `/transcript/` URL（番組書き起こし）がノイズ | 仕組み | 🟡継続 | 2026-06-14 | 2026-06-21 | PR #15（open）にフィルタ追加済みだが未マージ。06-19ログでは問題なし。PR #15 マージ待ち |
+| BBC / The Hill が本文取得で403（bot遮断疑い） | 仕組み | 🟡継続 | 2026-05-30 | 2026-06-21 | 直近2週全日403継続。RSS description で代替中。User-Agent 調整は検討続行 |
+| WSJ Politics フィードが SKIP（HTTP 403/サイト改編疑い） | ソース | 🔴悪化 | 2026-05-29 | 2026-06-21 | 06-21時点で21日以上連続 SKIP（0件）。Politicsカテゴリに実質的な穴。今週PR（improve/feeds-2026-06-21）で削除、代替候補はPR本文に記載 |
+| WSJ Technology フィードが SKIP（HTTP 403/サイト改編疑い） | ソース | 🔴悪化 | 2026-06-21 | 2026-06-21 | 06-21時点で15日以上連続 SKIP（0件）。WSJ Politics と同根。今週PRで削除 |
+| AI枠（先進性優先）の効き具合は要観測 | 仕組み | 🟡継続 | 2026-06-02 | 2026-06-21 | 06-21（日曜）はr/LocalLLaMAが4件中4件（100%）。平日は1〜2件/5件程度で機能しているが週末の公式ブログ停止が顕在化。UNVERIFIED_RATIO_CAPで上限設定（今週PR） |
+| Reddit r/MachineLearning のノイズ（議論スレが多く採用率低） | ソース | 🔴悪化 | 2026-06-07 | 2026-06-21 | PR #15（open）で削除待ち。06-21ログでは「削除済」と記載があるが実際はPR未マージ。次回マージ時に🟢解消へ遷移 |
+| Reuters Business / AP Business を economy に追加すること | ソース | 🔵検証中 | 2026-06-07 | 2026-06-21 | 週次コンテナ環境ではDNS解決不可（全外部ホストが403/host not in allowlist）のため今週も検証不可。日次ルーティン環境での検証が必要。次回検証手順：curl -I https://feeds.reuters.com/reuters/businessNews で HTTP 200+XML かつ `<item>` タグ確認 |
+| Anthropic Blog を AI枠に追加すること | ソース | 🔵検証中 | 2026-06-21 | 2026-06-21 | 06-19ログで「priority: 高」として言及。URL: https://www.anthropic.com/rss.xml。週次コンテナから疎通不可（403）。日次環境での検証後に次回PRで追加。検証手順：curl -I https://www.anthropic.com/rss.xml でHTTP 200+XML |
+| Reddit unverified ソースの比率上限（UNVERIFIED_RATIO_CAP） | 仕組み | 🟢解消 | 2026-06-21 | 2026-06-21 | 今週PR（improve/feeds-2026-06-21）にて fetch-feeds.ts へ UNVERIFIED_RATIO_CAP=0.40 定数＋カテゴリ別カウンタ実装。カテゴリあたりunverified記事を最大2件（40%×5）に制限 |
 
 ---
 
 ## 週次エントリ（末尾に追記していく）
+
+### 2026-06-21 — WSJ 2フィード削除・UNVERIFIED_RATIO_CAP 実装 PR
+
+**読んだ日次ログ**: 2026-06-15, 06-17〜06-21 の6件（06-16欠損）。
+
+**今週の最大の課題**:
+- **WSJ Technology / WSJ Politics の長期SKIP**: WSJ Politics が21日以上、WSJ Technology が15日以上連続でSKIP（0件）。フィード自体が死んでいる。維持コストゼロだが「あるのに取れない」状態は混乱を招くため削除が妥当。
+- **AI枠 r/LocalLLaMA 過依存（日曜に100%）**: 06-21（日曜）はAI枠5件中4件が r/LocalLLaMA。OpenAI Blog・Hugging Face 等の公式ブログは週末に更新停止する傾向があり、構造的問題。UNVERIFIED_RATIO_CAP で上限設定。
+- **Anthropic Blog 未追加**: 06-19ログで「priority: 高」として言及があるが、URL疎通を日次環境でしか確認できない。今週は保留。
+
+**最新性/先進性の担保**:
+平日は OpenAI Blog・Hugging Face 等が機能（06-18: OpenAI Blog 2件採用が理想例）。週末の公式ブログ停止が AI枠品質の最大の不安定要因。UNVERIFIED_RATIO_CAP=0.40 により、r/LocalLLaMA が5件中2件（40%）を超えて採用されることを防ぐ。
+
+**ソース構成の穴（今週の診断）**:
+1. AI: r/LocalLLaMA への週末過依存（日曜100%が常態化リスク）。対処：UNVERIFIED_RATIO_CAP で今週実装。
+2. Politics: WSJ Politics 21日以上SKIP。削除して代替を探す（Politico等は日次環境での検証後）。
+3. Technology: WSJ Technology 15日以上SKIP。同様に削除。
+4. Economy: FT/NYT paywall継続（構造問題、変化なし）。Reuters/AP は検証不可で継続保留。
+
+**選定ロジックの妥当性**:
+UNVERIFIED_RATIO_CAP=0.40 → カテゴリあたりunverified記事は最大 `max(2, floor(5×0.40))` = 2件に制限。定数として外出しすることで将来の調整が容易。
+
+**打った手（今週のPR）**:
+- `src/feeds.ts` から WSJ Technology・WSJ Politics を削除（15日以上SKIP継続）
+- `scripts/fetch-feeds.ts` に UNVERIFIED_RATIO_CAP=0.40 + per-category カウンタを追加
+- 議論ログ: `ops-log/DEBATES/2026-06-21.md`
+- PR: improve/feeds-2026-06-21
+
+**残した宿題**:
+1. Anthropic Blog (https://www.anthropic.com/rss.xml) の日次環境での疎通確認 → 確認後に次回PRで AI枠に追加
+2. Reuters Business / AP Business の日次環境での疎通確認（継続）
+3. PR #15（r/MachineLearning 削除 + CBS /transcript/ フィルタ）のマージ促進
+4. WSJ Politics 代替ソース（Politico 等）の日次環境での検証と追加
+5. BBC/The Hill の User-Agent 調整による 403 解消の試み（継続）
+
+---
 
 ### 2026-06-14 — Reddit r/ML 削除・CBS /transcript/ フィルタ PR
 
