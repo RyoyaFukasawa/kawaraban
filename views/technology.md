@@ -1,6 +1,80 @@
 # 🖥 テクノロジー — 全アーカイブ
 
-全106件 / 日付の新しい順
+全111件 / 日付の新しい順
+
+## 2026-06-21
+
+### [テキサス州でテスラのオートパイロット使用中に民家に突入——女性1名が死亡](https://www.nytimes.com/2026/06/21/us/tesla-autopilot-crash-texas.html)
+*Tesla Driver Using Autopilot Crashes Into Home in Texas and Kills a Woman, Officials Say*
+出典: NYT Technology ・ #technology #2026-06-21
+
+テキサス州ハリス郡で、テスラ車を運転していたドライバーがオートパイロット（自動運転支援システム）を使用中に車両が道路を逸脱し、民家に突入して女性1名が死亡した。ドライバーは当局の調査に対して「オートパイロットを使用していた」と述べた。
+テスラのAutopilotは完全自動運転ではなくドライバー支援システムであり、テスラは「ドライバーは常にハンドルを握り道路に集中する責任がある」と主張している。しかし近年、複数の死亡事故がAutopilotの使用中に発生しており、NHTSA（米国道路交通安全局）はすでにAutopilot関連の調査を複数件実施してきた。
+テキサス州では2026年後半にテスラのロボタクシーサービス開始が計画されており、今回の事故はその計画に対する地域社会の受容性や規制当局の姿勢に影を落とす可能性がある。
+FSD（フル自律運転）の安全性に関する法的・規制上のリスクは累積しており、NHTSAによる追加調査が開始される可能性が高い。情報はNYT記事（403）のためRSS記述に基づく要約。
+
+💡 投資含意: TSLA株にとって直接の弱気材料。NHTSAの追加調査・規制強化の可能性が高まり、FSDによる収益化計画への頭打ちリスクとなる。ロボタクシー事業への市場信頼を損なう。
+🔗 波及: テスラの事故はWaymo・Zoox・Mobileye等の競合ロボタクシー事業者の安全実績との相対比較を際立たせる。Alphabetにとって間接的なポジティブ材料。保険業界の自動運転カバレッジ引き受けリスクが再注目される。
+📈 関連銘柄: TSLA（弱気）、GOOGL/Waymo（相対優位↑・強気）、MBLY（安全技術需要↑）
+⚖️ 弱気材料: TSLA（Autopilot/FSDの規制・訴訟リスク増大）
+📅 次の注目: NHTSA調査開始の公式発表、テスラのロボタクシー計画に対する規制当局の対応
+
+### [トランプ政権のAnthropicへの規制はなぜ起きたか——AIエコシステムへの影響を分析](https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/)
+*When the Trump administration cracks down on Anthropic, who benefits?*
+出典: TechCrunch ・ #technology #2026-06-21
+
+TechCrunchのEquityポッドキャストが、トランプ政権によるAnthropicのFable 5・Mythos 5の強制オフライン化命令の背景と業界への影響を掘り下げた。発端はAmazon CEOアンディ・ジャシーがFable 5のガードレール回避問題をホワイトハウスに報告したとされることで、「国家安全保障上の懸念」を名目に外国人への提供禁止命令が出た。Anthropicは約90分以内に両モデルをオフラインにした。
+Anthropicとトランプ政権の関係は他の主要AIラボと比べて特異なほど悪く、「報復的な規制」との見方をサイバーセキュリティ専門家も共有している。100名以上の専門家が「このガードレール回避の問題は他のモデルでも同様に存在する」として撤回を求める公開書簡に署名済み。
+Amazonは$40B超のAnthropicへの出資者として規制当局との仲介コストが発生する立場にあり、複雑な利害関係が生じている。TechCrunchはRampの分析データとして「Anthropicの法人利用者が競合に移行した」との動向にも触れる。
+「Anthropicは危険なモデルを作りながら自分たちは安全という二重基準」への批判も一部で噴出し、評判面での複雑な状況が生まれている。
+
+💡 投資含意: Anthropicへの規制はOpenAI・Google・Metaなど競合他社への相対的な追い風となる短期効果がある。しかし「政権との関係次第で規制リスクが変わる」という不確実性はAI業界全体の投資環境を悪化させる。
+🔗 波及: Amazonは投資先AnthropicのFable廃止と規制問題を同時に抱え、企業向けAIサービスの代替が急務。Microsoftと連携するOpenAIへの相対優位が強まる。
+📈 関連銘柄: MSFT（OpenAI＝競合が一時停止→追い風）、AMZN（Anthropic投資先・規制コスト↑・弱気）、GOOGL（競合の規制→短期ポジティブ）
+⚖️ 弱気材料: AMZN（Anthropicへの$40B投資リスク）；強気材料: MSFT・GOOGL（競合一時停止の恩恵）
+📅 次の注目: ホワイトハウスの輸出規制命令の撤回・維持判断、Anthropicの新モデル展開再開時期
+
+### [ロボタクシー世界ランキング——百度「Apollo Go」が首位、中国勢がトップ4を独占](https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/)
+*TechCrunch Mobility: A new robotaxi scorecard shows China's dominance*
+出典: TechCrunch ・ #technology #2026-06-21
+
+AIアドバイザリースタートアップのAutnmy AIが公開した「Road to Autonomy Index」は、連邦・州のレポート・SECファイリング・公的取引データなど複数の公開データベースをAIで分析し12時間ごとに更新するグローバルランキングシステム。6月20日時点で首位は中国の百度（Baidu）「Apollo Go」で、Waymoが2位、Pony.ai・WeRideと中国企業がトップ4を独占し、テスラが5位。
+テキサス州の最新フリートデータによれば、Waymoは1ヶ月未満で577台→620台（+7.5%）、Teslaは42台→69台（+64%）と急増。ただしZoox（35→43台）は連邦政府の商業運用免除未取得のため課金不可。
+追加ニュースとして：Mobileye（MBLY）が2027年に米国内特定都市でロボタクシーサービス参入を計画。Stellantis＋Wayve＋Uberがロボタクシー共同開発・展開の三者契約を締結。自動運転トラックのGatikがPepsiCoと複数年パートナーシップ。ロボット訓練データのXDOFがThrive Capital・Spark Capital・a16z等から$7,000万調達。Avride（Uberアプリ経由）のロボタクシーがダラスで他の車に衝突される事故発生（乗客なし・調査中）。
+
+💡 投資含意: 中国勢の圧倒的なスケール（商業運転距離・台数）は、自動運転競争において中国が民間展開で先行している事実を改めて示す。WaymoがApollo Goに次ぐ2位という確認は、Alphabetの長期戦略への信頼材料。
+🔗 波及: 中国のロボタクシー優位が明確になるほど、米国規制当局による自動運転スケールアップの加速圧力が高まる可能性。XDOFへの$70M調達はロボット訓練データ需要の根強さを示す。
+📈 関連銘柄: GOOGL（Waymo、グローバル2位確認・強気）、TSLA（5位評価・相対的弱気）、MBLY（ロボタクシー参入計画→成長期待）、BIDU（世界首位のApollo Go）
+⚖️ 強気: GOOGL・MBLY；弱気: TSLA（相対的地位の低さ）
+
+### [Polymarketが偽の賭けを映した動画でクリエイターを買収——WSJが調査報道](https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/)
+*Polymarket reportedly paid creators to post deceptive videos about fake bets*
+出典: TechCrunch ・ #technology #2026-06-21
+
+WSJ（ウォール・ストリート・ジャーナル）の調査報道によれば、予測市場Polymarketがオンラインクリエイターに報酬を支払い、実際には存在しない高額の賭けや勝利金を映した虚偽の動画を投稿させていたことが明らかになった。
+WSJは1,100件超の動画を分析。多くの動画はPolymarketウェブサイトの「ほぼ完璧なコピー」上で撮影され、架空の取引・当選金を映し出していた。マーケティング業者が展開した「ソーシャルメディア軍団」によって動画が拡散された。
+報酬を受け取ったクリエイターにはその事実を開示しないよう指示していたが、記者の問い合わせ後に「@polymarket partner」をプロフィールに追加。大学生クリエイターの1人は「ファストフードのCM的なもの——実際に起こりうることを描いている」と語った。
+Polymarketは「透明で公正な市場を維持することにコミットしている」とのコメントを発表し、プロモーションコンテンツの内部監査を行うと表明。具体的な是正措置は未公表。
+
+💡 投資含意: 予測市場の信頼性・透明性への疑念は、Polymarketプラットフォームの成長を阻害するリスク。CFTC等の規制当局による調査の呼び水になる可能性がある。暗号資産・予測市場業界全体のレピュテーションリスク。
+🔗 波及: 予測市場全体への信頼毀損が競合（PredictIt、Kalshi等）の評価に影響。暗号資産取引所やDeFiプラットフォームへの規制強化の口実にもなりうる。
+📈 関連銘柄: COIN（Coinbase・間接影響）、HOOD（Robinhood・FinTech規制強化リスク）
+⚖️ 弱気材料: 予測市場エコシステム・FinTech規制強化リスク全般
+
+### [Siri以外にも——iOS 27が静かに埋め込む実用AI機能の全貌](https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/)
+*Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27*
+出典: TechCrunch ・ #technology #2026-06-21
+
+WWDC 2026でのSiriのAIリニューアルが見出しを飾ったが、iOS 27にはApple Intelligenceを活用したより地味で実用的なAI機能群が多数搭載される。
+主な新機能：（1）Apple Cash連携のレシート撮影による割り勘計算、（2）データ漏洩パスワードを自動でウェブサイトにログインして更新するAIエージェント機能（オンデバイス処理）、（3）Messagesアプリが会話文脈に基づきリマインダー追加・写真送信・カレンダー登録等をワンタップ提案、（4）電話中に関連する予約情報・確認コード等を画面に表示するCall Context機能（Mailを参照・デバイス内処理）、（5）自然言語でCalendarイベントを作成・編集、（6）ショートカットを自然言語で設定。
+AppleのアプローチはGPTやGeminiのようなチャットBot中心ではなく、既存アプリへのAIを「見えないかたちで」組み込む手法。機能は開発者ベータに搭載済みで、2026年秋の正式リリースに向けパブリックベータを経て一般公開される。
+AI機能の多くがオンデバイス処理のため、プライバシー面での強みがAppleの差別化軸として機能する。
+
+💡 投資含意: AppleのAI戦略は独立AI商品よりも既存エコシステムへの統合で離脱コストを強化するもの。AI対応機種（iPhone 15以降）への買い替え需要を刺激し、アップグレードサイクル短縮につながるか注目。
+🔗 波及: パスワード自動更新機能はDashlane・1Password等のパスワードマネージャーへの競合圧力。Call Context機能はRingCentral・Otter.ai等のAI通話サービスへの圧力。
+📈 関連銘柄: AAPL（iOS 27機能群によるハードウェア買い替え需要↑・強気）
+⚖️ 強気材料: AAPL（AI機能によるエコシステム粘着性向上とアップグレード需要創出）
+📅 次の注目: iOS 27パブリックベータの公開（2026年夏）、秋の正式リリースとApple Intelligence採用機種の拡大
 
 ## 2026-06-20
 

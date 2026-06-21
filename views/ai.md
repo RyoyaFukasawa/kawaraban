@@ -1,6 +1,69 @@
 # 🤖 AI・先進技術 — 全アーカイブ
 
-全79件 / 日付の新しい順
+全83件 / 日付の新しい順
+
+## 2026-06-21
+
+### [⚠️ ローカルVLMベンチマーク第2弾——2,070テストで「思考モードはビジョンに有害」が判明](https://www.reddit.com/r/LocalLLaMA/comments/1ubx4rw/best_local_model_for_vision_2nd_benchmark_update/)
+*Best local model for vision - 2nd benchmark update - 21 Jun 2026*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-21
+
+r/LocalLLaMAのユーザーが23モデル×30画像×3テスト＝2,070テスト（推論時間60〜70時間）という大規模なビジョン言語モデル（VLM）ベンチマークを実施・公開した。Apple M2 Max（96GB RAM）上でllama.cpp（b9690）を使用し、OCR精度40%＋LLMジャッジ60%のハイブリッドスコアで評価。
+VRAM別の最優秀モデルは：4〜8GB向け「Qwen3.5 4B nothink Q4」（75.5/100）、12〜16GB向け「Qwen3-VL 8B Q8」（74.4/100）、24GB超向け「Qwen3.6 27B nothink Q4」（79.6/100）。
+最大の発見として「思考モード（Thinking mode）はビジョンを劣化させる」ことが2,070テストで確認された。Qwen系ハイブリッドモデルは全て思考無効（enable_thinking=false）で高スコアとなり、思考モードはタイムアウト・空出力・不安定性を増やすため視覚タスクに逆効果。
+MoEモデルは同等の密なモデルより知覚で劣ることも実証（「パラメータ数の多さは知識の幅に寄与するが知覚の深さには寄与しない」）。Q8量子化の効果はモデル依存で、Qwen3.5/3.6ハイブリッドはQ8でむしろ悪化する例がある。
+Gemma 4 31B Q4は74.6点だが93秒/枚と低速で実用性に課題。GLM-4.6V-Flash 9B（75.1/100）が中国語OCRで最強。
+
+💡 投資含意: Qwen3.6 27BがローカルVLM最高水準を維持していることはQwenのマインドシェアを保持し、Qwenモデルを採用するアプリ開発者エコシステムを強化。Apple M2 Max 96GBが60〜70時間の大規模ベンチを実行できることは、Apple Siliconのオンデバイス推論ポテンシャルの証左。
+🔗 波及: ローカルVLMの実用化加速はOpenAI Vision・Google Cloud Vision等のクラウドVision APIへの代替圧力。
+📈 関連銘柄: AAPL（オンデバイス推論の実力証明）、AMD（Radeon R9700がQwen3.6 27Bを高速動作）
+⚠️ 未確認情報（Reddit発・要裏取り）
+
+### [⚠️ VercelのCEO「驚愕するほど良い」——中国製オープンモデルGLM-5.2のコーディング性能](https://www.reddit.com/r/LocalLLaMA/comments/1ubk57k/vercel_ceo_almost_shocked_by_how_good_glm52_is_at/)
+*Vercel CEO: "Almost shocked" by how good GLM-5.2 is at coding*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-21
+
+VercelのCEOギジェルモ・ラウチ氏がXへの投稿でGLM-5.2のコーディング性能について「本当に感動した、ほぼ衝撃を受けた」と発言したとする情報がr/LocalLLaMAで拡散している。
+GLM-5.2は智谱AI（Zhipu AI）が2026年6月17日にリリースしたオープンソースの大規模言語モデルで、ChatGLMシリーズの後継にあたり、Tsinghua大学と共同開発。
+VercelはNext.jsの開発元であり、AIコーディングツール「v0」を提供するフロントエンドインフラの主要プレイヤー。そのCEOがパフォーマンスを評価したことは開発者コミュニティへの影響力が大きい。
+GLM-5.2のリリースは、Kimi-K2.7-Code（6月12日）・MiniMax-M3（6月11日）とともに、Qwenがオープンソース化を停止する中で中国AI大手が相次いで公開したオープンモデルの流れの一部。
+中国製オープンモデルが西側テック企業幹部から個別に称賛される事例は、Vercelのような開発者向けプラットフォームがフロントエンド推論の選択肢を広げる上でのシグナルとなりうる。
+
+💡 投資含意: 中国製オープンモデルが西側テック企業幹部からも高評価を得ていることは、Anthropic・OpenAIなどクローズドAPIプロバイダーの価格決定力に対する長期的な圧力を示す。コーディングAI市場（GitHubコパイロット、Cursor等）における競争がさらに激化する。
+🔗 波及: AnthropicへのトランプのFable規制が続くなか、GLM-5.2のような中国製オープンモデルへの関心が高まる構図。NVIDIAはオープンモデルもGPU需要を牽引するため中立〜ポジティブ。
+📈 関連銘柄: MSFT（GitHub Copilot競争激化・弱気）、GOOGL（Gemini競合・弱気）、AMD（オープンモデル推論需要・強気）
+⚖️ 弱気材料: Anthropic・OpenAI（コーディングAIの競争優位が侵食されるリスク）
+⚠️ 未確認情報（Reddit発・要裏取り）
+
+### [⚠️ QwenはQwen 3.7をオープンソース化しない——中国最大のオープンモデルラボが方針転換か](https://www.reddit.com/r/LocalLLaMA/comments/1ubjnh5/qwen_is_never_going_to_open_source_qwen_37_arent/)
+*Qwen is never going to open source Qwen 3.7, aren't they?*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-21
+
+Alibaba傘下のQwenが主要開発者ジュニャン・リン（Junyang Lin）氏を解雇した後、次世代モデル「Qwen 3.7」系を含む大型モデルのオープンソース化を停止したとの見方が中国SNS（微博）での噂とともにコミュニティに広まっているという投稿。
+GLM-5.2（6月17日）・Kimi-K2.7-Code（6月12日）・MiniMax-M3（6月11日）・Step-3.7-Flash（5月29日）・DeepSeek-V4-Pro/Flash（4月24日）と、他の中国主要ラボが直近でオープンソースモデルを公開し続ける中、Qwenだけが最後にオープンソースモデルを出していない状態になっているとされる。
+QwenはDeepSeek・GLMとともに中国AIのオープンソースを支えてきた三柱の一つで、その離脱はローカルLLMエコシステムに大きな影響を与える。投稿によればリン氏の離脱で小型モデル担当チームも解散したとも言われる。
+一方で小型モデルのQwen 3.6 27B（オープンソース済み）は現在もコミュニティで最高評価を受けており、ローカル推論の事実上の標準となっている。
+この動きは「オープン vs クローズド」の中国AIラボ内での分岐を示し、エコシステムの持続可能性への疑念を呼んでいる。
+
+💡 投資含意: QwenのクローズドAPI移行は、オープンソースAIエコシステムにおけるDeepSeekとGLMの相対的地位を高める。ローカル推論向けハードウェア需要（AMD・Apple Silicon等）の牽引役が縮小するリスクがある。
+🔗 波及: 中国大手が相次いでクローズドモデルへ移行すれば、ローカル推論インフラ（Hugging Face・llama.cpp等）のエコシステムが萎縮し、クラウドAPIへの依存度が再上昇する。
+📈 関連銘柄: NVDA（民生GPU需要への間接影響・中立）、MSFT・GOOGL（クラウドAPI需要回帰で強気）
+⚠️ 未確認情報（Reddit発・要裏取り）
+
+### [⚠️「AIサブスクのVC補助金はいつ終わるか」——$200サブが$8,000相当のAPI利用を提供する構造への疑問](https://www.reddit.com/r/LocalLLaMA/comments/1ubbj6n/what_happens_when_they_stop_subsidizing_llm/)
+*What happens when they stop subsidizing LLM subscriptions?*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-21
+
+AnthropicのFable 5廃止（利用制限強化）を契機に、r/LocalLLaMAで「LLMサブスクのVC補助金依存」についての議論が広まっている。投稿者は「$200/月のAnthropicサブスクが$8,000相当のAPIコールを提供しており、この構造は長続きしない」と指摘する。
+Claude Proの$20サブスクで6ヶ月前より取得できる利用量が減少しており、これを「静かな値上げ」として懸念する声が多い。本格的な値上げが来た場合、$2,000/月超のコストを「今は$200で享受している開発者」が直面するシナリオを投稿者は描く。
+コンテキストとして、Anthropicによる身元確認（Peter Thielの会社・Palantir傘下とされるサービスを通じた生体認証）への不信感が明示されており、プライバシー観点からも米国ホスト型サービスへの依存を見直す動きが加速しているとされる。
+Qwenがオープンソースを止め、他のラボも大型モデルをクローズドAPI化する傾向から、ローカル代替の選択肢が縮小しつつある中での議論として注目度が高い。コミュニティの結論として「今のうちにビルドして収益化を急げ」という実用主義的な見方が多い。
+
+💡 投資含意: LLMプロバイダーの価格正常化（補助金縮小→価格上昇）は、エンタープライズ向けAI支出予算の見直しにつながる。コスト感応度の高いデベロッパー層がオープンソースへ移行するシフトが加速する可能性。API収益化ができる規模のラボの選別淘汰が進む。
+🔗 波及: プライシング正常化はNVIDIAのデータセンターGPU需要には中立〜ポジティブ（クラウドも自社推論投資を継続）。Palantir関連のAI身元認証ビジネスへの注目。
+📈 関連銘柄: NVDA（長期GPU需要維持）、MSFT（OpenAI＝価格上昇の恩恵を間接享受）、PLTR（身元確認ビジネス拡大）
+⚖️ 弱気材料: 現行のLLMサブスクに依存するエンタープライズ向けAIツール株（コスト増リスク）
+⚠️ 未確認情報（Reddit発・要裏取り）
 
 ## 2026-06-20
 
