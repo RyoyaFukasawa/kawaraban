@@ -1,6 +1,54 @@
 # 🖥 テクノロジー — 全アーカイブ
 
-全111件 / 日付の新しい順
+全114件 / 日付の新しい順
+
+## 2026-06-22
+
+### [AlphabetがAI懸念で1年以上ぶりの最大の下落日——Gemini共同リードのShazeer氏がOpenAIへ、AlphaFoldのJumper氏がAnthropicへ移籍](https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html)
+*Alphabet has its worst day in over a year on AI concerns after high-profile exits*
+出典: CNBC Technology ・ #technology #2026-06-22
+
+Alphabetの株価が月曜日に約5%安で引け、2025年5月以来1年以上ぶりの最大の下落日を記録した。直近でGemini AI担当の副社長級研究者2名が相次いで退職し、AI人材流出への懸念が高まったことが主因。
+一人目はGeminiモデルの共同リードであるNoam Shazeer氏で、OpenAIへの転職を水曜日に発表。Shazeerは2021年にGoogleを離れCharacter.AIを共同創業し、2024年8月にGoogle DeepMindとのパートナーシップでGoogleに復帰したが、わずか2年未満で再離職した。
+二人目はAlphaFold共同創造者のJohn Jumper DeepMind副社長・エンジニアリングフェロー。Demis HassabisとともにAlphaFoldで2024年ノーベル賞を受賞した人物が、9年間のDeepMindを離れAnthropicへ移籍する。
+同日、Microsoft CEO サティア・ナデラがWSJインタビューで「AI市場はコモディティ化しており、AI大手への依存を減らすべき」と発言。AlphabetはAI投資に$1,410億もの資金を費やしており、コモディティ化が進めば投資対効果への疑問が生じる。
+さらにGmailとYouTubeが同日に障害を起こしたことも重なり、投資家心理が悪化した。
+
+💡 投資含意: トップクラスのAI研究者2名のGoogleからの流出は、Geminiプロジェクトの中長期的な競争力に影響を与えうる重大な人材リスク。AI市場のコモディティ化論と重なり、$141B投資の正当性への疑問が投資家心理を圧迫した。
+🔗 波及: GoogleのAI研究者がOpenAI・AnthropicへというパターンはOpenAI/Anthropicへの技術蓄積を加速させる。Alphabetの相対的弱体化がMSFT/OpenAI陣営の優位拡大につながる可能性がある。
+📈 関連銘柄: GOOGL（弱気・人材流出・AI投資の対費用効果への疑問）、MSFT（競合弱体化で相対優位・強気）、AMZN（Anthropic投資先として恩恵）
+⚖️ 弱気材料: GOOGL（AI研究者流出と巨額AI投資の対費用効果への懐疑）
+📅 次の注目: Geminiモデルの次期アップデート、Alphabet Q2決算（7月末）でのAI部門状況報告
+
+### [MicrosoftとChevronが米国最大級の天然ガス直結データセンター「Project Kilby」を計画——2.67GWのガス発電所を20年PPAで建設、カーボン目標との矛盾が鮮明に](https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/)
+*Microsoft and Chevron plan one of the largest gas-powered data center projects in US*
+出典: TechCrunch ・ #technology #2026-06-22
+
+MicrosoftとChevronが月曜日、テキサス州西部に2.67ギガワットの天然ガス発電所を建設・データセンターに専用電力を供給する20年間の電力購買契約（PPA）を発表した（「Project Kilby」）。GE Vernovaのタービン2基とCaterpillar子会社Solar Turbinesが電力を供給する。
+Chevronは「米国最大級の天然ガス直結データセンター開発の一つ」と位置づけており、Microsoftのテキサス州西部のAI・クラウドデータセンターに専用電力を供給する。
+重要な矛盾として、Microsoftは2030年カーボンゼロ排出誓約を掲げているが、このプロジェクトはCO2を年間1,300万トン以上、有害大気汚染物質28万ポンド超を排出する見込みとされる（Environmental Integrity Project推計）。
+生成AIの電力需要急増によりMicrosoftをはじめとするビッグテックが「クリーンエネルギーでは間に合わない」現実に直面し、化石燃料への回帰を始めている。xAIも同様にTexasでSolar Turbinesを使った電力プラントを運用しており、AI企業全体のエネルギー戦略が環境規制との軋轢を生む構造になっている。
+Chevronにとっては石油・ガス会社からエネルギーインフラ・データセンター電力プロバイダーへの事業軸拡大という新展開を示す。
+
+💡 投資含意: Microsoftの天然ガスへの踏み込みはAI電力需要の深刻さを示す。GE Vernovaはタービン受注で直接恩恵。Chevronは石油会社からエネルギーインフラプロバイダーへの転換で新収益源を獲得する。
+🔗 波及: ビッグテックの天然ガス直結データセンター増加はガス需要・LNG市場に追い風。一方でカーボン目標との乖離が規制当局・ESG投資家の圧力を招く可能性がある。Solar Turbines（Caterpillar子会社）も恩恵。
+📈 関連銘柄: GEV（GE Vernova・タービン受注・強気）、CVX（データセンター電力事業参入・新収益源）、CAT（Solar Turbines経由）
+⚖️ 強気材料: GEV（AI電力需要によるタービン需要急増）；弱気材料: MSFT（ESG評価悪化リスク）
+📅 次の注目: 環境アセスメント・許認可プロセスの進捗、MicrosoftのESGレポートでの扱い
+
+### [AIチップメーカーGroqが$6.5億調達——NVIDIAの「not-acqui-hire」後に経営陣刷新・ネオクラウドビジネスに軸足を移す](https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/)
+*AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia's $20B not-acqui-hire deal*
+出典: TechCrunch ・ #technology #2026-06-22
+
+AIチップメーカーのGroqが6.5億ドル（約950億円）の新規資金調達を発表した。昨年12月にNVIDIAがGroqのLPU（Language Processing Unit）技術を非独占的にライセンスし（「not-acqui-hire」）、創業CEO Jonathan Ross氏らを採用した後の最初の公式ラウンド。直前のバリュエーションは$69億（2025年9月の$7.5億調達時）で、新バリュエーションは非公開。
+NVIDIAはGroqのIPを取得した後、GTC 2026で独自の「NVIDIA Groq 3 LPX推論ハードウェアシステム」を発表。Groqは元の推論クラウドビジネス（ネオクラウド）に軸足を移し、北米・欧州・中東・APACに13のデータセンターを展開。500万人以上の開発者・数千社のAI企業に推論サービスを提供し、毎週トリリオントークンを処理しているという。
+新経営陣として元xAI・MetaのAlan Rice氏（COO）、Sinclair Schuller氏（CTO・元Apprenda創業者）、Rakesh Malhotra氏（CPO）を採用し、NVIDIAに奪われた経営陣の穴を埋める。
+Scale AI（Metaのnot-acqui-hire後に$10億収益に回帰）と同様の「生き残りパターン」を踏もうとしており、推論インフラクラウドサービスとしての再出発を図る。
+
+💡 投資含意: GroqのネオクラウドビジネスはAI推論需要の爆発的成長から恩恵を受ける立場にある。ただしNVIDIAがIPを共有・競合サービスを出している中での差別化は課題。AI推論インフラの多様化は長期的にはコスト競争激化につながる。
+🔗 波及: GroqのネオクラウドはAWS・Google Cloud・Azureとは別の低遅延推論特化の第三の選択肢。CoreWeave・LambdaLabs等の推論クラウドとの競争が激化する。NVDA自身もGroq LPXサービスを展開している点で直接の競合関係にある。
+📈 関連銘柄: NVDA（GroqのIP共有で推論市場を取り込み済み・強気）、AMZN・MSFT・GOOGL（推論クラウドとの間接競合）
+⚖️ 強気材料: 推論インフラ市場全体の拡大；弱気材料: Groqの差別化困難（NVDA IPシェア後）
 
 ## 2026-06-21
 

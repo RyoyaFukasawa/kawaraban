@@ -1,6 +1,53 @@
 # 🦾 フィジカルAI・ロボティクス — 全アーカイブ
 
-全30件 / 日付の新しい順
+全33件 / 日付の新しい順
+
+## 2026-06-22
+
+### [NVIDIAがロボティクス向けフルスタック安全システム「Halos」を発表——18,600エンジニア年の自動運転安全技術を人型ロボットに転用、Agility RoboticsのDigitが最初の採用](https://www.therobotreport.com/nvidia-releases-halos-a-full-stack-safety-system-for-robotics/)
+*NVIDIA releases Halos, a full-stack safety system for robotics*
+出典: The Robot Report ・ #robotics #2026-06-22
+
+NVIDIAが本日、ロボティクス・物理AIのためのフルスタック安全システム「NVIDIA Halos for Robotics」を発表した。自律ロボットが動的な環境で人間と共に働くために必要なAI基盤モデル・加速コンピューティング・分散センサーを統合する包括的な安全アーキテクチャ。
+システムはIGX Thor（産業グレードAIコンピュート・組み込みセーフティ）・Halos OS（ロボット安全ソフトウェアスタック）・Halos Applications（Outside-In Safety Blueprint）の三層で構成。18,600エンジニア年を投じた自動運転車の安全開発の成果をロボティクスに転用した。
+NVIDIA Halos AI Systems Inspection LabはANAB認定のプログラムで、TÜV Rheinland・UL Solutions・TÜV SÜD・exida・SGS・CertXの大手認証機関が認定プロセスを承認。40社以上のメーカー・認証機関・安全ベンダーがエコシステムに参加する。
+最初の採用パートナーはAgility Robotics（Digit人型ロボット）で、Amazon・GXO・Schaeffler・Toyota Motor Manufacturing Canadaの倉庫・工場での人間との協働作業を想定。IGX ThorとHalos Coreを統合し、IEC 61508・ISO 13849等の安全規格への準拠を目指す。
+Halos Core（NVIDIA IGX向け）とHalos Outside-In Safety BlueprintはGitHubでアーリーアクセス中。
+
+💡 投資含意: NVIDIAのHalosは、ロボティクス市場でのポジションを「GPUプロバイダー」から「フルスタックロボット安全プラットフォーム」へ格上げするもの。安全規格対応コスト低減により人型ロボットの産業展開が加速し、NVIDIA依存度が高まる。
+🔗 波及: 安全規格への対応がスタンダード化されることで、Agility・Figure・BostonDynamics等の人型ロボット企業の商業展開ハードルが下がる。TÜV等の安全認証機関のビジネス拡大も見込まれる。
+📈 関連銘柄: NVDA（ロボティクスプラットフォーム拡大・強気）、AMZN（倉庫での人型ロボット活用パートナー）
+⚖️ 強気材料: NVDA（フルスタックロボティクス安全提供でTAM拡大）
+📅 次の注目: Halos OSのGA（一般提供）時期、Agility DigitのAmazon倉庫での商業展開規模
+
+### [AlphabetのIntrinsicが「Intelligence Cell」発表——AIでロボットプログラミングを不要化、Foxconnとの大型パイロットも控える](https://www.therobotreport.com/how-intrinsic-eliminates-manual-robot-coding/)
+*How Intrinsic eliminates manual robot coding*
+出典: The Robot Report ・ #robotics #2026-06-22
+
+AlphabetのIntrinsicが「Intrinsic Intelligence Cell」を発表した。IntrinsicOSをベースに、ドラッグ&ドロップのAI自動化でロボットプログラミングを不要にするモジュール型ソフトウェアファーストのロボットワークセル。Automate 2026（シカゴ）で実機デモを実施しており、今年後半にFoxconnとの大型製造パイロットを控えている。
+核心は「現場オペレーターが使えるロボット化」——従来のロボットプログラマー不要で、機械加工の現場担当者がAIスキルベースの自動化を即座に設定できる。FANUCロボットによる電子部品組み立てを実演する。
+CNCシステムインテグレーターのTrinity Automation・MartinSystemsとの協業でシームレス統合を実現。少量多品種生産（ハイミックス）対応やツール再設定がソフトウェア更新のみで完結する。
+「AI for Industry Challenge」（$18万ドルの賞金プール）には115カ国1,600チーム超が参加。参加者の86%がロボティクス以外（AI/ML・ソフトウェアエンジニア・Python）出身という事実は、ロボティクスへの参入障壁が著しく低下していることを示唆する。
+
+💡 投資含意: Alphabetのロボティクス部門がFoxconnとの大型パイロットに向けて進むことは、Intrinsicの商業展開の現実性を高める。ノーコード/ローコードで製造業の中小企業にも自動化を拡大し、ロボティクス市場のTAM（全市場規模）を広げる。
+🔗 波及: ロボットプログラミング不要化が進むことで、従来のロボットSIerの付加価値が変質する。電子製造・機械加工向けの自動化市場に新たな競合が生まれ、FANUCとの協業が進む一方でSIer市場を圧迫する逆説も。
+📈 関連銘柄: GOOGL（Intrinsic事業の進展・Alphabet株価への寄与）、FANUC 6954.T（Intrinsicとの協業事例・強気）
+⚖️ 強気材料: GOOGL（ロボティクス事業の商業展開加速）
+📅 次の注目: Foxconnとの製造パイロットの規模・成果発表
+
+### [Bear RoboticsがKinisi Roboticsを買収——16,000台の商用フリートに人型ロボット「KR1」のマニピュレーションAIを統合し、エンドツーエンドの物理AIプラットフォームを完成](https://www.therobotreport.com/bear-robotics-acquires-kinisi-robotics-to-boost-its-physical-ai-capabilities/)
+*Bear Robotics acquires Kinisi Robotics to boost its physical AI capabilities*
+出典: The Robot Report ・ #robotics #2026-06-22
+
+サービスロボット企業のBear RoboticsがKinisi Roboticsを買収する確定契約に署名したと発表した。ブリストル（英国）拠点のKinisiが開発する人型ロボット「KR1」、エンジニアリングチーム、物理AIマニピュレーション技術がBearに統合される。
+Bear Roboticsは2017年創業で16,000台超のサービスロボット（配膳・清掃等）を商業展開。一つのクラウドオーケストレーションスタックで管理されており、「パイロットから製品へ」の段階を既に超えている。Kinisiは当初からBearのナビゲーションスタックを使って開発しており、技術的親和性が高い。
+買収の核心は「マニピュレーション能力の追加」——「移動・運搬」から「掴む・仕分ける・物理作業」へのBearロボット群の能力拡張。BearのフリートデータとKinisiの操作データ収集ツールが組み合わさり、AIモデル訓練を加速する好循環が生まれる。
+KinisiのBrenand Pierce氏（Bear共同創業者でもある）が最高ロボティクス責任者（CRO）としてBearの経営チームに復帰。ホテル・病院・倉庫・製造業向けの自動化市場が一気に拡大する可能性がある。
+
+💡 投資含意: 実際の商用フリートを持つBearによる人型ロボット買収は、物理AIロボティクスの垂直統合加速を示す。「パイロットから製品へ」の段階にある多くの人型ロボット企業との差別化が明確。
+🔗 波及: 配膳・清掃ロボットのフリートにマニピュレーション能力が加わることで、ホテル・病院・倉庫・製造業向けの自動化市場が急拡大する可能性。従来のロボットアーム・産業用ロボット企業（FANUC・ABB等）への代替圧力。
+📈 関連銘柄: NVDA（物理AI市場拡大に伴うGPU・AIコンピュート需要）、AMZN（倉庫自動化ニーズの充足・潜在パートナー）
+⚖️ 強気材料: 物理AIロボティクス市場での垂直統合進展（製造・物流の自動化加速）
 
 ## 2026-06-21
 

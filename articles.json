@@ -4318,5 +4318,165 @@
     "url": "https://www.nytimes.com/2026/06/21/us/tesla-autopilot-crash-texas.html",
     "summary": "テキサス州ハリス郡で、テスラ車を運転していたドライバーがオートパイロット（自動運転支援システム）を使用中に車両が道路を逸脱し、民家に突入して女性1名が死亡した。ドライバーは当局の調査に対して「オートパイロットを使用していた」と述べた。\nテスラのAutopilotは完全自動運転ではなくドライバー支援システムであり、テスラは「ドライバーは常にハンドルを握り道路に集中する責任がある」と主張している。しかし近年、複数の死亡事故がAutopilotの使用中に発生しており、NHTSA（米国道路交通安全局）はすでにAutopilot関連の調査を複数件実施してきた。\nテキサス州では2026年後半にテスラのロボタクシーサービス開始が計画されており、今回の事故はその計画に対する地域社会の受容性や規制当局の姿勢に影を落とす可能性がある。\nFSD（フル自律運転）の安全性に関する法的・規制上のリスクは累積しており、NHTSAによる追加調査が開始される可能性が高い。情報はNYT記事（403）のためRSS記述に基づく要約。\n\n💡 投資含意: TSLA株にとって直接の弱気材料。NHTSAの追加調査・規制強化の可能性が高まり、FSDによる収益化計画への頭打ちリスクとなる。ロボタクシー事業への市場信頼を損なう。\n🔗 波及: テスラの事故はWaymo・Zoox・Mobileye等の競合ロボタクシー事業者の安全実績との相対比較を際立たせる。Alphabetにとって間接的なポジティブ材料。保険業界の自動運転カバレッジ引き受けリスクが再注目される。\n📈 関連銘柄: TSLA（弱気）、GOOGL/Waymo（相対優位↑・強気）、MBLY（安全技術需要↑）\n⚖️ 弱気材料: TSLA（Autopilot/FSDの規制・訴訟リスク増大）\n📅 次の注目: NHTSA調査開始の公式発表、テスラのロボタクシー計画に対する規制当局の対応",
     "created_at": "2026-06-21T22:20:04.094Z"
+  },
+  {
+    "date": "2026-06-22",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title_ja": "PaddleOCR最新世代「PP-OCRv6」公開——1.5Mから34.5Mパラメータで50言語対応、前世代比で検出+4.6pt・認識+5.1pt改善",
+    "title_en": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+    "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "summary": "PaddlePaddleがHugging Face上でOCR最新世代「PP-OCRv6」を公開した。パラメータ数1.5Mから34.5Mの3段階（tiny/small/medium）にスケールするモデルファミリーで、medium・small層では50言語をサポート（簡体字・繁体字中国語・英語・日本語・46のラテン文字言語）。\n公式ベンチマークでは、PP-OCRv6_mediumがテキスト検出でHmean 86.2%、認識精度83.2%を達成。前世代のPP-OCRv5_serverに比べ検出で+4.6ポイント、認識で+5.1ポイントの改善を実現した。\nアーキテクチャ面では、検出にRepLKFPN（軽量大カーネル特徴ピラミッドネットワーク）、認識にEncoderWithLightSVTR（局所コンテキストとグローバルアテンションの組み合わせ）を採用。密なテキスト・回転・低解像度等の難条件に対応する。\n「VLM時代でも専用OCRモデルが必要な理由」を正面から論じており、産業文字・スクリーンテキスト・高密度テキスト等、大型VLMでは解決しにくい用途に特化した実用モデルとして位置づけている。\nTransformers・ONNXランタイム・PaddleInference等の複数バックエンドに対応し、RAG・文書解析・エージェントワークフローへの統合を想定した設計となっている。\n\n💡 投資含意: 小規模かつ高精度のOCRモデルの公開は、文書処理・RAG・エージェントパイプラインの品質向上に貢献する。商用クラウドOCR（AWS Textract・Google Vision AI）への低コスト代替として企業のAIコスト削減を後押し。\n🔗 波及: 50言語対応の軽量OCRモデルは医療・金融・製造等の規制産業での文書AI自動化を促進する。ローカル展開・プライバシー重視のニーズに応え、クラウドOCRサービスへの代替圧力となる。\n📈 関連銘柄: BIDU（PaddlePaddleを通じたBaidu技術力の示唆）、GOOGL・AMZN（クラウドOCR市場への間接的競合圧力）\n⚖️ 強気材料: オープンソースAIエコシステムの拡充によるコスト効率型AI導入の加速",
+    "created_at": "2026-06-22T22:17:40.475Z"
+  },
+  {
+    "date": "2026-06-22",
+    "category": "ai",
+    "source": "OpenAI",
+    "title_ja": "OpenAI「Daybreak」発表——Codex SecurityとGPT-5.5-Cyberで脆弱性発見・修正をスケール化、OSSメンテナー支援「Patch the Planet」も同時公開",
+    "title_en": "Daybreak: Tools for securing every organization in the world",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "summary": "OpenAIが本日、AIを使ったサイバーセキュリティ支援ツール群「Daybreak」を発表した。核心はコーディングAI「Codex Security」とサイバーセキュリティ特化モデル「GPT-5.5-Cyber」で、組織が脆弱性を発見・検証・パッチ適用するプロセスをスケールで自動化することを目的とする。\n同時発表の「Patch the Planet」イニシアティブは、世界中のオープンソースメンテナーを支援するプログラムで、未発見の脆弱性をAIと専門家レビューで検知・修正するための枠組み。\nOpenAIはCodexを「コーディングAI」から「セキュリティ自動化AI」へ用途を拡張する戦略を明確化した。GPT-5.5-Cyberは特化型モデルとして、上流のOSSエコシステム全体のセキュリティ向上を狙う。\nAIの能力向上とともに攻撃面も拡大する中で、防御の自動化を同社が率先することは、安全なAIエコシステム構築へのブランディングとしても機能する。\n今回の動きはCrowdStrike・Palo Alto Networks等の既存セキュリティプレイヤーと直接競合する領域への本格参入を意味する。\n\n💡 投資含意: AIセキュリティ市場への大手参入は既存プレイヤーへの競合圧力になる一方、AI安全性への関心拡大により市場全体も成長しやすい。Codexのセキュリティ用途への拡張はMSFT（Azure OpenAI）のエンタープライズ収益にも寄与。\n🔗 波及: Patch the Planetによるオープンソース向け脆弱性修正はLinuxカーネル等の信頼性向上に寄与し、エンタープライズソフトウェア全体の安全性底上げにつながる。Snyk・Veracode等の脆弱性管理ツールへの競合圧力が生じる。\n📈 関連銘柄: CRWD・PANW（競合圧力・弱気）、MSFT（OpenAI投資家として間接恩恵）、NET（クラウドセキュリティの裾野拡大で強気）\n⚖️ 弱気材料: 既存のセキュリティSaaS企業（CRWD・PANW・ZS）への競合参入リスク",
+    "created_at": "2026-06-22T22:17:40.475Z"
+  },
+  {
+    "date": "2026-06-22",
+    "category": "ai",
+    "source": "OpenAI",
+    "title_ja": "SamsungエレクトロニクスがChatGPT EnterpriseとCodexを全世界の従業員に展開——OpenAI最大規模のエンタープライズ導入事例",
+    "title_en": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "summary": "OpenAIがSamsungエレクトロニクスへのChatGPT EnterpriseおよびCodexの大規模展開を発表した。世界中のSamsung従業員が対象で、OpenAIとしても最大規模の企業向けAI導入事例の一つと位置づけられる。\nSamsungは2023年にChatGPTへの社内機密データ流出問題でAIツールの使用を禁止した企業として知られており、今回の全面採用は大企業のAI活用態度の劇的な転換を象徴する。\nCodexは開発者向けのコーディングAIとして展開され、Samsungの半導体・家電設計における開発プロセスへの組み込みが期待される。\n世界最大の半導体・家電メーカーの一つが全社展開したことは、他の大手製造業や財閥系企業のAI採用判断を後押しする強力な参照事例となる。\nエンタープライズ市場でのChatGPT Enterprise・Codexのモメンタムを示す事例として、OpenAIのBtoB収益基盤の強化に直結する。\n\n💡 投資含意: Samsungによる全社展開はOpenAIのエンタープライズ収益基盤の拡大を示す。MSFTのAzure OpenAI経由のB2Bビジネスにも好材料で、Google Workspaceとの競争においてOpenAI陣営が優位に立つ展開。\n🔗 波及: 大手製造業・財閥系企業のエンタープライズAI採用の先行事例となり、競合他社の採用加速を促進する。Anthropic・GoogleのGeminiとのエンタープライズ市場争奪戦が一層激化する。\n📈 関連銘柄: MSFT（Azure OpenAI経由の間接恩恵・強気）、005930.KS（Samsung Electronics・AI生産性向上期待）\n⚖️ 強気材料: OpenAIエンタープライズ収益化加速（MSFTの間接的恩恵）",
+    "created_at": "2026-06-22T22:17:40.475Z"
+  },
+  {
+    "date": "2026-06-22",
+    "category": "ai",
+    "source": "Reddit r/LocalLLaMA",
+    "title_ja": "⚠️ Allen AIがターミナルエージェント向けオープンRLレシピ「TMax」公開——9Bモデルで32B先行モデルを超え、27BはKimi K2.5（1T）に匹敵",
+    "title_en": "TMax: A Simple Recipe for Terminal Agents",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uco0aa/tmax_a_simple_recipe_for_terminal_agents/",
+    "summary": "Allen AI（Ai2）がターミナルエージェント向けの強力なオープンRLレシピ「TMax」を公開したとの情報がr/LocalLLaMAで話題になっている。14,600件のRL環境データセット「TMax-15k」（次点の公開データセット比2.5倍以上）と、シンプルな結果のみRLレシピ（GRPO+安定化修正）の組み合わせで、2Bから27Bパラメータのモデルファミリーを訓練した。\nTMax-9BはTerminal Bench 2.0で27.2%を達成し、10B未満公開モデルとして最強とされる。32Bの先行ターミナルエージェントを超え、Claude Haiku 4.5（29.8%）に迫る。TMax-27Bは42.7%に達し、1Tパラメータ規模のKimi K2.5（43.2%）に匹敵する。\nこの結果は「パラメータを10〜40倍にしなくても同等の性能が出せる」ことを示し、コーディング・ファイル操作・システム制御等のターミナルエージェント能力が小型モデルでも急速に拡大していることを意味する。\nモデル・データセット・コードはすべてHugging Faceで公開されており、オープン研究の再現性と応用の加速が期待される。\n⚠️ 未確認情報（Reddit発・要裏取り）\n\n💡 投資含意: 小型ターミナルエージェントの性能急向上は、エンタープライズ向けAIエージェント製品のAPI依存コストを低下させる。オープンエコシステムでの性能追従がAnthropicやOpenAIの価格決定力に長期的な圧力をかける。\n🔗 波及: ターミナルエージェントの民主化はクラウドAPI向けの需要を一部代替しうるが、新用途の開拓も促進する。NVIDIAのGPU需要は裾野拡大で中立〜強気。\n📈 関連銘柄: NVDA（オープンモデル普及で推論需要拡大・強気）\n⚖️ 強気材料: オープンエコシステムの技術水準急向上（小型でも高性能）\n⚠️ 未確認情報（Reddit発・要裏取り）",
+    "created_at": "2026-06-22T22:17:40.475Z"
+  },
+  {
+    "date": "2026-06-22",
+    "category": "ai",
+    "source": "Reddit r/LocalLLaMA",
+    "title_ja": "⚠️ DeepSeekが$74億調達・バリュエーション$600億——創業者梁文峰氏が自ら$30億を出資、支配権を強化か",
+    "title_en": "DeepSeek raises $7.4B USD at $60B valuation. Remarkably, Liang Wenfeng invests $3B in DeepSeek himself.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ucwyes/deepseek_raises_74b_usd_at_60b_valuation/",
+    "summary": "DeepSeekが$74億（約1.1兆円）の資金調達を$600億バリュエーションで実施したとの情報がr/LocalLLaMAで話題になっている。特筆点として、創業者の梁文峰氏（Liang Wenfeng）が自ら$30億を出資したとされており、同氏がDeepSeekへの支配権を一層強固にしていることを示す。\nDeepSeekはHigh-Flyer Capital（量的ヘッジファンド）から派生したAI研究ラボで、R1モデルの公開以来「低コストで高性能」の象徴として世界的な注目を集めてきた。今回のバリュエーション$600億はAnthropic（$61.5B）やxAI（$50B）と並ぶ水準で、中国AI産業における資本集約化の加速を示す。\n輸出規制環境下での大型調達という背景は、中国製AIモデルの商業化・国際展開への強い意欲とリソース投入を示す。\nKimi-K2.7・GLM-5.2・MiniMax-M3等の中国オープンモデルが相次いで登場する中、DeepSeekの大型調達は資金力の格差を縮める可能性がある。\nただしSCMP（南華早報）経由のReddit投稿であり、公式発表の確認が必要である。\n⚠️ 未確認情報（Reddit発・要裏取り）\n\n💡 投資含意: DeepSeekへの大型調達が事実であれば、中国AIラボが自己資本調達で米国輸出規制を迂回しながら発展できることを示唆する。OpenAI・Anthropic等のAPIプライシング決定力への長期的な圧力となる。\n🔗 波及: 中国AIの資本増強は対中輸出規制強化議論を再燃させる可能性がある。一方でオープンソース中国モデルの品質向上によりNVIDIA GPU需要（中国内外どちらのAI訓練・推論でもGPUが必要）は長期的に拡大。\n📈 関連銘柄: NVDA（輸出規制強化リスクと需要増の逆説・中立〜弱気）、MSFT・GOOGL（競合の資金力増強リスク）\n⚖️ 弱気材料: 西側クローズドAIラボ（中国オープンモデルの競争力向上による価格圧力）\n⚠️ 未確認情報（Reddit発・要裏取り）",
+    "created_at": "2026-06-22T22:17:40.475Z"
+  },
+  {
+    "date": "2026-06-22",
+    "category": "economy",
+    "source": "NPR Economy",
+    "title_ja": "アラン・グリーンスパン前FRB議長が100歳で死去——「非合理的熱狂」で世界を揺るがした伝説の中央銀行家、2008年危機で名声に傷",
+    "title_en": "Alan Greenspan, the legendary former Federal Reserve chair, dies",
+    "url": "https://www.npr.org/2026/06/22/656930918/alan-greenspan-the-legendary-former-federal-reserve-chair-dies",
+    "summary": "アラン・グリーンスパン前FRB議長が月曜日、ワシントンの自宅でパーキンソン病の合併症により死去した。享年100歳。妻でNBCニュースリポーターのアンドレア・ミッチェル氏が声明で発表した。\nグリーンスパン氏は1987年から2006年にかけて約19年間FRB議長を務め、4人の大統領（レーガン・ブッシュ父・クリントン・ブッシュ子）に仕えた。1990年代の「グレート・モデレーション」——低失業率と安定成長の長期持続——を実現し、中央銀行家としては珍しいセレブリティ的な存在感を持った。1996年の「非合理的熱狂（Irrational Exuberance）」発言は世界の株式市場を一時的に揺さぶった。\n低金利維持と軽規制というグリーンスパン流の「小さなFed」哲学は、1990年代の繁栄を支えた。しかし2008年の金融危機で名声は大きく傷ついた。議会での証言で「自分の世界観に欠陥があった」と認めた。\n現FRB議長ケビン・ウォーシュ氏がグリーンスパンをロールモデルと明言していることがNYT同日付記事でも指摘されており、グリーンスパンの「秘密主義」的なFedspeak路線とウォーシュのフォワードガイダンス廃止推進が重なる点が注目される。\n\n💡 投資含意: グリーンスパン死去それ自体は市場材料ではないが、「ウォーシュ新議長がグリーンスパンをロールモデルとしている」文脈は、現在のFed透明性低下・フォワードガイダンス廃止推進への評価に新たな視点を加える。1990年代の「秘密主義」との比較で議論が活発化する見込み。\n🔗 波及: ウォーシュ議長がグリーンスパン型の不透明なFed運営に傾くなら、市場のボラティリティ増大と長期金利の上昇圧力が継続する。グリーンスパン時代の低金利・軽規制が2008年危機につながったという教訓は現在の銀行規制論議にも影を落とす。\n📈 関連銘柄: TLT（長期国債・Fed不透明性増大で弱気）、GLD（ゴールド・不確実性上昇で強気）、高PERテック株（長期金利上昇リスクで弱気）\n⚖️ 弱気材料: 長期国債・リート・高PERテック株（Fed透明性低下リスク）；強気材料: ゴールド（不確実性ヘッジ）\n📅 次の注目: ウォーシュ議長の次回FOMC後記者会見スタイル、フォワードガイダンス廃止の正式方針表明",
+    "created_at": "2026-06-22T22:17:40.475Z"
+  },
+  {
+    "date": "2026-06-22",
+    "category": "economy",
+    "source": "NYT Business",
+    "title_ja": "中国が米国レアアース企業2社に輸出規制——トランプのクリティカルマグネット国内調達強化策を直撃",
+    "title_en": "China Tightens Rare-Earth Grip on U.S. Firms, Threatening Trade Clash",
+    "url": "https://www.nytimes.com/2026/06/22/business/china-rare-earths.html",
+    "summary": "中国がレアアース（希土類）の米国企業向け輸出規制を強化し、トランプ政権が国内のクリティカルマグネットサプライチェーン再構築の中核に位置づける米国メーカー2社を標的にしていることがNYTで報じられた。\nレアアースはEV・防衛システム・風力発電機・スマートフォン等に不可欠な素材で、中国が世界の採掘・精製・マグネット製造の大部分を掌握している。トランプ政権はこのサプライチェーン依存を「国家安全保障上のリスク」として国内生産強化に多額の投資を行っている。\n中国の今回の措置は、対中半導体規制・貿易交渉への対抗手段としてのレアアース「武器化」の動きとして解釈される。米国の国内産業政策への直接の反撃と位置づけられる。\n規制が継続・拡大すれば、EV・防衛装備・半導体製造装置等への供給不足リスクが高まる。代替サプライチェーン（オーストラリア・カナダ・グリーンランド等）の開拓が急務となる。\n米中間の貿易摩擦が希少資源を舞台に新たな次元へと拡大していく可能性を示す象徴的な動きとして注目される。（記事本文は403のためRSS記述に基づく要約）\n\n💡 投資含意: 中国によるレアアース輸出規制の強化は、米国のEV・防衛・風力等のサプライチェーンに直接打撃を与える。国内レアアース精製・マグネット企業への政府支援拡大が加速する可能性があり、MP Materials等に注目が集まる。\n🔗 波及: EV向けモーター・防衛装備の生産に影響が出れば、テスラ・GM・Ford等のEVメーカーから武器メーカーまで広く波及する。オーストラリア・カナダ等のレアアース産出国への需要シフトも加速。\n📈 関連銘柄: MP（MP Materials・米国レアアース精製・強気）、TSLA・F・GM（サプライコスト上昇リスク・弱気）、LMT・RTX（防衛向けマグネット調達リスク）\n⚖️ 弱気材料: EV・防衛・風力産業（コスト上昇・供給リスク）；強気材料: 国内レアアース企業（政府支援拡大期待）\n📅 次の注目: 中国の規制措置の詳細発表、米国の対抗措置（追加関税・国内生産支援拡大）",
+    "created_at": "2026-06-22T22:17:40.475Z"
+  },
+  {
+    "date": "2026-06-22",
+    "category": "economy",
+    "source": "NYT Business",
+    "title_ja": "中国製AIが予想より早くギャップを縮小——シリコンバレーと米国企業が安価なオープンソース中国モデルへのシフトを加速",
+    "title_en": "Is China Closing the A.I. Gap Faster Than Expected?",
+    "url": "https://www.nytimes.com/2026/06/22/business/dealbook/china-closing-ai-gap.html",
+    "summary": "NYTのDealBook欄が、DeepSeek・GLM-5.2・Qwen等の中国製安価なオープンソースAIモデルがシリコンバレーや米国企業に浸透している現象を取り上げた。「性能は互角でコストは一桁安い」として米国の開発者・企業が採用を増やしている。\n本日のAlphabet株価急落（Gemini担当研究者の流出）やDeepSeekの$74億調達（未確認）と合わせると、「中国AIが予想より早く米国との差を縮めている」という構造的変化の証左として位置づけられる。\nMicrosoft CEO ナデラの「AI市場はコモディティ化している」発言と同日に出たことで、「西側クローズドモデルの優位性」という前提への疑問が一層強まった。\n輸出規制や地政学リスクにもかかわらず、オープンソースルートでの技術拡散は止まらない。米国のAI優位は「クローズドで高品質なモデル」という前提に基づいているが、中国製オープンモデルの品質急向上でその前提が揺らぎつつある。\nこうした認識が広まるほど、OpenAI・Anthropicへの依存を減らし中国製を採用する企業が増える自己実現的な動きになりかねない。（記事本文は403のためRSS記述に基づく要約）\n\n💡 投資含意: 中国製AIの米国市場への浸透はOpenAI・Anthropic等のAPIプロバイダーの価格決定力への長期的な圧力を示す。AIのコモディティ化が加速すれば、インフラ（GPU・データセンター）を持つ企業（NVDA・AMZN・MSFT）が相対的に有利になる。\n🔗 波及: 中国AIの台頭は輸出規制強化議論を再燃させ、規制面での不確実性が増す。オープンソース競争の激化はHugging Face・LLM推論クラウド等のエコシステムを強化する。Alphabetにとっては本日の株価下落と相まって「GOOGL AI優位への懐疑」が蓄積するリスク。\n📈 関連銘柄: NVDA（中国/西側どちらのAIも使うGPU需要継続・強気）、MSFT・GOOGL（競合モデルのコスト圧力・弱気リスク）、AMZN（AWS上での多様なモデル提供で中立）\n⚖️ 弱気材料: Anthropic・OpenAI依存ビジネスモデル（価格圧力リスク）；強気材料: AIインフラ企業（AI需要の継続）",
+    "created_at": "2026-06-22T22:17:40.475Z"
+  },
+  {
+    "date": "2026-06-22",
+    "category": "politics",
+    "source": "The Hill",
+    "title_ja": "バンス副大統領「イランが核査察官の受け入れに合意」——スイス交渉の第1日に大きな前進、ただしイランは正式確認せず",
+    "title_en": "Vance says Iran to allow nuclear inspectors into country",
+    "url": "https://thehill.com/homenews/administration/5935033-iran-iaea-nuclear-inspectors-vance/",
+    "summary": "バンス米副大統領がスイスでのイラン交渉第1日を終え、「イランが核査察官の再受け入れを合意した」と発表した。バンスは「査察官を入れることは大きな前進だ」と語り、第1日を「非常に非常に良い」と評価した。ただしイランは自国メディア等を通じてこの発表を正式には確認していない。\n前日には、トランプ大統領がキャンプ・デービッドから「ヒズボラを抑えなければイランをさらに激しく攻撃する」等の威圧的ツイートを連投し、交渉が「一時中断した」と報じられた。しかし実際には交渉団が離席せず関与を継続したとされ、今回の「査察官受け入れ」発表は前進のシグナルとなった。\nIAEA（国際原子力機関）の査察官がイランに戻ることは、イランの核活動に関する透明性確保に向けた最初のステップとして重要。最終合意までには60日間の集中協議が残っており、核濃縮レベル・制裁解除・凍結資産解放の詳細はまだ決まっていない。\n原油市場は交渉進展を受けてやや軟化しており、NYT報道では「イラン外相が『大きな前進』と発言後に原油価格が下落」と伝えられる。400隻超のタンカーがホルムズ海峡付近で待機しているとの報道もある（FT）。\n\n💡 投資含意: 査察官受け入れは合意への前向きなシグナルで、ホルムズ海峡の正常化期待が高まり短期的に原油価格の下押し圧力になりやすい。ただし最終合意まで市場はボラタイルな反応を続ける見通しで、一喜一憂しないことが重要。\n🔗 波及: 交渉進展は中東の地政学リスクプレミアムを低下させ、原油・タンカー・防衛株全般に影響する。航空・輸送・製造業にとってはエネルギーコスト低下期待で追い風。合意崩壊シナリオでは原油急騰・防衛株上昇に転じる。\n📈 関連銘柄: XOM・CVX（原油価格下落プレッシャー・弱気）、FRO・STNG（タンカー株・海峡正常化で下押し）、DAL・UAL（燃料コスト低下期待・強気）\n⚖️ 弱気材料: 原油・タンカー株（交渉前進で供給増加期待）；強気材料: 航空・輸送株（燃料コスト低下期待）\n📅 次の注目: 60日間の技術協議の進捗、IAEA査察の再開タイミング、ホルムズ海峡の通航量の本格回復確認",
+    "created_at": "2026-06-22T22:17:40.475Z"
+  },
+  {
+    "date": "2026-06-22",
+    "category": "politics",
+    "source": "The Hill",
+    "title_ja": "トランプ大統領が量子コンピューティング大統領令2本に署名——研究推進とポスト量子暗号への移行を国家政策として明確化",
+    "title_en": "Trump signs orders to boost quantum research, security",
+    "url": "https://thehill.com/policy/technology/5934949-trump-signs-quantum-computing-orders/",
+    "summary": "トランプ大統領が月曜日、量子コンピューティングの研究推進とポスト量子暗号への移行強化を目的とする2つの大統領令に署名した。量子コンピューティングは量子力学を用いて従来のコンピュータより複数桁速く複雑な問題を解決できる技術で、まだ初期段階にある。\n政策背景として、量子コンピュータが現在の公開鍵暗号（RSA等）を解読できる「Q-day」への備えが急務となっており、NISTは2022年にポスト量子暗号アルゴリズムの標準化を完了済み。今回の大統領令はその移行を連邦政府レベルで義務化する側面があるとみられる。\n中国が量子コンピューティングで急速に力をつけており、米国の対応として国家安全保障・金融インフラ・サプライチェーンの脆弱性を低減するための量子安全暗号への移行を加速させる狙いがある。\n大統領令には量子研究への連邦予算・支援拡大と、政府機関のシステムをポスト量子暗号化に移行するタイムラインの設定が含まれるとみられる。政府調達・防衛・金融インフラ全体に移行義務が波及する可能性がある。\n量子コンピューティング産業は現在まだ商業化の初期段階にあるが、大統領令による明示的な国家政策化は官民投資の加速を促進する効果がある。\n\n💡 投資含意: 量子コンピューティングへの政府支援拡大とポスト量子セキュリティの義務化は、IonQ・Rigetti等の量子コンピュータ企業とポスト量子暗号を手がけるセキュリティ企業の両方に追い風となる。\n🔗 波及: 連邦政府のポスト量子暗号移行義務化は、企業のITインフラ刷新投資を誘発し、クラウドセキュリティ・暗号化ソリューション企業にとって長期的な商機となる。IBMやMicrosoftの量子部門にも研究資金の増加が見込まれる。\n📈 関連銘柄: IONQ（量子コンピュータ企業・強気）、RGTI（Rigetti Computing・強気）、QUBT（Quantum Computing Inc・強気）、IBM（量子コンピューティングと暗号化ソリューションの両輪）\n⚖️ 強気材料: 量子コンピューティング関連株・ポスト量子セキュリティ企業全般（政府支援拡大）\n📅 次の注目: 大統領令の具体的な予算規模・タイムライン詳細発表、議会での予算付与の動向",
+    "created_at": "2026-06-22T22:17:40.475Z"
+  },
+  {
+    "date": "2026-06-22",
+    "category": "robotics",
+    "source": "The Robot Report",
+    "title_ja": "Bear RoboticsがKinisi Roboticsを買収——16,000台の商用フリートに人型ロボット「KR1」のマニピュレーションAIを統合し、エンドツーエンドの物理AIプラットフォームを完成",
+    "title_en": "Bear Robotics acquires Kinisi Robotics to boost its physical AI capabilities",
+    "url": "https://www.therobotreport.com/bear-robotics-acquires-kinisi-robotics-to-boost-its-physical-ai-capabilities/",
+    "summary": "サービスロボット企業のBear RoboticsがKinisi Roboticsを買収する確定契約に署名したと発表した。ブリストル（英国）拠点のKinisiが開発する人型ロボット「KR1」、エンジニアリングチーム、物理AIマニピュレーション技術がBearに統合される。\nBear Roboticsは2017年創業で16,000台超のサービスロボット（配膳・清掃等）を商業展開。一つのクラウドオーケストレーションスタックで管理されており、「パイロットから製品へ」の段階を既に超えている。Kinisiは当初からBearのナビゲーションスタックを使って開発しており、技術的親和性が高い。\n買収の核心は「マニピュレーション能力の追加」——「移動・運搬」から「掴む・仕分ける・物理作業」へのBearロボット群の能力拡張。BearのフリートデータとKinisiの操作データ収集ツールが組み合わさり、AIモデル訓練を加速する好循環が生まれる。\nKinisiのBrenand Pierce氏（Bear共同創業者でもある）が最高ロボティクス責任者（CRO）としてBearの経営チームに復帰。ホテル・病院・倉庫・製造業向けの自動化市場が一気に拡大する可能性がある。\n\n💡 投資含意: 実際の商用フリートを持つBearによる人型ロボット買収は、物理AIロボティクスの垂直統合加速を示す。「パイロットから製品へ」の段階にある多くの人型ロボット企業との差別化が明確。\n🔗 波及: 配膳・清掃ロボットのフリートにマニピュレーション能力が加わることで、ホテル・病院・倉庫・製造業向けの自動化市場が急拡大する可能性。従来のロボットアーム・産業用ロボット企業（FANUC・ABB等）への代替圧力。\n📈 関連銘柄: NVDA（物理AI市場拡大に伴うGPU・AIコンピュート需要）、AMZN（倉庫自動化ニーズの充足・潜在パートナー）\n⚖️ 強気材料: 物理AIロボティクス市場での垂直統合進展（製造・物流の自動化加速）",
+    "created_at": "2026-06-22T22:17:40.475Z"
+  },
+  {
+    "date": "2026-06-22",
+    "category": "robotics",
+    "source": "The Robot Report",
+    "title_ja": "AlphabetのIntrinsicが「Intelligence Cell」発表——AIでロボットプログラミングを不要化、Foxconnとの大型パイロットも控える",
+    "title_en": "How Intrinsic eliminates manual robot coding",
+    "url": "https://www.therobotreport.com/how-intrinsic-eliminates-manual-robot-coding/",
+    "summary": "AlphabetのIntrinsicが「Intrinsic Intelligence Cell」を発表した。IntrinsicOSをベースに、ドラッグ&ドロップのAI自動化でロボットプログラミングを不要にするモジュール型ソフトウェアファーストのロボットワークセル。Automate 2026（シカゴ）で実機デモを実施しており、今年後半にFoxconnとの大型製造パイロットを控えている。\n核心は「現場オペレーターが使えるロボット化」——従来のロボットプログラマー不要で、機械加工の現場担当者がAIスキルベースの自動化を即座に設定できる。FANUCロボットによる電子部品組み立てを実演する。\nCNCシステムインテグレーターのTrinity Automation・MartinSystemsとの協業でシームレス統合を実現。少量多品種生産（ハイミックス）対応やツール再設定がソフトウェア更新のみで完結する。\n「AI for Industry Challenge」（$18万ドルの賞金プール）には115カ国1,600チーム超が参加。参加者の86%がロボティクス以外（AI/ML・ソフトウェアエンジニア・Python）出身という事実は、ロボティクスへの参入障壁が著しく低下していることを示唆する。\n\n💡 投資含意: Alphabetのロボティクス部門がFoxconnとの大型パイロットに向けて進むことは、Intrinsicの商業展開の現実性を高める。ノーコード/ローコードで製造業の中小企業にも自動化を拡大し、ロボティクス市場のTAM（全市場規模）を広げる。\n🔗 波及: ロボットプログラミング不要化が進むことで、従来のロボットSIerの付加価値が変質する。電子製造・機械加工向けの自動化市場に新たな競合が生まれ、FANUCとの協業が進む一方でSIer市場を圧迫する逆説も。\n📈 関連銘柄: GOOGL（Intrinsic事業の進展・Alphabet株価への寄与）、FANUC 6954.T（Intrinsicとの協業事例・強気）\n⚖️ 強気材料: GOOGL（ロボティクス事業の商業展開加速）\n📅 次の注目: Foxconnとの製造パイロットの規模・成果発表",
+    "created_at": "2026-06-22T22:17:40.475Z"
+  },
+  {
+    "date": "2026-06-22",
+    "category": "robotics",
+    "source": "The Robot Report",
+    "title_ja": "NVIDIAがロボティクス向けフルスタック安全システム「Halos」を発表——18,600エンジニア年の自動運転安全技術を人型ロボットに転用、Agility RoboticsのDigitが最初の採用",
+    "title_en": "NVIDIA releases Halos, a full-stack safety system for robotics",
+    "url": "https://www.therobotreport.com/nvidia-releases-halos-a-full-stack-safety-system-for-robotics/",
+    "summary": "NVIDIAが本日、ロボティクス・物理AIのためのフルスタック安全システム「NVIDIA Halos for Robotics」を発表した。自律ロボットが動的な環境で人間と共に働くために必要なAI基盤モデル・加速コンピューティング・分散センサーを統合する包括的な安全アーキテクチャ。\nシステムはIGX Thor（産業グレードAIコンピュート・組み込みセーフティ）・Halos OS（ロボット安全ソフトウェアスタック）・Halos Applications（Outside-In Safety Blueprint）の三層で構成。18,600エンジニア年を投じた自動運転車の安全開発の成果をロボティクスに転用した。\nNVIDIA Halos AI Systems Inspection LabはANAB認定のプログラムで、TÜV Rheinland・UL Solutions・TÜV SÜD・exida・SGS・CertXの大手認証機関が認定プロセスを承認。40社以上のメーカー・認証機関・安全ベンダーがエコシステムに参加する。\n最初の採用パートナーはAgility Robotics（Digit人型ロボット）で、Amazon・GXO・Schaeffler・Toyota Motor Manufacturing Canadaの倉庫・工場での人間との協働作業を想定。IGX ThorとHalos Coreを統合し、IEC 61508・ISO 13849等の安全規格への準拠を目指す。\nHalos Core（NVIDIA IGX向け）とHalos Outside-In Safety BlueprintはGitHubでアーリーアクセス中。\n\n💡 投資含意: NVIDIAのHalosは、ロボティクス市場でのポジションを「GPUプロバイダー」から「フルスタックロボット安全プラットフォーム」へ格上げするもの。安全規格対応コスト低減により人型ロボットの産業展開が加速し、NVIDIA依存度が高まる。\n🔗 波及: 安全規格への対応がスタンダード化されることで、Agility・Figure・BostonDynamics等の人型ロボット企業の商業展開ハードルが下がる。TÜV等の安全認証機関のビジネス拡大も見込まれる。\n📈 関連銘柄: NVDA（ロボティクスプラットフォーム拡大・強気）、AMZN（倉庫での人型ロボット活用パートナー）\n⚖️ 強気材料: NVDA（フルスタックロボティクス安全提供でTAM拡大）\n📅 次の注目: Halos OSのGA（一般提供）時期、Agility DigitのAmazon倉庫での商業展開規模",
+    "created_at": "2026-06-22T22:17:40.475Z"
+  },
+  {
+    "date": "2026-06-22",
+    "category": "technology",
+    "source": "TechCrunch",
+    "title_ja": "AIチップメーカーGroqが$6.5億調達——NVIDIAの「not-acqui-hire」後に経営陣刷新・ネオクラウドビジネスに軸足を移す",
+    "title_en": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia's $20B not-acqui-hire deal",
+    "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+    "summary": "AIチップメーカーのGroqが6.5億ドル（約950億円）の新規資金調達を発表した。昨年12月にNVIDIAがGroqのLPU（Language Processing Unit）技術を非独占的にライセンスし（「not-acqui-hire」）、創業CEO Jonathan Ross氏らを採用した後の最初の公式ラウンド。直前のバリュエーションは$69億（2025年9月の$7.5億調達時）で、新バリュエーションは非公開。\nNVIDIAはGroqのIPを取得した後、GTC 2026で独自の「NVIDIA Groq 3 LPX推論ハードウェアシステム」を発表。Groqは元の推論クラウドビジネス（ネオクラウド）に軸足を移し、北米・欧州・中東・APACに13のデータセンターを展開。500万人以上の開発者・数千社のAI企業に推論サービスを提供し、毎週トリリオントークンを処理しているという。\n新経営陣として元xAI・MetaのAlan Rice氏（COO）、Sinclair Schuller氏（CTO・元Apprenda創業者）、Rakesh Malhotra氏（CPO）を採用し、NVIDIAに奪われた経営陣の穴を埋める。\nScale AI（Metaのnot-acqui-hire後に$10億収益に回帰）と同様の「生き残りパターン」を踏もうとしており、推論インフラクラウドサービスとしての再出発を図る。\n\n💡 投資含意: GroqのネオクラウドビジネスはAI推論需要の爆発的成長から恩恵を受ける立場にある。ただしNVIDIAがIPを共有・競合サービスを出している中での差別化は課題。AI推論インフラの多様化は長期的にはコスト競争激化につながる。\n🔗 波及: GroqのネオクラウドはAWS・Google Cloud・Azureとは別の低遅延推論特化の第三の選択肢。CoreWeave・LambdaLabs等の推論クラウドとの競争が激化する。NVDA自身もGroq LPXサービスを展開している点で直接の競合関係にある。\n📈 関連銘柄: NVDA（GroqのIP共有で推論市場を取り込み済み・強気）、AMZN・MSFT・GOOGL（推論クラウドとの間接競合）\n⚖️ 強気材料: 推論インフラ市場全体の拡大；弱気材料: Groqの差別化困難（NVDA IPシェア後）",
+    "created_at": "2026-06-22T22:17:40.475Z"
+  },
+  {
+    "date": "2026-06-22",
+    "category": "technology",
+    "source": "TechCrunch",
+    "title_ja": "MicrosoftとChevronが米国最大級の天然ガス直結データセンター「Project Kilby」を計画——2.67GWのガス発電所を20年PPAで建設、カーボン目標との矛盾が鮮明に",
+    "title_en": "Microsoft and Chevron plan one of the largest gas-powered data center projects in US",
+    "url": "https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/",
+    "summary": "MicrosoftとChevronが月曜日、テキサス州西部に2.67ギガワットの天然ガス発電所を建設・データセンターに専用電力を供給する20年間の電力購買契約（PPA）を発表した（「Project Kilby」）。GE Vernovaのタービン2基とCaterpillar子会社Solar Turbinesが電力を供給する。\nChevronは「米国最大級の天然ガス直結データセンター開発の一つ」と位置づけており、Microsoftのテキサス州西部のAI・クラウドデータセンターに専用電力を供給する。\n重要な矛盾として、Microsoftは2030年カーボンゼロ排出誓約を掲げているが、このプロジェクトはCO2を年間1,300万トン以上、有害大気汚染物質28万ポンド超を排出する見込みとされる（Environmental Integrity Project推計）。\n生成AIの電力需要急増によりMicrosoftをはじめとするビッグテックが「クリーンエネルギーでは間に合わない」現実に直面し、化石燃料への回帰を始めている。xAIも同様にTexasでSolar Turbinesを使った電力プラントを運用しており、AI企業全体のエネルギー戦略が環境規制との軋轢を生む構造になっている。\nChevronにとっては石油・ガス会社からエネルギーインフラ・データセンター電力プロバイダーへの事業軸拡大という新展開を示す。\n\n💡 投資含意: Microsoftの天然ガスへの踏み込みはAI電力需要の深刻さを示す。GE Vernovaはタービン受注で直接恩恵。Chevronは石油会社からエネルギーインフラプロバイダーへの転換で新収益源を獲得する。\n🔗 波及: ビッグテックの天然ガス直結データセンター増加はガス需要・LNG市場に追い風。一方でカーボン目標との乖離が規制当局・ESG投資家の圧力を招く可能性がある。Solar Turbines（Caterpillar子会社）も恩恵。\n📈 関連銘柄: GEV（GE Vernova・タービン受注・強気）、CVX（データセンター電力事業参入・新収益源）、CAT（Solar Turbines経由）\n⚖️ 強気材料: GEV（AI電力需要によるタービン需要急増）；弱気材料: MSFT（ESG評価悪化リスク）\n📅 次の注目: 環境アセスメント・許認可プロセスの進捗、MicrosoftのESGレポートでの扱い",
+    "created_at": "2026-06-22T22:17:40.475Z"
+  },
+  {
+    "date": "2026-06-22",
+    "category": "technology",
+    "source": "CNBC Technology",
+    "title_ja": "AlphabetがAI懸念で1年以上ぶりの最大の下落日——Gemini共同リードのShazeer氏がOpenAIへ、AlphaFoldのJumper氏がAnthropicへ移籍",
+    "title_en": "Alphabet has its worst day in over a year on AI concerns after high-profile exits",
+    "url": "https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html",
+    "summary": "Alphabetの株価が月曜日に約5%安で引け、2025年5月以来1年以上ぶりの最大の下落日を記録した。直近でGemini AI担当の副社長級研究者2名が相次いで退職し、AI人材流出への懸念が高まったことが主因。\n一人目はGeminiモデルの共同リードであるNoam Shazeer氏で、OpenAIへの転職を水曜日に発表。Shazeerは2021年にGoogleを離れCharacter.AIを共同創業し、2024年8月にGoogle DeepMindとのパートナーシップでGoogleに復帰したが、わずか2年未満で再離職した。\n二人目はAlphaFold共同創造者のJohn Jumper DeepMind副社長・エンジニアリングフェロー。Demis HassabisとともにAlphaFoldで2024年ノーベル賞を受賞した人物が、9年間のDeepMindを離れAnthropicへ移籍する。\n同日、Microsoft CEO サティア・ナデラがWSJインタビューで「AI市場はコモディティ化しており、AI大手への依存を減らすべき」と発言。AlphabetはAI投資に$1,410億もの資金を費やしており、コモディティ化が進めば投資対効果への疑問が生じる。\nさらにGmailとYouTubeが同日に障害を起こしたことも重なり、投資家心理が悪化した。\n\n💡 投資含意: トップクラスのAI研究者2名のGoogleからの流出は、Geminiプロジェクトの中長期的な競争力に影響を与えうる重大な人材リスク。AI市場のコモディティ化論と重なり、$141B投資の正当性への疑問が投資家心理を圧迫した。\n🔗 波及: GoogleのAI研究者がOpenAI・AnthropicへというパターンはOpenAI/Anthropicへの技術蓄積を加速させる。Alphabetの相対的弱体化がMSFT/OpenAI陣営の優位拡大につながる可能性がある。\n📈 関連銘柄: GOOGL（弱気・人材流出・AI投資の対費用効果への疑問）、MSFT（競合弱体化で相対優位・強気）、AMZN（Anthropic投資先として恩恵）\n⚖️ 弱気材料: GOOGL（AI研究者流出と巨額AI投資の対費用効果への懐疑）\n📅 次の注目: Geminiモデルの次期アップデート、Alphabet Q2決算（7月末）でのAI部門状況報告",
+    "created_at": "2026-06-22T22:17:40.475Z"
   }
 ]
