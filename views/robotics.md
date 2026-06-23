@@ -1,6 +1,32 @@
 # 🦾 フィジカルAI・ロボティクス — 全アーカイブ
 
-全33件 / 日付の新しい順
+全35件 / 日付の新しい順
+
+## 2026-06-23
+
+### [「フィジカルAI 2.0」に必要な現実点検——視覚先行バイアスを超えた物理状態復元層が次の競争軸](https://www.therobotreport.com/why-physical-ai-2-0-needs-reality-check/)
+*Why physical AI 2.0 needs a reality check*
+出典: The Robot Report ・ #robotics #2026-06-23
+
+「Physical AI 2.0」の実現には、現在主流のビジョン優先アーキテクチャの限界を越えた「物理状態復元（Physical State Recovery）」層が不可欠だとAtomathicのリズバニ博士が主張する。AIロボットが工場・建設現場などで自律動作するには、カメラ映像だけでは捉えられない力・振動・熱・材料応力などの物理情報をリアルタイムで取得・統合する能力が求められる。同社のアプローチはRTXベンチャーズ・GMベンチャーズから支援を受けており、航空・自動車の実業界ニーズに根ざした技術開発が進む。既存のビジョン専業ロボティクスに欠けるモダリティ融合こそが、産業現場での信頼性と安全性の鍵になると見られている。
+
+💡投資含意：物理センサー融合技術・エッジAI推論チップへの需要が新フェーズに入る可能性。
+🔗波及：工場自動化の再設計需要、既存ビジョン専業ロボットベンダーへの圧力。
+📈関連銘柄：Atomathic（非公開）、RTX（RTX）、GM（GM）、Cognex（CGNX）
+⚖️強気弱気：強気＝産業現場での差別化技術として参入障壁高；弱気＝量産コスト・センサー統合の複雑性。
+📅次の注目：Atomathic製品の量産ロードマップ・RTX/GM案件での実証事例発表。
+
+### [Eclipse AutomationがApple Vision Pro活用の工場没入型可視化プラットフォーム「RealitySync」発表](https://www.therobotreport.com/eclipse-automation-launches-realitysync-simulation-platform/)
+*Eclipse Automation launches RealitySync simulation platform*
+出典: The Robot Report ・ #robotics #2026-06-23
+
+Eclipse AutomationがApple Vision Proを活用した工場没入型可視化プラットフォーム「RealitySync」をAutomate 2026（シカゴ）で発表した。設備が実際に建設される前に工場レイアウトや製造ラインを3D空間内で体験できるシステムで、設計変更コストの削減と顧客の意思決定加速を目指す。物理的プロトタイプなしにラインシミュレーションが可能となり、特に自動車・航空・電子製造向け設備設計での活用が期待される。ARデバイスを産業設計プロセスに組み込む取り組みとして、デジタルツイン市場の新たなユースケースを示している。
+
+💡投資含意：AppleのVision Proが産業用途で実際に採用されつつある点は、Appleの企業向け市場拡大の証左。
+🔗波及：デジタルツイン・工場シミュレーション市場の急拡大、ARデバイスの産業転換点。
+📈関連銘柄：Apple（AAPL）、PTC（PTC）、Siemens（SIE.DE）
+⚖️強気弱気：強気＝Vision Proの産業用キラーアプリとして普及ドライバー；弱気＝デバイス価格と企業内展開コスト。
+📅次の注目：Eclipse Automationの受注事例・Apple Vision Proエンタープライズ採用統計。
 
 ## 2026-06-22
 
