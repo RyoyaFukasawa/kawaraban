@@ -4638,5 +4638,255 @@
     "url": "https://www.nytimes.com/2026/06/23/technology/china-supercomputer-crown-us.html",
     "summary": "深圳のスーパーコンピューターが2017年以来9年ぶりに中国へ世界最速の座を取り戻した。注目すべきは、NVIDIA製GPUを一切使用せず標準マイクロプロセッサのみで構成されている点で、米国の輸出規制をかいくぐった自立型HPC能力の実証と受け取られている。AIワークロードに特化したGPUなしでトップ性能を達成した事実は、中国の並列コンピューティング・相互接続技術の成熟を示すものだ。米中の技術デカップリング政策が加速するなか、中国のスパコン技術自立は軍事・気象・核シミュレーション等の戦略分野に直接的な含意を持つ。\n\n💡投資含意：米国HPC輸出規制の実効性低下リスク、ドメスティックHPC向け半導体需要の構造変化。\n🔗波及：Top500ランキングの更新・CHIPS法追加措置の議論加速・欧州HPC連合への影響。\n📈関連銘柄：NVIDIA（NVDA）、AMD（AMD）、Intel（INTC）、HPE（HPE）\n⚖️強気弱気：強気（米企業）＝AI向けGPU需要は別路線で継続；弱気＝汎用CPUクラスタが高性能AIにも転用可能なら輸出規制の意味が薄れる。\n📅次の注目：Top500リスト更新（SC26年次発表）・米商務省の追加規制対応。",
     "created_at": "2026-06-23T22:25:32.842Z"
+  },
+  {
+    "date": "2026-06-24",
+    "category": "ai",
+    "source": "Google DeepMind",
+    "title_ja": "Google DeepMind、Gemini 3.5 Flashに「コンピュータ使用」機能を導入——エージェントAIの実用化に向けた競争が加速",
+    "title_en": "Google DeepMind introduces computer use capability in Gemini 3.5 Flash",
+    "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "summary": "Google DeepMindはGemini 3.5 Flashに、AIが画面を見てマウス・キーボードを操作できる「コンピュータ使用（Computer Use）」機能を追加したと公式ブログで発表した。（※記事本文の取得に失敗したため以下はタイトル情報のみを根拠とする）Anthropicが2024年末にClaude 3.5 Sonnetで同様の機能を公開して以来、各AIプロバイダーがGUI操作能力を競争的に実装する流れが続いており、GoogleもGemini 3.5 Flashという軽量・高速モデルにこの機能を搭載した。エージェントAIがウェブブラウザ・デスクトップアプリ・クラウドコンソールなどを自律的に操作する能力は、RPA代替やソフトウェアテスト自動化、エンタープライズワークフロー効率化において大きな市場機会を持つ。Flashシリーズは速度とコスト効率に優れる軽量ラインとして位置付けられており、エンタープライズ向けエージェント実装でのコスト競争力が高まる可能性がある。\n💡 今後の注目点：Gemini 3.5 FlashのComputer Use精度・成功率、開発者採用状況、Anthropic・OpenAIとのエージェント機能比較\n🔗 関連銘柄・セクター：Alphabet/Google (GOOGL)、エンタープライズAIエージェント、RPA（UiPath等）代替市場\n📈 投資インプリケーション：軽量モデルへのコンピュータ使用機能実装は、エンタープライズAIエージェント市場での低コスト実用化を加速させる。Google Cloudの法人顧客獲得に貢献する可能性\n⚖️ リスク要因：精度・信頼性（誤操作リスク）、セキュリティ懸念、エンタープライズ導入障壁、競合優位性の持続性\n📅 今後のスケジュール：詳細は記事本文未取得のため不明",
+    "created_at": "2026-06-24T22:35:48.686Z"
+  },
+  {
+    "date": "2026-06-24",
+    "category": "ai",
+    "source": "NVIDIA / HuggingFace",
+    "title_ja": "NVIDIA NeMo AutoModel、MoEモデルのファインチューニングを最大3.7倍高速化——GPU メモリ29〜32%削減、HuggingFace完全互換",
+    "title_en": "NVIDIA NeMo AutoModel delivers 3.4-3.7x MoE fine-tuning speedup with 29-32% GPU memory reduction, drop-in HuggingFace compatible",
+    "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "summary": "NVIDIAはオープンソースライブラリ「NeMo AutoModel」を公開し、HuggingFace Transformers v5上でMixture-of-Experts（MoE）モデルのファインチューニングを大幅に高速化できることを示した。8×H100（80GB）の単一ノード環境でQwen3-30B-A3BおよびNemotron 3 Nano 30B A3Bを検証した結果、Transformers v5比で3.4〜3.7倍のスループット向上と29〜32%のGPUメモリ削減を達成した。特徴的なのはAPIの完全互換性で、既存のHuggingFaceコードにおいてimport文を1行変更するだけで全ての最適化が適用される。内部ではExpert Parallelism（EP）、DeepEP fused all-to-all dispatch、TransformerEngineカーネルを統合しており、Transformers v5がOOMになる550Bパラメータモデル（Nemotron 3 Ultra 550B A55B）の16ノード（128 GPU）フルファインチューニングも可能とした。save_pretrained()は標準HFチェックポイントを出力するためvLLMやSGLang等の推論エンジンとの連携も維持される。Transformers v4ではデッドロックが発生するQwen3 MoE系モデルもv5+AutoModelで動作する。\n💡 今後の注目点：非NVIDIA GPU（AMD ROCm等）への対応状況、さらなるモデルファミリーへの最適化拡張、Transformers v5へのDeepEP統合タイムライン\n🔗 関連銘柄・セクター：NVIDIA (NVDA)、クラウドAIインフラ（AWS、GCP、Azure）、MoEモデル提供各社\n📈 投資インプリケーション：MoEファインチューニングの効率化はNVIDIA H100/H200の利用効率を高め、同一GPUリソースでのモデル訓練コスト削減につながる。NVIDIAのオープンソース戦略強化が開発者エコシステムを引き寄せる効果も期待\n⚖️ リスク要因：オープンソース競合（Apple MLX、AMD ROCm等）、NVIDIAハードウェア依存リスク\n📅 今後のスケジュール：Transformers v5のDeepEP統合タイムライン次第でさらなる標準化が進む見通し",
+    "created_at": "2026-06-24T22:35:48.686Z"
+  },
+  {
+    "date": "2026-06-24",
+    "category": "ai",
+    "source": "OpenAI",
+    "title_ja": "OpenAI・Broadcom、LLM推論専用チップ「Jalapeño」を発表——わずか9カ月で開発、2026年末に大規模展開へ",
+    "title_en": "OpenAI and Broadcom unveil Jalapeño, OpenAI's first custom LLM inference chip",
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "summary": "OpenAIとBroadcomは、LLM推論専用に設計したカスタムAIアクセラレータ「Jalapeño」を共同発表した。汎用GPUを転用した設計ではなく、LLMの推論カーネル・メモリ移動・ネットワーキング・サービングパターンに特化したゼロベース設計が特徴であり、現行最先端比で「大幅に優れたperformance per watt」をエンジニアリングサンプル段階で確認しているという。開発期間はわずか9カ月で「ハイパフォーマンス半導体における最速ASICサイクル」とされる。チップ設計の一部にOpenAIの自社モデルを活用した点も注目されており、ソフトウェア・ハードウェア共同開発を実際の推論システムで実証した形だ。現在、GPT-5.3-Codex-SparkなどのMLワークロードがエンジニアリングサンプル上で本番目標周波数・電力下で稼働中。アーキテクチャはデータ移動を削減し、理論ピーク性能に近い実稼働率を実現する設計とされる。2026年末までに初期展開を開始し、MicrosoftらとのギガワットスケールDCに適用予定。OpenAIのフルスタック垂直統合戦略——モデル・カーネル・チップ・ネットワーク・サービング——の核心をなすマイルストーンとなる。\n💡 今後の注目点：詳細なパフォーマンスレポート（数カ月以内公表予定）、Jalapeñoの推論コスト・レイテンシへの実効影響、Nvidiaとの競合ポジション変化\n🔗 関連銘柄・セクター：Broadcom (AVGO)、Celestica (CLS)、Nvidia (NVDA)、AI推論インフラ、カスタムASIC設計受託\n📈 投資インプリケーション：OpenAIの自社チップ量産成功はNvidia依存を低減し、推論コスト削減→サービス普及拡大の好循環を生む。BroadcomはTSMC製造を通じてAI ASICエコシステムの重要な受益者となる見通し\n⚖️ リスク要因：技術的リスク（大規模展開時の歩留まり・信頼性）、Nvidiaのソフトウェアエコシステム優位性、他社（Google TPU、AWS Trainium等）との競合激化\n📅 今後のスケジュール：2026年中——詳細テクニカルレポート公表；2026年末——初期大規模展開開始；2027年以降——マルチ世代ロードマップ継続展開",
+    "created_at": "2026-06-24T22:35:48.686Z"
+  },
+  {
+    "date": "2026-06-24",
+    "category": "ai",
+    "source": "Reddit/r/LocalLLaMA",
+    "title_ja": "⚠️ Qwen-AgentWorld-35B-A3B——エージェントが取った行動後に「環境が何を返すか」を予測する言語世界モデル、という投稿がある",
+    "title_en": "Qwen-AgentWorld-35B-A3B: 35B MoE model trained as a language world model to simulate MCP, terminal, SWE, Android, web and OS environments",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ue5149/qwenagentworld35ba3b_a_3bactive_moe_trained_to/",
+    "summary": "r/LocalLLaMAに、Qwen-AgentWorld-35B-A3Bというモデルに関する投稿がある。同モデルは35Bパラメータ（アクティブ3B）のMoEであり、投稿によれば通常のチャットモデルや自律エージェントとは異なり「エージェントが行動を取った後に環境が何を返すか」を予測することに特化した「言語世界モデル（language world model）」だという。対象とする7つのエージェントインタラクションドメインはMCPツール呼び出し・検索・ターミナル・ソフトウェアエンジニアリング・Android・Web・OSのGUI操作とされる。想定用途としてはエージェントの訓練、オフライン評価、合成軌跡生成、ツール使用ワークフローのテスト、実際のツールを常時稼働させずにサンドボックス的な環境構築などが挙げられている。モデルはHuggingFaceで公開されているとされ、Qwenブランドはアリババ傘下のQwen開発チームによるものとみられる。なお本情報はReddit投稿に基づくものであり、公式発表との照合・裏取りは未完了である。\n⚠️ 未確認情報（Reddit発・要裏取り）\n💡 今後の注目点：Qwenの公式アナウンス・論文、エージェント評価ベンチマークでの性能確認、実用的な活用事例の登場\n🔗 関連銘柄・セクター：AI Agent開発インフラ、開発者向けAIツール企業、中国AI（Alibaba BABA）\n📈 投資インプリケーション：エージェントの環境シミュレーターが普及すれば本番環境を使わずエージェント訓練・検証ができコスト削減につながる可能性。オープンウェイトモデルの能力拡張がエンタープライズAI採用を加速する可能性\n⚖️ リスク要因：未確認情報。実際の精度・汎用性は未検証。Alibaba/中国企業のモデルへの規制リスク\n📅 今後のスケジュール：Qwen公式ブログ・論文公開タイミングを要確認",
+    "created_at": "2026-06-24T22:35:48.686Z"
+  },
+  {
+    "date": "2026-06-24",
+    "category": "ai",
+    "source": "Reddit/r/LocalLLaMA",
+    "title_ja": "⚠️ 韓国銀行がAI生産性レポートを公表——週1時間の節約も企業レベルの生産性向上はゼロ、という投稿がある",
+    "title_en": "Bank of Korea AI productivity report: AI saves 1hr/week per worker but shows zero productivity gain at company level",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uecytz/the_bank_of_korea_just_released_a_report_about_ai/",
+    "summary": "r/LocalLLaMAに、韓国銀行（Bank of Korea）がAI生産性に関するレポートを公表したという投稿がある。同投稿によれば、AIを職場で使用することで週3.8%（約1時間）の業務削減が可能だが、その削減が会社全体の生産性向上につながるかどうかを問われると「相関はゼロ」だとレポートは結論付けているという。AIがレポート作成を大幅に高速化するものの、それがさらに多くのレポートを生む結果となり、報告・レビューに費やす時間は増加し続けるとのことだ。また節約された1時間を新たな業務に使用しても追加報酬は得られないという。仮にこれらの副作用が全くなかった場合でも、期待できる実質生産性向上は最大1%に留まるとされる。投稿者は「数百兆ウォンのコストをかけて作ったAIで、個人は週1時間節約できるが、会社全体の仕事量は増えた」と指摘する。韓国は半導体（Samsung・SK Hynix）を通じてAIブームの経済的恩恵を直接受けている国であり、その中央銀行のレポートとして信頼性が高い可能性があると投稿者は述べている。なお本情報はReddit投稿および韓国語原文に基づくものであり、公式データの直接確認・裏取りは未完了である。\n⚠️ 未確認情報（Reddit発・要裏取り）\n💡 今後の注目点：韓国銀行レポートの英語翻訳版・正式発表、他国中央銀行や学術研究機関によるAI生産性研究との比較\n🔗 関連銘柄・セクター：AI SaaS（生産性効果の過大評価リスク）、エンタープライズAI導入コンサル\n📈 投資インプリケーション：中央銀行レポートがAIによる「生産性向上」に疑問を投げかける事例は、AI関連株の過熱評価に対するネガティブカタリストとなり得る。エンタープライズAI導入のROI検証がより厳密になる可能性\n⚖️ リスク要因：未確認情報。単一国・短期研究の一般化リスク。AIの生産性効果は業種・用途により大きく異なる可能性\n📅 今後のスケジュール：韓国銀行公式ウェブサイトでの原文確認が推奨される",
+    "created_at": "2026-06-24T22:35:48.686Z"
+  },
+  {
+    "date": "2026-06-24",
+    "category": "economy",
+    "source": "CNBC",
+    "title_ja": "AlphabetがVerizonに代わりダウ平均に採用——AI・クラウド・広告への露出を高める再編、Google株は時間外+1%",
+    "title_en": "Alphabet (GOOGL) replaces Verizon in Dow Jones Industrial Average, expanding mega-cap tech and AI exposure",
+    "url": "https://www.cnbc.com/2026/06/23/alphabet-verizon-dow-djia.html",
+    "summary": "S&Pグローバルは、Alphabet（GoogleのA株、GOOGL）がVerizonに代わってダウ工業株30種平均（DJIA）に採用されると発表した。月曜の取引開始前から有効となり、発表後の時間外取引でAlphabet株は約1%上昇した。AlphabetはNvidia・Amazon・Apple・Microsoftに続いてダウに加わる5社目のメガキャップテック銘柄となる。S&Pグローバルは「AI・クラウドインフラ・広告というテーマへのダウの露出が高まる」と説明した。Alphabetは最近AI投資を積極化し、2025年10月以降で1,410億ドルの負債・株式調達を実施済み。Verizonはダウ内での株価加重ウェイトが約0.5%に過ぎず低い影響力が退場の主因とみられる（ダウは価格加重方式のため高株価銘柄がより大きな影響力を持つ）。なおHoneywell InternationalはHoneywell Aerospaceのスピンオフ完了後も「Honeywell Technologies」としてダウに残留するが、スピンオフ後の独立会社はダウ外となる。Alphabetは今年のYTDで+10%超で推移しており4年連続の上昇を目指している。\n💡 今後の注目点：ダウ指数連動型ETF・インデックスファンドによるAlphabet株の需要増、VerizonとHoneywell Technologiesの除外・再編による影響\n🔗 関連銘柄・セクター：Alphabet/Google (GOOGL)、Verizon (VZ)（ウェイト低下）、ダウ指数連動型ファンド（DIA ETF）\n📈 投資インプリケーション：ダウ採用は指数連動型ファンドによる自動的な購入需要を生み出す。AlphabetのテックAI企業としての地位をダウ平均が公式に認める象徴的意義も大きい\n⚖️ リスク要因：Alphabetの最近の株価軟調（前日が1年超で最大の下落）、AI投資コストの増大、反トラスト規制リスク（Google検索の独占的地位）\n📅 今後のスケジュール：2026年6月（月曜日）——DJIA組み入れ開始；次期決算（Q2 2026）——AI・クラウド収益の確認",
+    "created_at": "2026-06-24T22:35:48.686Z"
+  },
+  {
+    "date": "2026-06-24",
+    "category": "economy",
+    "source": "CNBC",
+    "title_ja": "S&Pグローバル：製造業雇用削減が2009年（リーマン危機）水準——PMI 55.7は予想超えも「在庫積み増し」主因の歪み",
+    "title_en": "S&P Global: factory job cuts at highest since 2009 ex-COVID; PMI 55.7 beat consensus but driven by inventory build not real demand",
+    "url": "https://www.cnbc.com/2026/06/23/factory-job-cuts-reported-around-financial-crisis-and-covid-levels-for-june-sp-says.html",
+    "summary": "S&Pグローバルが発表した6月の製造業フラッシュPMIは55.7と5月から小幅改善し、市場予想54.8を上回った。しかしこの数値の改善は「供給懸念による在庫積み増し」が主因であり、実需の改善を反映しているわけではないとS&Pグローバルのチーフエコノミスト、Chris Williamsonが警告する。最も懸念されるのが雇用の落ち込みで、製造業の雇用削減ペースは新型コロナ禍（2020年）を除けば2009年（リーマンショック後）以来最大の水準に達している。製造業はこの4カ月中3カ月で人員削減を示した。サービス業フラッシュPMIも51.3と小幅改善（予想51.0）だったが成長ペースは緩慢。米国経済は2026年Q1の実質GDPが年率1.6%成長、2025年Q4はわずか0.5%と減速が続いており、今回の調査は「Q2も年率1%前後の成長にとどまる」とのシグナルを示す。中東情勢の停戦合意報道が原油価格を押し下げ「一定の信頼感を回復させた」としながらも、原材料コスト上昇と需要の先行き不安が企業を圧迫している。FRB議長Kevin Warshは先週「経済成長は堅調」と述べたが、PMIデータとの乖離が目立つ。\n💡 今後の注目点：7月の雇用統計（特に製造業雇用）、Q2 GDPの速報値（7月末）、イランとの和平・停戦の進展による原油価格動向\n🔗 関連銘柄・セクター：製造業株（工業セクター ETF XLI）、原材料・素材、ドル（景気減速シグナルで利下げ観測強まれば下落）\n📈 投資インプリケーション：PMI表面改善の裏に隠れた雇用悪化と在庫主導の成長は製造業の構造的弱さを示す。スタグフレーション的環境が続けば防衛・ヘルスケア等の景気防衛セクターが相対優位に\n⚖️ リスク要因：インフレ再燃によるFRBの利上げ継続、需要悪化による在庫調整の深化、製造業雇用の悪化が消費に波及\n📅 今後のスケジュール：2026年7月4日（金）——米雇用統計；7月下旬——Q2 GDP速報値",
+    "created_at": "2026-06-24T22:35:48.686Z"
+  },
+  {
+    "date": "2026-06-24",
+    "category": "economy",
+    "source": "CNBC",
+    "title_ja": "ビットコイン、59,548ドルまで急落——2024年10月以来の最安値、ベア相場8カ月目に突入しETF流出7週連続",
+    "title_en": "Bitcoin drops to $59,548, lowest since October 2024; 8 months into bear market, ETF outflows for 7th straight week",
+    "url": "https://www.cnbc.com/2026/06/24/bitcoin-falls-back-under-60000-hitting-its-lowest-level-since-october-2024.html",
+    "summary": "ビットコインは4%超下落して59,548ドルと、2024年10月10日以来の最安値を記録した。これは今年3度目の6万ドル割れとなる。ほぼ8カ月に及ぶベア相場の要因は複合的で、AIスタートアップ株・IPO・予測市場へのキャピタルローテーション、イラン戦争に起因するインフレ圧力によるFRBの利上げ警戒姿勢継続、仮想通貨市場全体の信頼低下などが挙げられる。ビットコインETFは今週1億8200万ドルの資金流出となり、7週連続の純流出ペース。ビットコインETF全体の運用資産は昨年末の約1,130億ドルから775億ドルへと31%以上減少した。ただしOranjeBTCのSam Callahan氏は「これまでの仮想通貨冬と比べ下落幅はマイルド。機関投資家の参加拡大により投資家層が拡大・流動性向上し、ボラティリティが低下した」と分析する。市場構造法案（CLARITY Act）も議会の夏休み前の5週間で主要なハードルを越えられなければ秋に先送りされる見通し。\n💡 今後の注目点：CLARITY Act（仮想通貨市場構造法案）の立法動向、FRBの利上げ可能性、ETF資金流出の底打ちタイミング\n🔗 関連銘柄・セクター：仮想通貨取引所（Coinbase COIN）、ビットコインETF（BlackRock IBIT、Fidelity FBTC）、MicroStrategy (MSTR)\n📈 投資インプリケーション：機関投資家の参加拡大でビットコインの下落幅は限定的との見方があるが、ETF連続流出は需要の弱さを示す。短期的にはリスクオフ環境が継続する可能性\n⚖️ リスク要因：中東情勢悪化による更なるリスク回避、SEC規制強化、仮想通貨取引所リスク\n📅 今後のスケジュール：CLARITY Act——議会夏休み（8月初旬）前が重要期限；FRB次回FOMC（7月下旬）——利上げ方針確認が焦点",
+    "created_at": "2026-06-24T22:35:48.686Z"
+  },
+  {
+    "date": "2026-06-24",
+    "category": "economy",
+    "source": "Financial Times",
+    "title_ja": "FRB年次ストレステスト：米銀は経済危機シナリオで7,000億ドル損失も合格——JPモルガン・ゴールドマンが増配を発表",
+    "title_en": "Fed stress tests show US banks would lose $700B in crash scenario but all pass; JPMorgan and Goldman boost dividends",
+    "url": "https://www.ft.com/content/7f33dfda-bc49-4645-8e71-422ba7cc4d17",
+    "summary": "米連邦準備制度理事会（FRB）が実施した年次銀行ストレステストで、主要米銀は深刻な経済崩壊シナリオ下で合計7,000億ドルの損失に耐えられることが確認された。（※Financial Times記事本文はペイウォールにより取得不可。以下はRSS概要に基づく）JPモルガン・チェースとゴールドマン・サックスは合格後に増配を発表した。ストレステストは経済危機・株価急落・失業率急上昇などの極端なシナリオ下でも主要銀行が十分な自己資本を維持できるかを審査するものである。全行が合格したことは銀行システムの健全性を示すが、7,000億ドルという損失規模の大きさは現在の金融リスクの高さも示唆する。増配発表は株主還元を強化するシグナルとして市場にポジティブに受け取られる傾向がある。\n💡 今後の注目点：各行の具体的な増配額・自社株買い計画、FRBのバーゼルIII最終規則（Basel III Endgame）の動向\n🔗 関連銘柄・セクター：JPMorgan (JPM)、Goldman Sachs (GS)、Citigroup (C)、Bank of America (BAC)、大手米銀全般\n📈 投資インプリケーション：ストレステスト合格＋増配発表は銀行セクターの近期株価にポジティブ。自己資本規制の整備は長期的なシステミックリスク低減に寄与\n⚖️ リスク要因：ストレステストのシナリオ設定が実際の危機と異なる可能性、商業不動産（CRE）リスクの持続、地政学的リスクによるカウンターパーティリスク\n📅 今後のスケジュール：各行の増配・自社株買い計画の詳細発表（通常テスト結果後1〜2週間以内）",
+    "created_at": "2026-06-24T22:35:48.686Z"
+  },
+  {
+    "date": "2026-06-24",
+    "category": "economy",
+    "source": "Financial Times",
+    "title_ja": "ベネズエラ、2,400億ドル超の負債を開示——マドゥロ政権崩壊後、世界最大規模のデット・リストラクチャリングへ",
+    "title_en": "Venezuela to reveal $240B debt pile in world's largest-ever debt restructuring after Maduro overthrow",
+    "url": "https://www.ft.com/content/b7f25ca2-827c-40f9-ab1a-57067d8ec90d",
+    "summary": "Financial Timesは、ベネズエラがマドゥロ政権崩壊後に2,400億ドル超の負債を開示し、世界最大規模のソブリン・デット・リストラクチャリングへ向けた手続きを開始すると報じた。（※FT記事本文はペイウォールにより取得不可。以下はRSS概要に基づく）債務規模は当初予想を大幅に上回る見通しであり、カラカスが予想以上の借入を行っていたことを示唆する。マドゥロ政権の崩壊により、ベネズエラは政治的移行期を迎えており、新政権が経済再建の一環として国際債権者との交渉を開始することが予想される。2,400億ドル規模のリストラクチャリングはアルゼンチンやギリシャを超え、単一国の債務再編としては空前の規模となる可能性がある。ベネズエラの石油埋蔵量は世界最大とされており、政治安定後の生産回復が実現すれば中長期的な原油供給増加要因となり得る。\n💡 今後の注目点：ベネズエラ新政権と国際債権者（IMF、世銀、民間債権者）の交渉進展、ベネズエラ国債の市場価格動向\n🔗 関連銘柄・セクター：エマージング市場債（ベネズエラ国債保有金融機関）、原油価格（ベネズエラの石油生産回復期待）\n📈 投資インプリケーション：ベネズエラの石油生産回復（現在は制裁解除と政権交代待ち）は中長期的な原油供給増加要因となり得る。一方2,400億ドルのデットは経済回復を長期にわたって制約する\n⚖️ リスク要因：詳細不明（ペイウォール）。政治的移行の不確実性、返済能力の低さ、グローバル債権者との法的紛争リスク\n📅 今後のスケジュール：ベネズエラ新政権の公式発表・IMFとの初期交渉タイムラインを注視",
+    "created_at": "2026-06-24T22:35:48.686Z"
+  },
+  {
+    "date": "2026-06-24",
+    "category": "politics",
+    "source": "BBC",
+    "title_ja": "米議会、史上初めてイラン戦争権限決議を可決——専門家は「トランプは無視する可能性が高いが政治的に重大」と指摘",
+    "title_en": "Congress passes war powers measure for first time, breaking with Trump over Iran; experts say Trump likely to ignore it but politically significant",
+    "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o",
+    "summary": "米議会は、大統領に対してイランとの武力紛争から軍を撤退させるよう求める戦争権限決議を初めて可決した。（※BBC記事本文は403エラーで取得不可。以下はRSS概要に基づく）専門家によれば、トランプ大統領がこの決議を無視する可能性が高いが、法的拘束力は乏しいものの政治的に重大な意味を持つという。今月成立したこの決議はイラン戦争に対する議会の異議申し立てとして歴史的な位置付けを持つ。共和党から8名が民主党と共に賛成票を投じており、イラン戦争に対する超党派の懸念が積み上がっていることを示している。トランプ政権が同時に要求した876億ドルの補正予算（前項参照）への反発とも連動しており、議会が行政府の戦争遂行権限に楔を打ち込む姿勢を強めている。\n💡 今後の注目点：トランプの拒否権行使か無視か、次の議会対応（予算審議との連動）、中間選挙前の戦争継続是非をめぐる世論動向\n🔗 関連銘柄・セクター：防衛産業、原油（イラン戦争リスクプレミアム）\n📈 投資インプリケーション：戦争権限決議が政治的コストを高めれば中東情勢を織り込んだリスクプレミアムが変動する可能性\n⚖️ リスク要因：法的拘束力の乏しさ、大統領の拒否権、議会内対立の継続\n📅 今後のスケジュール：トランプ側の対応（拒否権行使等）、秋の議会再開後の補正予算審議を注視",
+    "created_at": "2026-06-24T22:35:48.686Z"
+  },
+  {
+    "date": "2026-06-24",
+    "category": "politics",
+    "source": "BBC",
+    "title_ja": "フランスで初のエボラ感染者を確認——コンゴDRで勤務していた医師、欧州への感染拡大懸念が高まる",
+    "title_en": "France confirms first Ebola case in a doctor who worked in DR Congo, raising concerns about European spread",
+    "url": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo",
+    "summary": "フランスはエボラウイルス感染者の最初の症例を確認した。感染したのはコンゴ民主共和国（DRC）で勤務していたフランス人医師で、コンゴを中心とするエボラ感染拡大地域から帰国後に発症したとされる。（※BBC記事本文は403エラーで取得不可。以下はRSS概要に基づく）DRCでは少なくとも260名以上がエボラで死亡したことが確認されている。フランスへの感染者到着はエボラが西アフリカを超えてヨーロッパへ波及するリスクを初めて現実のものとした事例となり、欧州各国の保健当局が警戒態勢を強めている。トランプ政権も今回の補正予算要求にエボラ対策14億ドルを含めており（前々項参照）、国際的な感染症対応の国家的コスト増大が現実化しつつある。\n💡 今後の注目点：フランス国内での感染連鎖の有無、欧州各国の入国・隔離措置の対応、WHO緊急対応状況\n🔗 関連銘柄・セクター：ワクチン・医薬品（エボラ治療薬保有バイオファーマ）、医療機器、WHO関連事業\n📈 投資インプリケーション：欧州へのエボラ波及は短期的なリスク資産回避要因となり得る。ワクチン・エボラ治療薬関連のバイオファーマへの資金流入可能性\n⚖️ リスク要因：感染拡大の不確実性、DRCの感染状況の不透明さ、医療体制の違いによる欧州での制御可能性\n📅 今後のスケジュール：フランス保健省・ECDCの継続的な発表を注視",
+    "created_at": "2026-06-24T22:35:48.686Z"
+  },
+  {
+    "date": "2026-06-24",
+    "category": "politics",
+    "source": "CBS News",
+    "title_ja": "連邦控訴裁、ICEの全国的「迅速強制退去」拡大を承認——デュープロセス保護めぐる法廷闘争は継続",
+    "title_en": "Federal appeals court 2-1 allows Trump's nationwide expedited removal expansion; ACLU exploring next steps",
+    "url": "https://www.cbsnews.com/news/federal-court-allows-ice-trump-admimistration-expand-expedited-deportations-nationwide/",
+    "summary": "米連邦控訴裁判所（DC巡回区）は2対1の判決でトランプ政権の「迅速強制退去（Expedited Removal）」拡大政策の施行を認めた。従来はこの政策が国境付近に限定され「入国後2週間以内」の者にのみ適用されていたのに対し、新政策では「全米どこでも」「2年以内の在留証明ができない者」を裁判手続きなしに強制退去できるようにした。過半数意見（Trump指名のWalker・Rao判事）は「手続きは十分なデュープロセスを提供している」と判断したが、反対意見のWilkins判事（Obama指名）は「入管職員が在留期間について質問せず2年ルールを告知しない仕組みは違憲」と批判した。ACLUは「次のステップ」を検討中と表明。昨年8月には下級裁判所がデュープロセス侵害として政策を差し止めていたが、今回の控訴審がその命令を無効とした。この政策はAlien Enemies Act活用・大規模移民拘留・保釈審問廃止と並ぶトランプ政権の移民急速排除体制の柱の一つ。\n💡 今後の注目点：ACLU等による最高裁への上訴可能性、迅速退去の実際の執行状況（誤った退去ケースの発生）、中間選挙前の移民問題を巡る世論\n🔗 関連銘柄・セクター：民間移民収容施設（GEO Group、CoreCivic）、移民法関連コンサルティング\n📈 投資インプリケーション：拡大する移民収容需要はGEO Group・CoreCivicに正のインプリケーション。ただし法的リスクが高く最高裁判断次第で反転の可能性\n⚖️ リスク要因：最高裁による差し止め可能性、社会的反発、正規在留者への誤適用リスク\n📅 今後のスケジュール：ACLU最高裁申立のタイムライン、現政権の執行強化状況の継続的追跡が必要",
+    "created_at": "2026-06-24T22:35:48.686Z"
+  },
+  {
+    "date": "2026-06-24",
+    "category": "politics",
+    "source": "CBS News",
+    "title_ja": "トランプ政権、イラン戦争費用として876億ドルの補正予算を議会に要求——上院での可決は難航必至",
+    "title_en": "Trump requests $87.6B supplemental for Iran war; $67B for Pentagon, faces steep Senate opposition",
+    "url": "https://www.cbsnews.com/news/iran-war-supplemental-funding-request-pentagon-trump-congress/",
+    "summary": "トランプ政権は議会に対し、イラン戦争に関連する「緊急ニーズ」への対応として876億ドルの補正予算を要求した。内訳は国防省670億ドル（うち弾薬210億ドル、作戦費173億ドル、機密プログラム121億ドル）、エネルギー省7億6750万ドル（イランの核能力関連）、国務省3億ドル（イラン周辺国の大使館安全・建設）など。農業支援111億ドルとコンゴ・ウガンダを中心としたエボラ対策14億ドルも含む。しかし政治的な見通しは厳しく、不人気な戦争への支持と受け取られることを懸念する脆弱な共和党議員が難色を示す可能性がある。民主党は一致して反対する見通しで上院通過は「ほぼ不可能」とされる。すでに8人の共和党議員が今月、議会の宣戦布告なしにイランへの攻撃継続を大統領に委ねることに反対する戦争権限決議に賛成票を投じた。チャック・シューマー上院少数党院内総務は「無謀な戦争に国民を引き込んだ後、さらに数百億ドルを要求している」と批判した。\n💡 今後の注目点：議会での審議展開、共和党内造反議員の動向、11月中間選挙への影響\n🔗 関連銘柄・セクター：防衛産業（RTX、LMT、NOC、GD）、エネルギー（原油価格への中東リスク影響）\n📈 投資インプリケーション：大規模補正予算成立なら防衛株への継続的な政府需要が確保される。ただし政治的停滞が長引けば防衛調達の先行きに不確実性が生まれる\n⚖️ リスク要因：議会否決リスク（特に上院）、中東紛争の長期化による財政赤字拡大、政治的分断の深化\n📅 今後のスケジュール：議会審議日程——今夏の議会休会前（8月初旬）が一つの節目",
+    "created_at": "2026-06-24T22:35:48.686Z"
+  },
+  {
+    "date": "2026-06-24",
+    "category": "politics",
+    "source": "PBS NewsHour",
+    "title_ja": "マムダニ市長の公認候補が全勝3戦3勝——NYの民主党予備選でベテラン下院議員2人を落選、民主左派が党主流派を圧倒",
+    "title_en": "NYC Mayor Mamdani's slate sweeps NY congressional primaries 3-for-3, ousting two incumbents in major progressive upset over party establishment",
+    "url": "https://www.pbs.org/newshour/politics/mamdani-slate-sweeps-democratic-primaries-in-new-york-ousts-2-incumbents-from-congress",
+    "summary": "ニューヨーク市のゾーラン・マムダニ市長（民主社会主義者）が全面支援した3人の議会候補全員が民主党予備選を制し、現職下院議員2人を落選させる歴史的な結果となった。Darializa Avila Chevalierがコロンビア大学の親パレスチナ運動を組織していた経歴を持つ急進的な候補としてAdriano Espaillat下院議員（議会ヒスパニック代議員連盟議長）を破り、元市会計監査役のBrad LanderがDan Goldman議員（2期目）を下した。さらにクレア・バルデス州議会議員が引退するベルモント議員の後継候補（党指導部推薦）を制した。下院民主党院内総務のHakeem Jeffriesが積極的に反マムダニ候補を応援したにもかかわらず惨敗した。候補3名全員がICE廃止・イスラエルの行為を「ジェノサイド」と表現・富裕層課税を公約した。JFK大統領の孫Jack Schlossberg（33歳）は別の選挙区で落選した。マムダニは「より良い民主党員を選ぶことが重要」と勝利宣言した。\n💡 今後の注目点：民主党内の路線対立の今後の展開、11月本選でのこれら候補の勝算、Jeffriesとマムダニの関係修復または対立継続\n🔗 関連銘柄・セクター：防衛産業（ICE廃止・戦費反対派の台頭）、富裕層課税強化（テック・金融株への影響）\n📈 投資インプリケーション：民主党内の急進左派台頭は税制・移民政策の先行きに不確実性を高める可能性。ただし短期的には共和党優勢が続く中で直接の政策影響は限定的\n⚖️ リスク要因：11月本選での共和党候補との接戦リスク、急進的政策の実現可能性に対する市場の警戒\n📅 今後のスケジュール：11月本選（下院議員選挙）——マムダニ候補3名が全員当選すれば下院民主党の路線に影響",
+    "created_at": "2026-06-24T22:35:48.686Z"
+  },
+  {
+    "date": "2026-06-24",
+    "category": "robotics",
+    "source": "CNBC",
+    "title_ja": "Amazon傘下のZoox、ロボタクシーを刷新——年内有料サービス開始へ、年間1万台の生産体制へ拡張",
+    "title_en": "Amazon's Zoox unveils redesigned robotaxi ahead of commercial service launch and 10,000-unit annual production scale-up",
+    "url": "https://www.cnbc.com/2026/06/24/amazons-zoox-unveils-redesigned-robotaxi-ahead-of-upcoming-expansion.html",
+    "summary": "Amazonの自動運転子会社Zooxは「トースター型」ロボタクシーの次世代モデルをお披露目した。改良点はタッチスクリーンの高品質化、座席・ヘッドレストの快適性向上、忘れ物が見つけやすいインテリア設計、双方向識別反射板の大型化・配置変更などだ。同社は今年中に有料サービスを開始する計画で、現在はラスベガス・サンフランシスコで無料運行中、マイアミ・オースティンでも限定公開中。サンフランシスコ湾岸エリアの製造ハブで大規模生産を近く開始し、最終的に年間1万台の生産能力を目指す。Zooxは2020年にAmazonが13億ドルで買収した。週50万回以上の有料乗車を実現しているWaymo（Alphabet）に対し、Zooxはラスベガス開始以来の累計乗客数50万人超と大きく後れを取っている。有料化にはNHTSAによる最大2,500台の商業運転許可が必要で現在審査中。ZooxはUberとのパートナーシップでラスベガスにてUberアプリ経由の乗車予約も開始した。\n💡 今後の注目点：NHTSA商業運転許可の取得時期、有料サービス開始後の料金設定と乗車数、WaymoとのU.S.ロボタクシー競争\n🔗 関連銘柄・セクター：Amazon (AMZN)、Alphabet/Waymo (GOOGL)、Uber (UBER)、Tesla（FSD競合）\n📈 投資インプリケーション：Zooxの有料化移行はAmazonの自動運転事業の収益化フェーズへの転換点。Uberパートナーシップによるリーチ拡大は重要な商業加速剤となり得る\n⚖️ リスク要因：規制認可の遅延、Waymoとの市場シェア競争、自動運転事故リスク、製造スケールアップの課題\n📅 今後のスケジュール：2026年内——有料サービス開始予定；NHTSA許可取得後——2,500台規模の商業展開；製造ハブ本格稼働——年1万台生産へ",
+    "created_at": "2026-06-24T22:35:48.686Z"
+  },
+  {
+    "date": "2026-06-24",
+    "category": "robotics",
+    "source": "CNBC",
+    "title_ja": "モルガン・スタンレー、中国ヒューマノイドロボット出荷予測を今年2度目の上方修正——2026年5万台・市場規模20億ドルへ",
+    "title_en": "Morgan Stanley doubles China humanoid robot forecast again to 50,000 units in 2026, sees $2B market and $15B by 2030",
+    "url": "https://www.cnbc.com/2026/06/24/morgan-stanley-china-humanoid-robot-market-forecast.html",
+    "summary": "モルガン・スタンレーは2026年の中国ヒューマノイドロボット出荷予測を5万台（市場規模20億ドル）へと上方修正した。これは同年内2度目の修正であり、1月の当初予測1.4万台から3倍超となる。同銀行は商業検証・政策支援・サプライチェーンの整備が想定より速く進んでいることを修正理由として挙げる。中国政府は「体化AI（embodied AI）」を5カ年計画の優先テーマとして指定しており、地方政府が土地・オフィス補助と優遇融資でスタートアップを支援している。2030年には年間出荷46.6万台・市場規模150億ドルに達すると予測する。モルガン・スタンレーはサプライチェーン調査からLeaderdrive（上海上場）をヒューマノイドの主要受益者として名指しし、目標株価を269元から464元へ引き上げた。LeaderdriveはUbtechやGalbotなどに精密ロボット部品を供給し今年の世界シェア40%を見込む。中国国内では工場・物流に加え、無人小売店や対話型商業サービスへの展開も加速しているという。\n💡 今後の注目点：2026年実際出荷数の追跡、Leaderdrive等サプライチェーン企業の利益動向、米中貿易摩擦が中国ロボット輸出に与える影響\n🔗 関連銘柄・セクター：Leaderdrive（688557.SS）、Ubtech、Galbot、NVIDIA（NVIDIAチップ搭載中国製ロボットへの輸出規制リスク）\n📈 投資インプリケーション：中国のヒューマノイドロボット市場は世界最大の立ち上がりを見せておりサプライチェーン全体（精密部品・センサー・アクチュエータ）の受益が見込まれる。ただし地政学リスクが評価に大きく影響\n⚖️ リスク要因：米国の中国ロボット・AI規制、技術輸出規制、過剰投資による価格競争激化、商業化速度の見通し誤り\n📅 今後のスケジュール：2026年末——年間出荷数の実績確認；2030年——150億ドル市場目標",
+    "created_at": "2026-06-24T22:35:48.686Z"
+  },
+  {
+    "date": "2026-06-24",
+    "category": "robotics",
+    "source": "The Robot Report",
+    "title_ja": "ArmのPhysical AI部門EVP Drew Henry氏——自動車・ロボット・自律システム向けコンピューティング戦略を語る",
+    "title_en": "Arm Holdings' Drew Henry on Physical AI strategy for automotive, robotics and autonomous systems",
+    "url": "https://www.therobotreport.com/deep-dive-into-arms-physical-ai-and-robotics-strategies-with-drew-henry/",
+    "summary": "The Robot Reportポッドキャスト第249回は、Arm HoldingsのPhysical AI部門エグゼクティブバイスプレジデント、Drew Henry氏をゲストに迎えた。Henry氏はArmにおいて自動車・ロボティクス・自律システム向けのコンピューティングおよびソフトウェア技術戦略を統括しており、「Physical AI」——AIと現実世界の物理的動作が交差する領域——のビジネスを率いている。（※記事本文はポッドキャスト紹介ページのみで内容が限られており、本要約はタイトル・概要情報に基づく）Armは半導体設計IP（知的財産）を提供するファブレス企業として、スマートフォン市場で圧倒的な地位を築いたが、現在はAI推論・エッジAI・自動運転・産業ロボット向けにIPライセンスを拡大する戦略を取る。スマートフォンで培った電力効率の高いCPU設計は、現場での推論（エッジ推論）が求められる自律システムに適しており、ロボット・自動車市場でのArmチップ採用拡大が見込まれる。\n💡 今後の注目点：ArmのAutomotive/Robotics向けIPロードマップ、Arm v9アーキテクチャ採用状況、自動運転チップ市場でのNVIDIA・Qualcomm等との競合\n🔗 関連銘柄・セクター：Arm Holdings (ARM)、NVIDIA、Qualcomm、自動運転SoC、産業ロボット制御チップ\n📈 投資インプリケーション：ロボティクス・自動運転市場の拡大はArm IPの新たな需要創出源となる。ライセンス収入の多様化はスマートフォン依存低減に寄与\n⚖️ リスク要因：情報が限定的（ポッドキャスト概要のみ）のため詳細不明。RISC-V等のオープンアーキテクチャによる競合脅威\n📅 今後のスケジュール：ポッドキャスト全編公開済み——Armウェブサイトで聴取可能",
+    "created_at": "2026-06-24T22:35:48.686Z"
+  },
+  {
+    "date": "2026-06-24",
+    "category": "robotics",
+    "source": "The Robot Report",
+    "title_ja": "Agility Robotics、SPAC合併で評価額25億ドルの上場計画——「商業展開済み唯一の米上場純粋ヒューマノイド企業」に",
+    "title_en": "Agility Robotics to go public via SPAC at $2.5B valuation, first US-listed pure-play humanoid with proven commercial deployments",
+    "url": "https://www.therobotreport.com/humanoid-maker-agility-robotics-go-public-through-spac-merger/",
+    "summary": "Agility Roboticsは特別目的買収会社（SPAC）Churchill Capital Corp. XIとの合併で上場を計画すると発表した。予定前払価値（pre-money）評価額は25億ドルで、調達額は6.2億ドル超を見込む。同社は自社を「実証済みの商業展開を持つ唯一の米国上場純粋ヒューマノイド企業」と位置付けており、Amazon・GXO Logistics等への納品実績と累計6.5万時間の稼働実績を強調する。最新モデルDigit v5は従来比40%増の積載量50ポンド（約23kg）、22時間稼働、高さ2.1mのリーチを実現し、Google DeepMindおよびNVIDIAと連携するほかNVIDIA Halos安全システムの初期パートナーでもある。生産拠点RoboFab（オレゴン州セーラム）では年間最大1万台の生産能力を持つ。現在の顧客にはSchaeffler・Toyota Motor Manufacturing Canada・Mercado Libreが含まれ、産業・物流・配送向けに展開中。CEO Peggy Johnsonは対象市場（TAM）を米国だけで約1兆ドルと試算している。\n💡 今後の注目点：SPAC取引の完了タイムライン、上場後の株価推移、競合（Figure、Boston Dynamics、Tesla Optimus）との商業展開スピード比較\n🔗 関連銘柄・セクター：Agility Robotics（上場後）、Churchill Capital Corp. XI (CVXI)、NVIDIA (NVDA)、Google DeepMind（Alphabet）、GXO Logistics (GXO)\n📈 投資インプリケーション：ヒューマノイドロボットセクターへの投資機会が米国上場市場で拡大。SPACを通じた早期公開は機関・個人投資家双方の関心を集める可能性。実商業展開の実績は他社スタートアップとの差別化要因\n⚖️ リスク要因：SPAC特有のダイリューションリスク、商業展開スケールの不確実性、競合との技術格差縮小リスク\n📅 今後のスケジュール：SPAC取引完了後Nasdaq上場（具体的時期は未公表）、Digit v5の本格量産開始タイムラインも注目",
+    "created_at": "2026-06-24T22:35:48.686Z"
+  },
+  {
+    "date": "2026-06-24",
+    "category": "robotics",
+    "source": "The Robot Report",
+    "title_ja": "Vention、FANUCおよびUniversal Robotsと戦略的提携——AIによるソフトウェア定義型自動化プラットフォームをAutomate 2026で拡張",
+    "title_en": "Vention expands AI-powered software-defined automation with FANUC and Universal Robots partnerships at Automate 2026",
+    "url": "https://www.therobotreport.com/vention-collaborates-with-fanuc-universal-robots-software-defined-automation/",
+    "summary": "カナダのロボティクス企業Ventionは、シカゴで開催中のAutomateショーにおいてFANUC AmericaおよびTeradyne Robotics（Universal Robots親会社）との戦略的提携拡大を発表した。FANUCとの連携では、MachineMotion AIプラットフォームがFANUC産業用・協働ロボットシリーズ（CRX、LR Mate、M-710iD等）に対応し、オペレータが始点・終点を指定するだけでAIが衝突回避パスを自動生成する「ゴール指向型プログラミング」を実現する。NVIDIA Isaac Foundation Stereoによるゼロショット立体深度推定でデジタルツインをリアルタイム生成する仕組みだ。Universal Robots向けにはデジタルツイン環境を最適化し、ハードウェア設置前にロボットセルを設計・シミュレート・検証できる統合ワークフローを提供する。2016年創業のVentionは全世界4,000以上の工場に2.5万台超の機械を展開しており、2026年1月に1億1,000万ドルの資金調達を完了している。「設計から生産まで数日」を実現する統合環境が強みとされる。\n💡 今後の注目点：FANUC・Universal Robots以外へのプラットフォーム展開（ABB、KUKA等）、米国製造業のニアショアリング需要でのVention採用拡大\n🔗 関連銘柄・セクター：FANUC（東証：6954）、Teradyne (TER) / Universal Robots、Vention（未上場）、NVIDIA（NVIDIA Isaacプラットフォーム）\n📈 投資インプリケーション：ソフトウェア定義型自動化の普及は産業ロボットの導入障壁を下げSME（中小製造業）への展開を加速させる。Teradyne傘下Universal Robotsとの深い統合はTER株に正のインプリケーション\n⚖️ リスク要因：Ventionは未上場のため直接投資機会は限定的。Siemens・ABBのデジタルツインプラットフォームとの競合\n📅 今後のスケジュール：Automate展示（シカゴ、2026年6月）後——北米・欧州でのUR向け新機能展開",
+    "created_at": "2026-06-24T22:35:48.686Z"
+  },
+  {
+    "date": "2026-06-24",
+    "category": "technology",
+    "source": "CNBC",
+    "title_ja": "Cerebras、上場後初決算で売上高+92%も粗利率ガイダンスが46%→37%へ急低下——株価は時間外-10%",
+    "title_en": "Cerebras Q1 revenue +92% YoY but Q2 gross margin guidance drops sharply from 46.5% to 36-38%, stock -10% after hours",
+    "url": "https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html",
+    "summary": "AIチップメーカーのCerebrasは5月のNasdaq IPO後初の決算発表で、2026年Q1売上高が前年同期比92%増の1億9100万ドルとなった（純損失は2390万ドルから1400万ドルに縮小）と報告した。しかし市場が反応したのは粗利率ガイダンスの急低下で、Q2のコア粗利率は46.5%から36〜38%への大幅低下を予告した。通期コア売上は855〜865百万ドル（成長率69%）を見込む。CerebrasはIPO時185ドルで公開後350ドルで初値をつけたが、現在は226ドル（IPO比-28%）まで調整している。同社の強みはNVIDIA比較でオンチップSRAM量が多いことから来るレイテンシ優位性（Mizuho分析）であり、Q1にAWSへの供給契約とOpenAIへの200億ドル超の電力供給契約を発表している。6億ドル超を調達した2025年のIPOは、Uber上場以来最大規模の米国テック上場とされる。CerebrasはNVIDIAのAIチップ市場の一角を狙う特化型プレイヤーとして推論・低レイテンシ用途での差別化を図る。\n💡 今後の注目点：Q2粗利率低下の原因（原価上昇か価格競争か）、OpenAI・AWS契約の具体的規模と利益率\n🔗 関連銘柄・セクター：Cerebras (CBRS)、NVIDIA (NVDA)、AMD、AI推論チップ市場\n📈 投資インプリケーション：粗利率の急低下は競争激化もしくはスケールコスト増加のシグナルであり短期的にはネガティブ。ただし92%の売上成長と主要顧客確保は中期的な規模拡大の素地を示す\n⚖️ リスク要因：NVIDIAエコシステム依存（CUDA互換性問題）、粗利率の継続的な悪化リスク、資本集約型のファブコスト（TSMCの優先枠確保）\n📅 今後のスケジュール：Cerebras Q2決算（2026年9月頃）；OpenAI・AWS契約詳細の開示状況を注視",
+    "created_at": "2026-06-24T22:35:48.686Z"
+  },
+  {
+    "date": "2026-06-24",
+    "category": "technology",
+    "source": "CNBC",
+    "title_ja": "Micron、四半期売上が前年同期比4倍超——Q4ガイダンスは500億ドルとアナリスト予測比+15%超、株価は時間外+16%急騰",
+    "title_en": "Micron Q3 revenue quadruples YoY; Q4 guidance of $50B crushes $43.6B analyst estimate; stock +16% after hours",
+    "url": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
+    "summary": "Micronの2026年度第3四半期（3〜5月）決算は売上高・利益ともにアナリスト予想を大幅に上回った。売上高は前年同期比4倍超、純利益は同約15倍（28.24億ドル、EPS 24.46ドル）となった。特筆すべきはQ4ガイダンスで、約500億ドルの見通しを示しアナリスト予測435.8億ドルを約15%超過した。データセンター向けメモリ売上は前年同期比7倍超の115億ドル、クラウドメモリは同3倍超の137.7億ドル。粗利率は前期74.9%から84.9%へ上昇し、1年前の39%から大幅改善した。CEOは「メモリ・ストレージの供給不足が改善されるのは2028年になるまで相当の時間がかかる」と発言し長期的供給タイト感を示唆した。同社は16件の長期顧客契約（3〜5年）を締結し合計220億ドルのコミットメントを確保済みで、半数以上の売上が長期契約下に置かれる見通しとなっている。Micronの株価はこの1年で約700%上昇し時価総額は1兆ドルを超えた。\n💡 今後の注目点：HBM供給動向、2028年の業界供給増加タイミング、長期顧客契約の追加締結状況\n🔗 関連銘柄・セクター：Micron (MU)、Samsung Electronics、SK Hynix、NVIDIA（HBM需要源）、データセンター運営会社\n📈 投資インプリケーション：AI主導のメモリ需要超過は少なくとも2027〜2028年まで継続する見通しであり、Micron・SK HynixはAI半導体サイクルの中心的受益者。長期顧客契約は売上の可視性を大幅に向上させる\n⚖️ リスク要因：景気後退や設備投資削減によるAI需要急落リスク、Samsung・SK HynixのHBM増産による価格競争、中国メモリメーカー（CXMT等）台頭\n📅 今後のスケジュール：FY2026 Q4決算（2026年9月頃）；2028年——業界供給改善時期の確認",
+    "created_at": "2026-06-24T22:35:48.686Z"
+  },
+  {
+    "date": "2026-06-24",
+    "category": "technology",
+    "source": "CNBC",
+    "title_ja": "Qualcomm、データセンター向けCPU「Dragonfly C1000」をMetaに供給——2029年の非スマホ収益目標を400億ドルへ倍増、株価+15%",
+    "title_en": "Qualcomm unveils Dragonfly C1000 data center CPU for Meta, doubles non-handset 2029 revenue target to $40B; stock jumps 15%",
+    "url": "https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html",
+    "summary": "Qualcommは株主総会でデータセンター向けCPU「Dragonfly C1000」を発表し、MetaがAIエージェント向けとして2028年から採用すると明らかにした。同社は2029年度の非スマートフォン収益目標を旧目標220億ドルから400億ドルへほぼ倍増させ、株価は時間外取引で15%急騰した。データセンター収益のみで150億ドル（2029年）、自動車部門で100億ドルを目指す。Dragonfly C1000はエージェントAI向けに設計され電力効率を重視しており、スマートフォン・PC向けに培ったバッテリー節約型設計をデータセンターのPower Density問題に応用する戦略だ。QualcommはNVIDIAのCUDAに相当するソフトウェアエコシステム「Modular」を非公開価格で買収し、マルチアーキテクチャ対応も整備する。CFOは「スマートフォン向け既存関係をテコに、ハイパースケーラーとのデータセンター商談を優位に進められる」と説明した。また2件のカスタムシリコン設計案件をハイパースケーラーと締結していることも明らかにした。\n💡 今後の注目点：Dragonfly C1000の実際の性能（TDP当たりのコンピュート）、超大規模事業者（AWS・Google・MS Azure）との契約締結進捗\n🔗 関連銘柄・セクター：Qualcomm (QCOM)、NVIDIA (NVDA)、AMD、Intel、Meta (META)、データセンターCPU市場\n📈 投資インプリケーション：QualcommのデータセンターCPU参入はAIインフラ投資の広がりを示しNVIDIA依存の多様化需要と一致。2029年目標が実現すれば株価評価の大幅な見直しが起こり得る\n⚖️ リスク要因：NVIDIAのCUDAエコシステム優位性、AMDのEPYCとの競合、ソフトウェアエコシステム構築の難しさ、スマートフォン需要減速によるR&D資源配分圧力\n📅 今後のスケジュール：Dragonfly C1000——Meta採用開始2028年；2029年非スマホ400億ドル目標",
+    "created_at": "2026-06-24T22:35:48.686Z"
+  },
+  {
+    "date": "2026-06-24",
+    "category": "technology",
+    "source": "CNBC",
+    "title_ja": "SKハイニックス、Nasdaq ADR上場で290億ドル調達計画——AI向けHBMで世界シェア約60%、7月10日に取引開始予定",
+    "title_en": "SK Hynix plans ~$29B Nasdaq ADR listing on July 10, holds ~60% global HBM market share amid AI memory shortage",
+    "url": "https://www.cnbc.com/2026/06/24/sk-hynix-nasdaq-adr-listing-south-korea.html",
+    "summary": "韓国最大の半導体企業SKハイニックスはNasdaq市場でのADR（米国預託証券）発行により約299億ドル（45.45兆ウォン）の調達を計画しており、7月10日に取引開始を予定していると規制当局への提出書類で明らかにした。主幹事にはBofA Securities、シティグループ、Goldman Sachs、JPモルガンが名を連ねる。SKハイニックスはAI向けHBM（高帯域幅メモリ）市場で約60%のシェアを持ち、NVIDIAのH100・H200・B200チップ向けHBM3Eを供給してきた。株価は今年すでに280%超上昇し時価総額は1兆ドルを超えている。今回の上場目的として「AI技術革新の震源地である米国での投資家基盤拡大と真の企業価値の適正評価」を掲げる。国内では巨大クラスター「龍仁クラスター」の建設を進め2027年稼働予定。米インディアナ州では初の米国生産拠点となる40億ドル規模のパッケージング工場を建設中。Counterpoint Research上席担当は「製品・コスト・利益率のすべてでSKがトップ」と評価する。\n💡 今後の注目点：ADR取引開始後の価格形成、米国機関投資家のHBM関連銘柄としての組み入れ動向\n🔗 関連銘柄・セクター：SK Hynix（韓国上場・ADR）、Samsung Electronics、Micron (MU)、NVIDIA (NVDA)\n📈 投資インプリケーション：SKハイニックスのNasdaq ADR上場はAI半導体サプライチェーンへの直接投資を米国投資家に開放する。HBM約60%シェアはAI需要継続の中で非常に強固な競争優位を意味する\n⚖️ リスク要因：韓国ウォンの為替リスク（ADR価格に影響）、Samsung ElectronicsのHBM追い上げ、中国制裁・輸出規制の影響、SKグループ全体へのコングロマリットリスク\n📅 今後のスケジュール：2026年7月10日——Nasdaq ADR取引開始予定；2027年——龍仁クラスター稼働開始",
+    "created_at": "2026-06-24T22:35:48.686Z"
+  },
+  {
+    "date": "2026-06-24",
+    "category": "technology",
+    "source": "New York Times",
+    "title_ja": "NSAがAnthropicのAIツールへのアクセスを一時喪失——政府とAIプロバイダーの関係における緊張の内幕",
+    "title_en": "NSA temporarily lost access to Anthropic AI tool amid dispute, highlighting tensions between US government and AI developers",
+    "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
+    "summary": "ニューヨーク・タイムズは、NSA（米国家安全保障局）がAnthropicの強力なAIモデルへのアクセスを一時的に失ったと報じた。（※記事本文はペイウォールにより取得不可。以下はRSS概要に基づく）本件はトランプ政権がサイバーセキュリティ目的で先進AIシステムへの依存度を高める一方、米国の有力AIデベロッパーとの間で摩擦が生じている状況を浮き彫りにしたとされる。政府機関と民間AIプロバイダーの間では、利用条件・データ管理・モデルの安全性基準をめぐる対立が表面化しており、安全保障上の用途と商業倫理の折り合いの困難さを示す事例となっている。Anthropicは過去にNIST準拠のAI Safety Standards枠組みで政府との連携姿勢を示してきたが、具体的な契約条件で摩擦が生じた可能性がある。政府機関がAIへの依存を深めるほど、プロバイダー側の交渉力も高まる構造的な緊張を示す事例でもある。\n💡 今後の注目点：NSAとAnthropicの契約再開・条件の詳細、政府AI調達における他社（OpenAI、Google DeepMind）との対比、国防省・情報機関のAI利用ガイドラインの変化\n🔗 関連銘柄・セクター：Anthropic（非上場）、Palantir (PLTR)（政府AI代替）、Microsoft（Azure Government経由でOpenAI提供）\n📈 投資インプリケーション：政府向けAI市場の不確実性が高まるとPalantir等の既存政府ITプロバイダーへの需要シフトが起こり得る。Anthropicの政府事業への参入障壁が顕在化した可能性\n⚖️ リスク要因：詳細不明（ペイウォール）。政府AI利用の規制・契約条件の複雑さ\n📅 今後のスケジュール：情報省・NSAからの公式発表を待つ状況",
+    "created_at": "2026-06-24T22:35:48.686Z"
   }
 ]

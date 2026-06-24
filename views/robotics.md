@@ -1,6 +1,63 @@
 # 🦾 フィジカルAI・ロボティクス — 全アーカイブ
 
-全35件 / 日付の新しい順
+全40件 / 日付の新しい順
+
+## 2026-06-24
+
+### [Vention、FANUCおよびUniversal Robotsと戦略的提携——AIによるソフトウェア定義型自動化プラットフォームをAutomate 2026で拡張](https://www.therobotreport.com/vention-collaborates-with-fanuc-universal-robots-software-defined-automation/)
+*Vention expands AI-powered software-defined automation with FANUC and Universal Robots partnerships at Automate 2026*
+出典: The Robot Report ・ #robotics #2026-06-24
+
+カナダのロボティクス企業Ventionは、シカゴで開催中のAutomateショーにおいてFANUC AmericaおよびTeradyne Robotics（Universal Robots親会社）との戦略的提携拡大を発表した。FANUCとの連携では、MachineMotion AIプラットフォームがFANUC産業用・協働ロボットシリーズ（CRX、LR Mate、M-710iD等）に対応し、オペレータが始点・終点を指定するだけでAIが衝突回避パスを自動生成する「ゴール指向型プログラミング」を実現する。NVIDIA Isaac Foundation Stereoによるゼロショット立体深度推定でデジタルツインをリアルタイム生成する仕組みだ。Universal Robots向けにはデジタルツイン環境を最適化し、ハードウェア設置前にロボットセルを設計・シミュレート・検証できる統合ワークフローを提供する。2016年創業のVentionは全世界4,000以上の工場に2.5万台超の機械を展開しており、2026年1月に1億1,000万ドルの資金調達を完了している。「設計から生産まで数日」を実現する統合環境が強みとされる。
+💡 今後の注目点：FANUC・Universal Robots以外へのプラットフォーム展開（ABB、KUKA等）、米国製造業のニアショアリング需要でのVention採用拡大
+🔗 関連銘柄・セクター：FANUC（東証：6954）、Teradyne (TER) / Universal Robots、Vention（未上場）、NVIDIA（NVIDIA Isaacプラットフォーム）
+📈 投資インプリケーション：ソフトウェア定義型自動化の普及は産業ロボットの導入障壁を下げSME（中小製造業）への展開を加速させる。Teradyne傘下Universal Robotsとの深い統合はTER株に正のインプリケーション
+⚖️ リスク要因：Ventionは未上場のため直接投資機会は限定的。Siemens・ABBのデジタルツインプラットフォームとの競合
+📅 今後のスケジュール：Automate展示（シカゴ、2026年6月）後——北米・欧州でのUR向け新機能展開
+
+### [Agility Robotics、SPAC合併で評価額25億ドルの上場計画——「商業展開済み唯一の米上場純粋ヒューマノイド企業」に](https://www.therobotreport.com/humanoid-maker-agility-robotics-go-public-through-spac-merger/)
+*Agility Robotics to go public via SPAC at $2.5B valuation, first US-listed pure-play humanoid with proven commercial deployments*
+出典: The Robot Report ・ #robotics #2026-06-24
+
+Agility Roboticsは特別目的買収会社（SPAC）Churchill Capital Corp. XIとの合併で上場を計画すると発表した。予定前払価値（pre-money）評価額は25億ドルで、調達額は6.2億ドル超を見込む。同社は自社を「実証済みの商業展開を持つ唯一の米国上場純粋ヒューマノイド企業」と位置付けており、Amazon・GXO Logistics等への納品実績と累計6.5万時間の稼働実績を強調する。最新モデルDigit v5は従来比40%増の積載量50ポンド（約23kg）、22時間稼働、高さ2.1mのリーチを実現し、Google DeepMindおよびNVIDIAと連携するほかNVIDIA Halos安全システムの初期パートナーでもある。生産拠点RoboFab（オレゴン州セーラム）では年間最大1万台の生産能力を持つ。現在の顧客にはSchaeffler・Toyota Motor Manufacturing Canada・Mercado Libreが含まれ、産業・物流・配送向けに展開中。CEO Peggy Johnsonは対象市場（TAM）を米国だけで約1兆ドルと試算している。
+💡 今後の注目点：SPAC取引の完了タイムライン、上場後の株価推移、競合（Figure、Boston Dynamics、Tesla Optimus）との商業展開スピード比較
+🔗 関連銘柄・セクター：Agility Robotics（上場後）、Churchill Capital Corp. XI (CVXI)、NVIDIA (NVDA)、Google DeepMind（Alphabet）、GXO Logistics (GXO)
+📈 投資インプリケーション：ヒューマノイドロボットセクターへの投資機会が米国上場市場で拡大。SPACを通じた早期公開は機関・個人投資家双方の関心を集める可能性。実商業展開の実績は他社スタートアップとの差別化要因
+⚖️ リスク要因：SPAC特有のダイリューションリスク、商業展開スケールの不確実性、競合との技術格差縮小リスク
+📅 今後のスケジュール：SPAC取引完了後Nasdaq上場（具体的時期は未公表）、Digit v5の本格量産開始タイムラインも注目
+
+### [ArmのPhysical AI部門EVP Drew Henry氏——自動車・ロボット・自律システム向けコンピューティング戦略を語る](https://www.therobotreport.com/deep-dive-into-arms-physical-ai-and-robotics-strategies-with-drew-henry/)
+*Arm Holdings' Drew Henry on Physical AI strategy for automotive, robotics and autonomous systems*
+出典: The Robot Report ・ #robotics #2026-06-24
+
+The Robot Reportポッドキャスト第249回は、Arm HoldingsのPhysical AI部門エグゼクティブバイスプレジデント、Drew Henry氏をゲストに迎えた。Henry氏はArmにおいて自動車・ロボティクス・自律システム向けのコンピューティングおよびソフトウェア技術戦略を統括しており、「Physical AI」——AIと現実世界の物理的動作が交差する領域——のビジネスを率いている。（※記事本文はポッドキャスト紹介ページのみで内容が限られており、本要約はタイトル・概要情報に基づく）Armは半導体設計IP（知的財産）を提供するファブレス企業として、スマートフォン市場で圧倒的な地位を築いたが、現在はAI推論・エッジAI・自動運転・産業ロボット向けにIPライセンスを拡大する戦略を取る。スマートフォンで培った電力効率の高いCPU設計は、現場での推論（エッジ推論）が求められる自律システムに適しており、ロボット・自動車市場でのArmチップ採用拡大が見込まれる。
+💡 今後の注目点：ArmのAutomotive/Robotics向けIPロードマップ、Arm v9アーキテクチャ採用状況、自動運転チップ市場でのNVIDIA・Qualcomm等との競合
+🔗 関連銘柄・セクター：Arm Holdings (ARM)、NVIDIA、Qualcomm、自動運転SoC、産業ロボット制御チップ
+📈 投資インプリケーション：ロボティクス・自動運転市場の拡大はArm IPの新たな需要創出源となる。ライセンス収入の多様化はスマートフォン依存低減に寄与
+⚖️ リスク要因：情報が限定的（ポッドキャスト概要のみ）のため詳細不明。RISC-V等のオープンアーキテクチャによる競合脅威
+📅 今後のスケジュール：ポッドキャスト全編公開済み——Armウェブサイトで聴取可能
+
+### [モルガン・スタンレー、中国ヒューマノイドロボット出荷予測を今年2度目の上方修正——2026年5万台・市場規模20億ドルへ](https://www.cnbc.com/2026/06/24/morgan-stanley-china-humanoid-robot-market-forecast.html)
+*Morgan Stanley doubles China humanoid robot forecast again to 50,000 units in 2026, sees $2B market and $15B by 2030*
+出典: CNBC ・ #robotics #2026-06-24
+
+モルガン・スタンレーは2026年の中国ヒューマノイドロボット出荷予測を5万台（市場規模20億ドル）へと上方修正した。これは同年内2度目の修正であり、1月の当初予測1.4万台から3倍超となる。同銀行は商業検証・政策支援・サプライチェーンの整備が想定より速く進んでいることを修正理由として挙げる。中国政府は「体化AI（embodied AI）」を5カ年計画の優先テーマとして指定しており、地方政府が土地・オフィス補助と優遇融資でスタートアップを支援している。2030年には年間出荷46.6万台・市場規模150億ドルに達すると予測する。モルガン・スタンレーはサプライチェーン調査からLeaderdrive（上海上場）をヒューマノイドの主要受益者として名指しし、目標株価を269元から464元へ引き上げた。LeaderdriveはUbtechやGalbotなどに精密ロボット部品を供給し今年の世界シェア40%を見込む。中国国内では工場・物流に加え、無人小売店や対話型商業サービスへの展開も加速しているという。
+💡 今後の注目点：2026年実際出荷数の追跡、Leaderdrive等サプライチェーン企業の利益動向、米中貿易摩擦が中国ロボット輸出に与える影響
+🔗 関連銘柄・セクター：Leaderdrive（688557.SS）、Ubtech、Galbot、NVIDIA（NVIDIAチップ搭載中国製ロボットへの輸出規制リスク）
+📈 投資インプリケーション：中国のヒューマノイドロボット市場は世界最大の立ち上がりを見せておりサプライチェーン全体（精密部品・センサー・アクチュエータ）の受益が見込まれる。ただし地政学リスクが評価に大きく影響
+⚖️ リスク要因：米国の中国ロボット・AI規制、技術輸出規制、過剰投資による価格競争激化、商業化速度の見通し誤り
+📅 今後のスケジュール：2026年末——年間出荷数の実績確認；2030年——150億ドル市場目標
+
+### [Amazon傘下のZoox、ロボタクシーを刷新——年内有料サービス開始へ、年間1万台の生産体制へ拡張](https://www.cnbc.com/2026/06/24/amazons-zoox-unveils-redesigned-robotaxi-ahead-of-upcoming-expansion.html)
+*Amazon's Zoox unveils redesigned robotaxi ahead of commercial service launch and 10,000-unit annual production scale-up*
+出典: CNBC ・ #robotics #2026-06-24
+
+Amazonの自動運転子会社Zooxは「トースター型」ロボタクシーの次世代モデルをお披露目した。改良点はタッチスクリーンの高品質化、座席・ヘッドレストの快適性向上、忘れ物が見つけやすいインテリア設計、双方向識別反射板の大型化・配置変更などだ。同社は今年中に有料サービスを開始する計画で、現在はラスベガス・サンフランシスコで無料運行中、マイアミ・オースティンでも限定公開中。サンフランシスコ湾岸エリアの製造ハブで大規模生産を近く開始し、最終的に年間1万台の生産能力を目指す。Zooxは2020年にAmazonが13億ドルで買収した。週50万回以上の有料乗車を実現しているWaymo（Alphabet）に対し、Zooxはラスベガス開始以来の累計乗客数50万人超と大きく後れを取っている。有料化にはNHTSAによる最大2,500台の商業運転許可が必要で現在審査中。ZooxはUberとのパートナーシップでラスベガスにてUberアプリ経由の乗車予約も開始した。
+💡 今後の注目点：NHTSA商業運転許可の取得時期、有料サービス開始後の料金設定と乗車数、WaymoとのU.S.ロボタクシー競争
+🔗 関連銘柄・セクター：Amazon (AMZN)、Alphabet/Waymo (GOOGL)、Uber (UBER)、Tesla（FSD競合）
+📈 投資インプリケーション：Zooxの有料化移行はAmazonの自動運転事業の収益化フェーズへの転換点。Uberパートナーシップによるリーチ拡大は重要な商業加速剤となり得る
+⚖️ リスク要因：規制認可の遅延、Waymoとの市場シェア競争、自動運転事故リスク、製造スケールアップの課題
+📅 今後のスケジュール：2026年内——有料サービス開始予定；NHTSA許可取得後——2,500台規模の商業展開；製造ハブ本格稼働——年1万台生産へ
 
 ## 2026-06-23
 
