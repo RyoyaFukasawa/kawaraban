@@ -1,6 +1,65 @@
 # 🤖 AI・先進技術 — 全アーカイブ
 
-全91件 / 日付の新しい順
+全96件 / 日付の新しい順
+
+## 2026-06-24
+
+### [⚠️ 韓国銀行がAI生産性レポートを公表——週1時間の節約も企業レベルの生産性向上はゼロ、という投稿がある](https://www.reddit.com/r/LocalLLaMA/comments/1uecytz/the_bank_of_korea_just_released_a_report_about_ai/)
+*Bank of Korea AI productivity report: AI saves 1hr/week per worker but shows zero productivity gain at company level*
+出典: Reddit/r/LocalLLaMA ・ #ai #2026-06-24
+
+r/LocalLLaMAに、韓国銀行（Bank of Korea）がAI生産性に関するレポートを公表したという投稿がある。同投稿によれば、AIを職場で使用することで週3.8%（約1時間）の業務削減が可能だが、その削減が会社全体の生産性向上につながるかどうかを問われると「相関はゼロ」だとレポートは結論付けているという。AIがレポート作成を大幅に高速化するものの、それがさらに多くのレポートを生む結果となり、報告・レビューに費やす時間は増加し続けるとのことだ。また節約された1時間を新たな業務に使用しても追加報酬は得られないという。仮にこれらの副作用が全くなかった場合でも、期待できる実質生産性向上は最大1%に留まるとされる。投稿者は「数百兆ウォンのコストをかけて作ったAIで、個人は週1時間節約できるが、会社全体の仕事量は増えた」と指摘する。韓国は半導体（Samsung・SK Hynix）を通じてAIブームの経済的恩恵を直接受けている国であり、その中央銀行のレポートとして信頼性が高い可能性があると投稿者は述べている。なお本情報はReddit投稿および韓国語原文に基づくものであり、公式データの直接確認・裏取りは未完了である。
+⚠️ 未確認情報（Reddit発・要裏取り）
+💡 今後の注目点：韓国銀行レポートの英語翻訳版・正式発表、他国中央銀行や学術研究機関によるAI生産性研究との比較
+🔗 関連銘柄・セクター：AI SaaS（生産性効果の過大評価リスク）、エンタープライズAI導入コンサル
+📈 投資インプリケーション：中央銀行レポートがAIによる「生産性向上」に疑問を投げかける事例は、AI関連株の過熱評価に対するネガティブカタリストとなり得る。エンタープライズAI導入のROI検証がより厳密になる可能性
+⚖️ リスク要因：未確認情報。単一国・短期研究の一般化リスク。AIの生産性効果は業種・用途により大きく異なる可能性
+📅 今後のスケジュール：韓国銀行公式ウェブサイトでの原文確認が推奨される
+
+### [⚠️ Qwen-AgentWorld-35B-A3B——エージェントが取った行動後に「環境が何を返すか」を予測する言語世界モデル、という投稿がある](https://www.reddit.com/r/LocalLLaMA/comments/1ue5149/qwenagentworld35ba3b_a_3bactive_moe_trained_to/)
+*Qwen-AgentWorld-35B-A3B: 35B MoE model trained as a language world model to simulate MCP, terminal, SWE, Android, web and OS environments*
+出典: Reddit/r/LocalLLaMA ・ #ai #2026-06-24
+
+r/LocalLLaMAに、Qwen-AgentWorld-35B-A3Bというモデルに関する投稿がある。同モデルは35Bパラメータ（アクティブ3B）のMoEであり、投稿によれば通常のチャットモデルや自律エージェントとは異なり「エージェントが行動を取った後に環境が何を返すか」を予測することに特化した「言語世界モデル（language world model）」だという。対象とする7つのエージェントインタラクションドメインはMCPツール呼び出し・検索・ターミナル・ソフトウェアエンジニアリング・Android・Web・OSのGUI操作とされる。想定用途としてはエージェントの訓練、オフライン評価、合成軌跡生成、ツール使用ワークフローのテスト、実際のツールを常時稼働させずにサンドボックス的な環境構築などが挙げられている。モデルはHuggingFaceで公開されているとされ、Qwenブランドはアリババ傘下のQwen開発チームによるものとみられる。なお本情報はReddit投稿に基づくものであり、公式発表との照合・裏取りは未完了である。
+⚠️ 未確認情報（Reddit発・要裏取り）
+💡 今後の注目点：Qwenの公式アナウンス・論文、エージェント評価ベンチマークでの性能確認、実用的な活用事例の登場
+🔗 関連銘柄・セクター：AI Agent開発インフラ、開発者向けAIツール企業、中国AI（Alibaba BABA）
+📈 投資インプリケーション：エージェントの環境シミュレーターが普及すれば本番環境を使わずエージェント訓練・検証ができコスト削減につながる可能性。オープンウェイトモデルの能力拡張がエンタープライズAI採用を加速する可能性
+⚖️ リスク要因：未確認情報。実際の精度・汎用性は未検証。Alibaba/中国企業のモデルへの規制リスク
+📅 今後のスケジュール：Qwen公式ブログ・論文公開タイミングを要確認
+
+### [OpenAI・Broadcom、LLM推論専用チップ「Jalapeño」を発表——わずか9カ月で開発、2026年末に大規模展開へ](https://openai.com/index/openai-broadcom-jalapeno-inference-chip)
+*OpenAI and Broadcom unveil Jalapeño, OpenAI's first custom LLM inference chip*
+出典: OpenAI ・ #ai #2026-06-24
+
+OpenAIとBroadcomは、LLM推論専用に設計したカスタムAIアクセラレータ「Jalapeño」を共同発表した。汎用GPUを転用した設計ではなく、LLMの推論カーネル・メモリ移動・ネットワーキング・サービングパターンに特化したゼロベース設計が特徴であり、現行最先端比で「大幅に優れたperformance per watt」をエンジニアリングサンプル段階で確認しているという。開発期間はわずか9カ月で「ハイパフォーマンス半導体における最速ASICサイクル」とされる。チップ設計の一部にOpenAIの自社モデルを活用した点も注目されており、ソフトウェア・ハードウェア共同開発を実際の推論システムで実証した形だ。現在、GPT-5.3-Codex-SparkなどのMLワークロードがエンジニアリングサンプル上で本番目標周波数・電力下で稼働中。アーキテクチャはデータ移動を削減し、理論ピーク性能に近い実稼働率を実現する設計とされる。2026年末までに初期展開を開始し、MicrosoftらとのギガワットスケールDCに適用予定。OpenAIのフルスタック垂直統合戦略——モデル・カーネル・チップ・ネットワーク・サービング——の核心をなすマイルストーンとなる。
+💡 今後の注目点：詳細なパフォーマンスレポート（数カ月以内公表予定）、Jalapeñoの推論コスト・レイテンシへの実効影響、Nvidiaとの競合ポジション変化
+🔗 関連銘柄・セクター：Broadcom (AVGO)、Celestica (CLS)、Nvidia (NVDA)、AI推論インフラ、カスタムASIC設計受託
+📈 投資インプリケーション：OpenAIの自社チップ量産成功はNvidia依存を低減し、推論コスト削減→サービス普及拡大の好循環を生む。BroadcomはTSMC製造を通じてAI ASICエコシステムの重要な受益者となる見通し
+⚖️ リスク要因：技術的リスク（大規模展開時の歩留まり・信頼性）、Nvidiaのソフトウェアエコシステム優位性、他社（Google TPU、AWS Trainium等）との競合激化
+📅 今後のスケジュール：2026年中——詳細テクニカルレポート公表；2026年末——初期大規模展開開始；2027年以降——マルチ世代ロードマップ継続展開
+
+### [NVIDIA NeMo AutoModel、MoEモデルのファインチューニングを最大3.7倍高速化——GPU メモリ29〜32%削減、HuggingFace完全互換](https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel)
+*NVIDIA NeMo AutoModel delivers 3.4-3.7x MoE fine-tuning speedup with 29-32% GPU memory reduction, drop-in HuggingFace compatible*
+出典: NVIDIA / HuggingFace ・ #ai #2026-06-24
+
+NVIDIAはオープンソースライブラリ「NeMo AutoModel」を公開し、HuggingFace Transformers v5上でMixture-of-Experts（MoE）モデルのファインチューニングを大幅に高速化できることを示した。8×H100（80GB）の単一ノード環境でQwen3-30B-A3BおよびNemotron 3 Nano 30B A3Bを検証した結果、Transformers v5比で3.4〜3.7倍のスループット向上と29〜32%のGPUメモリ削減を達成した。特徴的なのはAPIの完全互換性で、既存のHuggingFaceコードにおいてimport文を1行変更するだけで全ての最適化が適用される。内部ではExpert Parallelism（EP）、DeepEP fused all-to-all dispatch、TransformerEngineカーネルを統合しており、Transformers v5がOOMになる550Bパラメータモデル（Nemotron 3 Ultra 550B A55B）の16ノード（128 GPU）フルファインチューニングも可能とした。save_pretrained()は標準HFチェックポイントを出力するためvLLMやSGLang等の推論エンジンとの連携も維持される。Transformers v4ではデッドロックが発生するQwen3 MoE系モデルもv5+AutoModelで動作する。
+💡 今後の注目点：非NVIDIA GPU（AMD ROCm等）への対応状況、さらなるモデルファミリーへの最適化拡張、Transformers v5へのDeepEP統合タイムライン
+🔗 関連銘柄・セクター：NVIDIA (NVDA)、クラウドAIインフラ（AWS、GCP、Azure）、MoEモデル提供各社
+📈 投資インプリケーション：MoEファインチューニングの効率化はNVIDIA H100/H200の利用効率を高め、同一GPUリソースでのモデル訓練コスト削減につながる。NVIDIAのオープンソース戦略強化が開発者エコシステムを引き寄せる効果も期待
+⚖️ リスク要因：オープンソース競合（Apple MLX、AMD ROCm等）、NVIDIAハードウェア依存リスク
+📅 今後のスケジュール：Transformers v5のDeepEP統合タイムライン次第でさらなる標準化が進む見通し
+
+### [Google DeepMind、Gemini 3.5 Flashに「コンピュータ使用」機能を導入——エージェントAIの実用化に向けた競争が加速](https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/)
+*Google DeepMind introduces computer use capability in Gemini 3.5 Flash*
+出典: Google DeepMind ・ #ai #2026-06-24
+
+Google DeepMindはGemini 3.5 Flashに、AIが画面を見てマウス・キーボードを操作できる「コンピュータ使用（Computer Use）」機能を追加したと公式ブログで発表した。（※記事本文の取得に失敗したため以下はタイトル情報のみを根拠とする）Anthropicが2024年末にClaude 3.5 Sonnetで同様の機能を公開して以来、各AIプロバイダーがGUI操作能力を競争的に実装する流れが続いており、GoogleもGemini 3.5 Flashという軽量・高速モデルにこの機能を搭載した。エージェントAIがウェブブラウザ・デスクトップアプリ・クラウドコンソールなどを自律的に操作する能力は、RPA代替やソフトウェアテスト自動化、エンタープライズワークフロー効率化において大きな市場機会を持つ。Flashシリーズは速度とコスト効率に優れる軽量ラインとして位置付けられており、エンタープライズ向けエージェント実装でのコスト競争力が高まる可能性がある。
+💡 今後の注目点：Gemini 3.5 FlashのComputer Use精度・成功率、開発者採用状況、Anthropic・OpenAIとのエージェント機能比較
+🔗 関連銘柄・セクター：Alphabet/Google (GOOGL)、エンタープライズAIエージェント、RPA（UiPath等）代替市場
+📈 投資インプリケーション：軽量モデルへのコンピュータ使用機能実装は、エンタープライズAIエージェント市場での低コスト実用化を加速させる。Google Cloudの法人顧客獲得に貢献する可能性
+⚖️ リスク要因：精度・信頼性（誤操作リスク）、セキュリティ懸念、エンタープライズ導入障壁、競合優位性の持続性
+📅 今後のスケジュール：詳細は記事本文未取得のため不明
 
 ## 2026-06-23
 
