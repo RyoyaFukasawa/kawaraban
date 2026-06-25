@@ -1,6 +1,68 @@
 # 🖥 テクノロジー — 全アーカイブ
 
-全124件 / 日付の新しい順
+全129件 / 日付の新しい順
+
+## 2026-06-25
+
+### [中国AI「Z.ai」がAnthropicとOpenAIに肉薄—シリコンバレーで低コストモデルが注目](https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html)
+*Chinese A.I. Models Gain Ground on Anthropic and OpenAI*
+出典: NYT Technology ・ #technology #2026-06-25
+
+中国のAIスタートアップZ.aiが、AnthropicやOpenAIに匹敵する性能を大幅に低いコストで提供するモデルをリリースし、シリコンバレーのエンジニアらから注目を集めていると報じられた。米国輸出規制の下でもトレーニングデータや知識蒸留の工夫で高性能モデルを開発する能力を中国企業が示した形で、AI覇権競争の構図に影響を与える可能性がある。Anthropic vs Alibaba訴訟（同日報道）と合わせて、中国企業による技術追随の速さが業界の警戒感を高めている。中国AIモデルが米国トップ企業と互角の評価を受けるのは異例で、コスト競争力が導入障壁を引き下げる。米国規制当局はAI技術のアクセス制限をさらに強化する可能性もある。
+
+💡投資含意：中国AIの台頭は米国トップAI企業のプライシング力と競争優位に長期的な下押し圧力。各国が主権AIを追求する動きを加速。
+🔗波及：日本・欧州のAIスタートアップにも競合圧力。クラウドAI APIの値下げ競争加速か。
+📈関連銘柄：Alibaba (BABA)、C3.ai (AI)、Microsoft (MSFT)、Alphabet (GOOGL)
+⚖️強気：コスト競争激化はAI採用拡大のポジティブシグナル / 弱気：米国AI企業の収益性悪化リスク
+📅次の注目：米政府のAI輸出規制強化策、Z.aiの米国市場参入状況
+
+### [OpenAI、IPOを2027年以降に先送り検討—SpaceX株乱高下がリスクシグナルに](https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html)
+*OpenAI Leans Toward Holding Up I.P.O. Until Next Year*
+出典: NYT Technology ・ #technology #2026-06-25
+
+OpenAIがIPOを早期実施せず2027年以降に先送りする方向で検討していると伝えられた。アドバイザーらがSam Altman CEOに慎重な姿勢を勧めており、SpaceX株の乱高下がハイバリュエーションAI銘柄への投資家懸念を示すシグナルとなっている。OpenAIは莫大な研究開発費・インフラ投資という財務的課題を抱えており、上場タイミングとバリュエーションの折り合いが難しい状況。Anthropicとの競合、中国AI（Z.ai等）の台頭、チップコスト高騰も収益見通しに影響。SoftBankからの大型出資やビジネス向けAPI需要の拡大などポジティブ材料もあり、IPO判断は流動的。株式市場でのAI関連銘柄のボラティリティが続く中で上場環境の見極めが続く。
+
+💡投資含意：OpenAI IPO遅延は既存の非上場バリュエーションを維持しつつ事業成熟を図る戦略。上場が延期されるほどAI ETFや間接露出銘柄（MSFT）への資金流入が続く。
+🔗波及：AnthropicやMistral等の競合IPO計画にも影響。VC資金の滞留が続くとセカンダリー市場で流動性圧迫。
+📈関連銘柄：Microsoft (MSFT)、SoftBank (9984.T)、Nvidia (NVDA)
+⚖️強気：IPO先送りで内部基盤強化・評価倍率維持 / 弱気：資金調達環境悪化で事業拡大ペース鈍化リスク
+📅次の注目：OpenAI次回資金調達ラウンドの条件、Altman CEOの公開発言
+
+### [IBMが1ナノメートル以下のチップ設計で突破口—「集合住宅型」積層アーキテクチャを発表](https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss)
+*IBM hails new 'block of flats' design breakthrough for ultra tiny chips*
+出典: BBC Technology ・ #technology #2026-06-25
+
+IBMが世界初となる1ナノメートル未満のチップ技術を実現したと発表。「集合住宅（block of flats）」設計と称される新アーキテクチャで、超微細な構造を縦に積み重ねることで物理的な限界を突破する。量産化にはまだ時間を要するとしているが、半導体微細化競争の次世代に向けた重要なマイルストーン。現行最先端はTSMCやSamsungが採用する2〜3nm世代であり、1nm以下への到達は業界の注目を集める。実用化されれば演算密度の飛躍的向上が見込まれ、エッジAIや省電力サーバーチップへの応用が期待される。MicronやAppleの値上げ報道と並び、チップ技術の革新と供給制約の両面が注目される一日となった。
+
+💡投資含意：IBMの研究優位がチップ設計のライセンス収益強化につながる可能性。量産化見通しはまだ遠いため短期インパクトは限定的。
+🔗波及：TSMC・Samsung・Intelへのプロセス競争圧力。EUV以降のリソグラフィ装置ベンダー（ASML等）に需要。
+📈関連銘柄：IBM (IBM)、ASML (ASML)、TSMC (TSM)、Samsung (005930.KS)
+⚖️強気：量産化成功で半導体ロードマップを再定義 / 弱気：研究発表から商用化まで10年超かかる可能性
+📅次の注目：IBM研究論文の査読結果、競合他社（Intel、TSMC）の追随発表
+
+### [トランプ政権が自動運転車のブレーキペダル義務廃止を提案—テスラ・Zooxに規制上の追い風](https://techcrunch.com/2026/06/25/trump-admin-proposes-axing-brake-pedal-requirement-for-avs-in-a-boost-for-tesla/)
+*Trump administration proposes axing brake-pedal requirement for AVs in a boost for Tesla*
+出典: TechCrunch ・ #technology #2026-06-25
+
+トランプ政権の運輸省（DOT）が「自動運転システム専用車両」にブレーキペダルを義務付ける連邦規制の廃止を提案した。現在はFMVSSの例外申請が必要で展開台数にも制限があり、テスラのCybercabやAmazon傘下Zooxの商業展開の最大障壁となっていた。30日間のパブリックコメント期間を経て採否を決定する。テスラはCybercabについてFMVSS例外申請を一切行っておらず、CEO イーロン・マスクは規制承認を待つと繰り返し述べていた。テスラは現在テキサス州オースティンで安全ドライバーなしのロボタクシー試験を実施し、一部でテレオペレーターによる遠隔監視を行っていることを認めている。Zooxは既に例外申請承認済みだが商業展開許可の次申請を待っている状況。Waymo等ステアリングホイール付きAVは現状維持で差別化が変化する可能性。NHTSAは「最も重要な安全要件は強化しつつ無意味な障壁を撤廃する」と説明。
+
+💡投資含意：ブレーキペダル要件廃止が実現すればテスラCybercabの量産・展開が大幅加速。AV向けセンサー・LiDARサプライチェーンの需要増加。
+🔗波及：Waymo等ステアリングホイール付きAVは現状維持。保険会社・監査機関は新たなリスク評価基準の策定を迫られる。
+📈関連銘柄：Tesla (TSLA)、Mobileye (MBLY)、Aptiv (APTV)、Luminar (LAZR)、Amazon (AMZN)
+⚖️強気：規制緩和でAV市場の実用化が一気に加速 / 弱気：安全性への懸念が世論・訴訟リスクを高める
+📅次の注目：パブリックコメント期間終了（30日後）、テスラCybercab量産計画の発表
+
+### [AppleがMac・iPadを値上げ—AIメモリコスト高騰を理由に、iPhoneは据え置き](https://techcrunch.com/2026/06/25/apple-raises-mac-and-ipad-prices-spares-iphone-for-now/)
+*Apple raises Mac and iPad prices, spares iPhone for now*
+出典: TechCrunch ・ #technology #2026-06-25
+
+AppleがMacBook AirとPro、iPad AirとProの価格引き上げを発表。AIチップ搭載に伴うメモリ費用の「前例のない」高騰を理由としており、一部モデルで最大約20%の値上げとなる。iPhoneは今回の対象外。Appleの株価は発表を受けて1年以上ぶりの大幅下落を記録。Microsoftも同日Xboxコンソールの値上げを発表しており、テック大手によるメモリコスト転嫁の動きが続いている。AI機能強化のためのオンデバイスRAM増量がコスト上昇の主因とされ、SK HynixやMicronなどHBMサプライチェーンの逼迫を反映。消費者は新製品購入か旧モデル継続かの選択を迫られており、高価格帯製品での需要鈍化リスクが懸念される。Appleは一方でAIソフトウェア機能の訴求を強めており、プレミアム価格正当化の戦略を堅持している。
+
+💡投資含意：Appleの価格転嫁はメモリサプライヤー（Micron、SK Hynix）の強交渉力を示す。AI端末普及に価格障壁が生じる可能性。
+🔗波及：PC・タブレット市場全体で値上げトレンドが定着すれば買い替えサイクル長期化。Android勢に価格競争力の機会。
+📈関連銘柄：Apple (AAPL)、Micron (MU)、SK Hynix (000660.KS)、Samsung (005930.KS)
+⚖️強気：プレミアム価格帯での利益率改善 / 弱気：株価急落が示す投資家の需要鈍化懸念
+📅次の注目：Q3 Apple決算での販売台数影響、iPhone値上げの可能性・時期
 
 ## 2026-06-24
 

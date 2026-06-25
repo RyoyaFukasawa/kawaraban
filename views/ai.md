@@ -1,6 +1,72 @@
 # 🤖 AI・先進技術 — 全アーカイブ
 
-全96件 / 日付の新しい順
+全101件 / 日付の新しい順
+
+## 2026-06-25
+
+### [⚠️ NVIDIAが拡散型言語モデル「Nemotron-TwoTower-30B」をリリース](https://www.reddit.com/r/LocalLLaMA/comments/1uf4azy/nvidia_has_released/)
+*NVIDIA has released Nemotron-TwoTower-30B-A3B-Base-BF16, an unusual diffusion-based language model built from the Nemotron 3 Nano 30B-A3B backbone.*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-25
+
+NVIDIAがNemotron 3 Nano 30B-A3Bをベースとした拡散ベース言語モデル「Nemotron-TwoTower-30B-A3B-Base-BF16」をHugging Face上でリリースしたとの報告。標準的な左→右の自己回帰生成ではなく拡散プロセスを用いる点が特異。アクティブパラメータ数3Bで30Bクラスの能力を持つMoEアーキテクチャとの組み合わせにより推論効率を追求。拡散LMは双方向コンテキストを活用できるため特定タスクで自己回帰モデルを上回る可能性がある。HuggingFaceで公開されておりコミュニティによる検証が始まっている段階で、性能評価結果はまだ出揃っていない。NVIDIAの研究部門がオープンソースLLM競争に本格参入する姿勢を示す動きとして注目される。同社がモデルプロバイダーとしての地位強化を図り、ハードウェア売上にとどまらないAIエコシステム支配を目指している可能性がある。
+
+💡投資含意：拡散LMが成熟すれば推論コスト構造が変わりNvidia自身がモデルプロバイダーとして地位強化。自己回帰専用設計の一部ASICに課題。
+🔗波及：既存の自己回帰前提の推論最適化ツール（vLLM等）に設計上の課題。OSSモデル競争が激化。
+📈関連銘柄：Nvidia (NVDA)、AMD (AMD)
+⚖️強気：Nvidiaエコシステムロックイン強化 / 弱気：拡散LMはまだ研究段階で商用化は不透明
+📅次の注目：コミュニティベンチマーク結果、Nemotron系モデルの本番ユースケース事例
+
+⚠️ 未確認情報（Reddit発・要裏取り）
+
+### [⚠️ AnthropicがAlibabaによるAI能力の「不正抽出」キャンペーンを告発](https://www.reddit.com/r/LocalLLaMA/comments/1ueyl2i/anthropic_accuses_alibaba_of_campaign_to_brazenly/)
+*Anthropic accuses Alibaba of campaign to 'brazenly' and 'illicitly' extract AI capabilities*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-25
+
+AnthropicがAlibabaを相手に、Claudeの能力を「ずうずうしく違法に」蒸留（モデル知識の転移）しようとする組織的なキャンペーンを実施したと告発しているとの報道。CNBCとBloombergが同日取り上げており信頼性は比較的高い。訴状によればAlibabaは大量のAPIリクエストを用いてAnthropicモデルの回答をトレーニングデータとして利用した疑いがある。知的財産および利用規約違反の観点から法的手続きが進行中とされる。AI覇権競争の中で中国企業による知識抽出を巡る法廷闘争として業界内の注目度が高い。Qwen等モデルとの比較評価でClaudeに迫る性能が示されており、その背景として蒸留疑惑が浮上した形。AI企業の利用規約エンフォースメントの新たな先例となる可能性がある。同日報道の「Z.aiがAnthropicに肉薄」との記事とともに中国AIの台頭が加速していることを示す。
+
+💡投資含意：AI知的財産訴訟の拡大はAnthropicら閉鎖型モデル企業にとって参入障壁強化の好機。蒸留抑止措置普及でオープンソースモデルの差別化が変化。
+🔗波及：中国AIエコシステム全体への訴訟・規制リスク波及。米国の輸出規制強化の口実に。
+📈関連銘柄：Alibaba (BABA)、Microsoft (MSFT/OpenAI投資)、Alphabet (GOOGL)
+⚖️強気：Anthropicの技術的優位を法的に保護できれば差別化持続 / 弱気：訴訟長期化でリソース消耗、蒸留への完全な歯止めは技術的に困難
+📅次の注目：訴訟進展・仮処分申請、AlibabaのQwenモデルへの影響評価
+
+⚠️ 未確認情報（Reddit発・要裏取り）
+
+### [AIエージェントが仕事を変える：OpenAIのCodex導入事例分析](https://openai.com/index/how-agents-are-transforming-work)
+*How agents are transforming work*
+出典: OpenAI ・ #ai #2026-06-25
+
+OpenAIの経済研究論文が、AIエージェント「Codex」が知識労働をどう変えているかを定量的に示した。チャットボット型の単発インタラクションから、数時間にわたる自律的なタスク委任へとシフトが起きている。Codexリクエストの約4分の1は人間が1時間以上かかるタスクに相当する。2025年8月から2026年6月にかけ個人ユーザーの80.6%が30分以上かかる作業をCodexに依頼した。OpenAI社内では非エンジニア部門（法務・人事・財務等）のCodex採用が特に速く、非開発者の個人ユーザーは137倍増。99パーセンタイルのユーザーは1日60時間以上のエージェント稼働時間を生成し、複数の並列エージェントを統率している。法務・採用・財務といった職種がエンジニアリング作業の一部を代替的に担うようになり、専門技術の壁が低下した。研究部門の中央値Codex使用量は6ヶ月で56倍増と最大の伸びを記録。この移行は労働市場・職場設計・政策立案に広範な示唆をもたらす。
+
+💡投資含意：AIエージェント需要が推論クラウドのGPU消費を押し上げ、API収益を拡大。知識労働の自動化が企業の人件費削減余地を示す。
+🔗波及：HRテック・ローコード自動化ツール・コグニティブアウトソーシング業界に競合圧力。
+📈関連銘柄：Microsoft (MSFT)、Nvidia (NVDA)、ServiceNow (NOW)、Workday (WDAY)
+⚖️強気：非技術部門への展開が急速でTAM大幅拡大 / 弱気：労働市場への風当たりが規制リスクを招く可能性
+📅次の注目：2026年Q2 GDP統計での知識労働生産性指標、次世代Codex更新リリース
+
+### [コマンド1行でHF JobsにvLLMサーバーを立ち上げる方法](https://huggingface.co/blog/vllm-jobs)
+*Run a vLLM Server on HF Jobs in One Command*
+出典: Hugging Face ・ #ai #2026-06-25
+
+Hugging FaceがvLLMサーバーをHF Jobs基盤上で1コマンドで起動できる手順を公開。Dockerコンテナとして動作し、GPUサーバープロビジョニングが不要。OpenAI互換APIエンドポイントが数分で立ち上がりcurlやPythonクライアントからそのままアクセス可能。HFトークンによる認証でアクセス制御を担保しエンドポイントはデフォルト非公開。課金は秒単位でa10g-largeが$1.50/時間から、H200×2等の大型GPUにも対応。Qwen3.5-122Bなど大規模MOEモデルのOOM時のパラメータ調整方法も解説。GradioによるチャットUIやSSHデバッグも容易に構築でき、ターミナルコーディングエージェントのバックエンドとしても活用可能。長期サービスが必要な場合はInference Endpoints（スケールゼロ対応・より細かいアクセス制御）を推奨する用途別の選択指針も提供。セルフホストLLM展開のハードルを劇的に引き下げる実用チュートリアル。
+
+💡投資含意：セルフホストLLMの展開容易化でクラウドAPIへの依存度低下が加速。オープンソースモデルのエンタープライズ採用拡大につながる。
+🔗波及：OpenAI・Anthropicの商用API収益への競合圧力。GPU市場は民主化で需要層が拡大。
+📈関連銘柄：Nvidia (NVDA)、AMD (AMD)、Cloudflare (NET)、HuggingFace（未上場）
+⚖️強気：セルフホスト需要拡大でGPU消費増加 / 弱気：商用LLMプロバイダーの差別化余地縮小
+📅次の注目：HF Inference Endpointsとの価格競争動向、大規模モデルの商用展開実績
+
+### [ハイブリッドモデルはどのトークンを得意とするか：AllenAIのOlmo比較研究](https://huggingface.co/blog/allenai/hybrid-token-prediction)
+*Which tokens does a hybrid model predict better?*
+出典: Hugging Face ・ #ai #2026-06-25
+
+AllenAIがOlmoハイブリッドモデルとトランスフォーマーを細粒度で比較した研究を発表。同じデータ・トークナイザー・学習レシピでアーキテクチャだけを変え、純粋な差分を分離した。ハイブリッドの優位は意味語（名詞・動詞・形容詞）と代名詞の照応追跡で顕著（損失差約0.04）。一方、入力中に既出の文字列を繰り返すだけのトークンではトランスフォーマーが優勢で、ハイブリッドの優位はほぼ消滅する。リカレント層は固定サイズの圧縮記憶でコンテキストの流れを追跡し処理コストを一定に保つ。注意層は正確なトークン参照が得意だが長コンテキストでコスト急増。コードやHTMLの閉じ括弧など構造的なパターンはトランスフォーマーが同等以上。この知見は長文脈処理コストを削減しつつ意味理解を強化するアーキテクチャ設計に直接役立つ。フィルタリングされた損失指標で特定タイプのトークンに特化した評価が可能になる副次的知見も示された。
+
+💡投資含意：ハイブリッドアーキテクチャ普及で推論コストが大幅低下し、クラウドAIプロバイダーのマージン構造が変わる可能性。
+🔗波及：Mamba/SSM系モデル企業への追い風。GPU設計においてメモリ帯域幅の見直しが必要に。
+📈関連銘柄：Nvidia (NVDA)、AMD (AMD)、AWS・GCP等クラウドAIプロバイダー
+⚖️強気：コスト効率改善が推論需要を一層拡大 / 弱気：アーキテクチャ移行期に既存インフラ投資が無駄になるリスク
+📅次の注目：Olmo Hybrid本番展開、MambaおよびSSMモデルの商用化進展
 
 ## 2026-06-24
 

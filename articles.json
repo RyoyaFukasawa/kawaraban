@@ -4888,5 +4888,225 @@
     "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
     "summary": "ニューヨーク・タイムズは、NSA（米国家安全保障局）がAnthropicの強力なAIモデルへのアクセスを一時的に失ったと報じた。（※記事本文はペイウォールにより取得不可。以下はRSS概要に基づく）本件はトランプ政権がサイバーセキュリティ目的で先進AIシステムへの依存度を高める一方、米国の有力AIデベロッパーとの間で摩擦が生じている状況を浮き彫りにしたとされる。政府機関と民間AIプロバイダーの間では、利用条件・データ管理・モデルの安全性基準をめぐる対立が表面化しており、安全保障上の用途と商業倫理の折り合いの困難さを示す事例となっている。Anthropicは過去にNIST準拠のAI Safety Standards枠組みで政府との連携姿勢を示してきたが、具体的な契約条件で摩擦が生じた可能性がある。政府機関がAIへの依存を深めるほど、プロバイダー側の交渉力も高まる構造的な緊張を示す事例でもある。\n💡 今後の注目点：NSAとAnthropicの契約再開・条件の詳細、政府AI調達における他社（OpenAI、Google DeepMind）との対比、国防省・情報機関のAI利用ガイドラインの変化\n🔗 関連銘柄・セクター：Anthropic（非上場）、Palantir (PLTR)（政府AI代替）、Microsoft（Azure Government経由でOpenAI提供）\n📈 投資インプリケーション：政府向けAI市場の不確実性が高まるとPalantir等の既存政府ITプロバイダーへの需要シフトが起こり得る。Anthropicの政府事業への参入障壁が顕在化した可能性\n⚖️ リスク要因：詳細不明（ペイウォール）。政府AI利用の規制・契約条件の複雑さ\n📅 今後のスケジュール：情報省・NSAからの公式発表を待つ状況",
     "created_at": "2026-06-24T22:35:48.686Z"
+  },
+  {
+    "date": "2026-06-25",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title_ja": "ハイブリッドモデルはどのトークンを得意とするか：AllenAIのOlmo比較研究",
+    "title_en": "Which tokens does a hybrid model predict better?",
+    "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+    "summary": "AllenAIがOlmoハイブリッドモデルとトランスフォーマーを細粒度で比較した研究を発表。同じデータ・トークナイザー・学習レシピでアーキテクチャだけを変え、純粋な差分を分離した。ハイブリッドの優位は意味語（名詞・動詞・形容詞）と代名詞の照応追跡で顕著（損失差約0.04）。一方、入力中に既出の文字列を繰り返すだけのトークンではトランスフォーマーが優勢で、ハイブリッドの優位はほぼ消滅する。リカレント層は固定サイズの圧縮記憶でコンテキストの流れを追跡し処理コストを一定に保つ。注意層は正確なトークン参照が得意だが長コンテキストでコスト急増。コードやHTMLの閉じ括弧など構造的なパターンはトランスフォーマーが同等以上。この知見は長文脈処理コストを削減しつつ意味理解を強化するアーキテクチャ設計に直接役立つ。フィルタリングされた損失指標で特定タイプのトークンに特化した評価が可能になる副次的知見も示された。\n\n💡投資含意：ハイブリッドアーキテクチャ普及で推論コストが大幅低下し、クラウドAIプロバイダーのマージン構造が変わる可能性。\n🔗波及：Mamba/SSM系モデル企業への追い風。GPU設計においてメモリ帯域幅の見直しが必要に。\n📈関連銘柄：Nvidia (NVDA)、AMD (AMD)、AWS・GCP等クラウドAIプロバイダー\n⚖️強気：コスト効率改善が推論需要を一層拡大 / 弱気：アーキテクチャ移行期に既存インフラ投資が無駄になるリスク\n📅次の注目：Olmo Hybrid本番展開、MambaおよびSSMモデルの商用化進展",
+    "created_at": "2026-06-25T22:28:32.528Z"
+  },
+  {
+    "date": "2026-06-25",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title_ja": "コマンド1行でHF JobsにvLLMサーバーを立ち上げる方法",
+    "title_en": "Run a vLLM Server on HF Jobs in One Command",
+    "url": "https://huggingface.co/blog/vllm-jobs",
+    "summary": "Hugging FaceがvLLMサーバーをHF Jobs基盤上で1コマンドで起動できる手順を公開。Dockerコンテナとして動作し、GPUサーバープロビジョニングが不要。OpenAI互換APIエンドポイントが数分で立ち上がりcurlやPythonクライアントからそのままアクセス可能。HFトークンによる認証でアクセス制御を担保しエンドポイントはデフォルト非公開。課金は秒単位でa10g-largeが$1.50/時間から、H200×2等の大型GPUにも対応。Qwen3.5-122Bなど大規模MOEモデルのOOM時のパラメータ調整方法も解説。GradioによるチャットUIやSSHデバッグも容易に構築でき、ターミナルコーディングエージェントのバックエンドとしても活用可能。長期サービスが必要な場合はInference Endpoints（スケールゼロ対応・より細かいアクセス制御）を推奨する用途別の選択指針も提供。セルフホストLLM展開のハードルを劇的に引き下げる実用チュートリアル。\n\n💡投資含意：セルフホストLLMの展開容易化でクラウドAPIへの依存度低下が加速。オープンソースモデルのエンタープライズ採用拡大につながる。\n🔗波及：OpenAI・Anthropicの商用API収益への競合圧力。GPU市場は民主化で需要層が拡大。\n📈関連銘柄：Nvidia (NVDA)、AMD (AMD)、Cloudflare (NET)、HuggingFace（未上場）\n⚖️強気：セルフホスト需要拡大でGPU消費増加 / 弱気：商用LLMプロバイダーの差別化余地縮小\n📅次の注目：HF Inference Endpointsとの価格競争動向、大規模モデルの商用展開実績",
+    "created_at": "2026-06-25T22:28:32.528Z"
+  },
+  {
+    "date": "2026-06-25",
+    "category": "ai",
+    "source": "OpenAI",
+    "title_ja": "AIエージェントが仕事を変える：OpenAIのCodex導入事例分析",
+    "title_en": "How agents are transforming work",
+    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "summary": "OpenAIの経済研究論文が、AIエージェント「Codex」が知識労働をどう変えているかを定量的に示した。チャットボット型の単発インタラクションから、数時間にわたる自律的なタスク委任へとシフトが起きている。Codexリクエストの約4分の1は人間が1時間以上かかるタスクに相当する。2025年8月から2026年6月にかけ個人ユーザーの80.6%が30分以上かかる作業をCodexに依頼した。OpenAI社内では非エンジニア部門（法務・人事・財務等）のCodex採用が特に速く、非開発者の個人ユーザーは137倍増。99パーセンタイルのユーザーは1日60時間以上のエージェント稼働時間を生成し、複数の並列エージェントを統率している。法務・採用・財務といった職種がエンジニアリング作業の一部を代替的に担うようになり、専門技術の壁が低下した。研究部門の中央値Codex使用量は6ヶ月で56倍増と最大の伸びを記録。この移行は労働市場・職場設計・政策立案に広範な示唆をもたらす。\n\n💡投資含意：AIエージェント需要が推論クラウドのGPU消費を押し上げ、API収益を拡大。知識労働の自動化が企業の人件費削減余地を示す。\n🔗波及：HRテック・ローコード自動化ツール・コグニティブアウトソーシング業界に競合圧力。\n📈関連銘柄：Microsoft (MSFT)、Nvidia (NVDA)、ServiceNow (NOW)、Workday (WDAY)\n⚖️強気：非技術部門への展開が急速でTAM大幅拡大 / 弱気：労働市場への風当たりが規制リスクを招く可能性\n📅次の注目：2026年Q2 GDP統計での知識労働生産性指標、次世代Codex更新リリース",
+    "created_at": "2026-06-25T22:28:32.528Z"
+  },
+  {
+    "date": "2026-06-25",
+    "category": "ai",
+    "source": "Reddit r/LocalLLaMA",
+    "title_ja": "⚠️ AnthropicがAlibabaによるAI能力の「不正抽出」キャンペーンを告発",
+    "title_en": "Anthropic accuses Alibaba of campaign to 'brazenly' and 'illicitly' extract AI capabilities",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ueyl2i/anthropic_accuses_alibaba_of_campaign_to_brazenly/",
+    "summary": "AnthropicがAlibabaを相手に、Claudeの能力を「ずうずうしく違法に」蒸留（モデル知識の転移）しようとする組織的なキャンペーンを実施したと告発しているとの報道。CNBCとBloombergが同日取り上げており信頼性は比較的高い。訴状によればAlibabaは大量のAPIリクエストを用いてAnthropicモデルの回答をトレーニングデータとして利用した疑いがある。知的財産および利用規約違反の観点から法的手続きが進行中とされる。AI覇権競争の中で中国企業による知識抽出を巡る法廷闘争として業界内の注目度が高い。Qwen等モデルとの比較評価でClaudeに迫る性能が示されており、その背景として蒸留疑惑が浮上した形。AI企業の利用規約エンフォースメントの新たな先例となる可能性がある。同日報道の「Z.aiがAnthropicに肉薄」との記事とともに中国AIの台頭が加速していることを示す。\n\n💡投資含意：AI知的財産訴訟の拡大はAnthropicら閉鎖型モデル企業にとって参入障壁強化の好機。蒸留抑止措置普及でオープンソースモデルの差別化が変化。\n🔗波及：中国AIエコシステム全体への訴訟・規制リスク波及。米国の輸出規制強化の口実に。\n📈関連銘柄：Alibaba (BABA)、Microsoft (MSFT/OpenAI投資)、Alphabet (GOOGL)\n⚖️強気：Anthropicの技術的優位を法的に保護できれば差別化持続 / 弱気：訴訟長期化でリソース消耗、蒸留への完全な歯止めは技術的に困難\n📅次の注目：訴訟進展・仮処分申請、AlibabaのQwenモデルへの影響評価\n\n⚠️ 未確認情報（Reddit発・要裏取り）",
+    "created_at": "2026-06-25T22:28:32.528Z"
+  },
+  {
+    "date": "2026-06-25",
+    "category": "ai",
+    "source": "Reddit r/LocalLLaMA",
+    "title_ja": "⚠️ NVIDIAが拡散型言語モデル「Nemotron-TwoTower-30B」をリリース",
+    "title_en": "NVIDIA has released Nemotron-TwoTower-30B-A3B-Base-BF16, an unusual diffusion-based language model built from the Nemotron 3 Nano 30B-A3B backbone.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uf4azy/nvidia_has_released/",
+    "summary": "NVIDIAがNemotron 3 Nano 30B-A3Bをベースとした拡散ベース言語モデル「Nemotron-TwoTower-30B-A3B-Base-BF16」をHugging Face上でリリースしたとの報告。標準的な左→右の自己回帰生成ではなく拡散プロセスを用いる点が特異。アクティブパラメータ数3Bで30Bクラスの能力を持つMoEアーキテクチャとの組み合わせにより推論効率を追求。拡散LMは双方向コンテキストを活用できるため特定タスクで自己回帰モデルを上回る可能性がある。HuggingFaceで公開されておりコミュニティによる検証が始まっている段階で、性能評価結果はまだ出揃っていない。NVIDIAの研究部門がオープンソースLLM競争に本格参入する姿勢を示す動きとして注目される。同社がモデルプロバイダーとしての地位強化を図り、ハードウェア売上にとどまらないAIエコシステム支配を目指している可能性がある。\n\n💡投資含意：拡散LMが成熟すれば推論コスト構造が変わりNvidia自身がモデルプロバイダーとして地位強化。自己回帰専用設計の一部ASICに課題。\n🔗波及：既存の自己回帰前提の推論最適化ツール（vLLM等）に設計上の課題。OSSモデル競争が激化。\n📈関連銘柄：Nvidia (NVDA)、AMD (AMD)\n⚖️強気：Nvidiaエコシステムロックイン強化 / 弱気：拡散LMはまだ研究段階で商用化は不透明\n📅次の注目：コミュニティベンチマーク結果、Nemotron系モデルの本番ユースケース事例\n\n⚠️ 未確認情報（Reddit発・要裏取り）",
+    "created_at": "2026-06-25T22:28:32.528Z"
+  },
+  {
+    "date": "2026-06-25",
+    "category": "economy",
+    "source": "CNBC Technology",
+    "title_ja": "SK Hynixが12%超急騰—Micron好決算とNasdaq ADR上場（最大294億ドル）が材料",
+    "title_en": "SK Hynix surges 12% after Micron earnings; blockbuster Nasdaq listing",
+    "url": "https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html",
+    "summary": "SK HynixがMicronの好決算を受けて株価が12%超急騰し、Nasdaq ADR上場（最大294億ドル調達計画）の発表が追い風となった。Micronは2025年度Q3の売上高が前年比4倍以上を達成しAIメモリ需要がサプライ制約の中で急拡大していることを確認。SK HynixはAIメモリ（HBM）市場で最も直接的な露出を持ち「Micronの好決算はSK Hynixにとってそのまま追い風」とアナリストが評価。ADR上場（17.79百万株、7月10日取引開始予定）はNasdaq投資家基盤拡大とMicronとのバリュエーションギャップ縮小が目的。SK Hynixの年初来騰落率は+300%超。韓国に竜仁半導体クラスター（2027年稼働予定）、米インディアナに40億ドルの先端パッケージング工場も建設中。AIインフラ投資のハイパースケーラー主導の継続でHBMは数年間のサプライ制約が続くとのアナリスト見通し。アジア全体のテック株（Samsung+5%、TSMC+0.63%、東京エレクトロン+7%、Advantest+4%超）も連動高。\n\n💡投資含意：HBMサプライ制約の長期化はSK HynixとMicronの超高利益率を支え、半導体バリューチェーン全体（製造装置含む）に強気材料。\n🔗波及：日本の半導体装置株（東京エレクトロン、Advantest、レーザーテック）に正の波及効果。\n📈関連銘柄：SK Hynix (000660.KS)、Micron (MU)、Samsung (005930.KS)、東京エレクトロン (8035.T)、Advantest (6857.T)\n⚖️強気：AI投資サイクルの長期化でHBM需要は数年単位の追い風 / 弱気：米中摩擦や対中禁輸強化でサプライチェーン再編が必要なリスク\n📅次の注目：SK Hynix ADR上場（7月10日）、Micronの次期ガイダンス",
+    "created_at": "2026-06-25T22:28:32.528Z"
+  },
+  {
+    "date": "2026-06-25",
+    "category": "economy",
+    "source": "CNBC Markets",
+    "title_ja": "5月PCEインフレ率4.1%—2023年以来最高水準でFed利上げ観測が強まる",
+    "title_en": "Core inflation rate hit 3.4% in May, highest since October 2023, Fed's preferred gauge shows",
+    "url": "https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html",
+    "summary": "商務省が発表した5月のPCEインフレ率は前年比4.1%（季節調整済み年率）と2023年4月以来の最高水準を記録した。コアPCE（食品・エネルギー除く）は前年比3.4%で2023年10月以来最高。月次ではPCEが+0.4%、エネルギーが月次+4%と最大の押し上げ要因となった。住宅が+0.3%、金融サービス・保険が+1.2%上昇。インフラン高の主因はイラン戦争によるエネルギー価格高騰の波及と関税コストとされる。個人消費支出は+0.7%と予想を上回り底堅さを維持。個人所得も+0.7%（予想+0.4%超過）、貯蓄率は3%に上昇。一方Q1 GDP確報値は年率+2.1%に上方修正（速報+1.6%）、初回失業保険申請件数は21.5万件と予想23.3万件を下回り景気は底堅い。新Fed議長ケビン・ウォーシュは物価安定を最優先課題とし、9月のFOMCでの利上げ観測が市場で高まっている。\n\n💡投資含意：PCE4.1%で9月利上げの確度が高まり、グロース株・AI銘柄にバリュエーション圧迫。ドル高・債券利回り上昇への資金シフト。\n🔗波及：住宅ローン・企業借入コストの上昇が設備投資・IPO環境を悪化させる可能性。\n📈関連銘柄：TIPSなど物価連動債、エネルギー株 (XOM、CVX)、金融 (JPM、GS)、グロース株には逆風\n⚖️強気：消費・所得の底堅さが景気後退リスクを低下させる / 弱気：利上げ継続でAI投資ブームの資金調達環境が悪化\n📅次の注目：9月FOMCでの利上げ有無、6月CPIデータ（7月中旬発表予定）",
+    "created_at": "2026-06-25T22:28:32.528Z"
+  },
+  {
+    "date": "2026-06-25",
+    "category": "economy",
+    "source": "CNBC Markets",
+    "title_ja": "米国、ベネズエラ地震に即時支援表明—トランプ政権が管理する石油輸出への影響も焦点",
+    "title_en": "Trump pledges rapid U.S. response for Venezuela after historic earthquakes kill hundreds",
+    "url": "https://www.cnbc.com/2026/06/25/venezuela-earthquakes-casualties-trump-pledges-support-aids-oil-.html",
+    "summary": "トランプ大統領が地震直後にベネズエラへの迅速な支援を公式表明し政府機関を総動員する準備に入った。米国は1月の軍事介入以来ベネズエラの石油輸出を事実上管理下に置いており、4月の米国管理下の石油輸出額は1月の6億ドルから37億ドルへ急増していた。国務省はDARTチームと捜索救助・医療・人道物資を派遣済み。ルビオ国務長官は軍が輸送・物流支援に当たると表明。マドゥロ政権後の暫定政府を率いるロドリゲス副大統領がトランプ政権に感謝を表明し中国・カタール・ブラジルからも支援が届いている。USGSは死者が1万人超となる確率41%・GDP影響最大7%と推計するなど経済的打撃も甚大。今回の人道外交はトランプ政権とベネズエラ暫定政府の関係を強化し米国の石油権益確保に長期的なプラス材料となる見通し。ただし空港損傷により短期的な石油生産・輸出への影響が懸念される。\n\n💡投資含意：ベネズエラ石油インフラへの打撃は短期的に中東原油依存を高めエネルギー価格に上昇圧力。米国の支援継続で長期的な権益維持につながる。\n🔗波及：ChevronなどのベネズエラOFSI契約企業に即時影響。復興需要は建設・重機セクターに商機。\n📈関連銘柄：Chevron (CVX)、SLB (SLB)、Halliburton (HAL)、Caterpillar (CAT)\n⚖️強気：米国支援が石油輸出管理の継続性を強化 / 弱気：地震被害がインフラに甚大な打撃を与え生産回復に数ヶ月以上かかるリスク\n📅次の注目：ベネズエラ石油生産回復状況の週次データ、米国支援規模（予算）の議会承認動向",
+    "created_at": "2026-06-25T22:28:32.528Z"
+  },
+  {
+    "date": "2026-06-25",
+    "category": "economy",
+    "source": "Financial Times",
+    "title_ja": "ホルムズ海峡の船舶退避計画が一時停止—商船攻撃でIMOが安全確認を優先",
+    "title_en": "Attack in Strait of Hormuz halts evacuation plan for stranded ships",
+    "url": "https://www.ft.com/content/5abcb3c1-8ce8-470f-8a37-f47af58b2f7c",
+    "summary": "イランの商船攻撃を受け、国際海事機関（IMO）がペルシャ湾に滞留している数千隻の船員を退避させる大規模計画を一時停止した。IMO事務局長ドミンゲスは「海員の安全を最優先に」として安全保証の確認が取れるまで退避を再開しないと宣言。今回の攻撃は「IMOの退避フレームワーク外で通航していた」船舶が標的とされたとIMOは説明。先週のUS-イラン覚書以降通航船舶数は週6隻→70隻超に急回復していたが攻撃で再び不透明感が強まった。世界の石油供給の約5分の1が通過するチョークポイントの安全確保が改めて焦点。イランはOmani水域経由ルートも「保険対象外」と警告し通航ルート確定が未解決のまま。原油価格はイラン戦争前水準まで低下していたが今回の事態で再び上昇圧力がかかる見通し。\n\n💡投資含意：ホルムズ海峡のリスクプレミアム再上昇は原油・LNG先物価格に即時影響。タンカー株と保険株に注目。\n🔗波及：日本が取り扱う中東原油輸入の7〜8割がホルムズ経由であり、エネルギー安全保障上の重要イベント。\n📈関連銘柄：Brent/WTI原油先物、Frontline (FRO)、Nordic Tankers、東京海上 (8766.T)\n⚖️強気：事実上の管理的緊張でイランが全面封鎖は選ばないとの楽観論 / 弱気：退避計画停止で地域の信頼感が崩壊するリスク\n📅次の注目：IMOの退避再開判断、米国の対イラン新たな対応措置",
+    "created_at": "2026-06-25T22:28:32.528Z"
+  },
+  {
+    "date": "2026-06-25",
+    "category": "economy",
+    "source": "Financial Times",
+    "title_ja": "Micron株が急騰—AI記憶チップ需要でAppleの株価下落と対照的な明暗",
+    "title_en": "Micron shares jump as blockbuster results spark Wall Street tech shake-up",
+    "url": "https://www.ft.com/content/b3ad976b-9967-4952-92ff-822a8e253fb1",
+    "summary": "Micronの2025年度Q3決算が「blockbuster」と評され、AI対応メモリチップ需要の爆発的増加を背景に株価が急騰した。同社売上高は前年比4倍超となりAI関連メモリ市場のサプライ制約が続いていることを確認。一方Appleは同日にMac・iPad値上げを発表した結果、株価が過去1年以上で最大の下落を記録。Appleが値上げの理由として挙げた「AIチップ搭載に伴う前例のないメモリコスト高騰」は、Micronら上流サプライヤーが強い交渉力を持つことを逆説的に示した。市場全体ではMicron急騰が半導体セクター全体を牽引しSK Hynix（+12%）・東京エレクトロン（+7%）なども連動。AIインフラへの投資継続とHBM供給逼迫が2026年後半も続くとのアナリスト見通し。「半導体マージン王者」としての地位がNvidiaやMetaをも上回る水準と評価された。\n\n💡投資含意：Micronの超高マージンは記憶チップの供給制約が維持される限り継続。AIインフラ投資サイクルの持続性を確認する重要なシグナル。\n🔗波及：TSMC・Samsung・SK HynixのHBM増産計画の加速。エッジAIデバイスのコスト構造に影響。\n📈関連銘柄：Micron (MU)、SK Hynix (000660.KS)、Samsung (005930.KS)、Nvidia (NVDA)\n⚖️強気：AI記憶需要の急拡大でMicronは「半導体マージン王者」に / 弱気：iPhone等大口顧客の需要軟化が下期に波及するリスク\n📅次の注目：Micronの次期（Q4 FY2026）ガイダンス、Samsung HBM3E認証状況",
+    "created_at": "2026-06-25T22:28:32.528Z"
+  },
+  {
+    "date": "2026-06-25",
+    "category": "politics",
+    "source": "CBS News",
+    "title_ja": "イランがホルムズ海峡で商船を攻撃—US-イラン覚書締結1週間で合意を揺さぶる",
+    "title_en": "Iran strikes ship in Strait of Hormuz in challenge to U.S.-Iran deal",
+    "url": "https://www.cbsnews.com/news/iran-strikes-commercial-ship-strait-of-hormuz-us-iran-deal-oil/",
+    "summary": "イラン革命防衛隊がホルムズ海峡でシンガポール船籍の商船を攻撃し、米当局が確認した。船橋部分が「未確認飛翔体」に直撃され損傷したが人的被害と環境影響はなかった。今回の攻撃はUS-イラン間の了解覚書（MOU）締結から約1週間後に発生し「通行料なし・60日間の安全通航確保」合意を揺さぶる事態となった。国連IMOは係留中船舶の大規模退避計画を一時停止し安全確認が得られるまで再開しないと発表。MOU締結後の通行船舶数は週6隻→70隻超と急回復していた矢先の出来事。イランは指定ルート以外の通航を「安全保障対象外・保険対象外」と警告しルート争いが継続。ルビオ国務長官はバーレーン訪問中に「実際の行動で判断する」と述べ合意破綻の可能性を示唆した。原油価格はイラン戦争前水準まで低下していたが今回の攻撃で上昇圧力が再燃。\n\n💡投資含意：ホルムズ海峡リスク再燃は原油・LNGの供給不安を高め、エネルギー価格下落トレンドを中断させるリスク。タンカー保険コストが再上昇へ。\n🔗波及：日本のエネルギー安全保障に直撃。海運・保険・石化各業種に即時影響。\n📈関連銘柄：原油先物（WTI、Brent）、Frontline (FRO)、Teekay (TK)、東京海上 (8766.T)\n⚖️強気：イランは全面封鎖より「管理された緊張」を選ぶとの見方で合意は維持される / 弱気：さらなる攻撃で全面封鎖リスク浮上\n📅次の注目：IMOの退避計画再開判断、米国の対イラン制裁・軍事的対応動向",
+    "created_at": "2026-06-25T22:28:32.528Z"
+  },
+  {
+    "date": "2026-06-25",
+    "category": "politics",
+    "source": "CBS News",
+    "title_ja": "ベネズエラでM7.5の大地震—死者188人超、USGSは死者数万人超の可能性を試算",
+    "title_en": "Powerful earthquakes strike Venezuela, hundreds dead or injured",
+    "url": "https://www.cbsnews.com/news/venezuela-earthquakes-death-toll-damage-la-guaira/",
+    "summary": "ベネズエラ北部海岸付近でM7.2とM7.5の連続大地震が発生し188人以上が死亡・1,500人超が負傷、首都カラカスでビルが崩壊するなど広範な被害が生じた。USGSのPAGERシステムは死者が1万人超となる確率41%・10万人超となる確率17%と試算し、GDP影響を最大7%と推計。ベネズエラはカリブプレートと南米プレートの衝突帯に位置し過去1世紀で最大規模の地震とされる。代行大統領デルシー・ロドリゲスが非常事態を宣言。トランプ大統領は即座に「米国は準備万端で支援する」と表明し、DART（disaster assistance response team）・医療・人道支援チームを派遣した。マドゥロ前大統領を逮捕した1月の軍事介入後、米国が事実上の後見人として影響力を維持するベネズエラに中国・カタール・ブラジルも支援を表明。空港の損傷を受けルビオ国務長官は軍が物流支援を担うと述べた。ベネズエラの石油輸出（米国管理下で月30〜40億ドル規模）への一時的混乱リスクも浮上。\n\n💡投資含意：米国主導の緊急支援とベネズエラ石油管理権の維持を通じ、米国はエネルギー外交上の地位を強化。復興需要が建設・インフラ投資を刺激。\n🔗波及：米国が管理するベネズエラ石油輸出への一時的混乱リスク。援助資金の議会審議が必要。\n📈関連銘柄：Chevron (CVX)、SLB (SLB)、Halliburton (HAL)、Caterpillar (CAT)\n⚖️強気：迅速な人道支援でベネズエラとの関係強化→石油権益維持 / 弱気：大規模被害でインフラ・石油生産に長期的打撃\n📅次の注目：被害規模の最終確認・復興計画発表、石油生産への実際の影響",
+    "created_at": "2026-06-25T22:28:32.528Z"
+  },
+  {
+    "date": "2026-06-25",
+    "category": "politics",
+    "source": "PBS Politics",
+    "title_ja": "上院共和党、戦争権限決議を否決—トランプが議員を怒鳴りつけた翌日に党内圧力に屈服",
+    "title_en": "Senate Republicans reject war powers resolution after Trump berates them at Capitol meeting",
+    "url": "https://www.pbs.org/newshour/politics/senate-republicans-reject-war-powers-resolution-after-trump-berates-them-at-capitol-meeting",
+    "summary": "トランプ大統領がイラン戦争に関して共和党上院議員らを議会で激しく叱責した翌日、上院共和党が戦争権限決議案を否決した。決議案はトランプ大統領のイラン作戦の法的根拠を問い議会の戦争権限を確認しようとするものだったが、共和党内の反乱を抑えるための票として機能した。夜間の緊急採決で可決を阻止し大統領への実質的な服従を示した形となった。トランプは議員らに次の選挙で対抗馬を立てると脅したとも伝えられており、党内圧力の強さを露わにした。超党派の批判的な議員らは今後も戦争権限を巡る議論を継続すると表明しており、イラン戦争の長期化に伴う議会-行政府の緊張が続く見通し。ホワイトハウスはその後議会にイラン戦費として876億ドルの追加予算を要求したことも明らかとなっており、財政圧迫と国債市場への影響が懸念される。\n\n💡投資含意：イラン戦争継続の予算要求（876億ドル）は防衛関連支出の継続・拡大を示し防衛株に強気材料。財政赤字拡大圧力が国債市場に波及。\n🔗波及：中東の地政学的緊張継続がエネルギー・海運・航空保険コストに上昇圧力。\n📈関連銘柄：Raytheon (RTX)、Lockheed Martin (LMT)、Northrop Grumman (NOC)、General Dynamics (GD)\n⚖️強気：防衛支出増加で防衛産業に強力な需要 / 弱気：財政悪化→金利上昇→成長株バリュエーション圧迫\n📅次の注目：876億ドル補正予算案の議会審議、次回戦争権限に関する上院採決",
+    "created_at": "2026-06-25T22:28:32.528Z"
+  },
+  {
+    "date": "2026-06-25",
+    "category": "politics",
+    "source": "PBS Politics",
+    "title_ja": "最高裁、ハイチ人・シリア人のTPS終了を6-3で承認—130万人に影響の制度に暗雲",
+    "title_en": "Supreme Court allows Trump administration to end legal protections for Haitians and Syrians",
+    "url": "https://www.pbs.org/newshour/politics/supreme-court-allows-trump-administration-to-end-legal-protections-for-haitians-and-syrians",
+    "summary": "米連邦最高裁が6-3の判決でハイチ人約35万人・シリア人約6,000人に対する一時保護ステータス（TPS）の終了を承認した。下級裁判所の差し止め命令を覆しDHSが迅速にTPS終了できるようになった。TPSは1990年制定で自然災害・内戦など不安定状況から逃れた人々を強制送還から守る制度。ハイチへのTPS付与は2010年の大規模地震後に始まりギャング暴力のたびに延長されてきた。シリアは2012年内戦受けてTPS付与、2024年末のアサド政権崩壊後も継続していた。移民弁護士らは「両国は依然として安全ではない」と主張し、2月に強制送還されたハイチ人女性4人が数ヶ月後に斬首・川への遺棄が発見された事例を法廷文書で示した。下院は4月に超党派でハイチ人保護延長法案を可決したが上院では審議が止まっている。最高裁は以前にベネズエラ人のTPS終了も認めており17カ国合計130万人を対象とする制度全体への影響が懸念される。\n\n💡投資含意：大規模強制送還は農業・建設・食品加工など労働集約産業で人手不足と賃金上昇圧力を生む可能性。移民政策の不確実性は人材確保コストを増大させる。\n🔗波及：ハイチ経済への人的・送金収入への打撃。社会政策・人権NGOの活動活発化。\n📈関連銘柄：農業株 (ADM、BG)、建設 (DHI、LEN)、民間雇用・派遣サービス\n⚖️強気：規制上の不確実性解消でDHS執行力強化の法的根拠が確立 / 弱気：大量強制送還実施は人道的批判と産業界の反発を招く\n📅次の注目：上院でのハイチ人TPS延長法案の動向、DHSによる実際の強制送還開始時期",
+    "created_at": "2026-06-25T22:28:32.528Z"
+  },
+  {
+    "date": "2026-06-25",
+    "category": "robotics",
+    "source": "The Robot Report",
+    "title_ja": "Hirebotics、ノーコードで数日以内に導入できる防爆型塗装コボットを発売",
+    "title_en": "Hirebotics offers no-code, explosion-proof cobot for painting",
+    "url": "https://www.therobotreport.com/hirebotics-offers-no-code-explosion-proof-cobot-for-painting/",
+    "summary": "Hirebotics（米テネシー州ナッシュビル）がFANUC CRX-10iA/L Paintと自社Beaconプラットフォームを組み合わせた「Cobot Painter」を発売。ロボット専任エンジニア不在でも既存塗装ブース内に数日以内に導入できるドロップイン自動化を実現。液体塗装・粉体塗装・ゲルコーティングに対応した防爆仕様で危険環境での運用が可能。タブレットやスマートフォンから「クリック・アンド・ティーチ」でロボットを誘導するだけで経路を記憶、以降は同じ速度・距離・角度で繰り返す。従来の専用塗装セルや大規模インフラ改修が不要で、外注していたコーティング作業の社内化が可能。リーチ141.7cm、高精度・繰り返し再現性が高く塗料廃棄物と塗料ミストを大幅削減。将来的にはライントラッキング（連続ライン上で部品を追いながら塗装）にも対応予定。ハイミックス・ロービューム環境の金属加工業者に最適化されている。\n\n💡投資含意：ノーコード化で中小製造業の自動化採用が加速し、コボット市場のTAMを拡大。FANUC製ハードウェアの部品需要を増加させる。\n🔗波及：塗装外注業者への競合圧力。コボット整備・消耗品市場の成長。\n📈関連銘柄：FANUC (6954.T)、Rockwell Automation (ROK)、ABB (ABBN.SW)\n⚖️強気：展開ハードルの低下で中小製造業への普及加速 / 弱気：ハイミックス対応のプログラミング柔軟性に限界\n📅次の注目：Automate展示会でのデモ反応、ライントラッキング機能のリリース時期",
+    "created_at": "2026-06-25T22:28:32.528Z"
+  },
+  {
+    "date": "2026-06-25",
+    "category": "robotics",
+    "source": "The Robot Report",
+    "title_ja": "Mantis Robotics、フェンスレスで産業速度を実現する双腕ロボット「MR-X」を発表",
+    "title_en": "Mantis Robotics launches dual-arm, fenceless robot",
+    "url": "https://www.therobotreport.com/mantis-robotics-launches-dual-arm-fenceless-robot/",
+    "summary": "Mantis Roboticsが人体の構造と反射機能にインスパイアされた双腕ロボット「MR-X」を発表。安全フェンスや柵なしで産業用速度（最大10.6m/s）・最大31.7kg可搬を実現するのが最大の特徴。コアにPatented「SafetyCore」プラットフォームを搭載し、外部センサーや立入禁止ゾーン設定に依存せず周囲をリアルタイムで処理。人が作業エリアに侵入しても操作を中断せず自律的に反応することで安全フェンス不要を実現。ISO 10218・ISO 13849認証済みの前世代MR-1で証明された技術を新フォームファクターに展開。固定設置とモバイル・マニピュレーター両用に対応し設置の自由度が高い。コードフリープログラミングと組み込み物理AIで製造・物流・商業環境への迅速導入が可能。バイマニュアルアセンブリ・マテリアル移送・パッケージソートに対応。AmazonがMR-1の主要実績先であり、今回のAutomate展示でMR-Xの実物デモを公開中。\n\n💡投資含意：人間協働型双腕ロボットの産業速度化は製造ライン再設計コストを削減し、安全フェンスに縛られた自動化需要を解放。\n🔗波及：協働ロボット市場（UR、ABB等）への競合圧力。フェンス不要化でレイアウト自由度向上し施設設計業者にも影響。\n📈関連銘柄：Amazon (AMZN)、Teradyne (TER/UR)、FANUC (6954.T)、Cognex (CGNX)\n⚖️強気：フェンスレス＋産業速度の組み合わせは市場に類例なし / 弱気：新アーキテクチャの現場信頼性確立には時間が必要\n📅次の注目：Automate展示での顧客フィードバック、ISO認証の進捗・量産立ち上げ時期",
+    "created_at": "2026-06-25T22:28:32.528Z"
+  },
+  {
+    "date": "2026-06-25",
+    "category": "robotics",
+    "source": "The Robot Report",
+    "title_ja": "Robust.AIがGen 3 CARTERにAptiv PULSEセンサーを採用—倉庫向けAI知覚を強化",
+    "title_en": "Robust.AI chooses Aptiv PULSE sensor for Gen 3 Carter mobile robot",
+    "url": "https://www.therobotreport.com/robust-ai-chooses-aptiv-pulse-sensor-for-gen-3-carter-mobile-robot/",
+    "summary": "Robust.AIが第3世代のCarter自律走行ロボットにAptivの「PULSE」センサーを搭載すると発表。倉庫・製造・冷凍倉庫など粉塵・グレア・水分・反射面を含む動的環境での精度向上が目的。PULSEはサラウンドビューカメラと超短距離レーダーを融合した360度センシングで死角・コスト・複雑さを低減。機械学習による早期センサーフュージョンで深度マップと占有グリッドを効率的に生成し、人・機器・障害物との安全な共存を実現。RaaS（ロボティクス・アズ・ア・サービス）モデルで提供され追加インフラ投資なしで既存倉庫に組み込める。両社は次フェーズとして産業安全規格ISO 13849-1のPL(d)認証取得を計画。PL(d)はハザードアプリケーション向けの高信頼性分類で、エンタープライズ・医療分野への展開の鍵となる。Chicago Automateで実機デモを展示中。\n\n💡投資含意：PL(d)認証取得がエンタープライズ・医療向け展開の扉を開き、単価向上とともに採用加速。倉庫AMR市場全体の品質水準引き上げ。\n🔗波及：フォークリフト・人手作業への競合圧力増大。Aptivのサプライ基盤拡大でADAS市場との相乗効果。\n📈関連銘柄：Aptiv (APTV)、Amazon (AMZN)、Zebra Technologies (ZBRA)、Honeywell (HON)\n⚖️強気：PL(d)認証でエンタープライズ採用加速 / 弱気：冷凍環境特有のセンサー劣化リスクは継続課題\n📅次の注目：PL(d)認証の取得時期、Automate展示での顧客反応・受注動向",
+    "created_at": "2026-06-25T22:28:32.528Z"
+  },
+  {
+    "date": "2026-06-25",
+    "category": "technology",
+    "source": "TechCrunch",
+    "title_ja": "AppleがMac・iPadを値上げ—AIメモリコスト高騰を理由に、iPhoneは据え置き",
+    "title_en": "Apple raises Mac and iPad prices, spares iPhone for now",
+    "url": "https://techcrunch.com/2026/06/25/apple-raises-mac-and-ipad-prices-spares-iphone-for-now/",
+    "summary": "AppleがMacBook AirとPro、iPad AirとProの価格引き上げを発表。AIチップ搭載に伴うメモリ費用の「前例のない」高騰を理由としており、一部モデルで最大約20%の値上げとなる。iPhoneは今回の対象外。Appleの株価は発表を受けて1年以上ぶりの大幅下落を記録。Microsoftも同日Xboxコンソールの値上げを発表しており、テック大手によるメモリコスト転嫁の動きが続いている。AI機能強化のためのオンデバイスRAM増量がコスト上昇の主因とされ、SK HynixやMicronなどHBMサプライチェーンの逼迫を反映。消費者は新製品購入か旧モデル継続かの選択を迫られており、高価格帯製品での需要鈍化リスクが懸念される。Appleは一方でAIソフトウェア機能の訴求を強めており、プレミアム価格正当化の戦略を堅持している。\n\n💡投資含意：Appleの価格転嫁はメモリサプライヤー（Micron、SK Hynix）の強交渉力を示す。AI端末普及に価格障壁が生じる可能性。\n🔗波及：PC・タブレット市場全体で値上げトレンドが定着すれば買い替えサイクル長期化。Android勢に価格競争力の機会。\n📈関連銘柄：Apple (AAPL)、Micron (MU)、SK Hynix (000660.KS)、Samsung (005930.KS)\n⚖️強気：プレミアム価格帯での利益率改善 / 弱気：株価急落が示す投資家の需要鈍化懸念\n📅次の注目：Q3 Apple決算での販売台数影響、iPhone値上げの可能性・時期",
+    "created_at": "2026-06-25T22:28:32.528Z"
+  },
+  {
+    "date": "2026-06-25",
+    "category": "technology",
+    "source": "TechCrunch",
+    "title_ja": "トランプ政権が自動運転車のブレーキペダル義務廃止を提案—テスラ・Zooxに規制上の追い風",
+    "title_en": "Trump administration proposes axing brake-pedal requirement for AVs in a boost for Tesla",
+    "url": "https://techcrunch.com/2026/06/25/trump-admin-proposes-axing-brake-pedal-requirement-for-avs-in-a-boost-for-tesla/",
+    "summary": "トランプ政権の運輸省（DOT）が「自動運転システム専用車両」にブレーキペダルを義務付ける連邦規制の廃止を提案した。現在はFMVSSの例外申請が必要で展開台数にも制限があり、テスラのCybercabやAmazon傘下Zooxの商業展開の最大障壁となっていた。30日間のパブリックコメント期間を経て採否を決定する。テスラはCybercabについてFMVSS例外申請を一切行っておらず、CEO イーロン・マスクは規制承認を待つと繰り返し述べていた。テスラは現在テキサス州オースティンで安全ドライバーなしのロボタクシー試験を実施し、一部でテレオペレーターによる遠隔監視を行っていることを認めている。Zooxは既に例外申請承認済みだが商業展開許可の次申請を待っている状況。Waymo等ステアリングホイール付きAVは現状維持で差別化が変化する可能性。NHTSAは「最も重要な安全要件は強化しつつ無意味な障壁を撤廃する」と説明。\n\n💡投資含意：ブレーキペダル要件廃止が実現すればテスラCybercabの量産・展開が大幅加速。AV向けセンサー・LiDARサプライチェーンの需要増加。\n🔗波及：Waymo等ステアリングホイール付きAVは現状維持。保険会社・監査機関は新たなリスク評価基準の策定を迫られる。\n📈関連銘柄：Tesla (TSLA)、Mobileye (MBLY)、Aptiv (APTV)、Luminar (LAZR)、Amazon (AMZN)\n⚖️強気：規制緩和でAV市場の実用化が一気に加速 / 弱気：安全性への懸念が世論・訴訟リスクを高める\n📅次の注目：パブリックコメント期間終了（30日後）、テスラCybercab量産計画の発表",
+    "created_at": "2026-06-25T22:28:32.528Z"
+  },
+  {
+    "date": "2026-06-25",
+    "category": "technology",
+    "source": "BBC Technology",
+    "title_ja": "IBMが1ナノメートル以下のチップ設計で突破口—「集合住宅型」積層アーキテクチャを発表",
+    "title_en": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
+    "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
+    "summary": "IBMが世界初となる1ナノメートル未満のチップ技術を実現したと発表。「集合住宅（block of flats）」設計と称される新アーキテクチャで、超微細な構造を縦に積み重ねることで物理的な限界を突破する。量産化にはまだ時間を要するとしているが、半導体微細化競争の次世代に向けた重要なマイルストーン。現行最先端はTSMCやSamsungが採用する2〜3nm世代であり、1nm以下への到達は業界の注目を集める。実用化されれば演算密度の飛躍的向上が見込まれ、エッジAIや省電力サーバーチップへの応用が期待される。MicronやAppleの値上げ報道と並び、チップ技術の革新と供給制約の両面が注目される一日となった。\n\n💡投資含意：IBMの研究優位がチップ設計のライセンス収益強化につながる可能性。量産化見通しはまだ遠いため短期インパクトは限定的。\n🔗波及：TSMC・Samsung・Intelへのプロセス競争圧力。EUV以降のリソグラフィ装置ベンダー（ASML等）に需要。\n📈関連銘柄：IBM (IBM)、ASML (ASML)、TSMC (TSM)、Samsung (005930.KS)\n⚖️強気：量産化成功で半導体ロードマップを再定義 / 弱気：研究発表から商用化まで10年超かかる可能性\n📅次の注目：IBM研究論文の査読結果、競合他社（Intel、TSMC）の追随発表",
+    "created_at": "2026-06-25T22:28:32.528Z"
+  },
+  {
+    "date": "2026-06-25",
+    "category": "technology",
+    "source": "NYT Technology",
+    "title_ja": "OpenAI、IPOを2027年以降に先送り検討—SpaceX株乱高下がリスクシグナルに",
+    "title_en": "OpenAI Leans Toward Holding Up I.P.O. Until Next Year",
+    "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+    "summary": "OpenAIがIPOを早期実施せず2027年以降に先送りする方向で検討していると伝えられた。アドバイザーらがSam Altman CEOに慎重な姿勢を勧めており、SpaceX株の乱高下がハイバリュエーションAI銘柄への投資家懸念を示すシグナルとなっている。OpenAIは莫大な研究開発費・インフラ投資という財務的課題を抱えており、上場タイミングとバリュエーションの折り合いが難しい状況。Anthropicとの競合、中国AI（Z.ai等）の台頭、チップコスト高騰も収益見通しに影響。SoftBankからの大型出資やビジネス向けAPI需要の拡大などポジティブ材料もあり、IPO判断は流動的。株式市場でのAI関連銘柄のボラティリティが続く中で上場環境の見極めが続く。\n\n💡投資含意：OpenAI IPO遅延は既存の非上場バリュエーションを維持しつつ事業成熟を図る戦略。上場が延期されるほどAI ETFや間接露出銘柄（MSFT）への資金流入が続く。\n🔗波及：AnthropicやMistral等の競合IPO計画にも影響。VC資金の滞留が続くとセカンダリー市場で流動性圧迫。\n📈関連銘柄：Microsoft (MSFT)、SoftBank (9984.T)、Nvidia (NVDA)\n⚖️強気：IPO先送りで内部基盤強化・評価倍率維持 / 弱気：資金調達環境悪化で事業拡大ペース鈍化リスク\n📅次の注目：OpenAI次回資金調達ラウンドの条件、Altman CEOの公開発言",
+    "created_at": "2026-06-25T22:28:32.528Z"
+  },
+  {
+    "date": "2026-06-25",
+    "category": "technology",
+    "source": "NYT Technology",
+    "title_ja": "中国AI「Z.ai」がAnthropicとOpenAIに肉薄—シリコンバレーで低コストモデルが注目",
+    "title_en": "Chinese A.I. Models Gain Ground on Anthropic and OpenAI",
+    "url": "https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html",
+    "summary": "中国のAIスタートアップZ.aiが、AnthropicやOpenAIに匹敵する性能を大幅に低いコストで提供するモデルをリリースし、シリコンバレーのエンジニアらから注目を集めていると報じられた。米国輸出規制の下でもトレーニングデータや知識蒸留の工夫で高性能モデルを開発する能力を中国企業が示した形で、AI覇権競争の構図に影響を与える可能性がある。Anthropic vs Alibaba訴訟（同日報道）と合わせて、中国企業による技術追随の速さが業界の警戒感を高めている。中国AIモデルが米国トップ企業と互角の評価を受けるのは異例で、コスト競争力が導入障壁を引き下げる。米国規制当局はAI技術のアクセス制限をさらに強化する可能性もある。\n\n💡投資含意：中国AIの台頭は米国トップAI企業のプライシング力と競争優位に長期的な下押し圧力。各国が主権AIを追求する動きを加速。\n🔗波及：日本・欧州のAIスタートアップにも競合圧力。クラウドAI APIの値下げ競争加速か。\n📈関連銘柄：Alibaba (BABA)、C3.ai (AI)、Microsoft (MSFT)、Alphabet (GOOGL)\n⚖️強気：コスト競争激化はAI採用拡大のポジティブシグナル / 弱気：米国AI企業の収益性悪化リスク\n📅次の注目：米政府のAI輸出規制強化策、Z.aiの米国市場参入状況",
+    "created_at": "2026-06-25T22:28:32.528Z"
   }
 ]

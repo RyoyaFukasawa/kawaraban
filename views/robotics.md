@@ -1,6 +1,44 @@
 # 🦾 フィジカルAI・ロボティクス — 全アーカイブ
 
-全40件 / 日付の新しい順
+全43件 / 日付の新しい順
+
+## 2026-06-25
+
+### [Robust.AIがGen 3 CARTERにAptiv PULSEセンサーを採用—倉庫向けAI知覚を強化](https://www.therobotreport.com/robust-ai-chooses-aptiv-pulse-sensor-for-gen-3-carter-mobile-robot/)
+*Robust.AI chooses Aptiv PULSE sensor for Gen 3 Carter mobile robot*
+出典: The Robot Report ・ #robotics #2026-06-25
+
+Robust.AIが第3世代のCarter自律走行ロボットにAptivの「PULSE」センサーを搭載すると発表。倉庫・製造・冷凍倉庫など粉塵・グレア・水分・反射面を含む動的環境での精度向上が目的。PULSEはサラウンドビューカメラと超短距離レーダーを融合した360度センシングで死角・コスト・複雑さを低減。機械学習による早期センサーフュージョンで深度マップと占有グリッドを効率的に生成し、人・機器・障害物との安全な共存を実現。RaaS（ロボティクス・アズ・ア・サービス）モデルで提供され追加インフラ投資なしで既存倉庫に組み込める。両社は次フェーズとして産業安全規格ISO 13849-1のPL(d)認証取得を計画。PL(d)はハザードアプリケーション向けの高信頼性分類で、エンタープライズ・医療分野への展開の鍵となる。Chicago Automateで実機デモを展示中。
+
+💡投資含意：PL(d)認証取得がエンタープライズ・医療向け展開の扉を開き、単価向上とともに採用加速。倉庫AMR市場全体の品質水準引き上げ。
+🔗波及：フォークリフト・人手作業への競合圧力増大。Aptivのサプライ基盤拡大でADAS市場との相乗効果。
+📈関連銘柄：Aptiv (APTV)、Amazon (AMZN)、Zebra Technologies (ZBRA)、Honeywell (HON)
+⚖️強気：PL(d)認証でエンタープライズ採用加速 / 弱気：冷凍環境特有のセンサー劣化リスクは継続課題
+📅次の注目：PL(d)認証の取得時期、Automate展示での顧客反応・受注動向
+
+### [Mantis Robotics、フェンスレスで産業速度を実現する双腕ロボット「MR-X」を発表](https://www.therobotreport.com/mantis-robotics-launches-dual-arm-fenceless-robot/)
+*Mantis Robotics launches dual-arm, fenceless robot*
+出典: The Robot Report ・ #robotics #2026-06-25
+
+Mantis Roboticsが人体の構造と反射機能にインスパイアされた双腕ロボット「MR-X」を発表。安全フェンスや柵なしで産業用速度（最大10.6m/s）・最大31.7kg可搬を実現するのが最大の特徴。コアにPatented「SafetyCore」プラットフォームを搭載し、外部センサーや立入禁止ゾーン設定に依存せず周囲をリアルタイムで処理。人が作業エリアに侵入しても操作を中断せず自律的に反応することで安全フェンス不要を実現。ISO 10218・ISO 13849認証済みの前世代MR-1で証明された技術を新フォームファクターに展開。固定設置とモバイル・マニピュレーター両用に対応し設置の自由度が高い。コードフリープログラミングと組み込み物理AIで製造・物流・商業環境への迅速導入が可能。バイマニュアルアセンブリ・マテリアル移送・パッケージソートに対応。AmazonがMR-1の主要実績先であり、今回のAutomate展示でMR-Xの実物デモを公開中。
+
+💡投資含意：人間協働型双腕ロボットの産業速度化は製造ライン再設計コストを削減し、安全フェンスに縛られた自動化需要を解放。
+🔗波及：協働ロボット市場（UR、ABB等）への競合圧力。フェンス不要化でレイアウト自由度向上し施設設計業者にも影響。
+📈関連銘柄：Amazon (AMZN)、Teradyne (TER/UR)、FANUC (6954.T)、Cognex (CGNX)
+⚖️強気：フェンスレス＋産業速度の組み合わせは市場に類例なし / 弱気：新アーキテクチャの現場信頼性確立には時間が必要
+📅次の注目：Automate展示での顧客フィードバック、ISO認証の進捗・量産立ち上げ時期
+
+### [Hirebotics、ノーコードで数日以内に導入できる防爆型塗装コボットを発売](https://www.therobotreport.com/hirebotics-offers-no-code-explosion-proof-cobot-for-painting/)
+*Hirebotics offers no-code, explosion-proof cobot for painting*
+出典: The Robot Report ・ #robotics #2026-06-25
+
+Hirebotics（米テネシー州ナッシュビル）がFANUC CRX-10iA/L Paintと自社Beaconプラットフォームを組み合わせた「Cobot Painter」を発売。ロボット専任エンジニア不在でも既存塗装ブース内に数日以内に導入できるドロップイン自動化を実現。液体塗装・粉体塗装・ゲルコーティングに対応した防爆仕様で危険環境での運用が可能。タブレットやスマートフォンから「クリック・アンド・ティーチ」でロボットを誘導するだけで経路を記憶、以降は同じ速度・距離・角度で繰り返す。従来の専用塗装セルや大規模インフラ改修が不要で、外注していたコーティング作業の社内化が可能。リーチ141.7cm、高精度・繰り返し再現性が高く塗料廃棄物と塗料ミストを大幅削減。将来的にはライントラッキング（連続ライン上で部品を追いながら塗装）にも対応予定。ハイミックス・ロービューム環境の金属加工業者に最適化されている。
+
+💡投資含意：ノーコード化で中小製造業の自動化採用が加速し、コボット市場のTAMを拡大。FANUC製ハードウェアの部品需要を増加させる。
+🔗波及：塗装外注業者への競合圧力。コボット整備・消耗品市場の成長。
+📈関連銘柄：FANUC (6954.T)、Rockwell Automation (ROK)、ABB (ABBN.SW)
+⚖️強気：展開ハードルの低下で中小製造業への普及加速 / 弱気：ハイミックス対応のプログラミング柔軟性に限界
+📅次の注目：Automate展示会でのデモ反応、ライントラッキング機能のリリース時期
 
 ## 2026-06-24
 
