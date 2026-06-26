@@ -5108,5 +5108,225 @@
     "url": "https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html",
     "summary": "中国のAIスタートアップZ.aiが、AnthropicやOpenAIに匹敵する性能を大幅に低いコストで提供するモデルをリリースし、シリコンバレーのエンジニアらから注目を集めていると報じられた。米国輸出規制の下でもトレーニングデータや知識蒸留の工夫で高性能モデルを開発する能力を中国企業が示した形で、AI覇権競争の構図に影響を与える可能性がある。Anthropic vs Alibaba訴訟（同日報道）と合わせて、中国企業による技術追随の速さが業界の警戒感を高めている。中国AIモデルが米国トップ企業と互角の評価を受けるのは異例で、コスト競争力が導入障壁を引き下げる。米国規制当局はAI技術のアクセス制限をさらに強化する可能性もある。\n\n💡投資含意：中国AIの台頭は米国トップAI企業のプライシング力と競争優位に長期的な下押し圧力。各国が主権AIを追求する動きを加速。\n🔗波及：日本・欧州のAIスタートアップにも競合圧力。クラウドAI APIの値下げ競争加速か。\n📈関連銘柄：Alibaba (BABA)、C3.ai (AI)、Microsoft (MSFT)、Alphabet (GOOGL)\n⚖️強気：コスト競争激化はAI採用拡大のポジティブシグナル / 弱気：米国AI企業の収益性悪化リスク\n📅次の注目：米政府のAI輸出規制強化策、Z.aiの米国市場参入状況",
     "created_at": "2026-06-25T22:28:32.528Z"
+  },
+  {
+    "date": "2026-06-26",
+    "category": "ai",
+    "source": "OpenAI",
+    "title_ja": "OpenAIがGPT-5.6 Sol を発表——コーディング・生物・サイバーで最高性能、しかし政府要請で限定公開に",
+    "title_en": "Previewing GPT-5.6 Sol: a next-generation model",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "summary": "OpenAIが次世代モデル群「GPT-5.6」シリーズを発表。旗艦の Sol、汎用の Terra、高速・低コストの Luna の3モデル構成で、Solはコーディング・生物学・サイバーセキュリティで最高性能を誇る。\nしかしトランプ政権の要請により、GPT-5.6 3モデル全てのリリースが「政府と共有した信頼パートナー」への限定プレビューに制限された。AnthropicがFable 5発表直後に外国人アクセス禁止命令で実質撤回を余儀なくされた事案に続く規制強化の動きだ。\nSolのAPI料金は入力$5/Mトークン・出力$30/Mトークン。Terraはその半額、Lunaは$1/$6。Solには複数のサブエージェントが並列で高難度タスクを処理する「ultra」モードがあり、Anthropicの Claude Mythos 5 よりコーディングワークフローで優位で出力トークンは3分の1との比較結果も示した。\nセーフティスタックはモデルのコア動作に直接組み込まれており、防御的サイバーセキュリティに最適化。「jailbreakしにくく、防御手法を教える方向に傾く」設計だ。\nOpenAI自身が「この政府関与プロセスを長期デフォルトにすべきでない」と異議を表明。「ユーザー・開発者・企業・防衛側から最良のツールを遠ざける」と批判した。\nモデルリリースの遅延が続けば、AIラボのマネタイズ速度と進行中のデータセンター建設需要見通しの両方に悪影響が及ぶ。\n💡 投資含意：Sol の高性能化は OpenAI のエンタープライズ競争力を維持するが、政府審査が常態化すれば AI 普及ペースに構造的な下押しリスク。インフラ投資回収の見通しに不透明感。\n🔗 波及：Anthropic・Google DeepMind 等他のフロンティアモデル企業にも同様の審査要求が及ぶ可能性。データセンター株・AI インフラ全般の投資家センチメントに影響。\n📈 関連銘柄：Microsoft（MSFT、OpenAI 投資）、Nvidia（NVDA、推論インフラ）\n⚖️ 強気：Sol の性能向上でエンタープライズ競争力維持 / 弱気：政府規制が AI 普及速度を落とし、データセンター投資計画を狂わせるリスク\n📅 次の注目：Sol の一般公開タイムライン、大統領令フレームワーク新草案、Anthropic Mythos の規制解除動向",
+    "created_at": "2026-06-26T22:21:08.750Z"
+  },
+  {
+    "date": "2026-06-26",
+    "category": "ai",
+    "source": "TechCrunch",
+    "title_ja": "AnthropicでもOpenAIでもなく——AI産業全体が政府規制という共通の壁に直面",
+    "title_en": "It's not about Anthropic vs. OpenAI anymore",
+    "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+    "summary": "GPT-5.6 の限定公開とAnthropicの Fable/Mythos 撤回を受け、TechCrunch が AI 業界の構造的変化を分析した論説。核心の指摘は「今や問題は Anthropic か OpenAI かではなく、政府によるフロンティアモデルへの事実上の許認可体制の是非」だ。\n前ホワイトハウス AI 顧問（次期 OpenAI 社員）の Dean Ball は、大統領令が「フロンティア AI の事実上の免許制度」を生み出したと指摘。政府が何を保護しようとしているかの基準すら不明確なまま審査が進んでいる状況を問題視する。\n両社は今や同じ問題を共有しており、どちらかが規制に負けると業界全体が損をする。規制への対処で「OpenAI vs. Anthropic」の競争を持ち込むことが最も危険なシナリオとされる。\nデータセンター建設中の施設への需要見通しにも影響する——モデルリリースが遅れれば建設投資の回収期間が伸びる。記事は「AI 産業として集団行動ができるか、今後数週間で明らかになる」と締めくくる。\n💡 投資含意：AI モデルへの政府規制常態化は AI ラボのマネタイズペースを落とし、データセンター投資回収の見通しを悪化させるリスク。防衛・国防向け AI 事業には優先アクセスの機会が生まれる。\n🔗 波及：米中 AI レースへの影響——政府規制が米国モデルの普及を遅らせれば中国の相対優位を高める。AWS・Azure・GCP のクラウド AI 成長にも間接的影響。\n📈 関連銘柄：Microsoft（MSFT）、Alphabet（GOOGL）、Palantir（PLTR）\n⚖️ 強気：防衛・政府向け AI プロバイダーに優先アクセス機会 / 弱気：汎用 AI 市場の拡大が規制で減速するリスク\n📅 次の注目：大統領令フレームワーク更新、フロンティアモデルへの政府審査プロセスの明文化",
+    "created_at": "2026-06-26T22:21:08.750Z"
+  },
+  {
+    "date": "2026-06-26",
+    "category": "ai",
+    "source": "Reddit r/LocalLLaMA",
+    "title_ja": "⚠️ LFM2.5 230Mがブラウザ内で1,400トークン/秒——カスタムWebGPUカーネルで実現",
+    "title_en": "LFM2.5 230M running in-browser at 1,400 tok/s using custom WebGPU kernels",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ufii9b/lfm25_230m_running_inbrowser_at_1400_toks_using/",
+    "summary": "LFM2.5（Liquid Foundation Models）の230Mパラメータモデルが、カスタム WebGPU カーネルを用いてブラウザ内で1,400トークン/秒の速度で動作するデモが話題になっているとの投稿がある。\nサーバーへの送信なしにブラウザ上でリアルタイム推論が完結するため、プライバシー保護・低レイテンシ・オフライン動作の3つを同時に実現できる。1,400 tok/s はブラウザ上の LLM 推論としては突出した速度で、従来の WebAssembly 実装より大幅に高速化されているとみられる。\nWebGPU は主要ブラウザで実装が進む新しい GPU 計算 API で、エッジ AI・端末ローカル AI（On-Device AI）の実現可能性を高める技術的マイルストーンとして注目される。\n⚠️ 未確認情報（Reddit発・要裏取り）\n💡 投資含意：ブラウザ AI の高速化はクラウド AI への依存を低下させる一方、端末向け GPU・NPU チップへの需要を高める。\n🔗 波及：Apple（デバイス向け NPU）・Qualcomm（Snapdragon NPU）などオンデバイス AI 向けチップメーカーへの追い風。クラウド AI 収益への競争圧力。\n📈 関連銘柄：Qualcomm（QCOM）、Apple（AAPL）、ARM Holdings（ARM）\n⚖️ 強気：オンデバイス AI 普及でプライバシー重視の市場セグメント拡大 / 弱気：クラウド AI 収益への直接的圧力",
+    "created_at": "2026-06-26T22:21:08.750Z"
+  },
+  {
+    "date": "2026-06-26",
+    "category": "ai",
+    "source": "Reddit r/LocalLLaMA",
+    "title_ja": "⚠️ JetSpec: 並列ツリードラフティングで最大9.64倍・1000TPS超のLLM推論高速化を達成",
+    "title_en": "[Research] JetSpec: Speculative Decoding with Parallel Tree Drafting Enables up to 9.64x Lossless LLM Inference Speedup with more than 1000TPS",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ufntl5/research_jetspec_speculative_decoding_with/",
+    "summary": "「JetSpec」という研究が、並列ツリードラフティングを用いた投機的デコーディング（Speculative Decoding）で損失なしに最大9.64倍のLLM推論高速化と1000TPS超を達成したとの投稿がコミュニティで話題になっている。\n投機的デコーディングは小さなドラフトモデルで複数トークンを仮生成し、大きなモデルで並列検証することで推論を高速化する手法。JetSpec の「並列ツリードラフティング」は複数の仮説系列を木構造で同時展開し検証精度を高めるとされる。\n9.64倍の高速化と1000TPS超という数値はエッジデバイスや低レイテンシ推論サービスにとって実用性を大きく高める水準で、研究論文としての発表とみられるがコミュニティでの詳細検証はこれから。\n⚠️ 未確認情報（Reddit発・要裏取り）\n💡 投資含意：推論高速化技術の成熟は推論クラウドの GPU コスト効率を改善し、LLM のエンタープライズ普及を加速させる可能性がある。\n🔗 波及：推論に特化したチップ（AI ASIC）や推論最適化ソフト（vLLM 等）の競争優位に影響しうる。\n📈 関連銘柄：Nvidia（NVDA）\n⚖️ 強気：推論コスト大幅低下で LLM 普及加速 / 弱気：研究段階で商用実装ハードルは未知数",
+    "created_at": "2026-06-26T22:21:08.750Z"
+  },
+  {
+    "date": "2026-06-26",
+    "category": "ai",
+    "source": "Reddit r/LocalLLaMA",
+    "title_ja": "⚠️ audio.cpp: Qwen3-TTS ら12の音声モデルを1つのC++/ggmlランタイムで——CUDA環境でPython比5倍高速",
+    "title_en": "audio.cpp: 12 audio models (Qwen3-TTS, PocketTTS, VeVo2 etc) in 1 C++/ggml runtime — TTS up to 5x faster than Python on CUDA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ufpnm6/audiocpp_12_audio_models_qwen3tts_pockettts_vevo2/",
+    "summary": "「audio.cpp」という OSS プロジェクトが Reddit で話題になっているとの投稿がある。Qwen3-TTS・PocketTTS・VeVo2 など12種の音声 AI モデルを単一の C++/ggml ランタイムで動かし、CUDA 環境では Python 実装比で最大5倍の TTS 速度を達成するとされる。\nggml は llama.cpp と同じ低レベル機械学習フレームワークで、GPU 依存度を下げつつ高速推論が可能な設計。TTS の5倍高速化はリアルタイム音声合成（電話 AI・ライブ字幕・音声エージェント等）の実用性を大きく高める。\n音声 AI 分野は OpenAI TTS・ElevenLabs・Google Gemini 等が覇権を争う中、OSS 選択肢の充実が商用サービスへの競争圧力を強める。\n⚠️ 未確認情報（Reddit発・要裏取り）\n💡 投資含意：OSS 音声ランタイムの普及は音声 AI SaaS への代替圧力。一方、組み込み音声 AI 用途向けハードウェア需要は継続。\n🔗 波及：ElevenLabs・OpenAI TTS API への価格競争圧力。TTS 機能を内蔵したエージェントフレームワークの普及を後押し。\n📈 関連銘柄：Nvidia（NVDA、GPU 推論）\n⚖️ 強気：音声 AI の民主化で市場拡大 / 弱気：SaaS 収益化モデルへの圧力",
+    "created_at": "2026-06-26T22:21:08.750Z"
+  },
+  {
+    "date": "2026-06-26",
+    "category": "economy",
+    "source": "Financial Times",
+    "title_ja": "S&P 500が10ヶ月ぶり5日続落——ソフトウェア株の一時回復も持続せず、チップ株売り圧力続く",
+    "title_en": "S&P 500 notches longest losing streak in 10 months as chipmakers slide",
+    "url": "https://www.ft.com/content/bb70e272-5b09-4806-8b19-7c03c350f580",
+    "summary": "S&P 500 指数が5日続落し、10ヶ月ぶりの連続安記録となった。ソフトウェア株主導の一時的な回復は続かず、半導体・テック株の売り圧力が指数全体の重荷になった。\nOracle の財務問題、Micron の乱高下、GPU 需要の不確実性など AI 関連株全般への懸念が重なり、週全体を通じてテック主導の売りが続いた。AI への過大な期待と実際の収益貢献の「証明」を巡る市場心理の揺らぎが背景にある。\niShares Expanded Tech-Software ETF（IGV）は年初来16%安。テック・チップ株への投資家心理は慎重化しており、バリュー株・エネルギー株・ヘルスケアへのローテーションが進んでいる。\n💡 投資含意：AI 投資の回収可能性への疑念がテック株全体の調整を招いており、短期的には売り圧力が続く可能性。セクターローテーションへの対応が必要。\n🔗 波及：Nasdaq 比重の高いグロース型 ETF や個人投資家のポートフォリオに直接影響。\n📈 関連銘柄：SPDR S&P 500 ETF（SPY）、QQQ（弱気）、IGV（弱気）\n⚖️ 強気：短期調整で割安になれば買い場との見方も / 弱気：AI 投資の「回収」ナラティブが崩れれば中期的に下方リスク\n📅 次の注目：6月末の機関投資家リバランス、7月第1週の雇用統計・PMI",
+    "created_at": "2026-06-26T22:21:08.750Z"
+  },
+  {
+    "date": "2026-06-26",
+    "category": "economy",
+    "source": "Financial Times",
+    "title_ja": "フォルクスワーゲンが最大10万人を削減——史上最大規模のリストラで中国EV攻勢に対応",
+    "title_en": "Volkswagen to axe up to 100,000 jobs in sweeping cost-cutting drive",
+    "url": "https://www.ft.com/content/d0760eaf-d345-4964-b2ae-f55f6dfd9a4a",
+    "summary": "フォルクスワーゲン（VW）が大規模リストラ計画を発表し、従業員の約6分の1にあたる最大10万人を削減する見通しと FT が報じた。史上最大規模の企業リストラの一つとなる可能性がある。\n背景には中国 BYD・吉利等の低コスト電気自動車による欧州市場の侵食と、VW自身の EV 移行の遅れがある。ドイツの高い人件費・エネルギーコスト・工場稼働率の低下が財務を直撃し、ドイツ工場の閉鎖も検討段階にあるとみられる。\nこのリストラはドイツ経済の構造的問題（脱工業化・EV 移行コスト）を象徴する出来事でもあり、部品サプライヤー（Bosch・Continental 等）への連鎖リストラリスクも懸念される。\nパイプラインが整わない欧州メーカーが中国 EV との価格競争に敗れる「欧州自動車危機」の深刻化を示す。\n💡 投資含意：VW の大量解雇は欧州自動車産業の構造変化が本格化したことを示す。Stellantis・Renault 等への波及も懸念され、欧州完成車メーカー全体に弱気材料。\n🔗 波及：ドイツ消費者信頼感の低下につながりうる。部品サプライヤーへの連鎖リストラリスクも。一方で中国 EV 勢（BYD 等）には競争力証明の強気材料。\n📈 関連銘柄：Volkswagen（VOW3.DE、弱気）、Stellantis（STLAM、弱気）、BYD（1211.HK、強気）\n⚖️ 強気：中国 EV 勢の欧州攻勢を示す証拠で BYD 等に強気 / 弱気：欧州自動車全体への悲観が広がるリスク\n📅 次の注目：VW 労組（IG Metall）との交渉、ドイツ工場閉鎖の最終決定",
+    "created_at": "2026-06-26T22:21:08.750Z"
+  },
+  {
+    "date": "2026-06-26",
+    "category": "economy",
+    "source": "NYT Business",
+    "title_ja": "JPモルガン後継候補のマリアンヌ・レイクが退社——ダイモン後継問題が再燃",
+    "title_en": "Marianne Lake, a Potential Dimon Successor, Leaves JPMorgan",
+    "url": "https://www.nytimes.com/2026/06/25/business/jamie-dimon-jpmorgan-succession-petno-rohrbaugh.html",
+    "summary": "JPMorgan Chase で CEO ジェイミー・ダイモンの後継候補の一人とされていたマリアンヌ・レイクが退社すると明らかになった。ダイモンの在任は3代目の10年以上を超え、後継者問題は以前から株主の関心を集めている。\n内部後継候補が相次いで離脱することで、継承計画の不確実性が増している。JPMorgan は2025〜2026年にかけて過去最高水準の利益を記録しているが、その礎を築いた経営チームの人材流出が続いている。\nウォール街最大の銀行における経営継続性への懸念は、機関投資家が注視するガバナンス問題として浮上しうる。ダイモン自身の在任が続く間は問題ないが、将来の経営移行期のリスクが高まっている。\n💡 投資含意：JPMorgan の後継候補流出は CEO リスク（キーパーソンリスク）として株式の下振れ材料。ダイモン体制継続で安定性は維持されるが、将来の移行リスクがディスカウント要因に。\n🔗 波及：ウォール街大手の人材流動化が示す幹部スカウト合戦の活発化。金融業界全体の幹部市場動向に影響。\n📈 関連銘柄：JPMorgan Chase（JPM）、Goldman Sachs（GS）、Morgan Stanley（MS）\n⚖️ 強気：ダイモン体制継続で安定性維持 / 弱気：後継計画の不透明性がディスカウント要因\n📅 次の注目：後継候補の新たな人選発表、JPMorgan Q2 2026 決算（7月）",
+    "created_at": "2026-06-26T22:21:08.750Z"
+  },
+  {
+    "date": "2026-06-26",
+    "category": "economy",
+    "source": "NYT Business",
+    "title_ja": "SpaceX IPOが示す「投資家の経営権喪失」——デュアルクラス株が普通株主を無力化する構造",
+    "title_en": "SpaceX IPO Shows How Investors in Public Companies Are Losing Power",
+    "url": "https://www.nytimes.com/2026/06/25/business/spacex-shares-ipo.html",
+    "summary": "SpaceX の IPO に関連し、上場企業において一般株主の経営への発言権が低下する傾向を NYT が報じた。SpaceX はデュアルクラス株（創業者などが複数の議決権を持つ仕組み）を採用しており、IPO 後も通常株主の経営関与は制限される。\nAI・宇宙・テックの超成長企業がIPOする際にデュアルクラス構造を採用するケースが増えており、投資家は「キャピタルゲインには参加できるが経営判断には参加できない」状況に。OpenAI の IPO 予定（2027年以降）も類似の構造が予想される。\n機関投資家（ブラックロック・バンガード等）はデュアルクラス廃止を求める声明を出し続けているが、実効性は薄く、SEC 等による規制議論に発展しうる。投資家は「成長への乗車」に特化したリターン計算が必要になる。\n💡 投資含意：SpaceX をはじめとする高成長企業のデュアルクラス採用で ESG・株主活動主義が機能しにくくなる。ガバナンスリスクをディスカウント要因として織り込む必要がある。\n🔗 波及：他のユニコーン・創業者主導企業の IPO にも同傾向が波及。SEC による規制議論が将来的に活発化しうる。\n📈 関連銘柄：SpaceX（IPO 後）、OpenAI（IPO 予定）、Palantir（PLTR）\n⚖️ 強気：創業者主導の長期志向で技術革新継続 / 弱気：一般株主の権利希薄化、ガバナンスリスクが高い\n📅 次の注目：SpaceX の IPO 条件詳細、OpenAI IPO のタイムライン",
+    "created_at": "2026-06-26T22:21:08.750Z"
+  },
+  {
+    "date": "2026-06-26",
+    "category": "economy",
+    "source": "NYT Business",
+    "title_ja": "原油価格がイラン戦争前の水準に回帰——ホルムズ海峡の通行再開が需給バロメーターに",
+    "title_en": "Oil Prices Return to Prewar Levels After Four Months",
+    "url": "https://www.nytimes.com/2026/06/26/business/energy-environment/iran-war-oil-prices.html",
+    "summary": "イランとの紛争を背景に急騰していた原油価格が、ホルムズ海峡の通行が徐々に再開されるにつれ、戦争前の水準に戻りつつあると NYT が報じた。原油価格はイラン紛争の「リアルタイムのバロメーター」となり、停戦と攻撃の繰り返しで激しく変動してきた。\n原油価格の正常化はインフレ圧力の緩和に寄与し、5月に高まった物価上昇が落ち着く方向を示す。FRB の利下げ期待にはプラス要因だが、エネルギー株への上昇材料も失われる。\nなお、本日（6/26）にイランが再び商船を攻撃した事態があり、「戦争前水準への回帰」が持続するかは不透明だ。地政学リスクプレミアムは残り続ける。\n💡 投資含意：原油安は航空・輸送・製造業にコスト低下メリット。エネルギー株（XOM・CVX）には売り材料。FRB の利下げ期待には追い風。\n🔗 波及：イランの不安定行動が続けば価格は再び上昇。エネルギー輸入依存国（日本・韓国等）の経常収支改善にはプラス。\n📈 関連銘柄：ExxonMobil（XOM、弱気）、Chevron（CVX、弱気）、Delta Airlines（DAL、強気）、United Airlines（UAL、強気）\n⚖️ 強気：原油安でコスト低下を享受する航空・輸送・化学 / 弱気：エネルギーセクターに売り材料、地政学リスクプレミアム消滅で防衛株も調整\n📅 次の注目：ホルムズ海峡通行量の安定化、OPEC の生産調整発表",
+    "created_at": "2026-06-26T22:21:08.750Z"
+  },
+  {
+    "date": "2026-06-26",
+    "category": "politics",
+    "source": "The Hill",
+    "title_ja": "トランプ、デジタルサービス税を課す国に100%関税を警告——欧州テック課税を標的に",
+    "title_en": "Trump threatens 100 percent tariff on any country that imposes tax on US tech firms",
+    "url": "https://thehill.com/homenews/administration/5942802-donald-trump-threat-tariffs-europe-tech-firm-taxes/",
+    "summary": "トランプ大統領が、米テクノロジー企業に「デジタルサービス税」を課す国に対し100%の報復関税を課すと警告した。英国・フランス・イタリア等欧州諸国が GAFA（Google・Apple・Facebook・Amazon）に課してきた自国向けデジタル税を念頭に置いた発言だ。\nデジタルサービス税は「壁のないインフラ」で国境を越えて稼ぐ米テックの収益を課税対象にする仕組みで、米国側は自国企業への不当な差別的課税と主張している。バイデン政権も USTR を通じて抗議してきたが、トランプ政権はより強硬な報復措置を明言した。\n欧州側は各国の課税主権として正当化しており、100%関税が実施されれば欧州・米国間の貿易摩擦が大幅に拡大する。欧州から農業・工業品を輸入する米国内産業にも跳ね返るリスクがある。\n💡 投資含意：デジタルサービス税の抑制は欧州収益を守り、短期的には Microsoft・Google 等に欧州市場でのプライシングパワーを与えうる。ただし欧州の対抗関税リスクも。\n🔗 波及：欧州側が対抗関税を出せば農業・工業品に連鎖。デジタル規制でも欧州と米国の緊張が高まり、テック企業の欧州事業運営が複雑化。\n📈 関連銘柄：Alphabet（GOOGL）、Meta（META）、Apple（AAPL）、Amazon（AMZN）\n⚖️ 強気：デジタルサービス税の抑制は欧州収益保護に直接寄与 / 弱気：貿易戦争に発展した場合の市場動揺\n📅 次の注目：欧州各国の反応・G7 での議題化、USTR の調査再開動向",
+    "created_at": "2026-06-26T22:21:08.750Z"
+  },
+  {
+    "date": "2026-06-26",
+    "category": "politics",
+    "source": "BBC World",
+    "title_ja": "イスラエルとレバノンが米仲介の枠組み合意に署名——中東の部分的緊張緩和に向けた一歩",
+    "title_en": "Israel and Lebanon sign framework agreement after US-brokered talks",
+    "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+    "summary": "米国の仲介のもと、イスラエルとレバノンが枠組み合意（フレームワーク協定）に署名した。過去のイスラエル・ヒズボラ間の停戦は実質的に機能せず、日々の越境攻撃が続いていた。\n同日、イランがホルムズ海峡で商船を攻撃した事態と同時に進行する形となり、中東全体の緊張解消には至っていない。しかしイスラエル・レバノン間の直接対立軽減は独立した意義があり、マルコ・ルビオ国務長官の外交的成果として評価されている。\n合意の実効性はヒズボラが実際に戦闘を停止するかどうかにかかっており、過去の経緯から懐疑論も根強い。実現すればイスラエル経済への投資家信頼度回復や地域インフラ再建投資への道が開く。\n💡 投資含意：中東緊張の部分的緩和はイスラエル企業・ETF への投資家センチメントを改善しうる。再建需要が生じれば建設・インフラセクターへの関心も高まる。\n🔗 波及：ヒズボラの動向次第で実効性が決まる。イランが別の前線を通じて圧力を継続しており、中東全体の安定化には至っていない。\n📈 関連銘柄：iShares MSCI Israel ETF（EIS）、Elbit Systems（ESLT）\n⚖️ 強気：直接対立終結で地域安定化の第一歩 / 弱気：過去の停戦が形骸化した経緯から信頼性に疑問\n📅 次の注目：合意の履行状況、ヒズボラの反応、米国の仲介継続",
+    "created_at": "2026-06-26T22:21:08.750Z"
+  },
+  {
+    "date": "2026-06-26",
+    "category": "politics",
+    "source": "BBC World",
+    "title_ja": "イランが停戦後1週間で商船を攻撃——トランプが「愚かな違反」と非難し米軍が報復空爆",
+    "title_en": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
+    "url": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
+    "summary": "シンガポール船籍の商船がホルムズ海峡を通過中にイランに攻撃され、トランプ大統領がイランを「停戦合意の愚かな違反」と非難した。これは先週の米国・イラン間の暫定合意（覚書締結）からわずか1週間後の出来事だ。\n攻撃を受け、国連機関が主導していた大規模船舶退避計画が一時停止された。米軍中央司令部は直後に「力の誇示」としてイランに対する空爆を実施したと発表しており、情勢は再び緊張している。\nホルムズ海峡は世界の石油輸送量の約20%が通過する要衝で、通行の不安定化はエネルギー市場と世界経済に直接波及する。一方で同日、米国仲介によりイスラエルとレバノンが枠組み合意に署名しており、中東情勢は緊張緩和と激化が同時進行している。\nイランが合意後も攻撃を継続するならば、外交的解決の難しさが改めて示され、米国による追加制裁・軍事行動の可能性が高まる。\n💡 投資含意：ホルムズ海峡の不安定化は原油・LNG 輸送コストの上昇を招き、エネルギー関連株にプラス、製造業・航空・化学にマイナス。\n🔗 波及：イランへの追加制裁や軍事行動の可能性が高まれば原油価格が再上昇。防衛予算増加でレイセオン・L3Harris 等防衛株に追い風。\n📈 関連銘柄：ExxonMobil（XOM）、Chevron（CVX）、Teekay Tankers（TK）、Raytheon（RTX）\n⚖️ 強気：エネルギー供給障害でエネルギー関連株・防衛株に強気材料 / 弱気：輸送コスト上昇がインフレ再燃リスク\n📅 次の注目：米国の追加制裁措置、ホルムズ海峡通行量の回復動向、OPEC+ 緊急会合",
+    "created_at": "2026-06-26T22:21:08.750Z"
+  },
+  {
+    "date": "2026-06-26",
+    "category": "politics",
+    "source": "CBS News",
+    "title_ja": "元トランプ政権NSアドバイザーのジョン・ボルトンが機密保持違反で有罪答弁——罰金225万ドル",
+    "title_en": "John Bolton pleads guilty to retaining classified information",
+    "url": "https://www.cbsnews.com/news/john-bolton-guilty-plea-retaining-classified-national-security-information/",
+    "summary": "元トランプ政権国家安全保障担当補佐官で現在はトランプ批判派のジョン・ボルトンが、機密情報の不法保持1件で有罪答弁し$225万の罰金に同意した。\n起訴内容は、2018年から2025年にかけて自身の日記的記録（後の回顧録素材）として1,000ページ超の機密文書を自宅に保管し、AOL・Gmail などの私用アカウントや商用メッセージアプリで2人の親族に送信したというものだ。最長5年の禁錮刑のリスクがあり、量刑は10月28日に宣告される。\n司法省との合意には国家安全保障当局への自主報告（デブリーフィング）と100時間の社会奉仕活動が含まれる。ボルトンは「正確な事実に同意する」と述べ、謝罪した。\nトランプ政権内外での機密情報管理問題が相次いで司法手続きに至っており、国家安全保障リスクへの意識が高まっている。\n💡 投資含意：直接の市場インパクトは限定的だが、安全保障意識の高まりが政府向け IT・サイバーセキュリティセクターへの需要を後押しする材料。\n🔗 波及：政治的対立構造の緊張継続が示す不確実性。サイバーセキュリティ・機密管理ソリューションへの政府需要は継続。\n📈 関連銘柄：Palantir（PLTR）、CrowdStrike（CRWD）、SAIC（SAIC）\n⚖️ 強気：安全保障意識の高まりで政府向け IT・セキュリティ需要増 / 弱気：政治的不安定は投資家心理にマイナス\n📅 次の注目：10月28日の量刑宣告",
+    "created_at": "2026-06-26T22:21:08.750Z"
+  },
+  {
+    "date": "2026-06-26",
+    "category": "politics",
+    "source": "CBS News",
+    "title_ja": "ニューサム知事が連邦レベルで「億万長者税」とAI公的エクイティ基金を提案——2028年大統領選を視野に",
+    "title_en": "Newsom proposes federal billionaire tax and AI \"public equity\" fund",
+    "url": "https://www.cbsnews.com/news/newsom-proposes-federal-billionaire-tax-and-ai-public-equity-fund/",
+    "summary": "2028年大統領選出馬を視野に入れるカリフォルニア州知事ギャビン・ニューサムが、連邦レベルでの「億万長者税」と「AI 公的エクイティ基金」を提案した。AI から生まれる富の一部を公共に還元する仕組みとして、国民が公的な持分（エクイティ）を持てるファンドを設立するという構想は米国政治においても異色だ。\n皮肉なことにニューサムは、カリフォルニア州が独自に億万長者税を課そうとする住民投票提案には反対しており「連邦でやるべきこと」と主張。政治的ポジショニングの側面が強く、即座の実現可能性は低い。\nしかし民主党内でも AI 課税・AI への公共関与の必要性が政策議論として表面化してきた点は注目に値する。欧州のデジタル税強化の流れと合わせると、AI に対する公的介入要求が政策的に広がりつつある状況が浮かぶ。\n💡 投資含意：現時点では政策提言にとどまり即座の影響はないが、AI への課税・公的介入リスクの政治的高まりを示すシグナルとして警戒材料。\n🔗 波及：欧州のデジタルサービス税強化と合わせると、AI 課税圧力が大西洋両岸で高まりつつある。\n📈 関連銘柄：Nvidia（NVDA）、Microsoft（MSFT）、Alphabet（GOOGL）、Meta（META）\n⚖️ 強気：現時点では政策提言のみで即座の影響なし / 弱気：将来的な AI 課税リスクの先行指標として警戒\n📅 次の注目：2028年選挙に向けた民主党の AI 政策議論の進展",
+    "created_at": "2026-06-26T22:21:08.750Z"
+  },
+  {
+    "date": "2026-06-26",
+    "category": "robotics",
+    "source": "The Robot Report",
+    "title_ja": "ARM InstituteがRoboticsCareer.orgをフィジカルAI対応に拡張——製造業の人材エコシステム整備",
+    "title_en": "ARM Institute expands RoboticsCareer.org into physical AI",
+    "url": "https://www.therobotreport.com/arm-institute-launches-physical-ai-focused-expansion-roboticscareer-org/",
+    "summary": "ARM Institute（製造ロボティクス推進機関）が人材プラットフォーム「RoboticsCareer.org」をフィジカルAI対応に拡張した。物理 AI 分野の求人リストを追加し、雇用主と資格人材のマッチング機能を強化する。\nフィジカル AI は従来の産業ロボットを超え、認知機能・自律判断・環境適応を持つロボットシステムを指し、製造・物流・農業・建設など幅広い産業での展開が見込まれる。人材プラットフォームの整備は、業界全体の採用競争が激化していることを示す先行指標でもある。\n💡 投資含意：フィジカル AI 人材の需要拡大はこの分野への企業投資継続を示す先行指標。\n🔗 波及：製造業の自動化加速に伴い、関連設備投資・ソフトウェア企業への需要が広がる。\n📈 関連銘柄：Rockwell Automation（ROK）、ABB（ABBN）\n⚖️ 強気：フィジカル AI 人材エコシステムの整備が業界全体の普及を支援 / 弱気：人材育成速度が技術進展に追いつかないリスク",
+    "created_at": "2026-06-26T22:21:08.750Z"
+  },
+  {
+    "date": "2026-06-26",
+    "category": "robotics",
+    "source": "The Robot Report",
+    "title_ja": "General Intuition がシリーズAで3.2億ドル調達——ゲームプレイ動画でロボット AI を訓練する独自アプローチ",
+    "title_en": "General Intuition raises $320M to use video game data to train robots",
+    "url": "https://www.therobotreport.com/general-intuition-raises-320m-uses-video-game-data-train-robots/",
+    "summary": "General Intuition がシリーズ A で$3.2億を調達し、企業評価額$23億・累計調達$4.54億に達した。特筆すべきはそのアプローチ：現実世界データ収集でもシミュレーション生成でもなく、ゲームプラットフォーム「Medal」（CEO のPim de Witte が共同創業）にアップロードされた数十億のゲームプレイクリップを訓練データに活用する。\nゲームクリップには操作入力（ボタン操作）と時刻の「アクションラベル」が埋め込まれており、AI が「認識→判断→行動」のループを高密度で学習できる。テキストは現実の記述に過ぎないが、ゲームプレイ映像は意図・行動・結果の連鎖を豊富に含む、という主張だ。\n出資には General Catalyst を主幹事に、Jeff Bezos（Amazon 創業者）と Eric Schmidt（元 Google CEO）が参加。今夏に API の一般公開を予定しており、ロボット基盤モデルの商用化ステージに移行しつつある。\n物理 AI が主要なロボティクストピックとなる中、収集コストとスケールの両方で有利なゲームデータ活用は、競合との差別化要素になりうる。\n💡 投資含意：ゲームデータによる訓練は実ロボットデータ収集より低コストで大規模化しやすく、ロボット基盤モデルの量産化を加速させる可能性がある。\n🔗 波及：実世界ロボットデプロイの加速は Nvidia の Isaac・Jetson 等ロボティクスプラットフォームの商用化需要を押し上げる。自動化が進む製造業・物流にも影響。\n📈 関連銘柄：Nvidia（NVDA）、Amazon（AMZN）、Alphabet（GOOGL）\n⚖️ 強気：低コスト高品質の訓練データアプローチで物理 AI 市場に早期到達の可能性 / 弱気：ゲームデータから実世界への転移精度（sim-to-real gap）が未検証\n📅 次の注目：API 一般公開（今夏予定）、実ロボットでのデプロイ事例",
+    "created_at": "2026-06-26T22:21:08.750Z"
+  },
+  {
+    "date": "2026-06-26",
+    "category": "robotics",
+    "source": "The Robot Report",
+    "title_ja": "OrbecがAutomate 2026でAI統合型産業用3Dビジョンシステムを展示",
+    "title_en": "Orbbec shows AI-powered vision systems at Automate 2026",
+    "url": "https://www.therobotreport.com/orbbec-shows-ai-powered-vision-systems-automate-2026/",
+    "summary": "Orbbec が産業自動化展「Automate 2026」で、困難な自動化シナリオ（照明変化・粉塵・反射素材など）向けの産業グレード3Dカメラと、ロボット知覚を高める AI 統合システムを展示した。\nAI との統合により、点群データの解析精度と処理速度が向上する。工場ロボットのピックアンドプレースや品質検査で3D視覚は精度のボトルネックになりやすく、AI 統合視覚センサーの需要は産業 DX の進展とともに増加している。\n💡 投資含意：産業向け AI 視覚センサーは製造・物流ロボットの普及に必要不可欠なコンポーネントで、産業 AI 市場拡大に伴い需要が継続成長する。\n🔗 波及：FANUC・三菱電機など産業ロボットメーカーへの部品供給チェーンに影響。自動化投資増加で設備投資関連銘柄にも寄与。\n📈 関連銘柄：Cognex（CGNX、機械視覚）、Keyence（6861 JP）\n⚖️ 強気：産業 DX 加速で AI 視覚センサー需要拡大 / 弱気：中国企業競合による価格圧力",
+    "created_at": "2026-06-26T22:21:08.750Z"
+  },
+  {
+    "date": "2026-06-26",
+    "category": "technology",
+    "source": "CNBC Technology",
+    "title_ja": "ON Semiconductorがフィジカルアイ強化へSynapticsを約70億ドルで買収——同社史上最大のM&A",
+    "title_en": "ON Semiconductor strikes $7 billion deal for Synaptics in physical AI push",
+    "url": "https://www.cnbc.com/2026/06/25/on-semi-synaptics-deal-physical-ai.html",
+    "summary": "ON Semiconductor（ON Semi）が半導体メーカー Synaptics を全株式交換で約$70億で買収すると発表した。フィジカル AI（物理環境で機能する AI）への傾注を明確にした同社史上最大の買収だ。\n買収により総アドレス可能市場（TAM）を$300億拡大し2030年に$2,430億に達する見込みとする。ON Semi はシリコンカーバイド（SiC）と自動車・EV向け電力管理が強みで、Synaptics のタッチ制御・HMI・エッジ AI チップを組み合わせることでエッジデバイスの知能化と接続性を強化する戦略だ。\n発表後 ON Semi 株は6%超急落、Synaptics は13%上昇。市場は高値買収への懸念と引き換えに Synaptics 株主に恩恵が集中する構図を示している。買収完了は2027年中頃の予定で、Synaptics 側から取締役1人が ON Semi 取締役会に参加する。\n今月はQualcommがModularを買収しソフトウェア能力を強化するなど、テック企業全般で AI 競争に向けた M&A が活発化している。\n💡 投資含意：フィジカル AI 市場でのエッジチップ・知能化センサーへの需要を先取りした戦略的買収。自動車向け EV＋AI システムの統合プラットフォーム化を狙う。\n🔗 波及：エッジ AI 半導体競争に新たな強者が参入。Microchip・Renesas・STMicroelectronics との競合が激化。\n📈 関連銘柄：ON Semiconductor（ON）、Synaptics（SYNA）、Qualcomm（QCOM）、STMicroelectronics（STM）\n⚖️ 強気：TAM 拡大・フィジカル AI への先行投資 / 弱気：高値買収への懸念と統合リスク（株価6%下落が示す）\n📅 次の注目：2027年中頃の買収完了、統合後の製品ラインナップ発表",
+    "created_at": "2026-06-26T22:21:08.750Z"
+  },
+  {
+    "date": "2026-06-26",
+    "category": "technology",
+    "source": "CNBC Technology",
+    "title_ja": "Oracle株が2001年ドットコムバブル以来最悪の週——AI設備投資の財務リスクが顕在化",
+    "title_en": "Oracle stock has worst week since 2001 dot-com bust as AI financing concerns escalate",
+    "url": "https://www.cnbc.com/2026/06/26/oracle-stock-ends-worst-week-since-2001-as-investors-dwell-on-finances.html",
+    "summary": "Oracle がこの週だけで株価19%下落し、2001年のドットコムバブル崩壊以来最悪の週を記録した。昨年9月の時価総額$9,000億のピークからは約55%下落した計算になる。\n問題の核心は AI インフラへの過大な投資と財務の劣化だ：負債総額$1,300億、設備投資は前年比162%増の$560億弱、フリーキャッシュフローは$240億の赤字。2026会計年度の社員数は13%減の14万1,000人に縮小した。\nOracleはOpenAI 向けのデータセンター整備を主導しているが、AWS・Azure・Google と異なり完全な技術スタックを提供できない立場にある。それでも2027会計年度にはさらに$400億の資金調達（負債＋株式）を計画中だ。\nアナリストの71%は依然 Buy 推奨を維持し「需要シグナルは強い」と見るが、レバレッジへの懸念と AI ソフトウェア代替リスク（iShares IGV は年初来16%安）が投資家心理を圧迫し続けている。\n💡 投資含意：Oracle の急落は「AI インフラ投資の財務リスク」が市場の本格的な懸念材料として顕在化した事例。同様に大規模債務で AI 設備投資を進める企業への警戒が高まりうる。\n🔗 波及：AI インフラ全般への投資家センチメント悪化が他のデータセンター株（Equinix・Digital Realty）にも波及しうる。OpenAI への設備投資継続の信頼性も問われる。\n📈 関連銘柄：Oracle（ORCL、弱気）、Equinix（EQIX）、Microsoft（MSFT）\n⚖️ 強気：需要シグナル依然強く設備投資が将来収益に転換 / 弱気：$1,300億の負債と$240億赤字 FCF が財務破綻リスクを高める\n📅 次の注目：Oracle FY2027 Q1 決算、$200億株式売出しの市場への影響",
+    "created_at": "2026-06-26T22:21:08.750Z"
+  },
+  {
+    "date": "2026-06-26",
+    "category": "technology",
+    "source": "NYT Technology",
+    "title_ja": "先端チップパッケージングが AI のチョークポイントに——米国の台湾・TSMC依存が深まる構造問題",
+    "title_en": "How a Niche Technology Became a Choke Point for A.I.",
+    "url": "https://www.nytimes.com/2026/06/26/technology/ai-advanced-chip-packaging-tsmc.html",
+    "summary": "チップの積層・接続技術「先端パッケージング」が AI コンピューティングのボトルネックとして台頭しており、その最先端を TSMC が独占していることを NYT が詳報した。\nAI 向け半導体（GPU や HBM メモリ）の実力を最大限に引き出すには CoWoS（Chip-on-Wafer-on-Substrate）等の高度なパッケージング技術が欠かせず、NVIDIA H100/H200/B200 等は全て TSMC のパッケージングで製造されている。AI 競争が激化するほど米国の台湾・TSMC 依存が深まるというジレンマが生じている。\nCHIPS 法による国内製造誘致でも先端パッケージング技術の移転には時間がかかり、短期的には TSMC の価格交渉力と地政学的重要性が増す一方向性の構造だ。需要急増に対し供給拡大が追いつかない状況が続いている。\n💡 投資含意：先端パッケージング能力の希少性が TSMC の価格決定力を高め、パッケージング関連の ASML・Tokyo Electron・Amkor にも恩恵。\n🔗 波及：米台関係の地政学リスクが AI インフラの脆弱性として顕在化。国内パッケージング製造（Intel Foundry Services 等）への政策支援が強まる可能性。\n📈 関連銘柄：TSMC（TSM）、Amkor Technology（AMKR）、ASML（ASML）、Intel（INTC、Foundry）\n⚖️ 強気：TSMC の独占的地位を背景にした高い価格決定力 / 弱気：地政学リスクで唯一の調達先集中が AI インフラ全体の脆弱性に\n📅 次の注目：TSMC CoWoS 増産スケジュール、CHIPS 法によるパッケージング工場の国内設立計画",
+    "created_at": "2026-06-26T22:21:08.750Z"
+  },
+  {
+    "date": "2026-06-26",
+    "category": "technology",
+    "source": "NYT Technology",
+    "title_ja": "Intelのチップ事業に回復の兆し——トランプ政権の「国産チップ」戦略の要だが道のりは長い",
+    "title_en": "Intel's Chip Business Shows Signs of Life After Years of Struggle",
+    "url": "https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html",
+    "summary": "数年にわたる苦境を経て Intel のチップ事業が回復の兆しを見せていると NYT が報じた。同社はトランプ政権の「米国内でのチップ製造推進」政策の中核に位置付けられているが、完全な回復への道のりはまだ長い。\nIntel は2024年以来、製品ロードマップの遅れ・TSMC への追い抜かれ・大規模リストラに苦しんだ。Intel 18A プロセスへの自信と外部受託製造（IFS）事業の整備を進めており、国防総省との契約や CHIPS 法の補助金も経営を支援している。\n政策的なテコ入れなくしては既に事業縮小を余儀なくされていた可能性があり、商業的な実績はまだ薄い。市場シェア回復には Intel 18A の量産成功が不可欠だ。\n💡 投資含意：Intel の回復は米国半導体製造エコシステムの強化に欠かせないが、投資家への約束実現はまだ先。政策支援依存という弱点も継続する。\n🔗 波及：Intel IFS（受託製造）の台頭は TSMC への依存低下をもたらしうるが、短期的には競争より補完的存在。x86 サーバー市場で AMD・ARM 勢との競争が継続。\n📈 関連銘柄：Intel（INTC）、AMD（AMD）、TSMC（TSM）\n⚖️ 強気：CHIPS 法補助金・政策支援・18A プロセス回復期待 / 弱気：商業実績はまだ薄く、市場シェア回復は不透明\n📅 次の注目：Intel 18A の量産開始、IFS 顧客獲得実績、Q3 2026 決算",
+    "created_at": "2026-06-26T22:21:08.750Z"
   }
 ]

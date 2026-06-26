@@ -1,6 +1,77 @@
 # 🤖 AI・先進技術 — 全アーカイブ
 
-全101件 / 日付の新しい順
+全106件 / 日付の新しい順
+
+## 2026-06-26
+
+### [⚠️ audio.cpp: Qwen3-TTS ら12の音声モデルを1つのC++/ggmlランタイムで——CUDA環境でPython比5倍高速](https://www.reddit.com/r/LocalLLaMA/comments/1ufpnm6/audiocpp_12_audio_models_qwen3tts_pockettts_vevo2/)
+*audio.cpp: 12 audio models (Qwen3-TTS, PocketTTS, VeVo2 etc) in 1 C++/ggml runtime — TTS up to 5x faster than Python on CUDA*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-26
+
+「audio.cpp」という OSS プロジェクトが Reddit で話題になっているとの投稿がある。Qwen3-TTS・PocketTTS・VeVo2 など12種の音声 AI モデルを単一の C++/ggml ランタイムで動かし、CUDA 環境では Python 実装比で最大5倍の TTS 速度を達成するとされる。
+ggml は llama.cpp と同じ低レベル機械学習フレームワークで、GPU 依存度を下げつつ高速推論が可能な設計。TTS の5倍高速化はリアルタイム音声合成（電話 AI・ライブ字幕・音声エージェント等）の実用性を大きく高める。
+音声 AI 分野は OpenAI TTS・ElevenLabs・Google Gemini 等が覇権を争う中、OSS 選択肢の充実が商用サービスへの競争圧力を強める。
+⚠️ 未確認情報（Reddit発・要裏取り）
+💡 投資含意：OSS 音声ランタイムの普及は音声 AI SaaS への代替圧力。一方、組み込み音声 AI 用途向けハードウェア需要は継続。
+🔗 波及：ElevenLabs・OpenAI TTS API への価格競争圧力。TTS 機能を内蔵したエージェントフレームワークの普及を後押し。
+📈 関連銘柄：Nvidia（NVDA、GPU 推論）
+⚖️ 強気：音声 AI の民主化で市場拡大 / 弱気：SaaS 収益化モデルへの圧力
+
+### [⚠️ JetSpec: 並列ツリードラフティングで最大9.64倍・1000TPS超のLLM推論高速化を達成](https://www.reddit.com/r/LocalLLaMA/comments/1ufntl5/research_jetspec_speculative_decoding_with/)
+*[Research] JetSpec: Speculative Decoding with Parallel Tree Drafting Enables up to 9.64x Lossless LLM Inference Speedup with more than 1000TPS*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-26
+
+「JetSpec」という研究が、並列ツリードラフティングを用いた投機的デコーディング（Speculative Decoding）で損失なしに最大9.64倍のLLM推論高速化と1000TPS超を達成したとの投稿がコミュニティで話題になっている。
+投機的デコーディングは小さなドラフトモデルで複数トークンを仮生成し、大きなモデルで並列検証することで推論を高速化する手法。JetSpec の「並列ツリードラフティング」は複数の仮説系列を木構造で同時展開し検証精度を高めるとされる。
+9.64倍の高速化と1000TPS超という数値はエッジデバイスや低レイテンシ推論サービスにとって実用性を大きく高める水準で、研究論文としての発表とみられるがコミュニティでの詳細検証はこれから。
+⚠️ 未確認情報（Reddit発・要裏取り）
+💡 投資含意：推論高速化技術の成熟は推論クラウドの GPU コスト効率を改善し、LLM のエンタープライズ普及を加速させる可能性がある。
+🔗 波及：推論に特化したチップ（AI ASIC）や推論最適化ソフト（vLLM 等）の競争優位に影響しうる。
+📈 関連銘柄：Nvidia（NVDA）
+⚖️ 強気：推論コスト大幅低下で LLM 普及加速 / 弱気：研究段階で商用実装ハードルは未知数
+
+### [⚠️ LFM2.5 230Mがブラウザ内で1,400トークン/秒——カスタムWebGPUカーネルで実現](https://www.reddit.com/r/LocalLLaMA/comments/1ufii9b/lfm25_230m_running_inbrowser_at_1400_toks_using/)
+*LFM2.5 230M running in-browser at 1,400 tok/s using custom WebGPU kernels*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-26
+
+LFM2.5（Liquid Foundation Models）の230Mパラメータモデルが、カスタム WebGPU カーネルを用いてブラウザ内で1,400トークン/秒の速度で動作するデモが話題になっているとの投稿がある。
+サーバーへの送信なしにブラウザ上でリアルタイム推論が完結するため、プライバシー保護・低レイテンシ・オフライン動作の3つを同時に実現できる。1,400 tok/s はブラウザ上の LLM 推論としては突出した速度で、従来の WebAssembly 実装より大幅に高速化されているとみられる。
+WebGPU は主要ブラウザで実装が進む新しい GPU 計算 API で、エッジ AI・端末ローカル AI（On-Device AI）の実現可能性を高める技術的マイルストーンとして注目される。
+⚠️ 未確認情報（Reddit発・要裏取り）
+💡 投資含意：ブラウザ AI の高速化はクラウド AI への依存を低下させる一方、端末向け GPU・NPU チップへの需要を高める。
+🔗 波及：Apple（デバイス向け NPU）・Qualcomm（Snapdragon NPU）などオンデバイス AI 向けチップメーカーへの追い風。クラウド AI 収益への競争圧力。
+📈 関連銘柄：Qualcomm（QCOM）、Apple（AAPL）、ARM Holdings（ARM）
+⚖️ 強気：オンデバイス AI 普及でプライバシー重視の市場セグメント拡大 / 弱気：クラウド AI 収益への直接的圧力
+
+### [AnthropicでもOpenAIでもなく——AI産業全体が政府規制という共通の壁に直面](https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/)
+*It's not about Anthropic vs. OpenAI anymore*
+出典: TechCrunch ・ #ai #2026-06-26
+
+GPT-5.6 の限定公開とAnthropicの Fable/Mythos 撤回を受け、TechCrunch が AI 業界の構造的変化を分析した論説。核心の指摘は「今や問題は Anthropic か OpenAI かではなく、政府によるフロンティアモデルへの事実上の許認可体制の是非」だ。
+前ホワイトハウス AI 顧問（次期 OpenAI 社員）の Dean Ball は、大統領令が「フロンティア AI の事実上の免許制度」を生み出したと指摘。政府が何を保護しようとしているかの基準すら不明確なまま審査が進んでいる状況を問題視する。
+両社は今や同じ問題を共有しており、どちらかが規制に負けると業界全体が損をする。規制への対処で「OpenAI vs. Anthropic」の競争を持ち込むことが最も危険なシナリオとされる。
+データセンター建設中の施設への需要見通しにも影響する——モデルリリースが遅れれば建設投資の回収期間が伸びる。記事は「AI 産業として集団行動ができるか、今後数週間で明らかになる」と締めくくる。
+💡 投資含意：AI モデルへの政府規制常態化は AI ラボのマネタイズペースを落とし、データセンター投資回収の見通しを悪化させるリスク。防衛・国防向け AI 事業には優先アクセスの機会が生まれる。
+🔗 波及：米中 AI レースへの影響——政府規制が米国モデルの普及を遅らせれば中国の相対優位を高める。AWS・Azure・GCP のクラウド AI 成長にも間接的影響。
+📈 関連銘柄：Microsoft（MSFT）、Alphabet（GOOGL）、Palantir（PLTR）
+⚖️ 強気：防衛・政府向け AI プロバイダーに優先アクセス機会 / 弱気：汎用 AI 市場の拡大が規制で減速するリスク
+📅 次の注目：大統領令フレームワーク更新、フロンティアモデルへの政府審査プロセスの明文化
+
+### [OpenAIがGPT-5.6 Sol を発表——コーディング・生物・サイバーで最高性能、しかし政府要請で限定公開に](https://openai.com/index/previewing-gpt-5-6-sol)
+*Previewing GPT-5.6 Sol: a next-generation model*
+出典: OpenAI ・ #ai #2026-06-26
+
+OpenAIが次世代モデル群「GPT-5.6」シリーズを発表。旗艦の Sol、汎用の Terra、高速・低コストの Luna の3モデル構成で、Solはコーディング・生物学・サイバーセキュリティで最高性能を誇る。
+しかしトランプ政権の要請により、GPT-5.6 3モデル全てのリリースが「政府と共有した信頼パートナー」への限定プレビューに制限された。AnthropicがFable 5発表直後に外国人アクセス禁止命令で実質撤回を余儀なくされた事案に続く規制強化の動きだ。
+SolのAPI料金は入力$5/Mトークン・出力$30/Mトークン。Terraはその半額、Lunaは$1/$6。Solには複数のサブエージェントが並列で高難度タスクを処理する「ultra」モードがあり、Anthropicの Claude Mythos 5 よりコーディングワークフローで優位で出力トークンは3分の1との比較結果も示した。
+セーフティスタックはモデルのコア動作に直接組み込まれており、防御的サイバーセキュリティに最適化。「jailbreakしにくく、防御手法を教える方向に傾く」設計だ。
+OpenAI自身が「この政府関与プロセスを長期デフォルトにすべきでない」と異議を表明。「ユーザー・開発者・企業・防衛側から最良のツールを遠ざける」と批判した。
+モデルリリースの遅延が続けば、AIラボのマネタイズ速度と進行中のデータセンター建設需要見通しの両方に悪影響が及ぶ。
+💡 投資含意：Sol の高性能化は OpenAI のエンタープライズ競争力を維持するが、政府審査が常態化すれば AI 普及ペースに構造的な下押しリスク。インフラ投資回収の見通しに不透明感。
+🔗 波及：Anthropic・Google DeepMind 等他のフロンティアモデル企業にも同様の審査要求が及ぶ可能性。データセンター株・AI インフラ全般の投資家センチメントに影響。
+📈 関連銘柄：Microsoft（MSFT、OpenAI 投資）、Nvidia（NVDA、推論インフラ）
+⚖️ 強気：Sol の性能向上でエンタープライズ競争力維持 / 弱気：政府規制が AI 普及速度を落とし、データセンター投資計画を狂わせるリスク
+📅 次の注目：Sol の一般公開タイムライン、大統領令フレームワーク新草案、Anthropic Mythos の規制解除動向
 
 ## 2026-06-25
 

@@ -1,6 +1,44 @@
 # 🦾 フィジカルAI・ロボティクス — 全アーカイブ
 
-全43件 / 日付の新しい順
+全46件 / 日付の新しい順
+
+## 2026-06-26
+
+### [OrbecがAutomate 2026でAI統合型産業用3Dビジョンシステムを展示](https://www.therobotreport.com/orbbec-shows-ai-powered-vision-systems-automate-2026/)
+*Orbbec shows AI-powered vision systems at Automate 2026*
+出典: The Robot Report ・ #robotics #2026-06-26
+
+Orbbec が産業自動化展「Automate 2026」で、困難な自動化シナリオ（照明変化・粉塵・反射素材など）向けの産業グレード3Dカメラと、ロボット知覚を高める AI 統合システムを展示した。
+AI との統合により、点群データの解析精度と処理速度が向上する。工場ロボットのピックアンドプレースや品質検査で3D視覚は精度のボトルネックになりやすく、AI 統合視覚センサーの需要は産業 DX の進展とともに増加している。
+💡 投資含意：産業向け AI 視覚センサーは製造・物流ロボットの普及に必要不可欠なコンポーネントで、産業 AI 市場拡大に伴い需要が継続成長する。
+🔗 波及：FANUC・三菱電機など産業ロボットメーカーへの部品供給チェーンに影響。自動化投資増加で設備投資関連銘柄にも寄与。
+📈 関連銘柄：Cognex（CGNX、機械視覚）、Keyence（6861 JP）
+⚖️ 強気：産業 DX 加速で AI 視覚センサー需要拡大 / 弱気：中国企業競合による価格圧力
+
+### [General Intuition がシリーズAで3.2億ドル調達——ゲームプレイ動画でロボット AI を訓練する独自アプローチ](https://www.therobotreport.com/general-intuition-raises-320m-uses-video-game-data-train-robots/)
+*General Intuition raises $320M to use video game data to train robots*
+出典: The Robot Report ・ #robotics #2026-06-26
+
+General Intuition がシリーズ A で$3.2億を調達し、企業評価額$23億・累計調達$4.54億に達した。特筆すべきはそのアプローチ：現実世界データ収集でもシミュレーション生成でもなく、ゲームプラットフォーム「Medal」（CEO のPim de Witte が共同創業）にアップロードされた数十億のゲームプレイクリップを訓練データに活用する。
+ゲームクリップには操作入力（ボタン操作）と時刻の「アクションラベル」が埋め込まれており、AI が「認識→判断→行動」のループを高密度で学習できる。テキストは現実の記述に過ぎないが、ゲームプレイ映像は意図・行動・結果の連鎖を豊富に含む、という主張だ。
+出資には General Catalyst を主幹事に、Jeff Bezos（Amazon 創業者）と Eric Schmidt（元 Google CEO）が参加。今夏に API の一般公開を予定しており、ロボット基盤モデルの商用化ステージに移行しつつある。
+物理 AI が主要なロボティクストピックとなる中、収集コストとスケールの両方で有利なゲームデータ活用は、競合との差別化要素になりうる。
+💡 投資含意：ゲームデータによる訓練は実ロボットデータ収集より低コストで大規模化しやすく、ロボット基盤モデルの量産化を加速させる可能性がある。
+🔗 波及：実世界ロボットデプロイの加速は Nvidia の Isaac・Jetson 等ロボティクスプラットフォームの商用化需要を押し上げる。自動化が進む製造業・物流にも影響。
+📈 関連銘柄：Nvidia（NVDA）、Amazon（AMZN）、Alphabet（GOOGL）
+⚖️ 強気：低コスト高品質の訓練データアプローチで物理 AI 市場に早期到達の可能性 / 弱気：ゲームデータから実世界への転移精度（sim-to-real gap）が未検証
+📅 次の注目：API 一般公開（今夏予定）、実ロボットでのデプロイ事例
+
+### [ARM InstituteがRoboticsCareer.orgをフィジカルAI対応に拡張——製造業の人材エコシステム整備](https://www.therobotreport.com/arm-institute-launches-physical-ai-focused-expansion-roboticscareer-org/)
+*ARM Institute expands RoboticsCareer.org into physical AI*
+出典: The Robot Report ・ #robotics #2026-06-26
+
+ARM Institute（製造ロボティクス推進機関）が人材プラットフォーム「RoboticsCareer.org」をフィジカルAI対応に拡張した。物理 AI 分野の求人リストを追加し、雇用主と資格人材のマッチング機能を強化する。
+フィジカル AI は従来の産業ロボットを超え、認知機能・自律判断・環境適応を持つロボットシステムを指し、製造・物流・農業・建設など幅広い産業での展開が見込まれる。人材プラットフォームの整備は、業界全体の採用競争が激化していることを示す先行指標でもある。
+💡 投資含意：フィジカル AI 人材の需要拡大はこの分野への企業投資継続を示す先行指標。
+🔗 波及：製造業の自動化加速に伴い、関連設備投資・ソフトウェア企業への需要が広がる。
+📈 関連銘柄：Rockwell Automation（ROK）、ABB（ABBN）
+⚖️ 強気：フィジカル AI 人材エコシステムの整備が業界全体の普及を支援 / 弱気：人材育成速度が技術進展に追いつかないリスク
 
 ## 2026-06-25
 

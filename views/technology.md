@@ -1,6 +1,62 @@
 # 🖥 テクノロジー — 全アーカイブ
 
-全129件 / 日付の新しい順
+全133件 / 日付の新しい順
+
+## 2026-06-26
+
+### [Intelのチップ事業に回復の兆し——トランプ政権の「国産チップ」戦略の要だが道のりは長い](https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html)
+*Intel's Chip Business Shows Signs of Life After Years of Struggle*
+出典: NYT Technology ・ #technology #2026-06-26
+
+数年にわたる苦境を経て Intel のチップ事業が回復の兆しを見せていると NYT が報じた。同社はトランプ政権の「米国内でのチップ製造推進」政策の中核に位置付けられているが、完全な回復への道のりはまだ長い。
+Intel は2024年以来、製品ロードマップの遅れ・TSMC への追い抜かれ・大規模リストラに苦しんだ。Intel 18A プロセスへの自信と外部受託製造（IFS）事業の整備を進めており、国防総省との契約や CHIPS 法の補助金も経営を支援している。
+政策的なテコ入れなくしては既に事業縮小を余儀なくされていた可能性があり、商業的な実績はまだ薄い。市場シェア回復には Intel 18A の量産成功が不可欠だ。
+💡 投資含意：Intel の回復は米国半導体製造エコシステムの強化に欠かせないが、投資家への約束実現はまだ先。政策支援依存という弱点も継続する。
+🔗 波及：Intel IFS（受託製造）の台頭は TSMC への依存低下をもたらしうるが、短期的には競争より補完的存在。x86 サーバー市場で AMD・ARM 勢との競争が継続。
+📈 関連銘柄：Intel（INTC）、AMD（AMD）、TSMC（TSM）
+⚖️ 強気：CHIPS 法補助金・政策支援・18A プロセス回復期待 / 弱気：商業実績はまだ薄く、市場シェア回復は不透明
+📅 次の注目：Intel 18A の量産開始、IFS 顧客獲得実績、Q3 2026 決算
+
+### [先端チップパッケージングが AI のチョークポイントに——米国の台湾・TSMC依存が深まる構造問題](https://www.nytimes.com/2026/06/26/technology/ai-advanced-chip-packaging-tsmc.html)
+*How a Niche Technology Became a Choke Point for A.I.*
+出典: NYT Technology ・ #technology #2026-06-26
+
+チップの積層・接続技術「先端パッケージング」が AI コンピューティングのボトルネックとして台頭しており、その最先端を TSMC が独占していることを NYT が詳報した。
+AI 向け半導体（GPU や HBM メモリ）の実力を最大限に引き出すには CoWoS（Chip-on-Wafer-on-Substrate）等の高度なパッケージング技術が欠かせず、NVIDIA H100/H200/B200 等は全て TSMC のパッケージングで製造されている。AI 競争が激化するほど米国の台湾・TSMC 依存が深まるというジレンマが生じている。
+CHIPS 法による国内製造誘致でも先端パッケージング技術の移転には時間がかかり、短期的には TSMC の価格交渉力と地政学的重要性が増す一方向性の構造だ。需要急増に対し供給拡大が追いつかない状況が続いている。
+💡 投資含意：先端パッケージング能力の希少性が TSMC の価格決定力を高め、パッケージング関連の ASML・Tokyo Electron・Amkor にも恩恵。
+🔗 波及：米台関係の地政学リスクが AI インフラの脆弱性として顕在化。国内パッケージング製造（Intel Foundry Services 等）への政策支援が強まる可能性。
+📈 関連銘柄：TSMC（TSM）、Amkor Technology（AMKR）、ASML（ASML）、Intel（INTC、Foundry）
+⚖️ 強気：TSMC の独占的地位を背景にした高い価格決定力 / 弱気：地政学リスクで唯一の調達先集中が AI インフラ全体の脆弱性に
+📅 次の注目：TSMC CoWoS 増産スケジュール、CHIPS 法によるパッケージング工場の国内設立計画
+
+### [Oracle株が2001年ドットコムバブル以来最悪の週——AI設備投資の財務リスクが顕在化](https://www.cnbc.com/2026/06/26/oracle-stock-ends-worst-week-since-2001-as-investors-dwell-on-finances.html)
+*Oracle stock has worst week since 2001 dot-com bust as AI financing concerns escalate*
+出典: CNBC Technology ・ #technology #2026-06-26
+
+Oracle がこの週だけで株価19%下落し、2001年のドットコムバブル崩壊以来最悪の週を記録した。昨年9月の時価総額$9,000億のピークからは約55%下落した計算になる。
+問題の核心は AI インフラへの過大な投資と財務の劣化だ：負債総額$1,300億、設備投資は前年比162%増の$560億弱、フリーキャッシュフローは$240億の赤字。2026会計年度の社員数は13%減の14万1,000人に縮小した。
+OracleはOpenAI 向けのデータセンター整備を主導しているが、AWS・Azure・Google と異なり完全な技術スタックを提供できない立場にある。それでも2027会計年度にはさらに$400億の資金調達（負債＋株式）を計画中だ。
+アナリストの71%は依然 Buy 推奨を維持し「需要シグナルは強い」と見るが、レバレッジへの懸念と AI ソフトウェア代替リスク（iShares IGV は年初来16%安）が投資家心理を圧迫し続けている。
+💡 投資含意：Oracle の急落は「AI インフラ投資の財務リスク」が市場の本格的な懸念材料として顕在化した事例。同様に大規模債務で AI 設備投資を進める企業への警戒が高まりうる。
+🔗 波及：AI インフラ全般への投資家センチメント悪化が他のデータセンター株（Equinix・Digital Realty）にも波及しうる。OpenAI への設備投資継続の信頼性も問われる。
+📈 関連銘柄：Oracle（ORCL、弱気）、Equinix（EQIX）、Microsoft（MSFT）
+⚖️ 強気：需要シグナル依然強く設備投資が将来収益に転換 / 弱気：$1,300億の負債と$240億赤字 FCF が財務破綻リスクを高める
+📅 次の注目：Oracle FY2027 Q1 決算、$200億株式売出しの市場への影響
+
+### [ON Semiconductorがフィジカルアイ強化へSynapticsを約70億ドルで買収——同社史上最大のM&A](https://www.cnbc.com/2026/06/25/on-semi-synaptics-deal-physical-ai.html)
+*ON Semiconductor strikes $7 billion deal for Synaptics in physical AI push*
+出典: CNBC Technology ・ #technology #2026-06-26
+
+ON Semiconductor（ON Semi）が半導体メーカー Synaptics を全株式交換で約$70億で買収すると発表した。フィジカル AI（物理環境で機能する AI）への傾注を明確にした同社史上最大の買収だ。
+買収により総アドレス可能市場（TAM）を$300億拡大し2030年に$2,430億に達する見込みとする。ON Semi はシリコンカーバイド（SiC）と自動車・EV向け電力管理が強みで、Synaptics のタッチ制御・HMI・エッジ AI チップを組み合わせることでエッジデバイスの知能化と接続性を強化する戦略だ。
+発表後 ON Semi 株は6%超急落、Synaptics は13%上昇。市場は高値買収への懸念と引き換えに Synaptics 株主に恩恵が集中する構図を示している。買収完了は2027年中頃の予定で、Synaptics 側から取締役1人が ON Semi 取締役会に参加する。
+今月はQualcommがModularを買収しソフトウェア能力を強化するなど、テック企業全般で AI 競争に向けた M&A が活発化している。
+💡 投資含意：フィジカル AI 市場でのエッジチップ・知能化センサーへの需要を先取りした戦略的買収。自動車向け EV＋AI システムの統合プラットフォーム化を狙う。
+🔗 波及：エッジ AI 半導体競争に新たな強者が参入。Microchip・Renesas・STMicroelectronics との競合が激化。
+📈 関連銘柄：ON Semiconductor（ON）、Synaptics（SYNA）、Qualcomm（QCOM）、STMicroelectronics（STM）
+⚖️ 強気：TAM 拡大・フィジカル AI への先行投資 / 弱気：高値買収への懸念と統合リスク（株価6%下落が示す）
+📅 次の注目：2027年中頃の買収完了、統合後の製品ラインナップ発表
 
 ## 2026-06-25
 
