@@ -1,6 +1,36 @@
 # 🤖 AI・先進技術 — 全アーカイブ
 
-全106件 / 日付の新しい順
+全108件 / 日付の新しい順
+
+## 2026-06-27
+
+### [⚠️ DeepSeekが新バリアント「V4-Pro-DSpark」をHuggingFaceで公開——DSpark論文も同時公開](https://www.reddit.com/r/LocalLLaMA/comments/1ugug2o/deepseekaideepseekv4prodspark_huggingface/)
+*deepseek-ai/DeepSeek-V4-Pro-DSpark • Huggingface*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-27
+
+DeepSeekが新しいモデルバリアント「DeepSeek-V4-Pro-DSpark」をHuggingFaceに公開したとの投稿がr/LocalLLaMAで話題になっている。
+DeepSeek V4 Proの派生と見られ、「DSpark」というサフィックスが特徴。同時にGitHub上のdeepseek-ai/DeepSpecリポジトリに「DSpark_paper.pdf」という論文ファイルも公開されており、独自のアーキテクチャ改善または学習手法に関する研究成果を伴うリリースとみられる。
+DeepSeekは2026年4月のV4 Proリリース以降、フロンティアモデルに匹敵するオープン性能で注目を集めており、今回のDSpark変種はさらなる強化版か特定用途向けの最適化版の可能性がある。
+公開時点では詳細な評価結果は示されていないが、論文の存在は単なるファインチューンではなく研究的な技術改善を伴うリリースであることを示唆する。
+⚠️ 未確認情報（Reddit発・要裏取り）
+💡 投資含意: DeepSeekのオープンモデル強化が続けば、OpenAI・Anthropicの商用モデルへの価格圧力が継続。中国オープンソースAIの技術力向上は米中AI競争の構図を変えうる。
+🔗 波及: Zhipu GLM 5.2と合わせ「オープン中国モデルが商用フロンティアモデルに肉薄」するトレンドが加速。HuggingFaceを中心としたオープンモデルエコシステムの地位向上。
+📈 関連銘柄: Nvidia（NVDA、推論インフラ需要は不変）、Microsoft（MSFT、OpenAI依存収益への圧力）
+⚖️ 強気/弱気: 強気）オープンソースAI市場の拡大とローカル推論インフラ需要 / 弱気）クローズドソース商用AIラボの収益モデルへの構造的圧力
+
+### [⚠️ NVIDIAのNemotron-3-Super-120B（Mamba+MoEハイブリッド）が消費者GPU 4枚で504Kトークンの完全な長文脈保持を達成](https://www.reddit.com/r/LocalLLaMA/comments/1ugj1sf/nemotron3super120ba12b_hybrid_mambamoe_holds/)
+*Nemotron-3-Super-120B-A12B (hybrid Mamba+MoE) holds perfect needle retrieval to 504K tokens on 4×3090*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-27
+
+NVIDIAのNemotron-3-Super-120BがMamba（状態空間モデル）とMoE（Mixture of Experts）を組み合わせたハイブリッドアーキテクチャで、r/LocalLLaMAで話題になっているとのコミュニティ投稿がある。
+「Needle-in-a-Haystack」テストで504Kトークンまで完全な精度を維持することが報告されており、特に注目されるのはRTX 3090（消費者向けGPU）4枚という比較的手頃なハードウェアでこれを実現している点だ。
+120B総パラメータのうちアクティブパラメータが12B（A12B）というMoE構造と、線形複雑性を持つMambaの組み合わせが、長文脈での従来Transformerの二乗的なメモリ増加問題を回避する。
+NVIDIA自身が自社モデルファミリー（Nemotron）でこのハイブリッドアーキテクチャを採用・検証していることは、次世代LLMの方向性を示す重要なシグナルといえる。504Kコンテキストをコンシューマー環境で動かせるなら、エンタープライズエージェントの実用域が大幅に広がる。
+⚠️ 未確認情報（Reddit発・要裏取り）
+💡 投資含意: Mamba+MoEハイブリッドが長文脈性能でTransformerを超えるなら次世代LLMアーキテクチャの主流が変わりうる。NVIDIA自身がこの方向に投資していることは自社エコシステム強化のシグナル。
+🔗 波及: 長文脈・低コスト推論の実現はエンタープライズAIエージェントの実用域を拡げ推論クラウドコストを引き下げうる。HBM需要（効率向上で相対需要減少リスク）への影響も注視。
+📈 関連銘柄: Nvidia（NVDA）、SK Hynix（000660.KS）
+⚖️ 強気/弱気: 強気）NVIDIAが次世代アーキテクチャを自社で実装・最適化している競争優位 / 弱気）アーキテクチャ競争の激化でHBM需要予測に不確実性
 
 ## 2026-06-26
 

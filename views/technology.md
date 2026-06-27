@@ -1,6 +1,76 @@
 # 🖥 テクノロジー — 全アーカイブ
 
-全133件 / 日付の新しい順
+全138件 / 日付の新しい順
+
+## 2026-06-27
+
+### [メモリ不足が中小電子機器メーカーを「存亡の危機」に——MicronのDRAM価格が前年比260%超、GoPro倒産リスクを警告](https://www.cnbc.com/2026/06/27/memory-crunch-shaking-apple-and-microsoft-existential-for-small-guys.html)
+*The memory shortage shaking Apple and Microsoft is 'existential crisis' for smaller players*
+出典: CNBC Technology ・ #technology #2026-06-27
+
+AI向けデータセンターがDRAM・HBMを大量に吸い上げる世界的なメモリ不足が、中小の電子機器メーカーを「存亡の危機」に追い込んでいる。
+Micronの8GB DRAMが$35（2024年）から現在$300と約857%急騰。Micronの直近四半期の売上高は前年比4倍超、粗利益率は39%→85%弱に倍増した。DRAM平均販売価格は前年比260%超の上昇で、Micron株は過去1年で約800%上昇した。
+一方中小企業は深刻な打撃を受けている。アクションカメラのGoPro はメモリコストが80〜115%上昇したとして倒産リスクを明示的に警告。スピーカーメーカーのSonos は年初来23%下落。3人規模のMono Technologies（$600のルーター）はコストが最低33%上昇し次回生産の判断がつかない。防衛向け通信機器のW5 Technologiesではサーバー価格が$8,839→$15,000に急騰し納期も数ヶ月延長された。
+AppleとMicrosoftは価格転嫁で対応（Apple Mac/iPad値上げ、Microsoft Xbox +$100）。IDCアナリスト Nabila Popal氏は「100ドル以下デバイスを作るローカルプレーヤーにとって絶対的な存亡の危機。メモリサプライヤーは大手の呼び出しにしか応じない」と述べた。
+💡 投資含意: Micron・SK Hynix・Samsungが独占的恩恵を享受する一方、中小家電・ゲーム・防衛電子は大幅な利益率圧迫に直面。消費者への価格転嫁が続けばインフレ再燃要因になりうる。
+🔗 波及: メモリ高騰は通信機器・医療機器・防衛電子のサプライチェーン全体に波及。中小スタートアップの撤退増加で産業再編が加速しうる。
+📈 関連銘柄: Micron（MU、強気）、SK Hynix（000660.KS、強気）、GoPro（GPRO、弱気）、Sonos（SONO、弱気）、Apple（AAPL、需要減退リスク）
+⚖️ 強気/弱気: 強気）メモリ製造大手に圧倒的な価格決定力 / 弱気）消費者デバイス市場全体の需要減退リスク
+
+### [GEバーノバのガスタービンがAIデータセンターの電力インフラに——受注2029年まで満杯、価格は3年で3倍超](https://www.cnbc.com/2026/06/27/ge-vernova-gas-turbines-ai-data-centers.html)
+*How GE Vernova builds the massive gas turbines powering the AI data center boom*
+出典: CNBC Technology ・ #technology #2026-06-27
+
+GEバーノバが製造する大型ガスタービンが、AI時代のデータセンター電力インフラの中核として急浮上している。同社工場（サウスカロライナ州グリーンビル）への独占取材で、AIブームの実態が浮かび上がった。
+タービンのスペック：高さ31フィート・重量280トン・1基で約50万世帯分の電力を供給。1基の価格は$2.5億超で、過去3年間で300%上昇した。受注残は2029年まで満杯で2030〜2031年分の予約も開始している。
+主要顧客はアマゾン・グーグル・マイクロソフト・Oracleなどハイパースケーラー。グリッドへの新規接続許認可が数年かかるため、データセンター企業は独立した自家発電を選ぶ流れが加速している。Microsoftはテキサスのデータセンター向けにタービン7基（2.7GW・約300万世帯分）を購入。GEバーノバ製タービンはイーロン・マスクのxAI Colossus 1（テネシー）とOpenAIのStargate（テキサス）にも既に展開済みだ。
+データセンター向けは現在、同社ガスパワー受注全体の20%を占める。工場は昨年200人採用・年内に300人追加予定。GEバーノバ株は過去6ヶ月で約60%上昇。
+💡 投資含意: GEバーノバは「AIインフラの電力インフラ側」の受益者として2029年まで安定した需要を持つ。AI設備投資コスト拡大の長期継続を示すハードデータとして注目。
+🔗 波及: 電力グリッドの不足がデータセンター建設地の選定に影響。天然ガス需要増でLNG輸出業者・パイプライン会社にも恩恵。公共電力会社はデータセンター需要対応を迫られる。
+📈 関連銘柄: GE Vernova（GEV、強気）、NextEra Energy（NEE）、Williams Companies（WMB）、Eaton（ETN）
+⚖️ 強気/弱気: 強気）2029年まで受注満杯でAIインフラ電力需要の確実な受益者 / 弱気）環境規制・公共反発による計画変更リスク
+📅 次の注目: GEバーノバ次回決算、新データセンタープロジェクトの発電契約動向
+
+### [中国Zhipu「GLM 5.2」がAnthropicのOpus 4.8に1%差まで接近——コスト5分の1で「インテリジェンス単価」競争が本格化](https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html)
+*China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back*
+出典: CNBC Technology ・ #technology #2026-06-27
+
+中国のAIスタートアップZhipuがオープンソースモデル「GLM 5.2」をリリースし、エージェンティックなベンチマークでAnthropicのOpus 4.8と1パーセントポイント以内に接近、コストは約5分の1という。
+2026年1月のDeepSeekショック以来最大の衝撃と評され、OpenRouterでのトークン通信量はDeepSeek V4リリース直後より急速に増加している。GLM 5.2が特に強いのは計画・コーディング・テスト・ループ処理といったエージェント作業——企業が自動化を急ぐ分野だ。
+最重要の構造変化は「インテリジェンス単価」が主要指標になりつつある点。AI支出が予想外に膨らんだ企業が、同じコストでどれだけの知能を得られるかを問い始めており、Zhipuの安価かつ十分に優秀なモデルが魅力的な答えになりつつある。
+さらにGLM 5.2は無料でダウンロード・ファインチューン・企業サーバーでの運用が可能だ。Anthropicが輸出禁止令でMythosを撤回し、OpenAIがGPT-5.6を制限した直後というタイミングで「誰にも剥奪できないモデル」がより安全な選択に見えてきた——と記事は指摘する。AI法律特化のHarvey共同創業者は「GLM 5.2はクローズドソースのフロンティアモデルと真に競争できる最初のモデル」と評価した。
+💡 投資含意: 中国オープンソースモデルが商用フロンティアモデルに肉薄することで、OpenAI・Anthropicの価格プレミアムの持続可能性が問われる。フロンティアモデルへの政府規制が中国側の相対優位を高める構造が固定化しつつある。
+🔗 波及: OpenAI・Anthropicの企業顧客がオープンソースモデルに移行すれば、Azure OpenAI・AWS Bedrock経由の収益にも影響。自社ホスト型AIインフラへの需要が増える。
+📈 関連銘柄: Microsoft（MSFT、弱気：OpenAI依存収益への圧力）、Nvidia（NVDA、中立：推論インフラ需要は変わらず）
+⚖️ 強気/弱気: 強気）オープンソースAIの普及で推論インフラ需要が増大 / 弱気）フロンティアモデルラボの収益モデルへの構造的圧力
+
+### [AnthropicのMythos輸出禁止が続くなかアジア競合モデルが台頭——日本SakanaのFugu、中国360のTulongfeng](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/)
+*Asian AI startups launch Mythos-like models as Anthropic's export ban drags on*
+出典: TechCrunch ・ #technology #2026-06-27
+
+AnthropicのFable 5とMythosへの輸出禁止令が続く中、アジアでフロンティアレベルを主張する競合モデルが相次いで登場している。
+東京拠点のSakana AI（元Googleリサーチャー3名が2023年共同創業）が「Fugu（フグ）」を発表。「AnthropicのFable 5・Mythos Previewと肩を並べる」と主張するフロンティアAIで、複数モデルをAPIで連携させるオーケストレーション機能を持ちエージェントシステムに特化。ウェブサイトには「輸出規制リスクなしにフロンティア能力を提供」と明記している。
+中国のサイバーセキュリティ企業360は「Tulongfeng」（ソフトウェアの脆弱性を自動発見するAIツール）と「Yitianzhen」（サイバー防衛・インシデント対応を自動化）を発表。同社創業者は脆弱性発見AIを「国家戦略資産」と位置付けた。
+Anthropicの直近年換算収益は2026年5月に$470億を突破していたが、輸出禁止から2週間でアジアに有力な代替品が出現したことは「もし禁止が解除されても信頼を取り戻せるか」という問いを突きつけている。Sakana共同創業者はG7で「米国の最初の優先事項は同盟国へのアクセス維持であるべき」と訴えた。
+💡 投資含意: 米国のAI輸出規制が長期化するほどアジア市場での競争環境が変わり、中国・日本のAIスタートアップに「正当性ある代替品」という評判が定着するリスクが高まる。短期的影響は限定的でも長期的市場シェアへの脅威。
+🔗 波及: アジア企業の「脱米国AI」需要が定着すれば、OpenAI・AnthropicのAPIエコシステム全体に構造的打撃。日本・韓国・東南アジアのAI投資資金がローカルプレーヤーに向かいうる。
+📈 関連銘柄: Microsoft（MSFT、Azure経由のAnthropic収益）
+⚖️ 強気/弱気: 強気）短期では代替モデルの実力はまだ未検証で米国モデルの優位継続 / 弱気）禁止長期化で不可逆的な市場シェア損失のリスク
+📅 次の注目: Anthropic Mythos規制の全面解除タイムライン、Sakana Fuguの独立ベンチマーク評価
+
+### [AppleのVision Pro担当VPがOpenAIハードウェアチームに移籍——ジョニー・アイヴと並ぶAIデバイス開発体制に](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/)
+*Apple Vision Pro exec is reportedly leaving for OpenAI*
+出典: TechCrunch ・ #technology #2026-06-27
+
+AppleでVision Proヘッドセットを担当していたVP（Vice President）のPaul Meadeが、OpenAIのハードウェアチームに移籍するとBloombergのMark Gurmanが報じた。
+MeadeはVision Proに加え、Appleが来年発売予定のAI搭載スマートグラスの開発も主導していたとされる。Vision Proは$3,499という高価格と販売不振で苦しんでおり、より手頃なスマートグラスがMetaのスマートグラスへの対抗製品として計画されている。
+Gurmanによれば離脱の背景には、John Ternus（ハードウェアエンジニアリング担当SVP）の次期Apple CEO就任に向けた組織再編がある。ハードウェアチームの大幅刷新でVPクラスが「降格感」を抱いたことが引き金になった。
+OpenAI側では既にJony Ive（元AppleチーフデザインオフィサーでApple全製品の顔）との協業でAIデバイスを開発中。Sam Altman CEOは「iPhoneより穏やかで静寂なデバイス」を目指すと述べているが、具体化に苦戦との報道もある。Meadeの参加はOpenAIのハードウェアチームに量産経験をもたらす。
+💡 投資含意: Apple内部でのXR開発体制の混乱は先行き不安材料。OpenAIのハードウェア事業化への本気度が高まっているシグナル。
+🔗 波及: Apple XRの停滞でMetaのスマートグラスが競争優位を保ちやすくなる。OpenAI独自ハードウェアへの期待が高まれば将来的にApple・Qualcomm等との競合リスクも。
+📈 関連銘柄: Apple（AAPL、弱気：XR事業の不確実性）、Meta（META、強気：競合の弱体化）
+⚖️ 強気/弱気: 強気）OpenAIのハードウェア参入が新カテゴリー創出に / 弱気）AppleのXR戦略の迷走が長期収益源として期待されていたカテゴリーの見通しを暗くする
+📅 次の注目: AppleのAIスマートグラス発表タイムライン、OpenAI×Jony Iveデバイスの詳細
 
 ## 2026-06-26
 
