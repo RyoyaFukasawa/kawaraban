@@ -1,6 +1,78 @@
 # 🤖 AI・先進技術 — 全アーカイブ
 
-全108件 / 日付の新しい順
+全113件 / 日付の新しい順
+
+## 2026-06-28
+
+### [⚠️ Ornith-1.0-35B GGUFがネイティブMTPスペキュラティブデコードを実装——長文脈TTFT・スループット数値も公開](https://www.reddit.com/r/LocalLLaMA/comments/1ui4yn6/ornith1035b_gguf_update_native_mtp/)
+*Ornith-1.0-35B GGUF update: native MTP speculative-decode graft + full serving/TTFT/long-context numbers (llama.cpp, tp=1)*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-28
+
+オープンソースモデル「Ornith-1.0-35B」のGGUF版（量子化フォーマット）が、ネイティブMTP（Multi-Token Prediction）スペキュラティブデコードを実装したアップデートを公開したとの投稿がr/LocalLLaMAに出ている。
+MTPスペキュラティブデコードは複数トークンを並列予測することで推論速度（特にTTFT：Time-To-First-Token）を大幅に改善する手法。「ネイティブ」実装とは外部ドラフトモデルを必要とせず単一モデル内で実現することで、実装の複雑さとオーバーヘッドを削減する。
+35Bというサイズは「ローカル推論可能な最大級」クラスで、高性能GPU（RTX 4090×2程度）またはApple M2 Ultra等で動作可能。今回のGGUF更新では長文脈でのTTFTやスループット数値も公開されており実用的なベンチマークが示されている。
+エンタープライズへのAI導入コストを下げるオープンモデルの性能・効率向上は、クローズドモデルとの差を縮める構造的な力として機能する。
+⚠️ 未確認情報（Reddit発・要裏取り）
+💡 投資含意: MTPスペキュラティブデコードのオープンモデル実装でクローズドモデルとのパフォーマンスギャップが縮まる。ローカル推論ハードウェア需要は維持される。
+🔗 波及: 推論効率向上はNvidiaのH100系から消費者向けGPUへのダウングレード需要を増やす可能性。クラウドAPI収益モデルへの代替圧力も継続。
+📈 関連銘柄: Nvidia（NVDA）、AMD（AMD）
+⚖️ 強気/弱気: 強気）ローカルAI実用性の向上でエッジデプロイ市場拡大 / 弱気）クラウドAPI依存モデルへの長期圧力
+
+### [⚠️ 中国がサイバーセキュリティAIでAnthropicに肩を並べたとの報道——「AIレースがリセット」との論調がコミュニティで拡散](https://www.reddit.com/r/LocalLLaMA/comments/1ui3tck/china_has_matched_anthropic_in_cybersecurity/)
+*China Has Matched Anthropic in Cybersecurity, Resetting AI Race*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-28
+
+中国がサイバーセキュリティAIの分野でAnthropicのMythosモデルに肩を並べたとの報道があり、r/LocalLLaMAコミュニティで話題になっているという投稿がある。
+AnthropicのMythosはCiscoのチームが1.8億行のコードを8週間でスキャンできる能力を持つとされ（人間＋従来ツールでは8年かかる）、米政府が輸出禁止を設けるほど機密扱いの技術。今回の投稿はそのMythosに中国のAIが追いついたと主張する記事をリンクしており「AIレースがリセットされた」という論調だ。
+中国では360社がサイバーセキュリティAI「Tulongfeng」を発表しており（6月27日ダイジェスト参照）、この流れと符合する。投稿が指す具体的なモデル名や出典は本文から確認できない。
+米国の輸出禁止でMythosへのアクセスを制限する中、中国がサイバーセキュリティAIで追い上げているという構図は、米国技術優位戦略の効果に疑問を投げかける。
+⚠️ 未確認情報（Reddit発・要裏取り）
+💡 投資含意: 中国のサイバーセキュリティAIがAnthropicに肩を並べるなら、米国の「AI輸出規制による優位維持」戦略の実効性が問われる。米国サイバーセキュリティ企業には中国との競合激化リスクも。
+🔗 波及: 米中AIサイバーセキュリティ競争の激化は防衛・情報機関向けAI契約で米国スタートアップへの追い風と、中国モデルによる市場侵食リスクの両面がある。
+📈 関連銘柄: Palo Alto Networks（PANW）、CrowdStrike（CRWD）
+⚖️ 強気/弱気: 弱気）中国追い上げがAnthropicの差別化優位を縮小させるリスク
+
+### [⚠️ DFlash（高速アテンション実装）がllama.cppにマージ——オープンソースLLM推論の速度・メモリ効率が向上](https://www.reddit.com/r/LocalLLaMA/comments/1uhx862/dflash_support_merged_into_llamacpp/)
+*DFlash support merged into llama.cpp*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-28
+
+FlashAttentionの新バリアント「DFlash」のサポートがオープンソースLLM推論フレームワーク「llama.cpp」にマージされたとの投稿がr/LocalLLaMAで話題になっているという。
+llama.cppはQwen・Llama・Gemmaなど主要オープンモデルをCPU・GPU環境で高速推論するための最も広く使われるフレームワークで、ここへのマージはオープンソースAI推論インフラ全体に即時波及する。
+DFlashはアテンションメカニズム（Transformerの中核計算）をメモリ効率よく実行する手法で、従来のFlashAttentionに対して異なるメモリアクセスパターンを最適化するとされる。マージにより推論速度・メモリ効率の向上が期待される。
+ローカル推論の効率向上はクラウドAPI依存を下げる構造的な力として機能し、オープンソースAIの実用性をさらに高める。
+⚠️ 未確認情報（Reddit発・要裏取り）
+💡 投資含意: llama.cppの推論効率向上はローカル・エッジAI推論の需要を下支えし、Apple Silicon・AMDなどNVIDIA以外のハードウェアでのAI利用を促進しうる。
+🔗 波及: ローカル推論効率化はクラウドAPIへの代替圧力。一方でVRAM・チップ需要自体は維持される。
+📈 関連銘柄: Nvidia（NVDA）、AMD（AMD）、Apple（AAPL）
+⚖️ 強気/弱気: 強気）ローカルAI推論インフラ需要の拡大 / 弱気）クラウドAPI収益モデルへの長期的な競合圧力
+
+### [⚠️ 55のLLMが互いを「盲目採点」すると自己流派への偏りが露呈——22,000件の評価でQwenはQwenを約0.9点高く評価](https://www.reddit.com/r/LocalLLaMA/comments/1uhi81a/i_had_55_llms_blindgrade_each_other_22k_judgments/)
+*I had 55 LLMs blind-grade each other (22k judgments, all open). Every model family with enough data is biased toward its own siblings. Qwen judges favor Qwen by ~0.9 points. Mistral penalizes its own by ~1.0.*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-28
+
+55のLLMが互いを採点するオープンな評価実験を行ったという投稿がr/LocalLLaMAで話題になっている。同一プロンプトへのN個のモデルの回答を、それぞれ別のモデルが採点するシステムで計22,000件の評価データを収集した。
+得られた最大の発見は「すべてのモデルファミリーが自分の兄弟モデルへの贔屓傾向（ファミリーバイアス）を示す」という点だ。Qwenモデルが審査員の場合はQwenシリーズを約0.9点高く評価し、Mistralが審査員の場合は逆に自社モデルを約1.0点低く評価（自己厳格化）する傾向が観測された。
+このバイアスは、現在LLM評価の主流となっている「LLM-as-Judge（AIを審査員として使う）」手法の信頼性に根本的な疑問を突きつける。公式モデルが自社ファミリーを有利に評価しうるため、ランキングの客観性が損なわれる。
+「誰がAIを評価するか」の問題が解決されない限り、AIランキングの信頼性は担保できない。投資家がモデルの相対的価値を判断する根拠となるベンチマークそのものへの信頼が揺らぐ。
+⚠️ 未確認情報（Reddit発・要裏取り）
+💡 投資含意: LLM評価手法の信頼性低下は、ベンチマークを根拠とした「最強モデル」主張の市場評価に不確実性を加える。独立した評価インフラへの需要が高まりうる。
+🔗 波及: OpenAI・Anthropic・Googleなど自社評価を公開している大手AIラボのベンチマーク主張の信頼性に影響。サードパーティ評価機関（LMSYS/Chatbot Arena等）の重要性が高まる。
+📈 関連銘柄: Nvidia（NVDA、AI競争の持続でGPU需要は維持）
+⚖️ 強気/弱気: 弱気）AI性能評価の客観性への疑問がモデル採用判断を複雑にし、セクター全体の不確実性を高める
+
+### [⚠️ Mythos輸出規制に続きOpenAIもGPT-5.6のロールアウトを政府審査後に制限——AI管理の「政府関与」が2社目に拡大](https://www.reddit.com/r/LocalLLaMA/comments/1uh68gu/mythos_was_the_first_now_gpt56/)
+*Mythos was the first, now GPT-5.6*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-28
+
+AnthropicのMythosへの政府介入に続き、OpenAIの最新モデル「GPT-5.6」についても政府がロールアウト制限を課したとの話題がr/LocalLLaMAで議論されているという投稿がある。投稿はTechCrunchの「openai-limits-gpt-5-6-rollout-after-government...」という記事にリンクしている。
+NPRの報道（同日）によればOpenAIは自社最新モデルのユーザー企業を政府が審査することを許可した。OpenAI側は「より広い利用可能性への最強の道筋だが、この種の審査が長期的な標準になるべきではない」と述べた。
+政府はまずAnthropicのMythosに輸出禁止→一部解除という手法を用い、次にOpenAIにも審査権限を確保。「誰がフロンティアAIを使えるか」を政府が決める権限の確立が2社目に及んだ。
+政府によるAI承認制の定着は、AIラボのB2G（対政府）化と商業展開自由度の低下という構造的な変化を意味する。
+⚠️ 未確認情報（Reddit発・要裏取り）
+💡 投資含意: フロンティアAI政府審査制が定着するなら、政府との関係管理がAI企業の競争力の一部になる。B2G実績の強いMicrosoft・Palantirが有利。
+🔗 波及: 「政府承認AIプロバイダ」という事実上の認証が競争障壁となる可能性。防衛IT企業とAIラボの競合が激化しうる。
+📈 関連銘柄: Microsoft（MSFT）、Palantir（PLTR）
+⚖️ 強気/弱気: 強気）政府認証AIプロバイダはB2G市場で参入障壁を持つ / 弱気）商業展開の自由度低下と展開速度の鈍化リスク
 
 ## 2026-06-27
 

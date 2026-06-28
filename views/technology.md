@@ -1,6 +1,78 @@
 # 🖥 テクノロジー — 全アーカイブ
 
-全138件 / 日付の新しい順
+全143件 / 日付の新しい順
+
+## 2026-06-28
+
+### [米商務省、AnthropicのMythosベースモデルへの輸出禁止を一部解除——政府認定リスト企業のみアクセス可に（続報）](https://www.npr.org/2026/06/27/nx-s1-5871245/trump-administration-imposes-restrictions-for-anthropic-to-halt-access-to-2-ai-models)
+*Trump administration partially lifts export ban on Anthropic's most advanced AI model*
+出典: NPR Technology ・ #technology #2026-06-28
+
+米国商務省が、AnthropicのMythosをベースにした2つのAIモデルのうち1つへの輸出禁止を一部解除した。商務長官からの書簡をNPRが入手し報じた内容だ。
+経緯：AnthropicはMythosを元に2モデルを6月初旬にリリースしたが、トランプ政権はリリース数日後に「セキュリティガードレールを迂回できる方法を政府が把握している」として輸出禁止を発動。Anthropicは全外国人ユーザーのアクセスを遮断した。
+一部解除の内容：承認された「米国企業のリスト（その外国人スタッフを含む）」のみがアクセスを認められる。つまり政府がどの企業がフロンティアAIを使えるかを承認する権限を確立した形だ。
+Ciscoセキュリティ責任者Anthony Griecoは「Mythosにより1.8億行のコードを8週間でスキャンできた（人間＋従来ツールでは8年かかる）」と証言。同様の能力が悪用されるリスクが規制の背景にある。OpenAIも同日、GPT-5.6のユーザー企業審査を政府に許可したと発表した。
+「誰がフロンティアAIを使えるか」を政府が決定する時代の到来は、AIラボのビジネスモデルにB2G（対政府）的な性格を加え、政府との関係管理が事業継続の条件になりつつある。（6月27日のAnthropicアジア競合記事からの続報）
+💡 投資含意: フロンティアAI政府承認制の定着はAIラボのB2G化を加速し、政府との契約・規制関係管理が競争力の一部に。Palantir（政府AI）・Microsoft（Azure経由Anthropic）が有利。
+🔗 波及: 「政府承認企業のみがアクセス可能」という非対称環境は大企業・防衛関連への利益集中をもたらしうる。Palo Alto・CrowdStrikeもサイバーセキュリティAI市場への参入機会が広がる。
+📈 関連銘柄: Microsoft（MSFT）、Palantir（PLTR）、Palo Alto Networks（PANW）、CrowdStrike（CRWD）
+⚖️ 強気/弱気: 強気）サイバーセキュリティAI市場の本格拡大、政府承認AIプロバイダの参入障壁 / 弱気）商業展開の自由度低下と規制不確実性の増大
+📅 次の注目: もう1つのモデル（Fable 5/Mythos Preview相当）の解除タイムライン、OpenAIの政府審査プロセス詳細
+
+### [AlphabetがAI覇権争いの切り札は自社設計TPU——クラウド競合との差別化でNVIDIA依存を回避](https://www.cnbc.com/2026/06/27/alphabet-burnishes-one-of-its-best-weapons-in-the-battle-for-ai-supremacy.html)
+*Alphabet burnishes one of its best weapons in the battle for AI supremacy*
+出典: CNBC Technology ・ #technology #2026-06-28
+
+AlphabetがAI覇権争いにおける最重要の差別化要因として、自社設計のAIアクセラレーター「TPU（Tensor Processing Unit）」の優位性が改めて注目されている（本文取得不可、RSSリード文から要約）。
+GoogleはTPU v1を2016年に導入し、以来独自の半導体開発でAI訓練・推論コストをコントロールしてきた。他のハイパースケーラー（Microsoft・Amazon・Meta）がNVIDIAのGPUを大量購入せざるをえない中、GoogleはTPUにより同等性能をNVIDIAチップなしで実現できる唯一に近い大手クラウドプロバイダだ。
+CNBCは「Google親会社の自社製シリコンがAIコンピュート競争で大きなアドバンテージ」と表現している。AI需要が爆発的に高まりコンピュート資源が最希少資源になりつつある中、コスト低減能力は長期的な競争優位として機能する。
+AI商品化が進む環境でもTPUにより利益率を守れるAlphabetは、クラウド競合との差別化を維持しやすい構造にある。
+💡 投資含意: AlphabetのTPU優位はNVIDIA依存リスクを低減し、AIクラウドコスト競争で他社比の優位をもたらす。AI商品化加速局面でも利益率防衛力が高い。
+🔗 波及: GoogleのTPU強化はNVIDIAへの需要依存度を相対的に下げ、長期ではNVIDIAの一部顧客離れリスクにもなりうる。Microsoft・AmazonもカスタムAIチップ開発を加速。
+📈 関連銘柄: Alphabet（GOOGL、強気）、Nvidia（NVDA、潜在的な圧力）
+⚖️ 強気/弱気: 強気）Alphabetの独自シリコンがコスト競争力と利益率防衛の両立をもたらす / 弱気）TPUは外部開発者エコシステムでGPUより劣り汎用性に限界がある
+
+### [ウォール街が「次のNvidia」にMicronを指名——AI向けHBMメモリ不足（RAMageddon）が時価総額を1.27兆ドルに押し上げ](https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/)
+*Why Wall Street thinks US memory maker Micron is the next Nvidia*
+出典: TechCrunch ・ #technology #2026-06-28
+
+AI向けメモリチップメーカーのMicronが「次のNvidia」候補として急浮上している。時価総額は一時MetaとTeslaを超え1.27兆ドルに達し、株価は過去1か月で236%上昇して1株1,132ドルとなった。
+背景は「RAMageddon」と呼ばれるAI用メモリチップ不足。AIデータセンターはラップトップの数桁分の大量メモリ（DRAM・NAND、特に高帯域幅メモリHBM）を必要とし、NVIDIA・ハイパースケーラー（Microsoft・Amazon AWS・Google・Meta・Oracle）が争って買い付けている。このメモリ不足は2027年まで続くと予測される。
+Micronは先週の第3四半期決算で前年比4倍の売上高$414.5億、利益は$18.8億→$282億という爆発的な数字を報告。第4四半期は$490億〜$510億の売上高ガイダンスを提示。Nvidia・Anthropicを含む16社との長期供給契約（SCA）も締結した。
+RAMageddonはPC・スマホ向けメモリ価格も上昇させており、Apple製品やXboxコンソールの価格上昇要因にもなっている。
+歴史的にメモリ業界は需要増→供給過剰→価格崩壊のサイクルを繰り返してきた。今回は長期契約でこのサイクルを断ち切ると主張しているが、AI投資熱が冷めた場合の耐久性は未検証だ。
+💡 投資含意: AI向けHBMメモリ不足が2027年まで続くとの予測はMicronの異常な収益成長を支える。ただしメモリ業界の景気サイクルは激しく、長期契約の実効性は実証段階。
+🔗 波及: AI向けメモリ需要急増はSamsung・SKハイニックスとのシェア競争も激化。Apple・Xboxなど最終消費財の価格上昇を通じてインフレ圧力に波及。
+📈 関連銘柄: Micron（MU、強気）、Samsung（005930 KS）、SK Hynix（000660 KS）、Nvidia（NVDA、HBM最大需要家）
+⚖️ 強気/弱気: 強気）AI需要持続なら2027年まで不足継続で高利益率維持 / 弱気）需要急減またはサプライ急増が旧来の価格崩壊サイクルを引き起こすリスク
+📅 次の注目: 2026年Q4決算（ガイダンス$490億〜$510億の達成状況）
+
+### [フォードが「グレイビアード」エンジニア350人を再雇用——AI品質管理の限界認め、10億ドルのコスト削減効果](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/)
+*Ford rehires 'gray beard' engineers after AI falls short*
+出典: TechCrunch ・ #technology #2026-06-28
+
+フォードが自動化品質管理システムとAIへの過信を認め、350人のベテランエンジニア（元社員や部品メーカー出身者）を再雇用したことを同社COO Kumar Galhotraが明かした。
+COOは「自動化品質システムにますます頼るようになり失望する結果となった」と述べ、VP Charles Poonは「AIと設計要件を取り込めば高品質製品が生まれると誤って考えていた」と明言した。再雇用されたベテランは部品が工場ラインに届く前に障害点を探し出す役割を担う。
+採用効果はすでに出ており、フォードは2026年に10億ドルのコスト削減を見込む。さらに今週発表されたJDパワー初期品質調査（IQS）でメインストリームブランド首位を獲得した。ベテランエンジニアは廃棄ではなく、若手育成とAIツールの訓練改善に活用している。
+AIが「設計要件さえ入力すれば品質が上がる」という前提で導入されたが、製造現場の実際の複雑性には人間の経験則が不可欠だったという教訓。製造業でのAI単純置換戦略の限界を大手が公式に認めた事例として業界横断の示唆がある。
+💡 投資含意: 製造業でのAI単純置換の失敗事例が明確化。「AI×人間協業」モデルへの回帰は、人間を拡張するAIアシスタントツール企業に長期的な追い風をもたらす。
+🔗 波及: 製造業AIへの過信→修正が業界横断で起きれば、「AIが熟練労働を置換する」との市場期待に修正圧力。逆に工場向けAI協業ソフトウェアベンダーへの需要が高まる。
+📈 関連銘柄: Ford（F）、Rockwell Automation（ROK）
+⚖️ 強気/弱気: 強気）フォードの品質改善とコスト削減が実績として示された / 弱気）製造業AIの限界認識が業界のAI採用投資に慎重さをもたらすリスク
+
+### [ソフトバンク孫正義CEOが軌道データセンター構想に疑問——「AI競争は今後数年が勝負、10年先の賭けでは遅すぎる」](https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/)
+*SoftBank's CEO isn't the only one with questions about Elon Musk's orbital data center hype*
+出典: TechCrunch ・ #technology #2026-06-28
+
+ソフトバンクの孫正義CEOが株主総会で、イーロン・マスクが推進する「宇宙軌道上のデータセンター」構想に公式の疑問を呈した。「AIの戦いにおいて今後数年が最も重要なのに、10年先の計画では遅すぎる」とコスト対効果にも懐疑的な姿勢を示した。
+TechCrunchポッドキャストでジャーナリストたちが指摘したのは皮肉な構図だ。孫正義自身がWeWork等で「大胆な賭け」の体現者であり、その彼が懐疑的な点に注目が集まる。衛星は数年ごとの交換が必要でコストが膨大であること、「NIMBYがない宇宙」の利点よりも運用コストが上回る可能性が高いと分析された。
+より核心的な指摘は「マスクは軌道DCを作ることでSpaceX（打ち上げビジネス）への自己受発注を生み出している」というもの。SpaceXの売上の大半はStarlink由来で、軌道DCはStarlink型の垂直統合ビジネスの延長と見られている。
+同時にGroqの$6.5億調達・OpenAIのBroadcom製カスタムチップなど「AI計算基盤の多様化」が加速。SpaceXはすでにGoogle・Anthropicとのコンピュートレンタル契約を結んでおり、IPO前後での宇宙インフラ期待の評価が問われる。
+💡 投資含意: 軌道DCは長期的なアイデアであり短期（〜3年）の投資テーマにはなりにくい。孫氏の発言はSoftBankが宇宙インフラへの資金投入を避け、より即効性のある地上DC・AI投資に集中するシグナルと読める。
+🔗 波及: 軌道DC期待の剥落はSpaceX IPO前後のバリュエーション評価に影響する可能性。地上DC（AWS・Google・Azure）はAI需要継続で当面強い。
+📈 関連銘柄: SpaceX（未上場）、SoftBank（9984 JP）、Amazon（AMZN）、Alphabet（GOOGL）
+⚖️ 強気/弱気: 強気）地上AI DC需要は当面揺るがない / 弱気）SpaceXの軌道DC構想への過度な期待が剥落するリスク
+📅 次の注目: SpaceX IPOタイムライン、軌道DC事業の具体的な資本支出計画
 
 ## 2026-06-27
 
