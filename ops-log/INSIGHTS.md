@@ -21,21 +21,56 @@
 
 | 論点 | 種別 | 状態 | 初出 | 最終更新 | メモ |
 |---|---|---|---|---|---|
-| FT / NYT が全記事 paywalled で本文取得不可 | ソース | 🟡継続 | 2026-05-30 | 2026-06-21 | 直近2週（06-08〜06-21）全日で全件 paywalled/403 継続。Economy は実質 CNBC + PBS のみ。Reuters/AP URL はコンテナ環境から検証不可 |
+| FT / NYT が全記事 paywalled で本文取得不可 | ソース | 🟡継続 | 2026-05-30 | 2026-06-28 | 直近2週（06-22〜06-28）全日で全件 paywalled/403 継続。Economy は実質 CNBC + PBS のみ。Reuters/AP URL はコンテナ環境から検証不可（下記行参照） |
 | CBS News の `/video/` URL は本文0字 | 仕組み | 🟢解消 | 2026-05-30 | 2026-06-14 | /video/ フィルタPR導入済み（06-07実施）。06-09ログで「フィルタが機能している」を確認。ただし `/transcript/` URL 問題が新たに浮上（下記行参照） |
-| CBS News の `/transcript/` URL（番組書き起こし）がノイズ | 仕組み | 🟡継続 | 2026-06-14 | 2026-06-21 | PR #15（open）にフィルタ追加済みだが未マージ。06-19ログでは問題なし。PR #15 マージ待ち |
-| BBC / The Hill が本文取得で403（bot遮断疑い） | 仕組み | 🟡継続 | 2026-05-30 | 2026-06-21 | 直近2週全日403継続。RSS description で代替中。User-Agent 調整は検討続行 |
-| WSJ Politics フィードが SKIP（HTTP 403/サイト改編疑い） | ソース | 🔴悪化 | 2026-05-29 | 2026-06-21 | 06-21時点で21日以上連続 SKIP（0件）。Politicsカテゴリに実質的な穴。今週PR（improve/feeds-2026-06-21）で削除、代替候補はPR本文に記載 |
-| WSJ Technology フィードが SKIP（HTTP 403/サイト改編疑い） | ソース | 🔴悪化 | 2026-06-21 | 2026-06-21 | 06-21時点で15日以上連続 SKIP（0件）。WSJ Politics と同根。今週PRで削除 |
-| AI枠（先進性優先）の効き具合は要観測 | 仕組み | 🟡継続 | 2026-06-02 | 2026-06-21 | 06-21（日曜）はr/LocalLLaMAが4件中4件（100%）。平日は1〜2件/5件程度で機能しているが週末の公式ブログ停止が顕在化。UNVERIFIED_RATIO_CAPで上限設定（今週PR） |
-| Reddit r/MachineLearning のノイズ（議論スレが多く採用率低） | ソース | 🔴悪化 | 2026-06-07 | 2026-06-21 | PR #15（open）で削除待ち。06-21ログでは「削除済」と記載があるが実際はPR未マージ。次回マージ時に🟢解消へ遷移 |
-| Reuters Business / AP Business を economy に追加すること | ソース | 🔵検証中 | 2026-06-07 | 2026-06-21 | 週次コンテナ環境ではDNS解決不可（全外部ホストが403/host not in allowlist）のため今週も検証不可。日次ルーティン環境での検証が必要。次回検証手順：curl -I https://feeds.reuters.com/reuters/businessNews で HTTP 200+XML かつ `<item>` タグ確認 |
-| Anthropic Blog を AI枠に追加すること | ソース | 🔵検証中 | 2026-06-21 | 2026-06-21 | 06-19ログで「priority: 高」として言及。URL: https://www.anthropic.com/rss.xml。週次コンテナから疎通不可（403）。日次環境での検証後に次回PRで追加。検証手順：curl -I https://www.anthropic.com/rss.xml でHTTP 200+XML |
-| Reddit unverified ソースの比率上限（UNVERIFIED_RATIO_CAP） | 仕組み | 🟢解消 | 2026-06-21 | 2026-06-21 | 今週PR（improve/feeds-2026-06-21）にて fetch-feeds.ts へ UNVERIFIED_RATIO_CAP=0.40 定数＋カテゴリ別カウンタ実装。カテゴリあたりunverified記事を最大2件（40%×5）に制限 |
+| CBS News の `/transcript/` URL（番組書き起こし）がノイズ | 仕組み | 🟡継続 | 2026-06-14 | 2026-06-28 | PR #15（open）にフィルタ追加済みだが未マージ。06-28ログでも「CBS番組紹介・カルチャー記事が大量混入」と記録。PR #15 マージ待ち |
+| BBC / The Hill が本文取得で403（bot遮断疑い） | 仕組み | 🟡継続 | 2026-05-30 | 2026-06-28 | 直近2週（06-22〜06-28）全日403継続。RSS description で代替中。User-Agent 調整は継続検討 |
+| WSJ Politics フィードが SKIP（HTTP 403/サイト改編疑い） | ソース | 🔴悪化 | 2026-05-29 | 2026-06-28 | 06-21時点で21日以上連続 SKIP。PR #16（improve/feeds-2026-06-21, open）で削除予定だが未マージ。feeds.ts にまだ残っている |
+| WSJ Technology フィードが SKIP（HTTP 403/サイト改編疑い） | ソース | 🔴悪化 | 2026-06-21 | 2026-06-28 | 06-21時点で15日以上連続 SKIP。PR #16（open）で削除予定だが未マージ。feeds.ts にまだ残っている |
+| AI枠（先進性優先）の効き具合は要観測 | 仕組み | 🟡継続 | 2026-06-02 | 2026-06-28 | 週末（06-27・06-28）はAI枠全件がReddit r/LocalLLaMA unverified（100%）が定常化。UNVERIFIED_RATIO_CAP=0.40実装はPR #16（未マージ）。Anthropic Blog未追加が週末問題の根本原因 |
+| Reddit r/MachineLearning のノイズ（議論スレが多く採用率低） | ソース | 🔴悪化 | 2026-06-07 | 2026-06-28 | PR #15（open）で削除待ち。06-28ログでは raw-items.json に r/MachineLearning エントリなし（削除済みまたはフィード停止）。PR マージ待ち |
+| Reuters Business / AP Business を economy に追加すること | ソース | 🔵検証中 | 2026-06-07 | 2026-06-28 | 週次コンテナ環境ではDNS解決不可（全外部ホストが403/host not in allowlist）のため今週も検証不可。日次ルーティン環境での検証が必要 |
+| Anthropic Blog を AI枠に追加すること | ソース | 🔵検証中 | 2026-06-21 | 2026-06-28 | 06-22〜06-28の5/7日で「急務」と記録。今週（2026-06-28）DEBATESで議論→ジャッジ条件付き「やる」裁定→PR化（improve/feeds-2026-06-28）。条件: (1)初回fetch目視確認 (2)description代替時SKIP明示。週次コンテナからは依然403（proxy制限）だが日次環境での動作が前提 |
+| Reddit unverified ソースの比率上限（UNVERIFIED_RATIO_CAP） | 仕組み | 🔵検証中 | 2026-06-21 | 2026-06-28 | PR #16（open）に UNVERIFIED_RATIO_CAP=0.40 + per-category カウンタの実装が含まれるが未マージ。06-26ログでは「Reddit 3件採用で制限超過（60%）」が報告されており、PRのマージが急務 |
+| IEEE Spectrum Robotics の実効性問題 | ソース | 🔵検証中 | 2026-06-28 | 2026-06-28 | feeds.ts に追加済みだが3日連続機能不全: 06-26「Video Fridayのみ実質コンテンツなし」、06-27「0件」、06-28「raw-items.jsonに存在しない」。NVIDIA Roboticsも7日間採用記事の言及なし（並行問題）。週次DEBATESで「保留」裁定。NVIDIA問題を調査後、TechCrunch Robotics専用フィードへの差し替えを検討（2週間期限: 2026-07-12） |
+| NVIDIA Robotics フィードの謎の不在 | ソース | 🔵検証中 | 2026-06-28 | 2026-06-28 | feeds.tsに追加済みだが06-22〜06-28の7日間のログでNVIDIA Roboticsからの採用記事が一度も言及されない。フィード設定の問題か更新頻度の問題か不明。IEEE Spectrum Robotics問題と並行して調査が必要 |
 
 ---
 
 ## 週次エントリ（末尾に追記していく）
+
+### 2026-06-28 — Anthropic Blog追加 PR・IEEE Spectrum保留
+
+**読んだ日次ログ**: 2026-06-22〜2026-06-28 の7件全件。
+
+**今週の最大の課題**:
+- **AI枠の週末Reddit占有**: 06-27・06-28 でAI枠5件全件が Reddit r/LocalLLaMA（unverified）になる事態が定常化。Anthropic Blogの不在が根本原因で急務と判断。
+- **CBS /transcript/ フィルタ未マージ継続**: PR #15 open のまま。CBS番組紹介・カルチャー記事が毎日大量混入継続（06-28ログでも確認）。
+- **IEEE Spectrum Robotics 3日連続機能不全**: 06-26「Video Fridayのみ」→06-27「0件」→06-28「raw-items.jsonに存在しない」。NVIDIA Roboticsも7日間採用言及なし。
+
+**最新性/先進性の担保**:
+AI枠は存在するが公式ソース（OpenAI/Anthropic/DeepMind）が出ない日に Reddit r/LocalLLaMA で100%埋まる状態。UNVERIFIED_RATIO_CAP（PR #16）と Anthropic Blog追加（今週PR化）の二段構えで改善予定。
+
+**ソース構成の穴（今週の診断）**:
+1. AI: Anthropic Blog不在が最大の欠落。OpenAI・DeepMindと対称に配置すべき公式一次情報源。
+2. AI: UNVERIFIED_RATIO_CAP=0.40（PR #16）未マージで unverified 比率が60%を超える日が報告済み。
+3. Robotics: IEEE Spectrum・NVIDIA Robotics の両フィードが実質機能不全。TechCrunch Robotics専用フィードへの差し替えを2週間以内に検討。
+4. Politics: WSJ Politics・WSJ Technology 引き続きSKIP（PR #16で削除予定、未マージ）。
+
+**選定ロジックの妥当性**:
+UNVERIFIED_RATIO_CAP の導入（PR #16）は急務。週末に公式ブログ更新が少ない日でも、Anthropic Blog追加により unverified 比率を下げる効果が期待できる。MAX 5件/カテゴリ維持。
+
+**打った手（今週のPR）**:
+- `src/feeds.ts` に Anthropic Blog（`https://www.anthropic.com/rss.xml`）を AI 枠に追加（PR `improve/feeds-2026-06-28`）。条件: (1)初回fetch結果を人間が目視確認 (2)description代替発動時はSKIP/即削除。
+- 議論ログ: `ops-log/DEBATES/2026-06-28.md`
+
+**残した宿題**:
+1. PR #15（CBS /transcript/ フィルタ）・PR #16（WSJ削除・UNVERIFIED_RATIO_CAP）のマージを促す（オーナー判断）。
+2. TechCrunch Robotics専用フィード（`https://techcrunch.com/category/robotics/feed/`）のfetch確認後、IEEE Spectrum/NVIDIA差し替えを検討（期限: 2026-07-12）。
+3. Reuters/AP Business URLの日次環境での検証（週次コンテナからは依然不可）。
+4. BBC/The Hill の User-Agent 調整による403解消の試み（継続）。
+
+---
 
 ### 2026-06-21 — WSJ 2フィード削除・UNVERIFIED_RATIO_CAP 実装 PR
 
