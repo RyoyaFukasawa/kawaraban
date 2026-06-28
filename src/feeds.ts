@@ -87,6 +87,14 @@ export const FEEDS: FeedSource[] = [
     category: "ai",
   },
   {
+    // Anthropic 公式ブログ。Claude系モデル・安全性研究・APIポリシーの一次情報（無料）。
+    // OpenAI・Google DeepMindと対称の位置づけ。初回fetch結果は人間が目視確認すること。
+    // descriptionのみで本文取得できない場合は即SKIPまたはフィード削除を検討。
+    name: "Anthropic",
+    url: "https://www.anthropic.com/rss.xml",
+    category: "ai",
+  },
+  {
     // MIT Technology Review の AI 面。報道だが先端テックの目利きが効く（無料RSS、本文は一部ペイウォール）。
     name: "MIT Tech Review AI",
     url: "https://www.technologyreview.com/topic/artificial-intelligence/feed",
