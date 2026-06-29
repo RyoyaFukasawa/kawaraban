@@ -1,6 +1,38 @@
 # 🦾 フィジカルAI・ロボティクス — 全アーカイブ
 
-全49件 / 日付の新しい順
+全51件 / 日付の新しい順
+
+## 2026-06-29
+
+### [BMWがFigure 03ヒューマノイドを量産工場に導入——Figure 02の11カ月実証から本格展開へ](https://www.therobotreport.com/bmw-group-deploys-figure-03-humanoid-after-tests-previous-version/)
+*BMW Group deploys Figure 03 humanoid after tests with previous version*
+出典: The Robot Report ・ #robotics #2026-06-29
+
+BMW Groupが、2025年のFigure 02の11カ月間デプロイメント（BMW X3を3万台超の生産をサポート）の成功を踏まえ、最新のFigure 03ヒューマノイドロボットをサウスカロライナ州スパータンバーグ工場に導入することを発表した。
+Figure 03は触覚センサー付きハンド・パームカメラ・ワイヤレス充電・音声対話機能を新たに搭載。新しい「シーケンシング」ユースケースとして、大きなコンテナで届く部品をロボットが仕分けてシーケンシング台車に並べ、組み立てラインに「ジャストインシーケンス」で供給するタスクを担う。このユースケースは自動車生産物流で極めて一般的であり、スケール展開の余地が大きい。
+同時にBMWはライプツィヒ工場でHexagon ABのAEON（車輪付き人型ロボット）のテスト、ハムスホール工場（英国）でBoston DynamicsのSpotによる設備巡回点検も実施中。BMWがヒューマノイドを含む複数のロボットプラットフォームを並行テストし量産に移行する体制を作っている。
+Figure AIのBrett Adcock CEOが「ヒューマノイドはもはやラボ実験ではなく、量産現場で価値を出せる」と明言した事実は業界全体へのシグナルとして機能する。自動車メーカーから製造業全体へのヒューマノイド採用波及が加速しうる。
+
+💡 投資含意: BMW×Figure AIの量産デプロイ成功がヒューマノイドロボット市場の「ラボ実証→本格採用」移行の証拠として評価される。触覚センサー・ワイヤレス充電・AI推論チップなど部品サプライヤに需要波及。
+🔗 波及: 自動車業界の相次ぐ採用はFanuc・Kuka・ABBなど従来型産業ロボット企業への長期的な競合圧力であり、一方でNVIDIA（ロボットAI推論Isaac）・触覚センサー企業への需要増の両面をもたらす。
+📈 関連銘柄: Figure AI（未上場）、Nvidia（NVDA、Isaac/Jetson）、ABB（ABBN）、Rockwell Automation（ROK）
+⚖️ 強気/弱気: 強気）ヒューマノイドの量産フェーズ突入で産業AIサプライチェーン全体が恩恵を受ける
+📅 次の注目: スパータンバーグ工場でのFigure 03稼働実績、Figure AIの次回調達・IPO観測
+
+### [NVIDIA Jetson、月周回軌道で初めて稼働——FireflyのBlue Ghost Mission 2が軌道上AI推論を実現](https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/)
+*Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time*
+出典: NVIDIA Robotics ・ #robotics #2026-06-29
+
+Firefly AerospaceのBlue Ghost Mission 2（2026年後半打ち上げ予定）に、NVIDIA JetsonのAIエッジコンピューティングプラットフォームが月周回軌道で史上初めて搭載・運用されることが発表された。Fireflyの月面撮像サービス「Ocula」がJetsonを使って軌道上でリアルタイムにAI推論を行う。
+従来は月面センサーが収集した生データをそのまま地球に送信し、地上のCPUで数日〜数週間かけて処理していた。Jetsonによる軌道上AI推論で、重要な洞察だけをリアルタイムに送信できるようになり、コストが高く帯域が制約される宇宙通信のボトルネックを解消する。
+Oculaは月面着陸地点マッピング・鉱物組成（イルメナイト等）検出・インフラ状況把握・シスルナ領域の物体追跡など多用途をカバーする。顧客にはNASA・米宇宙軍・宇宙採掘企業が含まれる。NASAは今後数年で約30機のロボット着陸機打ち上げを計画しており、軌道上AI処理の需要は構造的に拡大する。
+NVIDIA JetsonがGPU・ロボット向けエッジAI以外に「宇宙・防衛」という新市場での実績を積むことは、プラットフォームとしての信頼性拡張として重要だ。同社は後継のNVIDIA Space-1 Vera Rubinモジュールを次世代プラットフォームとして用意している。
+
+💡 投資含意: JetsonプラットフォームのSpace市場での採用拡大はNVIDIAのエッジAI事業に新たな成長軸を加える。宇宙・防衛向けAI推論市場はNASA・米宇宙軍という安定した発注元を持ち高マージンが期待できる。
+🔗 波及: 軌道上AI処理普及は衛星データダウンリンクコスト削減に波及し、衛星通信事業者（Starlink等）の収益構造にも影響しうる。宇宙×AI分野でRocket Lab・Axiom Spaceなど民間宇宙企業への需要拡大も。
+📈 関連銘柄: Nvidia（NVDA）、Rocket Lab（RKLB）
+⚖️ 強気/弱気: 強気）宇宙・防衛向けエッジAI需要でNVIDIA Jetsonの市場が新領域に拡張
+📅 次の注目: Blue Ghost Mission 2の打ち上げ（2026年後半）、NVIDIA Space-1モジュールの商用展開
 
 ## 2026-06-28
 
