@@ -1,6 +1,53 @@
 # 🦾 フィジカルAI・ロボティクス — 全アーカイブ
 
-全51件 / 日付の新しい順
+全54件 / 日付の新しい順
+
+## 2026-06-30
+
+### [Xスクエア・ロボット、4連続ラウンドで評価額28億ドルに到達](https://www.therobotreport.com/x-square-robot-brings-valuation-2-8b-four-consecutive-funding-rounds/)
+*X Square Robot brings its valuation to $2.8B with four consecutive funding rounds*
+出典: The Robot Report ・ #robotics #2026-06-30
+
+中国のヒューマノイドロボット企業Xスクエア・ロボットが4回連続の資金調達ラウンドを経て評価額28億ドル（約4,100億円）を達成した。
+同社はWALL-Bと呼ばれる独自のファウンデーションモデルを持ち、ロボットハードウェア・データパイプライン・実世界デプロイメントを統合したシステムを展開する。
+深圳・北京での商業展開を進め、58.comとのパートナーシップにより製造・物流現場での実用化を加速している。
+ヒューマノイドロボット市場における中国勢の台頭が鮮明で、Figure・1X等の米国勢との技術競争が激化している。
+4連続の資金調達は投資家の継続的な信頼を示し、ロボット産業全体の成熟化を象徴する動き。
+💡 投資含意: ヒューマノイドロボット市場への資金流入加速は部品・センサー・エンコーダー関連企業にも恩恵をもたらす。
+🔗 波及: 工場自動化・物流分野での人型ロボット採用が加速し、労働市場への影響が生じる可能性。
+📈 関連銘柄: TSLA（競合humanoid）、ABB、Yaskawa、FANUC
+⚖️ 強気/弱気: 強気 — ロボット市場への投資マネーが中国勢にも流入し技術競争が加速
+📅 次の注目: 商業デプロイ台数の拡大と次回資金調達ラウンドの時期・規模
+
+### [ソフトロボティクス新興「morph」が物理AI搭載のソフトロボットセルを発表](https://www.therobotreport.com/soft-robotic-cells-from-morph-embed-physical-ai-into-hardware/)
+*Soft, robotic cells from morph embed physical AI into hardware*
+出典: The Robot Report ・ #robotics #2026-06-30
+
+ソフトロボティクスのスタートアップmorphが、物理AIを組み込んだ「ソフトロボットセル」を発表した。
+創業者はデジタル手術会社出身のJean Nehmeで、タコの皮膚に着想を得た変形可能素材にRLと物理シミュレーションを融合させた学習アプローチを採用する。
+8VCとValiaがリード投資家となっており、Pharrell Williamsも出資するという異色の株主構成が話題を呼んでいる。
+柔軟な素材特性を生かした外科手術・食品加工・介護など繊細な操作が必要な領域への応用を目指す。
+ハードロボティクスが苦手とする精密・柔軟作業市場を開拓する新しいアプローチとして注目される。
+💡 投資含意: ソフトロボティクスは従来ロボティクスが手をつけていない高付加価値の精密作業市場を開拓する。
+🔗 波及: 医療ロボット・食品自動化など規制要件が厳しい市場への参入により、参入障壁が形成される。
+📈 関連銘柄: ISRG（Intuitive Surgical・競合）、ABB（競合）、8VC（非上場投資家）
+⚖️ 強気/弱気: 強気 — ニッチだが高成長が見込まれる市場での先行者優位
+📅 次の注目: 商業パイロットの開始と次回資金調達の規模
+
+### [NVIDIA Omniverse Metropolisがビジョンエージェントの精度を革新 — 合成データで工場検査95%達成](https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/)
+*Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning*
+出典: NVIDIA Robotics ・ #robotics #2026-06-30
+
+NVIDIAはOmniverse Metropolisプラットフォームを使ったビジョンAIエージェントの3つの産業活用ワークフローを公開した。
+Corningは合成データ生成により8枚の学習画像だけで95%の検査精度を達成し、実データ収集コストを大幅に削減した。
+Linker Visionはビジョンエージェント開発の工数を85%削減し、中小企業へのAI品質管理普及を加速させる。
+FoxconnはNVIDIA Metropolisを活用して製造ラインの初期不良率を3%改善し、収率向上に成功した。
+合成データと微調整の組み合わせが製造現場でのAI実装コスト・時間を大幅に削減するアプローチとして確立されつつある。
+💡 投資含意: 製造業向けビジョンAIの実用化加速は産業用カメラ・センサー・エッジAI半導体需要を拡大させる。
+🔗 波及: Smart Factory化の加速により製造現場の品質管理人員配置への影響が生じる可能性。
+📈 関連銘柄: NVDA（プラットフォーム提供）、GLW（Corning）、HON、ROK
+⚖️ 強気/弱気: 強気 — 実用事例の蓄積がOmniverse採用をさらに促進
+📅 次の注目: GTC 2026での新ユースケース発表と大手製造業への展開状況
 
 ## 2026-06-29
 

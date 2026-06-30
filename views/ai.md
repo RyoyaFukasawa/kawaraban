@@ -1,6 +1,66 @@
 # 🤖 AI・先進技術 — 全アーカイブ
 
-全117件 / 日付の新しい順
+全121件 / 日付の新しい順
+
+## 2026-06-30
+
+### [⚠️ ファーウェイ、オープンソースLLM「OpenPangu-2.0-Flash」を公開 — 92Bパラメータ・512Kコンテキスト](https://www.reddit.com/r/LocalLLaMA/comments/1ujn5u3/huawei_opensources_openpangu20flash_92b_total6b/)
+*Huawei open-sources OpenPangu-2.0-Flash - 92B total,6B active*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-06-30
+
+ファーウェイがMoEアーキテクチャの大規模言語モデル「OpenPangu-2.0-Flash」をオープンソース公開したとRedditで報告された。
+総92Bパラメータ（アクティブ6B）・512Kコンテキスト長・34Tトークンの事前学習データで構築されており、Ascendチップ向けに設計されている。
+ウェイト・推論コード・学習Opsが公開済みとされ、7月にはより大型の「Pro版」（505B総パラメータ）のリリースも予告されている。
+GLM 5.2に続く中国製オープンソースモデルの台頭を示す動きで、米国AI規制下での競争優位を示唆する。
+💡 投資含意: 中国製オープンウェイトモデルの台頭は、米国クローズドモデル企業への価格圧力を高め、AIコスト削減競争を加速させる。
+🔗 波及: 米国AI輸出規制の有効性が問われる局面。企業のAIコスト最適化で採用拡大の可能性。
+📈 関連銘柄: Huawei（非上場）、NVDA（競合チップ企業）、Anthropic（競合）
+⚖️ 強気/弱気: 中立 — オープンソース化は利用拡大を促すが、安全性・信頼性は未確認
+📅 次の注目: HuggingFaceへの公式アップロードとPro版（7月予定）の詳細確認
+⚠️ 未確認情報（Reddit発・要裏取り）
+
+### [Google、軽量・高速画像生成モデル「Nano Banana 2 Lite」をリリース](https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/)
+*Google introduces a faster, cheaper image generator with Nano Banana 2 Lite*
+出典: TechCrunch ・ #ai #2026-06-30
+
+Googleが画像生成AIを更新し、高速・低コストの「Nano Banana 2 Lite」をクリエイター向けに公開した。
+DeepMindブログでは「Gemini Omni Flash」との同時公開が案内されており、Google AIの推論効率化戦略の一環と見られる。
+速度とコストの両面で前世代モデルから改善され、AIコンテンツ制作ツールとしての使いやすさが向上した。
+Midjourney・Adobe Fireflyなど競合サービスへの価格圧力を強める動き。
+💡 投資含意: 高速・低コストモデルの普及は推論クラウド需要を拡大させる一方、単価引き下げ圧力にもなる。
+🔗 波及: Midjourney、Adobe Fireflyなど競合サービスへの価格圧力。デジタルクリエイター市場のAI活用が一段と加速。
+📈 関連銘柄: GOOG/GOOGL（画像生成AI強化）、ADBE（競合）
+⚖️ 強気/弱気: 強気 — クリエイター向けAIツールの低価格化が市場拡大を促進
+📅 次の注目: Nano Banana 2 LiteのAPIベンチマーク比較とGemini Omni Flashの企業採用状況
+
+### [Anthropic、エージェント特化モデル「Claude Sonnet 5」を発表 — 低価格・高性能](https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/)
+*Anthropic launches Claude Sonnet 5 as a cheaper way to run agents*
+出典: TechCrunch ・ #ai #2026-06-30
+
+AnthropicがエージェントAI向けに最適化した「Claude Sonnet 5」をリリースした。
+価格は入力$2・出力$10（百万トークンあたり）で、8月31日以降は$3/$15に改定される。
+エージェントコーディングベンチマークで63.2%の正答率を達成し、前世代より大幅に向上した。
+GPT-5.5やGemini Proと比較して低コストでの利用が可能で、APIプラットフォーム市場での競争力が際立つ。
+安全性も改善され、エンタープライズ・開発者向けに幅広く訴求する設計となっている。
+💡 投資含意: 低価格エージェントAIの普及はAPI利用量の急増を通じてAnthropicの収益基盤を強化する。
+🔗 波及: OpenAI・Google DeepMindとの競争激化、企業AI予算のAnthropicへのシフト可能性。
+📈 関連銘柄: Anthropic（非上場）、AMZN（主要投資家）、GOOG（競合）
+⚖️ 強気/弱気: 強気 — エージェントAI市場での価格競争力が際立つ
+📅 次の注目: 8月31日の価格改定後のAPI利用動向と競合モデルの対抗措置
+
+### [OpenAI、ゲノム・生物学AIベンチマーク「GeneBench-Pro」を公開](https://openai.com/index/introducing-genebench-pro)
+*Introducing GeneBench-Pro*
+出典: OpenAI ・ #ai #2026-06-30
+
+OpenAIがゲノム解析・生物学・科学研究分野でのAI性能を評価する新ベンチマーク「GeneBench-Pro」を発表した。
+実世界の複雑なデータセットを用いてAIモデルを評価する設計で、創薬や基礎科学研究への応用可能性を測定する。
+医療・創薬AIの評価基準を統一化することで、業界全体の透明性向上と適切なモデル選定が可能になる見込み。
+ベンチマークの公開により、AIラボ間での科学応用能力の客観的な比較が可能になる。
+💡 投資含意: 科学AI評価基準の確立は医薬品・バイオ企業のAI採用を促進し、関連市場の拡大につながる。
+🔗 波及: 創薬AIの共通評価指標となりうる。Anthropic Claude Science等の競合サービスも対応を迫られる。
+📈 関連銘柄: OpenAI（非上場）、REGN、MRK、EXAS（ゲノム解析受益）
+⚖️ 強気/弱気: 強気 — 科学AI市場の標準化が業界採用を加速させる可能性が高い
+📅 次の注目: GeneBench-Proを使った主要モデル比較評価の公開
 
 ## 2026-06-29
 

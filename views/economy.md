@@ -1,6 +1,67 @@
 # 💹 経済・マーケット — 全アーカイブ
 
-全141件 / 日付の新しい順
+全145件 / 日付の新しい順
+
+## 2026-06-30
+
+### [Comcast、NBCUniversalとSkyをスピンオフへ — メディアと通信の大型分離](https://www.nytimes.com/2026/06/29/business/comcast-nbcuniversal-spinoff.html)
+*Comcast to Spin Off NBCUniversal, Ending a Long Union of Cable and Media*
+出典: NYT Business ・ #economy #2026-06-30
+
+米ケーブル通信大手ComcastがNBCUniversal（NBCニュース・Universal Pictures含む）とSkyを独立会社としてスピンオフする計画を発表した。
+Comcastはブロードバンドとケーブルのコアビジネスに集中し、NBCUは独立したメディア企業として分離上場する見通し。
+発表直後からアナリストはNBCUとCharter Communications、またはNetflixとの合併・買収シナリオを検討し始めた。
+メディア業界での垂直統合から選択と集中へのシフトが鮮明で、ストリーミング競争激化を背景とした構造的再編が続く。
+Comcastの既存株主は両社の株式を受け取り、分離後に各社がM&A交渉の対象になりやすくなるとの見方が強い。
+💡 投資含意: 分離によりNBCUはM&A対象として再注目され、Comcast株はブロードバンド特化で評価が再構築される可能性。
+🔗 波及: Charter、Nexstar、NetflixなどがNBCU株式の潜在的取得候補として浮上する見通し。
+📈 関連銘柄: CMCSA（Comcast）、NFLX（潜在M&A候補）、CHTR（Charter）
+⚖️ 強気/弱気: 強気（短期M&Aプレミアム期待）/弱気（ストリーミング競争の構造的苦境は継続）
+📅 次の注目: スピンオフ完了タイムラインと具体的なM&A交渉相手の浮上
+
+### [米株式市場、Q2は6年ぶり最大の四半期上昇 — イラン戦争・SpaceX IPOを乗り越え](https://www.ft.com/content/4ba4305f-f9ea-48f9-a49f-687443bd2f4b)
+*US stocks chalk up biggest quarterly gain in six years*
+出典: Financial Times ・ #economy #2026-06-30
+
+2026年第2四半期の米株式市場は6年ぶり最大の四半期上昇を記録した。
+S&P 500は同期間で約15%上昇し（NYT Business報道による）、イラン戦争による地政学リスク・チップ株のボラティリティ・SpaceX IPOという波乱要因を乗り越えた上昇となった。
+AI主導の企業収益増加への期待が相場を下支えし、チップ・テクノロジー・エネルギーセクターが上昇を牽引した。
+地政学リスクと金利圧力を克服した株式市場の強靱性は、AI投資サイクルに対する市場の強い確信を示している。
+💡 投資含意: 「AIブームによる企業利益成長」というナラティブが依然として強く、投資家センチメントを支え続けている。
+🔗 波及: Q3決算シーズンでのAI投資ROIの実証が次の試練となる見込み。
+📈 関連銘柄: SPY（S&P 500）、QQQ（Nasdaq）、VGT（テクノロジーETF）
+⚖️ 強気/弱気: 強気 — Q2の強さがQ3以降の相場センチメントを下支えする
+📅 次の注目: Q3開始後の経済指標（雇用・インフレ）とQ2決算ガイダンス
+
+### [Nikeが予想超えのQ4決算 — 中国12%減収も関税還付9.86億ドルが利益を押し上げ、株価時間外-7%](https://www.cnbc.com/2026/06/30/nike-nke-q4-2026-earnings.html)
+*Nike results top estimates even as China sales drop 12%; retailer expects $986 million tariff refund*
+出典: CNBC Earnings ・ #economy #2026-06-30
+
+Nikeは2026年度Q4決算で市場予想を上回る結果を発表した。純利益10.7億ドル（1株72セント）は前年の2.1億ドルから急増したが、最高裁によるトランプ関税無効判決を受けた9.86億ドルの関税還付（EPS+52セント）が主因で、この一時要因を除いた調整後では弱い数字との見方もある。
+グレーターチャイナの売上は12%減の13億ドルで、CEO Elliott Hillは「リカバリーはまだ完全ではない」と認め、スポーツウェアとJordanブランドのストリートウェアで課題が続くと説明した。
+北米は3%増の48.3億ドルと底入れ感が出てきた一方、FY2027ガイダンスは言及されていない。
+2026 FIFAワールドカップ関連広告でAdidas超えのSNS露出を記録しており、ブランド面では回復の兆しも見える。
+CFOは10月時点でのDavid Denton（元Pfizer）への交代も発表済み。決算後の時間外取引で株価は7%超下落した。
+💡 投資含意: 関税還付という一時要因を除くと業績回復は緩慢で、中国市場の悪化継続がリスク要因。
+🔗 波及: アディダス・Lululemon等競合との市場シェア争いが継続。中国市場回復のペースが鍵。
+📈 関連銘柄: NKE（Nike）、LULU（競合）、ADDYY（Adidas・競合）
+⚖️ 強気/弱気: 弱気 — 中国市場回復の遅延と関税還付を除いた収益の弱さが重しに
+📅 次の注目: FY2027 Q1決算でのチャイナ回復トレンド確認とDavid Denton CFO就任後の戦略変化
+
+### [AeroVironment、Q4業績が予想を大幅超え — ドローン需要拡大でプレ市場28%急騰](https://www.cnbc.com/2026/06/29/aerovironment-stock-soars-on-earnings-beat-backlog-grows-to-1point2b.html)
+*AeroVironment soars 28% on earnings beat, backlog grows to $1.2 billion*
+出典: CNBC Technology ・ #economy #2026-06-30
+
+ドローンメーカーAeroVironment（AVAV）が2026年度Q4決算で市場予想を大幅に上回り、プレ市場で株価が28%急騰した。
+EPSは1.84ドル（予想1.46ドル）、売上高は6.42億ドル（予想5.59億ドル）で、前年比売上は2倍超に拡大した。
+受注残高（Funded Backlog）は12億ドルで前年比65%増となり、自律システム部門の売上は4.92億ドルと予想を9,000万ドル上回った。
+CEO Wahid Nawabiはウクライナ・イランの紛争を通じた無人機・対無人機・宇宙技術への世界的需要急拡大を強調した。
+ただしFY2027の調整後EPS見通し（3.02〜3.34ドル）はアナリスト予想（3.94ドル）を下回る保守的な数字だった。
+💡 投資含意: 米国防省のドローン予算が来年750億ドル超の可能性があり、中小型防衛テック企業への資金流入が続く見込み。
+🔗 波及: ドローン対策（C-UAS）分野の市場拡大、同盟国の防衛装備近代化需要が継続的に追い風。
+📈 関連銘柄: AVAV（AeroVironment）、KTOS（Kratos）、LMT（Lockheed）、RTX（Raytheon）
+⚖️ 強気/弱気: 強気 — 国防ドローン需要の長期トレンドは確実だが、FY27ガイダンスの保守性に注意
+📅 次の注目: FY2027 Q1決算でのバックログ積み上げ状況と米国防省ドローン予算の確定
 
 ## 2026-06-29
 

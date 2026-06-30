@@ -5888,5 +5888,195 @@
     "url": "https://www.cnbc.com/2026/06/29/alphabet-googl-stock-dow-average.html",
     "summary": "AlphabetがVerizonと入れ替わり、Dow Jones工業平均（DJIA）に正式採用された初日に株価が4%上昇した。しかし、過去7週間で6週が下落という2月以来の最悪パフォーマンスが示すように、Dow採用は深刻な課題の本質を変えていない。\nAlphabetのDow採用は象徴的な意味合いが強く、機械的な買い圧力は限定的だ。S&P 500とNasdaq 100に既に採用されているため、インデックス連動の強制買いは少ない。過去のDow採用銘柄（Nvidia・Salesforce・Apple）はいずれも採用後60日以内に株価が下落している。\n課題は複合的だ：①AI投資の回収に投資家が懐疑的、②DeepMindのGeminiチームメンバーがAnthropicとOpenAIへ流出、③コンピュート供給不足（MetaへのGemini提供に上限設定）、④DeepSeek V4（2週間後公開予定）による価格競争圧力、⑤GeminiリードだったNoam Shazeer氏がOpenAIに移籍。財務面でも現金が減少し、直近四半期で1四半期ぶりに自社株買いをスキップ、1,400億ドル超の借入・株式調達を実施した。\nAI開発競争の「軍拡」がGoogleほどの規模の会社の財務体力すら圧迫し始めている。Dow採用というブランド的な地位が実態の競争力の劣化と乖離する局面では、「シンボリックな上昇→実態評価による調整」というパターンが繰り返されるリスクがある。\n\n💡 投資含意: AlphabetのDow採用は象徴的マイルストーンだが、本質的な課題（AI ROI・コンピュート制約・人材流出・中国モデル競争）は変わらない。Dow採用後の下落パターンを意識した短期警戒が必要。\n🔗 波及: AlphabetのAI競争力低下懸念はMicrosoft・Amazon・Metaへの相対優位シフトを示唆。DeepSeek V4の公開（2週間後）がさらなる下押し材料になりうる。\n📈 関連銘柄: Alphabet（GOOGL、弱気材料優勢）、Microsoft（MSFT）、Meta（META）、Amazon（AMZN）\n⚖️ 強気/弱気: 弱気）AI投資ROI懸念・人材流出・中国モデル競争でAlphabetの中期収益モメンタムが鈍化するリスク / 強気）自社TPUによる長期コスト優位\n📅 次の注目: DeepSeek V4公開（2週間後）、Alphabet Q2決算",
     "created_at": "2026-06-29T22:22:38.058Z"
+  },
+  {
+    "date": "2026-06-30",
+    "category": "ai",
+    "source": "OpenAI",
+    "title_ja": "OpenAI、ゲノム・生物学AIベンチマーク「GeneBench-Pro」を公開",
+    "title_en": "Introducing GeneBench-Pro",
+    "url": "https://openai.com/index/introducing-genebench-pro",
+    "summary": "OpenAIがゲノム解析・生物学・科学研究分野でのAI性能を評価する新ベンチマーク「GeneBench-Pro」を発表した。\n実世界の複雑なデータセットを用いてAIモデルを評価する設計で、創薬や基礎科学研究への応用可能性を測定する。\n医療・創薬AIの評価基準を統一化することで、業界全体の透明性向上と適切なモデル選定が可能になる見込み。\nベンチマークの公開により、AIラボ間での科学応用能力の客観的な比較が可能になる。\n💡 投資含意: 科学AI評価基準の確立は医薬品・バイオ企業のAI採用を促進し、関連市場の拡大につながる。\n🔗 波及: 創薬AIの共通評価指標となりうる。Anthropic Claude Science等の競合サービスも対応を迫られる。\n📈 関連銘柄: OpenAI（非上場）、REGN、MRK、EXAS（ゲノム解析受益）\n⚖️ 強気/弱気: 強気 — 科学AI市場の標準化が業界採用を加速させる可能性が高い\n📅 次の注目: GeneBench-Proを使った主要モデル比較評価の公開",
+    "created_at": "2026-06-30T22:28:11.477Z"
+  },
+  {
+    "date": "2026-06-30",
+    "category": "ai",
+    "source": "TechCrunch",
+    "title_ja": "Anthropic、エージェント特化モデル「Claude Sonnet 5」を発表 — 低価格・高性能",
+    "title_en": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+    "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+    "summary": "AnthropicがエージェントAI向けに最適化した「Claude Sonnet 5」をリリースした。\n価格は入力$2・出力$10（百万トークンあたり）で、8月31日以降は$3/$15に改定される。\nエージェントコーディングベンチマークで63.2%の正答率を達成し、前世代より大幅に向上した。\nGPT-5.5やGemini Proと比較して低コストでの利用が可能で、APIプラットフォーム市場での競争力が際立つ。\n安全性も改善され、エンタープライズ・開発者向けに幅広く訴求する設計となっている。\n💡 投資含意: 低価格エージェントAIの普及はAPI利用量の急増を通じてAnthropicの収益基盤を強化する。\n🔗 波及: OpenAI・Google DeepMindとの競争激化、企業AI予算のAnthropicへのシフト可能性。\n📈 関連銘柄: Anthropic（非上場）、AMZN（主要投資家）、GOOG（競合）\n⚖️ 強気/弱気: 強気 — エージェントAI市場での価格競争力が際立つ\n📅 次の注目: 8月31日の価格改定後のAPI利用動向と競合モデルの対抗措置",
+    "created_at": "2026-06-30T22:28:11.477Z"
+  },
+  {
+    "date": "2026-06-30",
+    "category": "ai",
+    "source": "TechCrunch",
+    "title_ja": "Google、軽量・高速画像生成モデル「Nano Banana 2 Lite」をリリース",
+    "title_en": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+    "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+    "summary": "Googleが画像生成AIを更新し、高速・低コストの「Nano Banana 2 Lite」をクリエイター向けに公開した。\nDeepMindブログでは「Gemini Omni Flash」との同時公開が案内されており、Google AIの推論効率化戦略の一環と見られる。\n速度とコストの両面で前世代モデルから改善され、AIコンテンツ制作ツールとしての使いやすさが向上した。\nMidjourney・Adobe Fireflyなど競合サービスへの価格圧力を強める動き。\n💡 投資含意: 高速・低コストモデルの普及は推論クラウド需要を拡大させる一方、単価引き下げ圧力にもなる。\n🔗 波及: Midjourney、Adobe Fireflyなど競合サービスへの価格圧力。デジタルクリエイター市場のAI活用が一段と加速。\n📈 関連銘柄: GOOG/GOOGL（画像生成AI強化）、ADBE（競合）\n⚖️ 強気/弱気: 強気 — クリエイター向けAIツールの低価格化が市場拡大を促進\n📅 次の注目: Nano Banana 2 LiteのAPIベンチマーク比較とGemini Omni Flashの企業採用状況",
+    "created_at": "2026-06-30T22:28:11.477Z"
+  },
+  {
+    "date": "2026-06-30",
+    "category": "ai",
+    "source": "Reddit r/LocalLLaMA",
+    "title_ja": "⚠️ ファーウェイ、オープンソースLLM「OpenPangu-2.0-Flash」を公開 — 92Bパラメータ・512Kコンテキスト",
+    "title_en": "Huawei open-sources OpenPangu-2.0-Flash - 92B total,6B active",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ujn5u3/huawei_opensources_openpangu20flash_92b_total6b/",
+    "summary": "ファーウェイがMoEアーキテクチャの大規模言語モデル「OpenPangu-2.0-Flash」をオープンソース公開したとRedditで報告された。\n総92Bパラメータ（アクティブ6B）・512Kコンテキスト長・34Tトークンの事前学習データで構築されており、Ascendチップ向けに設計されている。\nウェイト・推論コード・学習Opsが公開済みとされ、7月にはより大型の「Pro版」（505B総パラメータ）のリリースも予告されている。\nGLM 5.2に続く中国製オープンソースモデルの台頭を示す動きで、米国AI規制下での競争優位を示唆する。\n💡 投資含意: 中国製オープンウェイトモデルの台頭は、米国クローズドモデル企業への価格圧力を高め、AIコスト削減競争を加速させる。\n🔗 波及: 米国AI輸出規制の有効性が問われる局面。企業のAIコスト最適化で採用拡大の可能性。\n📈 関連銘柄: Huawei（非上場）、NVDA（競合チップ企業）、Anthropic（競合）\n⚖️ 強気/弱気: 中立 — オープンソース化は利用拡大を促すが、安全性・信頼性は未確認\n📅 次の注目: HuggingFaceへの公式アップロードとPro版（7月予定）の詳細確認\n⚠️ 未確認情報（Reddit発・要裏取り）",
+    "created_at": "2026-06-30T22:28:11.477Z"
+  },
+  {
+    "date": "2026-06-30",
+    "category": "economy",
+    "source": "CNBC Technology",
+    "title_ja": "AeroVironment、Q4業績が予想を大幅超え — ドローン需要拡大でプレ市場28%急騰",
+    "title_en": "AeroVironment soars 28% on earnings beat, backlog grows to $1.2 billion",
+    "url": "https://www.cnbc.com/2026/06/29/aerovironment-stock-soars-on-earnings-beat-backlog-grows-to-1point2b.html",
+    "summary": "ドローンメーカーAeroVironment（AVAV）が2026年度Q4決算で市場予想を大幅に上回り、プレ市場で株価が28%急騰した。\nEPSは1.84ドル（予想1.46ドル）、売上高は6.42億ドル（予想5.59億ドル）で、前年比売上は2倍超に拡大した。\n受注残高（Funded Backlog）は12億ドルで前年比65%増となり、自律システム部門の売上は4.92億ドルと予想を9,000万ドル上回った。\nCEO Wahid Nawabiはウクライナ・イランの紛争を通じた無人機・対無人機・宇宙技術への世界的需要急拡大を強調した。\nただしFY2027の調整後EPS見通し（3.02〜3.34ドル）はアナリスト予想（3.94ドル）を下回る保守的な数字だった。\n💡 投資含意: 米国防省のドローン予算が来年750億ドル超の可能性があり、中小型防衛テック企業への資金流入が続く見込み。\n🔗 波及: ドローン対策（C-UAS）分野の市場拡大、同盟国の防衛装備近代化需要が継続的に追い風。\n📈 関連銘柄: AVAV（AeroVironment）、KTOS（Kratos）、LMT（Lockheed）、RTX（Raytheon）\n⚖️ 強気/弱気: 強気 — 国防ドローン需要の長期トレンドは確実だが、FY27ガイダンスの保守性に注意\n📅 次の注目: FY2027 Q1決算でのバックログ積み上げ状況と米国防省ドローン予算の確定",
+    "created_at": "2026-06-30T22:28:11.477Z"
+  },
+  {
+    "date": "2026-06-30",
+    "category": "economy",
+    "source": "CNBC Earnings",
+    "title_ja": "Nikeが予想超えのQ4決算 — 中国12%減収も関税還付9.86億ドルが利益を押し上げ、株価時間外-7%",
+    "title_en": "Nike results top estimates even as China sales drop 12%; retailer expects $986 million tariff refund",
+    "url": "https://www.cnbc.com/2026/06/30/nike-nke-q4-2026-earnings.html",
+    "summary": "Nikeは2026年度Q4決算で市場予想を上回る結果を発表した。純利益10.7億ドル（1株72セント）は前年の2.1億ドルから急増したが、最高裁によるトランプ関税無効判決を受けた9.86億ドルの関税還付（EPS+52セント）が主因で、この一時要因を除いた調整後では弱い数字との見方もある。\nグレーターチャイナの売上は12%減の13億ドルで、CEO Elliott Hillは「リカバリーはまだ完全ではない」と認め、スポーツウェアとJordanブランドのストリートウェアで課題が続くと説明した。\n北米は3%増の48.3億ドルと底入れ感が出てきた一方、FY2027ガイダンスは言及されていない。\n2026 FIFAワールドカップ関連広告でAdidas超えのSNS露出を記録しており、ブランド面では回復の兆しも見える。\nCFOは10月時点でのDavid Denton（元Pfizer）への交代も発表済み。決算後の時間外取引で株価は7%超下落した。\n💡 投資含意: 関税還付という一時要因を除くと業績回復は緩慢で、中国市場の悪化継続がリスク要因。\n🔗 波及: アディダス・Lululemon等競合との市場シェア争いが継続。中国市場回復のペースが鍵。\n📈 関連銘柄: NKE（Nike）、LULU（競合）、ADDYY（Adidas・競合）\n⚖️ 強気/弱気: 弱気 — 中国市場回復の遅延と関税還付を除いた収益の弱さが重しに\n📅 次の注目: FY2027 Q1決算でのチャイナ回復トレンド確認とDavid Denton CFO就任後の戦略変化",
+    "created_at": "2026-06-30T22:28:11.477Z"
+  },
+  {
+    "date": "2026-06-30",
+    "category": "economy",
+    "source": "Financial Times",
+    "title_ja": "米株式市場、Q2は6年ぶり最大の四半期上昇 — イラン戦争・SpaceX IPOを乗り越え",
+    "title_en": "US stocks chalk up biggest quarterly gain in six years",
+    "url": "https://www.ft.com/content/4ba4305f-f9ea-48f9-a49f-687443bd2f4b",
+    "summary": "2026年第2四半期の米株式市場は6年ぶり最大の四半期上昇を記録した。\nS&P 500は同期間で約15%上昇し（NYT Business報道による）、イラン戦争による地政学リスク・チップ株のボラティリティ・SpaceX IPOという波乱要因を乗り越えた上昇となった。\nAI主導の企業収益増加への期待が相場を下支えし、チップ・テクノロジー・エネルギーセクターが上昇を牽引した。\n地政学リスクと金利圧力を克服した株式市場の強靱性は、AI投資サイクルに対する市場の強い確信を示している。\n💡 投資含意: 「AIブームによる企業利益成長」というナラティブが依然として強く、投資家センチメントを支え続けている。\n🔗 波及: Q3決算シーズンでのAI投資ROIの実証が次の試練となる見込み。\n📈 関連銘柄: SPY（S&P 500）、QQQ（Nasdaq）、VGT（テクノロジーETF）\n⚖️ 強気/弱気: 強気 — Q2の強さがQ3以降の相場センチメントを下支えする\n📅 次の注目: Q3開始後の経済指標（雇用・インフレ）とQ2決算ガイダンス",
+    "created_at": "2026-06-30T22:28:11.477Z"
+  },
+  {
+    "date": "2026-06-30",
+    "category": "economy",
+    "source": "NYT Business",
+    "title_ja": "Comcast、NBCUniversalとSkyをスピンオフへ — メディアと通信の大型分離",
+    "title_en": "Comcast to Spin Off NBCUniversal, Ending a Long Union of Cable and Media",
+    "url": "https://www.nytimes.com/2026/06/29/business/comcast-nbcuniversal-spinoff.html",
+    "summary": "米ケーブル通信大手ComcastがNBCUniversal（NBCニュース・Universal Pictures含む）とSkyを独立会社としてスピンオフする計画を発表した。\nComcastはブロードバンドとケーブルのコアビジネスに集中し、NBCUは独立したメディア企業として分離上場する見通し。\n発表直後からアナリストはNBCUとCharter Communications、またはNetflixとの合併・買収シナリオを検討し始めた。\nメディア業界での垂直統合から選択と集中へのシフトが鮮明で、ストリーミング競争激化を背景とした構造的再編が続く。\nComcastの既存株主は両社の株式を受け取り、分離後に各社がM&A交渉の対象になりやすくなるとの見方が強い。\n💡 投資含意: 分離によりNBCUはM&A対象として再注目され、Comcast株はブロードバンド特化で評価が再構築される可能性。\n🔗 波及: Charter、Nexstar、NetflixなどがNBCU株式の潜在的取得候補として浮上する見通し。\n📈 関連銘柄: CMCSA（Comcast）、NFLX（潜在M&A候補）、CHTR（Charter）\n⚖️ 強気/弱気: 強気（短期M&Aプレミアム期待）/弱気（ストリーミング競争の構造的苦境は継続）\n📅 次の注目: スピンオフ完了タイムラインと具体的なM&A交渉相手の浮上",
+    "created_at": "2026-06-30T22:28:11.477Z"
+  },
+  {
+    "date": "2026-06-30",
+    "category": "politics",
+    "source": "CBS News",
+    "title_ja": "最高裁、出生地主義市民権を支持 — トランプ大統領令を6対3で違憲と判断",
+    "title_en": "Supreme Court upholds birthright citizenship, striking down Trump's order",
+    "url": "https://www.cbsnews.com/news/supreme-court-birthright-citizenship-trump-decision/",
+    "summary": "連邦最高裁は6対3でトランプ大統領の出生地主義市民権制限大統領令を違憲と判断した。\n過半数5名（ロバーツ長官、ソトマイヨール、ケーガン、バレット、ジャクソン各判事）は第14修正条項違反と認定し、カバノー判事は連邦法違反として賛同した。\n同命令が施行されれば年間約25万人の新生児が市民権を失う可能性があり、移民問題の根幹に関わる重大判決だ。\nトランプ大統領は議会による立法対応を求めたが、修正条項変更には超党派3分の2の支持が必要で実現は困難とされる。\n最高裁は今期、トランプ政権の大型施策（関税・出生地主義市民権）2件を相次いで無効にしたことになる。\n💡 投資含意: 移民政策の不確実性緩和は、労働集約型産業（農業・建設・サービス業）の人材確保見通しに好影響。\n🔗 波及: 今後の移民関連立法・大統領権限の範囲についての議論が継続し、2026年中間選挙の争点になる。\n📈 関連銘柄: 直接的な株式影響は限定的。農業・建設・サービスセクターへの労働力確保に安定感。\n⚖️ 強気/弱気: 中立 — 法的安定性の回復は好材料だが、政治的対立の継続は不確実性を残す\n📅 次の注目: 議会での移民立法動向と2026年中間選挙での争点化",
+    "created_at": "2026-06-30T22:28:11.477Z"
+  },
+  {
+    "date": "2026-06-30",
+    "category": "politics",
+    "source": "CNBC Technology",
+    "title_ja": "トランプ政権のAI規制でAnthropicが足踏み — 中国のGLM 5.2が最前線に台頭",
+    "title_en": "Trump administration's AI crackdown opens door for China to close gap",
+    "url": "https://www.cnbc.com/2026/06/30/white-house-ai-china-crackdown.html",
+    "summary": "トランプ政権によるAnthropicの主力モデルへの輸出規制でFable 5が未だ市場に出せない状況が続く中、中国の智普（Zhipu）が開発したGLM 5.2がサイバーセキュリティベンチマークでMythosに匹敵すると評価された。\nVC著名人Marc Andreessen、Jefferies（「4分の1のコスト」）らが相次いで注目し、CoinbaseのCEOはGLM 5.2・Kimi 2.7を使いAIコストを50%削減したと発言した。\nLindy社（AI startup）はAnthropicからDeepSeekへ全トラフィックを移行し、コスト曲線が「急落した」と述べた。\nオープンウェイト形式で米国企業のサーバーにダウンロード可能なため、輸出規制の効果が限定的との声も上がっている。\nElon Muskは「GLM 5.2はQ1にFableに到達する」とコメントし、開発者のJie Tangは「それほど時間はかからない」と返した。\n💡 投資含意: 米国AIモデルの規制で恩恵を受ける中国勢 — オープンウェイトでの商業採用拡大が米国クラウドAIサービスの競争環境を複雑化させる。\n🔗 波及: 企業のAI支出の一部が中国製オープンソースモデルへシフトするリスクがあり、Anthropic・OpenAIの市場シェアに影響。\n📈 関連銘柄: Anthropic（非上場）、NVDA（中国輸出規制影響）、AMZN（Anthropic株主）、GOOGL\n⚖️ 強気/弱気: 弱気（Anthropic/米国AIベンダー）— 規制による足かせと中国競合の台頭が同時進行\n📅 次の注目: Fable 5の市場投入解禁とGLM 5.2のエンタープライズ採用状況",
+    "created_at": "2026-06-30T22:28:11.477Z"
+  },
+  {
+    "date": "2026-06-30",
+    "category": "politics",
+    "source": "PBS Politics",
+    "title_ja": "最高裁、政党の選挙資金協調支出制限を廃止 — 50年超の選挙法を違憲と判断",
+    "title_en": "Supreme Court strikes limits on party spending in federal elections, backing GOP appeal",
+    "url": "https://www.pbs.org/newshour/politics/supreme-court-strikes-limits-on-party-spending-in-federal-elections-backing-gop-appeal",
+    "summary": "連邦最高裁は、政党が候補者と協調して支出できる金額を制限した50年以上前の連邦選挙法規定を廃止した。\n共和党上院・下院委員会の提訴（当時のJD Vance上院議員が共同原告）を受けた判決で、保守派判事が多数意見を形成した。\n2001年に最高裁が合憲と認めていた規定を覆した形で、Citizens United判決（2010年）以来の大型選挙資金規制撤廃となる。\n民主党は法廷でも維持を求めたが、政党スポンサーによる協調的な選挙支出が事実上無制限化された。\n政党の資金力差が候補者への影響力を通じて議会構成を変える可能性があり、政治力学の変化につながる。\n💡 投資含意: 選挙資金規制の緩和は、政治的影響力を持つ産業（エネルギー・製薬・金融）の規制環境変化を招く可能性。\n🔗 波及: 2026年中間選挙での政党資金調達力が変化し、資金力の差が選挙結果に影響を与えうる。\n📈 関連銘柄: 直接影響は限定的。政治的ロビイングが活発な業界（エネルギー・金融・製薬）に間接影響。\n⚖️ 強気/弱気: 中立 — 選挙資金ルール変更の市場直接影響は小さいが、規制環境への政治的影響は大きい\n📅 次の注目: 2026年中間選挙での政党支出額の変化と新たな制度運用の実態",
+    "created_at": "2026-06-30T22:28:11.477Z"
+  },
+  {
+    "date": "2026-06-30",
+    "category": "robotics",
+    "source": "NVIDIA Robotics",
+    "title_ja": "NVIDIA Omniverse Metropolisがビジョンエージェントの精度を革新 — 合成データで工場検査95%達成",
+    "title_en": "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning",
+    "url": "https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/",
+    "summary": "NVIDIAはOmniverse Metropolisプラットフォームを使ったビジョンAIエージェントの3つの産業活用ワークフローを公開した。\nCorningは合成データ生成により8枚の学習画像だけで95%の検査精度を達成し、実データ収集コストを大幅に削減した。\nLinker Visionはビジョンエージェント開発の工数を85%削減し、中小企業へのAI品質管理普及を加速させる。\nFoxconnはNVIDIA Metropolisを活用して製造ラインの初期不良率を3%改善し、収率向上に成功した。\n合成データと微調整の組み合わせが製造現場でのAI実装コスト・時間を大幅に削減するアプローチとして確立されつつある。\n💡 投資含意: 製造業向けビジョンAIの実用化加速は産業用カメラ・センサー・エッジAI半導体需要を拡大させる。\n🔗 波及: Smart Factory化の加速により製造現場の品質管理人員配置への影響が生じる可能性。\n📈 関連銘柄: NVDA（プラットフォーム提供）、GLW（Corning）、HON、ROK\n⚖️ 強気/弱気: 強気 — 実用事例の蓄積がOmniverse採用をさらに促進\n📅 次の注目: GTC 2026での新ユースケース発表と大手製造業への展開状況",
+    "created_at": "2026-06-30T22:28:11.477Z"
+  },
+  {
+    "date": "2026-06-30",
+    "category": "robotics",
+    "source": "The Robot Report",
+    "title_ja": "ソフトロボティクス新興「morph」が物理AI搭載のソフトロボットセルを発表",
+    "title_en": "Soft, robotic cells from morph embed physical AI into hardware",
+    "url": "https://www.therobotreport.com/soft-robotic-cells-from-morph-embed-physical-ai-into-hardware/",
+    "summary": "ソフトロボティクスのスタートアップmorphが、物理AIを組み込んだ「ソフトロボットセル」を発表した。\n創業者はデジタル手術会社出身のJean Nehmeで、タコの皮膚に着想を得た変形可能素材にRLと物理シミュレーションを融合させた学習アプローチを採用する。\n8VCとValiaがリード投資家となっており、Pharrell Williamsも出資するという異色の株主構成が話題を呼んでいる。\n柔軟な素材特性を生かした外科手術・食品加工・介護など繊細な操作が必要な領域への応用を目指す。\nハードロボティクスが苦手とする精密・柔軟作業市場を開拓する新しいアプローチとして注目される。\n💡 投資含意: ソフトロボティクスは従来ロボティクスが手をつけていない高付加価値の精密作業市場を開拓する。\n🔗 波及: 医療ロボット・食品自動化など規制要件が厳しい市場への参入により、参入障壁が形成される。\n📈 関連銘柄: ISRG（Intuitive Surgical・競合）、ABB（競合）、8VC（非上場投資家）\n⚖️ 強気/弱気: 強気 — ニッチだが高成長が見込まれる市場での先行者優位\n📅 次の注目: 商業パイロットの開始と次回資金調達の規模",
+    "created_at": "2026-06-30T22:28:11.477Z"
+  },
+  {
+    "date": "2026-06-30",
+    "category": "robotics",
+    "source": "The Robot Report",
+    "title_ja": "Xスクエア・ロボット、4連続ラウンドで評価額28億ドルに到達",
+    "title_en": "X Square Robot brings its valuation to $2.8B with four consecutive funding rounds",
+    "url": "https://www.therobotreport.com/x-square-robot-brings-valuation-2-8b-four-consecutive-funding-rounds/",
+    "summary": "中国のヒューマノイドロボット企業Xスクエア・ロボットが4回連続の資金調達ラウンドを経て評価額28億ドル（約4,100億円）を達成した。\n同社はWALL-Bと呼ばれる独自のファウンデーションモデルを持ち、ロボットハードウェア・データパイプライン・実世界デプロイメントを統合したシステムを展開する。\n深圳・北京での商業展開を進め、58.comとのパートナーシップにより製造・物流現場での実用化を加速している。\nヒューマノイドロボット市場における中国勢の台頭が鮮明で、Figure・1X等の米国勢との技術競争が激化している。\n4連続の資金調達は投資家の継続的な信頼を示し、ロボット産業全体の成熟化を象徴する動き。\n💡 投資含意: ヒューマノイドロボット市場への資金流入加速は部品・センサー・エンコーダー関連企業にも恩恵をもたらす。\n🔗 波及: 工場自動化・物流分野での人型ロボット採用が加速し、労働市場への影響が生じる可能性。\n📈 関連銘柄: TSLA（競合humanoid）、ABB、Yaskawa、FANUC\n⚖️ 強気/弱気: 強気 — ロボット市場への投資マネーが中国勢にも流入し技術競争が加速\n📅 次の注目: 商業デプロイ台数の拡大と次回資金調達ラウンドの時期・規模",
+    "created_at": "2026-06-30T22:28:11.477Z"
+  },
+  {
+    "date": "2026-06-30",
+    "category": "technology",
+    "source": "TechCrunch",
+    "title_ja": "NVIDIAの競合・Etched、評価額50億ドル到達 — TransformerチップでASIC受注10億ドル超",
+    "title_en": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+    "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+    "summary": "AIチップ新興企業EtchedがシリーズC資金調達を経て評価額50億ドル（約7,400億円）に達し、TransformerチップへのASIC受注が10億ドルを超えた。\n同社チップはTransformerモデルに特化した設計で、GPT-4クラスのモデルを汎用GPUより大幅に安くかつ高速に推論できるとする。\n2025年12月に5億ドルを調達し、直近では1億ドルのASIC受注が追加された。\n投資家にはJane Street、HRT、Two SigmaとAndrej Karpathy、Geoffrey Hinton、Fei-Fei Liが名を連ねる。\n推論の固定コスト化が進む中、特化型ASICの需要が高まっており、NVIDIAのInference市場シェアへの挑戦者として注目を集める。\n💡 投資含意: 推論専用ASICの普及はGPU需要の一部を代替する一方、AI全体の市場拡大に貢献する二面性がある。\n🔗 波及: NVDA推論市場シェアへの圧力、ハイパースケーラーのチップ調達多様化加速。\n📈 関連銘柄: NVDA（競合）、AMD（競合ASIC展開中）、ANET（データセンター）\n⚖️ 強気/弱気: 強気（Etched/推論ASIC市場）/弱気（NVDA Hopper・Blackwell推論シェア）\n📅 次の注目: 最初の大型顧客名公開と量産開始タイムライン",
+    "created_at": "2026-06-30T22:28:11.477Z"
+  },
+  {
+    "date": "2026-06-30",
+    "category": "technology",
+    "source": "TechCrunch",
+    "title_ja": "Realta Fusion、核融合反応から直接電力を生成する世界初の実証に成功",
+    "title_en": "Realta Fusion generates electricity directly from a fusion reaction, an apparent first",
+    "url": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/",
+    "summary": "核融合スタートアップRealta Fusionが6月19日、WHAM装置を用いてアルファ粒子から直接電力を生成し電球を点灯させることに成功した。\n従来の蒸気タービン方式（効率33%）と異なり、直接変換により90%以上の効率が理論上可能で、商業スケールで20〜30%のブースト効果が見込まれる。\n2025年にシリーズA3,600万ドルを調達済みで、共同創業者兼CEOのKieran Furlongは「プラズマから電力を取り出せることを示した」と述べた。\n核融合の商業化タイムラインを大幅に早める可能性を持つマイルストーンとして世界の研究者の注目を集めている。\n直接発電技術の確立は長期的にデータセンター・産業用エネルギーコストに革命的変化をもたらしうる。\n💡 投資含意: 核融合の直接発電実証は商業化リスクを引き下げ、クリーンエネルギー投資テーマとして再評価される契機に。\n🔗 波及: 長期的にはデータセンターや産業用エネルギーコストの革命的低下を示唆する可能性。\n📈 関連銘柄: Realta Fusion（非上場）、Commonwealth Fusion（非上場）、NEE、VST（将来の電力需要受益）\n⚖️ 強気/弱気: 強気 — ゲームチェンジャーとなる技術実証だが商業化まで依然長い道のり\n📅 次の注目: WHAMデバイスの出力規模拡大試験と次回資金調達ラウンド",
+    "created_at": "2026-06-30T22:28:11.477Z"
+  },
+  {
+    "date": "2026-06-30",
+    "category": "technology",
+    "source": "TechCrunch",
+    "title_ja": "Tesla、ペダル・ステアリングなしのCybercabをオースティンでテスト開始",
+    "title_en": "Tesla starts testing Cybercab without pedals or a steering wheel in Austin",
+    "url": "https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/",
+    "summary": "Teslaがテキサス州オースティンで、ブレーキペダルもステアリングホイールも搭載しない完全自律走行ロボタクシー「Cybercab」のテストを開始した。\n安全要員が同乗するが車両操作には介在せず、NHTSAへのブレーキペダル免除申請も提出されている。\nカメラのみ（LiDAR・Radar不使用）という独自アプローチで、LiDAR・Radarを採用するWaymoとは異なる技術路線を貫く。\nElon Muskが長年約束してきたロボタクシーネットワーク実現に向けた具体的な第一歩となり、投資家の期待を再燃させた。\nFSD（Full Self-Driving）の実用化が収益化の鍵となるTeslaにとって、今回のテストは商業サービスへの布石だ。\n💡 投資含意: Cybercabの実走テスト開始はTeslaのロボタクシー収益化シナリオの現実性を高め、株価評価の変革点になりうる。\n🔗 波及: WaymoやCruiseとのロボタクシー市場競争が本格化し、保険・地図・映像AI各分野に波及効果。\n📈 関連銘柄: TSLA（ロボタクシーモデル）、GOOGL（Waymo親会社）、UBER（競合/協業可能性）\n⚖️ 強気/弱気: 強気（TSLA）— ロボタクシー商業化の第一歩として市場に評価される可能性\n📅 次の注目: NHTSAのブレーキペダル免除申請の承認状況と有償サービス開始時期",
+    "created_at": "2026-06-30T22:28:11.477Z"
+  },
+  {
+    "date": "2026-06-30",
+    "category": "technology",
+    "source": "BBC Technology",
+    "title_ja": "Ford、AI品質検査の失敗を受けベテランエンジニアを再雇用",
+    "title_en": "Ford rehires human engineers after AI fails to match quality checks",
+    "url": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss",
+    "summary": "自動車大手Fordが、AIによる品質検査がベテラン技術者の水準に及ばないとして、一度離職させた熟練エンジニアを再雇用していることが明らかになった。\nAI検査システムの精度が現場の暗黙知や経験則に依存する品質管理業務では不十分であることが浮き彫りになった形だ。\n自動化・AI置き換えの限界を示す象徴的な事例として、製造業でのAI導入戦略の見直しを迫る出来事となった。\n💡 投資含意: AIの品質管理代替は依然として限定的であり、熟練工程の人的資本価値が見直される可能性がある。\n🔗 波及: 製造業でのAI全面置換シナリオへの懐疑論が強まり、人間とAIの協働モデルへの回帰が起きうる。\n📈 関連銘柄: F（Ford）、製造業向けAI品質管理ベンダー全般、人材派遣・技術者リスキリング関連\n⚖️ 強気/弱気: 弱気 — 製造現場でのAI完全自動化シナリオへの逆風となる事例\n📅 次の注目: FordのAIシステム改良計画と再導入タイムライン",
+    "created_at": "2026-06-30T22:28:11.477Z"
+  },
+  {
+    "date": "2026-06-30",
+    "category": "technology",
+    "source": "CNBC Technology",
+    "title_ja": "Q2チップ株ラリー：Micron・Intel・AMDの時価総額が合計2兆ドル増加",
+    "title_en": "Record chip rally adds $2 trillion in combined value to Micron, Intel and AMD in second quarter",
+    "url": "https://www.cnbc.com/2026/06/30/ai-chip-rally-in-q2-adds-2-trillion-in-value-to-micron-intel-amd-.html",
+    "summary": "2026年第2四半期、AIブームの波及効果でNVIDIA以外の半導体株が急騰し、Micron・Intel・AMD3社合計で約2兆ドルの時価総額が創出された。\nMicron +240%（+9,200億ドル）、Intel +216%（+4,800億ドル）、AMD約3倍（+6,150億ドル）、Marvell +200%、Arm +134%と軒並み急騰した。\n半導体セクターETF（SMH）は+71%を記録し、AI投資の恩恵がNVIDIA以外にも広がったことを示した。\nAI需要がHBMメモリーからカスタムシリコンまで幅広い半導体に波及し、「NVIDIA集中」を超えた投資機会が生まれた形だ。\nQ2のマクロ不安（イラン戦争・関税）を乗り越えた株価上昇は、AI投資サイクルの持続性への市場の強い確信を反映している。\n💡 投資含意: AIブームの恩恵が半導体バリューチェーン全体に広がっており、NVIDIA集中リスクを分散する機会が生まれている。\n🔗 波及: DRAM・NANDの需給改善、データセンター増設計画の継続的加速が確認された。\n📈 関連銘柄: MU（Micron）、INTC（Intel）、AMD、MRVL（Marvell）、ARM、SMH（ETF）\n⚖️ 強気/弱気: 強気 — AI投資サイクルの長期化が半導体全体を底上げ\n📅 次の注目: Q2決算でのHBM/DDR5出荷量ガイダンスと下半期需要見通し",
+    "created_at": "2026-06-30T22:28:11.477Z"
   }
 ]

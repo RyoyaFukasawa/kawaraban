@@ -1,6 +1,81 @@
 # 🖥 テクノロジー — 全アーカイブ
 
-全147件 / 日付の新しい順
+全152件 / 日付の新しい順
+
+## 2026-06-30
+
+### [Q2チップ株ラリー：Micron・Intel・AMDの時価総額が合計2兆ドル増加](https://www.cnbc.com/2026/06/30/ai-chip-rally-in-q2-adds-2-trillion-in-value-to-micron-intel-amd-.html)
+*Record chip rally adds $2 trillion in combined value to Micron, Intel and AMD in second quarter*
+出典: CNBC Technology ・ #technology #2026-06-30
+
+2026年第2四半期、AIブームの波及効果でNVIDIA以外の半導体株が急騰し、Micron・Intel・AMD3社合計で約2兆ドルの時価総額が創出された。
+Micron +240%（+9,200億ドル）、Intel +216%（+4,800億ドル）、AMD約3倍（+6,150億ドル）、Marvell +200%、Arm +134%と軒並み急騰した。
+半導体セクターETF（SMH）は+71%を記録し、AI投資の恩恵がNVIDIA以外にも広がったことを示した。
+AI需要がHBMメモリーからカスタムシリコンまで幅広い半導体に波及し、「NVIDIA集中」を超えた投資機会が生まれた形だ。
+Q2のマクロ不安（イラン戦争・関税）を乗り越えた株価上昇は、AI投資サイクルの持続性への市場の強い確信を反映している。
+💡 投資含意: AIブームの恩恵が半導体バリューチェーン全体に広がっており、NVIDIA集中リスクを分散する機会が生まれている。
+🔗 波及: DRAM・NANDの需給改善、データセンター増設計画の継続的加速が確認された。
+📈 関連銘柄: MU（Micron）、INTC（Intel）、AMD、MRVL（Marvell）、ARM、SMH（ETF）
+⚖️ 強気/弱気: 強気 — AI投資サイクルの長期化が半導体全体を底上げ
+📅 次の注目: Q2決算でのHBM/DDR5出荷量ガイダンスと下半期需要見通し
+
+### [Ford、AI品質検査の失敗を受けベテランエンジニアを再雇用](https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss)
+*Ford rehires human engineers after AI fails to match quality checks*
+出典: BBC Technology ・ #technology #2026-06-30
+
+自動車大手Fordが、AIによる品質検査がベテラン技術者の水準に及ばないとして、一度離職させた熟練エンジニアを再雇用していることが明らかになった。
+AI検査システムの精度が現場の暗黙知や経験則に依存する品質管理業務では不十分であることが浮き彫りになった形だ。
+自動化・AI置き換えの限界を示す象徴的な事例として、製造業でのAI導入戦略の見直しを迫る出来事となった。
+💡 投資含意: AIの品質管理代替は依然として限定的であり、熟練工程の人的資本価値が見直される可能性がある。
+🔗 波及: 製造業でのAI全面置換シナリオへの懐疑論が強まり、人間とAIの協働モデルへの回帰が起きうる。
+📈 関連銘柄: F（Ford）、製造業向けAI品質管理ベンダー全般、人材派遣・技術者リスキリング関連
+⚖️ 強気/弱気: 弱気 — 製造現場でのAI完全自動化シナリオへの逆風となる事例
+📅 次の注目: FordのAIシステム改良計画と再導入タイムライン
+
+### [Tesla、ペダル・ステアリングなしのCybercabをオースティンでテスト開始](https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/)
+*Tesla starts testing Cybercab without pedals or a steering wheel in Austin*
+出典: TechCrunch ・ #technology #2026-06-30
+
+Teslaがテキサス州オースティンで、ブレーキペダルもステアリングホイールも搭載しない完全自律走行ロボタクシー「Cybercab」のテストを開始した。
+安全要員が同乗するが車両操作には介在せず、NHTSAへのブレーキペダル免除申請も提出されている。
+カメラのみ（LiDAR・Radar不使用）という独自アプローチで、LiDAR・Radarを採用するWaymoとは異なる技術路線を貫く。
+Elon Muskが長年約束してきたロボタクシーネットワーク実現に向けた具体的な第一歩となり、投資家の期待を再燃させた。
+FSD（Full Self-Driving）の実用化が収益化の鍵となるTeslaにとって、今回のテストは商業サービスへの布石だ。
+💡 投資含意: Cybercabの実走テスト開始はTeslaのロボタクシー収益化シナリオの現実性を高め、株価評価の変革点になりうる。
+🔗 波及: WaymoやCruiseとのロボタクシー市場競争が本格化し、保険・地図・映像AI各分野に波及効果。
+📈 関連銘柄: TSLA（ロボタクシーモデル）、GOOGL（Waymo親会社）、UBER（競合/協業可能性）
+⚖️ 強気/弱気: 強気（TSLA）— ロボタクシー商業化の第一歩として市場に評価される可能性
+📅 次の注目: NHTSAのブレーキペダル免除申請の承認状況と有償サービス開始時期
+
+### [Realta Fusion、核融合反応から直接電力を生成する世界初の実証に成功](https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/)
+*Realta Fusion generates electricity directly from a fusion reaction, an apparent first*
+出典: TechCrunch ・ #technology #2026-06-30
+
+核融合スタートアップRealta Fusionが6月19日、WHAM装置を用いてアルファ粒子から直接電力を生成し電球を点灯させることに成功した。
+従来の蒸気タービン方式（効率33%）と異なり、直接変換により90%以上の効率が理論上可能で、商業スケールで20〜30%のブースト効果が見込まれる。
+2025年にシリーズA3,600万ドルを調達済みで、共同創業者兼CEOのKieran Furlongは「プラズマから電力を取り出せることを示した」と述べた。
+核融合の商業化タイムラインを大幅に早める可能性を持つマイルストーンとして世界の研究者の注目を集めている。
+直接発電技術の確立は長期的にデータセンター・産業用エネルギーコストに革命的変化をもたらしうる。
+💡 投資含意: 核融合の直接発電実証は商業化リスクを引き下げ、クリーンエネルギー投資テーマとして再評価される契機に。
+🔗 波及: 長期的にはデータセンターや産業用エネルギーコストの革命的低下を示唆する可能性。
+📈 関連銘柄: Realta Fusion（非上場）、Commonwealth Fusion（非上場）、NEE、VST（将来の電力需要受益）
+⚖️ 強気/弱気: 強気 — ゲームチェンジャーとなる技術実証だが商業化まで依然長い道のり
+📅 次の注目: WHAMデバイスの出力規模拡大試験と次回資金調達ラウンド
+
+### [NVIDIAの競合・Etched、評価額50億ドル到達 — TransformerチップでASIC受注10億ドル超](https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/)
+*Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip*
+出典: TechCrunch ・ #technology #2026-06-30
+
+AIチップ新興企業EtchedがシリーズC資金調達を経て評価額50億ドル（約7,400億円）に達し、TransformerチップへのASIC受注が10億ドルを超えた。
+同社チップはTransformerモデルに特化した設計で、GPT-4クラスのモデルを汎用GPUより大幅に安くかつ高速に推論できるとする。
+2025年12月に5億ドルを調達し、直近では1億ドルのASIC受注が追加された。
+投資家にはJane Street、HRT、Two SigmaとAndrej Karpathy、Geoffrey Hinton、Fei-Fei Liが名を連ねる。
+推論の固定コスト化が進む中、特化型ASICの需要が高まっており、NVIDIAのInference市場シェアへの挑戦者として注目を集める。
+💡 投資含意: 推論専用ASICの普及はGPU需要の一部を代替する一方、AI全体の市場拡大に貢献する二面性がある。
+🔗 波及: NVDA推論市場シェアへの圧力、ハイパースケーラーのチップ調達多様化加速。
+📈 関連銘柄: NVDA（競合）、AMD（競合ASIC展開中）、ANET（データセンター）
+⚖️ 強気/弱気: 強気（Etched/推論ASIC市場）/弱気（NVDA Hopper・Blackwell推論シェア）
+📅 次の注目: 最初の大型顧客名公開と量産開始タイムライン
 
 ## 2026-06-29
 
