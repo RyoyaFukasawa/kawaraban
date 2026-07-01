@@ -6078,5 +6078,255 @@
     "url": "https://www.cnbc.com/2026/06/30/ai-chip-rally-in-q2-adds-2-trillion-in-value-to-micron-intel-amd-.html",
     "summary": "2026年第2四半期、AIブームの波及効果でNVIDIA以外の半導体株が急騰し、Micron・Intel・AMD3社合計で約2兆ドルの時価総額が創出された。\nMicron +240%（+9,200億ドル）、Intel +216%（+4,800億ドル）、AMD約3倍（+6,150億ドル）、Marvell +200%、Arm +134%と軒並み急騰した。\n半導体セクターETF（SMH）は+71%を記録し、AI投資の恩恵がNVIDIA以外にも広がったことを示した。\nAI需要がHBMメモリーからカスタムシリコンまで幅広い半導体に波及し、「NVIDIA集中」を超えた投資機会が生まれた形だ。\nQ2のマクロ不安（イラン戦争・関税）を乗り越えた株価上昇は、AI投資サイクルの持続性への市場の強い確信を反映している。\n💡 投資含意: AIブームの恩恵が半導体バリューチェーン全体に広がっており、NVIDIA集中リスクを分散する機会が生まれている。\n🔗 波及: DRAM・NANDの需給改善、データセンター増設計画の継続的加速が確認された。\n📈 関連銘柄: MU（Micron）、INTC（Intel）、AMD、MRVL（Marvell）、ARM、SMH（ETF）\n⚖️ 強気/弱気: 強気 — AI投資サイクルの長期化が半導体全体を底上げ\n📅 次の注目: Q2決算でのHBM/DDR5出荷量ガイダンスと下半期需要見通し",
     "created_at": "2026-06-30T22:28:11.477Z"
+  },
+  {
+    "date": "2026-07-01",
+    "category": "ai",
+    "source": "Hugging Face",
+    "title_ja": "HuggingFaceとCerebras、Gemma 4でリアルタイム音声AIを実現——ロボット1万台超で稼働中",
+    "title_en": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "summary": "Hugging FaceとCerebrasが共同で、Google DeepMindのGemma 4 31Bモデルを使ったリアルタイム音声AIデモを公開した。\nCerebrasの超高速推論エンジンを組み合わせることで「考える間の沈黙」を解消し、人間との会話に近いレスポンスタイムを実現している。\nアーキテクチャはCerebras（LLM推論）、Gemma 4 31B（言語モデル）、Qwen（TTS）の3層構成でフルオープン・モジュール型。全レイヤーが検査・改変・拡張可能で、開発者がロボット・アシスタント・製品等に自由に組み込める。\nP95レイテンシの安定化が核心で、「中央値は速いが時々数秒止まる」という従来型の欠点を克服。すでにReachy Miniロボット1万台以上のバックエンドとして本番稼働している。\nCerebrasを選ぶ理由は「コスト削減だけでなく、低レイテンシと予測可能なパフォーマンスで自然なインタラクションを実現すること」とHugging Faceは説明する。\n💡 投資含意: 高速・安定推論への需要はCerebrasのような特化インフラ企業の優位性を高め、推論市場でのNVIDIA GPU独占に対抗する動きを加速させる。\n🔗 波及: リアルタイム音声AIの実用化がロボット・コールセンター・音声アシスタント分野で進むと、エッジAI半導体・低レイテンシクラウド需要が拡大する。\n📈 関連銘柄: NVDA（Cerebrasと競合するGPUインフラ）、GOOGL（Gemmaモデル開発元）\n⚖️ 強気/弱気: 強気 — 音声AI実用化の加速は特化型推論インフラ・エッジ半導体需要を高める\n📅 次の注目: Cerebrasの推論性能ベンチマーク比較と音声AI分野での大型顧客獲得",
+    "created_at": "2026-07-01T22:31:11.914Z"
+  },
+  {
+    "date": "2026-07-01",
+    "category": "ai",
+    "source": "OpenAI",
+    "title_ja": "ChatGPTのグローバル普及が加速——利用深化と多機能活用が進む",
+    "title_en": "How ChatGPT adoption has expanded",
+    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "summary": "OpenAIが「OpenAI Signals」データを公開し、ChatGPTのグローバル採用が「登録数」だけでなく「利用の深化」という質的な面でも拡大していることを明らかにした。\nユーザーが機能を多様に試し、地域・言語をまたいで活用が広がっており、単一用途から複合的な業務活用へとシフトしていることが示されている。\n詳細な数値はRSSの範囲では不明（本文へのアクセス不可）だが、AIアシスタントが「試すもの」から「日常ツール」へと移行するフェーズを公式データが裏付けた形だ。\nAIアシスタント市場で習慣形成が進むことは、課金コンバージョンと解約率改善の両面でOpenAIの収益構造を強化しうる。\n💡 投資含意: 利用深化はChatGPT Plus・Team・EnterpriseのARPU改善と解約率低下に直結し、OpenAIの収益基盤を中長期で強化する。\n🔗 波及: MicrosoftのCopilot、GoogleのGeminiも同様の利用深化競争を余儀なくされる。AIアシスタント市場でのエンゲージメント指標が評価軸として定着していく。\n📈 関連銘柄: MSFT（Copilot/Azure OpenAI）、GOOG（競合Gemini）\n⚖️ 強気/弱気: 強気 — 利用の習慣化はAI課金モデル成熟の証左\n📅 次の注目: OpenAIの次回財務開示における有料会員数・Enterpriseアカウント数の公表",
+    "created_at": "2026-07-01T22:31:11.914Z"
+  },
+  {
+    "date": "2026-07-01",
+    "category": "ai",
+    "source": "Reddit r/LocalLLaMA",
+    "title_ja": "⚠️ SWE-rebenchリーダーボード更新——GLM-5.2・Qwen3.6・Gemma 4 31Bがコーディングベンチマークに登場",
+    "title_en": "SWE-rebench leaderboard update: GLM-5.2, Qwen3.6-27B, Qwen3.6-35B-A3B, Gemma 4 31B and more + improved UI",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uknx14/swerebench_leaderboard_update_glm52_qwen3627b/",
+    "summary": "SWE-rebench（ソフトウェアエンジニアリングベンチマーク）のリーダーボードが更新され、GLM-5.2、Qwen3.6-27B、Qwen3.6-35B-A3B、Gemma 4 31Bなどが追加されたという投稿がRedditのr/LocalLLaMAにある。\nUIも改善されたとされており、コーディングタスクにおけるオープンモデルの性能進化が継続的に可視化されている模様だ。\nGLM-5.2が有料クローズドモデルに匹敵するとの評価が昨日から注目を集めており、このベンチマーク更新は中国製・オープンウェイトモデルの競争力上昇の証左として見られている。\nQwen3.6シリーズの複数バリアントも登場しており、量子化効率と性能のトレードオフが開発者コミュニティで活発に議論されている模様だ。\n⚠️ 未確認情報（Reddit発・要裏取り）\n💡 投資含意: コーディングベンチマークでオープンモデルがクローズドモデルに迫るほど、エンタープライズのAI支出がオープン基盤（Together AI等）にシフトする圧力が高まる。\n🔗 波及: GitHub Copilot（MSFT）やCursorのような有料コーディングAIサービスへの価格圧力が継続的に強まる。\n📈 関連銘柄: MSFT（GitHub Copilot）、Anthropic（非上場）、GOOG（Gemini Code Assist）— 有料モデル競合\n⚖️ 強気/弱気: 弱気（有料クローズドモデル）/強気（オープンエコシステム基盤企業）\n📅 次の注目: SWE-bench-Verified等の公式ベンチマークでのGLM-5.2・Qwen3.6スコア確認",
+    "created_at": "2026-07-01T22:31:11.914Z"
+  },
+  {
+    "date": "2026-07-01",
+    "category": "ai",
+    "source": "MIT Tech Review AI",
+    "title_ja": "Anthropic、科学研究特化のAIエージェント「Claude Science」を発表",
+    "title_en": "Claude Science is Anthropic's newest flagship product",
+    "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+    "summary": "Anthropicが製薬エグゼクティブ・バイオテック創業者・研究者向けイベントで「Claude Science」を発表した。Claude Codeがソフトウェアエンジニアリングを自律支援するように、科学研究を自律的に担う新フラッグシップ製品として位置付けられている。\nClaude Codeと同様に、簡潔な高レベル指示で意味のある研究作業を自律実行する設計で、創薬・ゲノム解析・材料科学等の複雑な科学分野への応用が想定されている。\n本文は有料のため具体的な機能・価格・早期アクセスパートナーの詳細はRSSの範囲では不明だが、「Claude Codeに続くAnthropicの最重要新製品」という位置付けは明確だ。\n科学AI市場はMicrosoft ResearchやGoogle DeepMindも注力する高付加価値領域で、研究者の生産性を10倍にするとの期待がバイオテック・製薬業界に広まっている。\n💡 投資含意: 創薬・バイオ向けAIエージェントは研究費効率化と発見サイクル短縮で莫大な価値を生む可能性があり、製薬大手との長期契約につながりうる。\n🔗 波及: Claude CodeがAI開発者市場を席巻したように、Claude Scienceが科学研究市場でのAnthropicのシェア拡大の起点になりうる。競合（OpenAI o3、Gemini Advanced）も科学特化機能を強化中。\n📈 関連銘柄: Anthropic（非上場）、AMZN（主要投資家）、REGN・MRK・EXAS（創薬AI受益）\n⚖️ 強気/弱気: 強気 — 製薬・バイオ向けAIエージェントの新市場開拓\n📅 次の注目: Claude Scienceの正式公開と早期アクセスパートナー（製薬・バイオ企業）の発表",
+    "created_at": "2026-07-01T22:31:11.914Z"
+  },
+  {
+    "date": "2026-07-01",
+    "category": "ai",
+    "source": "MIT Tech Review AI",
+    "title_ja": "LLMの「集団思考」問題——あるスタートアップが多様性欠如の解決に挑む",
+    "title_en": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+    "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+    "summary": "大規模言語モデル（LLM）が画一的な回答に収束してしまう「集団思考（groupthink）」の問題に取り組むスタートアップをMIT Technology Reviewが紹介した。\n「1から10のランダムな数字を答えて」と主要LLMに問うと、ほぼ必ず7が返ってくるという事例が象徴するように、現在のLLMは多様な視点や応答を生成する能力が著しく低い。\nこの均一性は、複数のモデルが同じ大規模データセットで学習されることに起因しており、マーケティング・創造的ライティング・投資リサーチなど多角的視点を求める用途で致命的な欠点となる。\nあるスタートアップがこの問題の解決策を開発しているとのことだが、具体的なアプローチはRSSの範囲では不明（本文は有料）。\n💡 投資含意: LLM出力の多様性・予測不可能性を高める技術は、戦略立案・法務・投資リサーチ等の高付加価値エンタープライズ用途で差別化要素になりうる。\n🔗 波及: AI出力の均一性への懸念が高まると、評価指標・レッドチーミング・adversarial testingの市場が拡大する。\n📈 関連銘柄: Anthropic（Claude）、MSFT（Copilot）、GOOG（Gemini）— LLMプラットフォーム全体の品質課題として影響\n⚖️ 強気/弱気: 中立 — 問題提起の段階。解決策の実効性は未確認\n📅 次の注目: このスタートアップの資金調達公表と大手LLMプロバイダーの対応策",
+    "created_at": "2026-07-01T22:31:11.914Z"
+  },
+  {
+    "date": "2026-07-01",
+    "category": "economy",
+    "source": "CNBC Markets",
+    "title_ja": "6月民間雇用は9.8万人増で予想下回る——教育・医療が牽引もレジャー低迷、明日の雇用統計に注目",
+    "title_en": "Private payrolls rose by 98,000 in June, less than expected, ADP reports",
+    "url": "https://www.cnbc.com/2026/07/01/private-payrolls-rose-by-98000-in-june-less-than-expected-adp-reports.html",
+    "summary": "ADPが6月の民間雇用者数の増加が9万8,000人に留まり、5月の12万2,000人から減速し市場予想（11万人）も下回ったと報告した。\n業種別では教育・ヘルスケアが約半数（4万8,000人）を占め、サービスが残りほぼ全体を主導した。天然資源・鉱業は5,000人減（唯一のマイナス）、レジャー・ホスピタリティは2,000人増にとどまった。\n在職者の賃金上昇率は4.4%横ばい、転職者は6.6%で安定。小規模企業（50人以下）が5万3,000人と雇用の過半を牽引した。\nADP経済学者Nela Richardsonは「雇用者側の需要減と労働力供給制約の双方が混在しており、全体的に雇用創出が減速している」と述べた。\nこの結果は翌木曜日（7月3日）の非農業部門雇用統計（BLS）の前哨戦で、市場コンセンサスは11万5,000人増・失業率4.3%維持・時間給+0.3%（前月比）を見込む。\n💡 投資含意: 雇用の鈍化は利上げ観測を若干和らげる可能性があるが、ウォーシュFRB議長がインフレ抑制優先を明言している中では主要な利下げ根拠にはなりにくい。\n🔗 波及: レジャー・ホスピタリティの低迷は消費関連株（カード・小売）への下押し要因。ヘルスケア雇用の強さは医療サービス・人材派遣関連への追い風。\n📈 関連銘柄: SPY（S&P500）、TLT（長期国債）、UNH・HCA（ヘルスケア）\n⚖️ 強気/弱気: 中立 — 予想以下の雇用は利上げ圧力を若干緩和するが、インフレが主役の相場では主要因にならない\n📅 次の注目: 7月3日（木）の6月非農業部門雇用統計（BLS）と失業率・時間給の数値",
+    "created_at": "2026-07-01T22:31:11.914Z"
+  },
+  {
+    "date": "2026-07-01",
+    "category": "economy",
+    "source": "Financial Times",
+    "title_ja": "大型M&A主導でH1グローバル取引規模が2.8兆ドルの記録に——AI主導の産業再編が背景",
+    "title_en": "Mega takeovers drive record $2.8tn in dealmaking",
+    "url": "https://www.ft.com/content/000d10d6-cdfb-4110-9c6b-a5cd133b7a0f",
+    "summary": "大型買収案件（メガディール）が牽引する形で、2026年上半期のグローバルM&A取引規模が2.8兆ドルと記録的水準に達したとFinancial Timesが報じた。\n企業と投資家がAIの台頭による経済変革に適応しようと積極的にM&Aを活用していることが背景にある。テクノロジー・ヘルスケア・エネルギー分野を中心に大型取引が相次いでいるとみられる。\n本文は有料のため個別案件や業種別内訳の詳細はRSSの範囲では不明。ただしAI時代の産業地図の塗り替えを見越した戦略的買収が主なドライバーとの見方が一般的だ。\nM&Aブームは投資銀行業務の復活を意味し、2022〜2024年の金利高騰期に低迷していたGS・MS・JPMのM&Aアドバイザリー収益が回復局面にある。\n💡 投資含意: M&Aブームは投資銀行・PEの収益を押し上げる。被買収候補へのプレミアム期待が市場全体の株価底上げ効果をもたらすケースも多い。\n🔗 波及: AIによる産業地図の塗り替えが進む中、大企業による技術スタートアップの戦略的買収が続く見込み。PE主導のLBOも金利低下で再活性化している。\n📈 関連銘柄: GS（Goldman Sachs）、MS（Morgan Stanley）、JPM、KKR・BX（PE）\n⚖️ 強気/弱気: 強気 — M&A活況は金融株全般とM&A対象セクターへの強気材料\n📅 次の注目: H2 2026のM&Aパイプラインと金利動向が大型LBO実現可能性に与える影響",
+    "created_at": "2026-07-01T22:31:11.914Z"
+  },
+  {
+    "date": "2026-07-01",
+    "category": "economy",
+    "source": "Financial Times",
+    "title_ja": "ユーロ圏6月インフレ、予想以上に低下し2.8%——ECB目標は4ヵ月連続超過",
+    "title_en": "Eurozone inflation falls more than expected to 2.8% in June",
+    "url": "https://www.ft.com/content/c4408588-ca9c-4c9f-b058-c8e2d0cc39e5",
+    "summary": "ユーロ圏の6月インフレ率が2.8%と市場予想を上回る低下率を示したとFinancial Timesが報じた。ただし欧州中央銀行（ECB）の目標である2%は4ヵ月連続で超過したままだ。\nエネルギー価格の下落（イラン和平合意後の油価低下が一因とみられる）がインフレ鈍化を後押しした可能性が高い。本文は有料のため内訳・詳細はRSSの範囲では不明。\nECBは2026年に入り複数回の利下げを実施してきた。今回の予想以上の低下は追加利下げの余地を高め、秋以降の政策決定に向けたシグナルとして注目される。\n一方米国では同時期にウォーシュFRB議長がインフレ抑制優先・利上げ観測を示しており、「ECB緩和継続・Fed引き締め維持」のデカップリングが進む可能性が浮上している。\n💡 投資含意: ユーロ圏インフレ鈍化はECBの追加利下げ余地を高め、欧州株・欧州高配当株・ユーロ建て債券のパフォーマンスに追い風となりうる。\n🔗 波及: 欧米中央銀行のデカップリングが進むとドル高・ユーロ安が進み、欧州輸出企業に有利、米国輸入物価には下押し効果が生じる。\n📈 関連銘柄: EZU（ユーロ圏ETF）、SAP・ASML（欧州テック）、EWG（ドイツETF）\n⚖️ 強気/弱気: 強気（欧州株・ユーロ圏緩和継続で株価下支え）\n📅 次の注目: ECB次回政策会議での利下げ有無と7月のユーロ圏PMI",
+    "created_at": "2026-07-01T22:31:11.914Z"
+  },
+  {
+    "date": "2026-07-01",
+    "category": "economy",
+    "source": "Financial Times",
+    "title_ja": "FedExが物流部門をフランスCMA CGMに14億ドルで売却——コアの宅配事業に集中へ",
+    "title_en": "FedEx strikes $1.4bn deal to sell logistics unit to CMA CGM",
+    "url": "https://www.ft.com/content/f4a8e4b2-5dcf-47b4-97a5-ec6a2a8a97f5",
+    "summary": "FedExがフランスの海運大手CMA CGMにFedEx Logistics（物流部門）を14億ドルで売却することで合意したとFinancial Timesが報じた。\nCMA CGMは米国内の物流ネットワーク強化とサプライチェーンの川下（ラストマイル）への垂直統合を目指している。FedEx側は物流事業を切り離してコアの宅配・エクスプレス事業への集中を強める戦略的リストラクチャリングの一環だ。\n本文は有料のため具体的な事業規模・従業員数・完了タイムラインはRSSの範囲では不明。ただし「海運→倉庫→ラストマイル配送」の一貫サービスを目指すCMA CGMの戦略は明確で、欧米の大手海運企業による川下統合の波を体現する動きだ。\nFedExは近年、事業のシンプル化（FedEx Ground・FedExExpress統合等）を継続的に推進しており、今回の売却もその一環として市場に好意的に受け取られる可能性がある。\n💡 投資含意: FedExの事業シンプル化はコスト構造改善とEPS押し上げにつながる可能性がある。一方CMA CGMのサプライチェーン一貫化は対米輸出入コスト効率を高める。\n🔗 波及: 「通関→海運→倉庫→宅配」の一貫サービスが強化されると、断片的な物流企業の競争上の不利が増す。\n📈 関連銘柄: FDX（FedEx）、UPS（競合）\n⚖️ 強気/弱気: 強気（FDX・事業シンプル化）/中立（UPS・直接影響は小さい）\n📅 次の注目: 取引完了タイムライン（規制承認）とFedExの次期中期戦略の発表",
+    "created_at": "2026-07-01T22:31:11.914Z"
+  },
+  {
+    "date": "2026-07-01",
+    "category": "economy",
+    "source": "NYT Business",
+    "title_ja": "Micronがトランプ政権の新型投資口座「Trumpアカウント」に2億5,000万ドルを拠出",
+    "title_en": "Trump Accounts to Receive $250 Million Donation From Chip Maker Micron",
+    "url": "https://www.nytimes.com/2026/07/01/business/economy/micron-250-million-dollars-trump-accounts.html",
+    "summary": "半導体大手Micronが、トランプ政権が新設した新型投資口座「Trumpアカウント」に2億5,000万ドルを拠出することをトランプ大統領が発表したとNYT Businessが報じた。\n「Trumpアカウント」はトランプ政権が創設した新たな投資口座の一形態とされるが、詳細な制度設計・資金用途・規制の枠組みはRSSの範囲では不明（本文は有料）。\nMicronはCHIPS法の恩恵を受けており、米国内の半導体工場建設に巨額投資を行っている。この拠出が政策面での優遇を念頭に置いた戦略的判断である可能性は排除できないが、確認はできない。\n同日に公表されたトランプ大統領の財産申告書（仮想通貨から12億ドル）と合わせて読むと、企業と政権の距離感・利益相反への懸念が高まる文脈となっている。\n💡 投資含意: 企業の大規模な政治的拠出が規制上の恩恵（CHIPS補助金・輸出許可）と結びついているとの認識が広がると、ESG投資家や長期機関投資家の懸念材料となりうる。\n🔗 波及: 類似の拠出が他の半導体・テック大企業にも求められる場合、意図せぬ資本配分の歪みとなる可能性。CHIPS法の運用透明性への注目が高まる。\n📈 関連銘柄: MU（Micron）、INTC（Intel・同様のCHIPS補助金受益）、NVDA\n⚖️ 強気/弱気: 中立〜弱気 — ガバナンスリスクとして受け取られる可能性があり、機関投資家の懸念材料\n📅 次の注目: Trumpアカウントの制度詳細の公開と類似の企業拠出がどこまで広がるか",
+    "created_at": "2026-07-01T22:31:11.914Z"
+  },
+  {
+    "date": "2026-07-01",
+    "category": "politics",
+    "source": "The Hill",
+    "title_ja": "エネルギー省、ヒートドームで中大西洋電力網に緊急命令——環境規制を一時停止し化石燃料増強",
+    "title_en": "Energy Department issues emergency orders for mid-Atlantic power grid amid heat wave",
+    "url": "https://thehill.com/policy/energy-environment/5950278-heatdome-energy-power-grid/",
+    "summary": "米エネルギー省のクリス・ライト長官が、中大西洋岸を管轄するグリッドオペレーターPJMに対して緊急命令を発令した。記録的なヒートドームによる電力需要急増への対応として、通常時の環境規制を一時停止し化石燃料発電所からの追加供給を増やすよう指示した内容だ。\nPJMはこの夏の電力不足の可能性を警告しており、トランプ政権のエネルギー政策（化石燃料優先）の実践的な発現として読み解ける。\nRSSの範囲では具体的な電力不足の規模・対象発電所の詳細は不明（The Hillへのアクセス不可）。ただし、AIデータセンターの急拡大による構造的な電力需要増大と夏季ピーク需要が重なっている点は中期的な電力インフラ問題として重要だ。\nグリッドの脆弱性が顕在化するたびに電力インフラ投資の必要性が確認され、発電・送電・蓄電いずれの分野でも設備投資需要が高まる構造になっている。\n💡 投資含意: グリッド緊急命令はAI・データセンター電力需要増と合わせて電力インフラへの長期的な投資需要を示す。天然ガス・石炭発電所の稼働延長が一時的に起きうる。\n🔗 波及: 再エネ企業にとっては短期逆風（化石燃料が優遇）だが、中長期的には電力需要拡大が再エネ増設の理由にもなる二面性がある。\n📈 関連銘柄: VST（Vistra・テキサス/PJM電力）、NRG、CEG（Constellation Energy）、NEE（NextEra）\n⚖️ 強気/弱気: 強気（化石燃料・電力インフラ短期）/弱気（再エネ・環境政策期待）\n📅 次の注目: ヒートドームの収束と夏後半の電力需要水準、PJM容量市場での入札動向",
+    "created_at": "2026-07-01T22:31:11.914Z"
+  },
+  {
+    "date": "2026-07-01",
+    "category": "politics",
+    "source": "The Hill",
+    "title_ja": "ゼレンスキー、ロシアの大規模攻撃を警告——モスクワ通信センターへのドローン攻撃直後に発言",
+    "title_en": "Zelensky warns of massive Russian strike planned for Ukraine",
+    "url": "https://thehill.com/policy/international/5950142-ukraine-russia-attack-zelensky-putin/",
+    "summary": "ウクライナのゼレンスキー大統領が、ロシアによる大規模攻撃の準備が進んでいると警告した。ロシア軍によるモスクワ中心部の主要通信センターへのドローン攻撃の直後に発言した。\n「プーチンがウクライナへの大規模攻撃を相当前から準備していることを我々は把握している」とゼレンスキーはソーシャルメディアに投稿した。停戦交渉が並行して進む中での警告は、地政学的緊張の再燃を示すものとして国際社会に緊張を走らせている。\nRSSの情報の範囲では攻撃の具体的な規模・時期・手段については詳細不明（The Hillへのアクセス不可）。ただし直近の一時的な和平合意（イラン停戦後）で緩和していた地政学リスクが再び高まる局面になりつつある。\n欧州防衛支出はウクライナ紛争の長期化を受けGDP比2%超へ急増しており、防衛テック・エネルギー安全保障・穀物価格への影響が継続して読み取られる。\n💡 投資含意: ロシア・ウクライナ紛争の再激化懸念は欧州防衛支出をさらに刺激し、防衛関連株・LNG・農産物価格に影響を与えうる。\n🔗 波及: 欧州のエネルギー安全保障（LNG・再エネ）への投資継続が正当化される。ウクライナ復興需要（建設・重機）への長期的な関心も継続する。\n📈 関連銘柄: LMT（Lockheed Martin）、RTX（Raytheon）、NOC（Northrop Grumman）、RWE（欧州エネルギー）\n⚖️ 強気/弱気: 弱気（地政学リスク全般）/強気（防衛・エネルギー）\n📅 次の注目: ロシアによる大規模攻撃の実施有無と停戦交渉への影響",
+    "created_at": "2026-07-01T22:31:11.914Z"
+  },
+  {
+    "date": "2026-07-01",
+    "category": "politics",
+    "source": "PBS Politics",
+    "title_ja": "ウォーシュFRB議長、インフレ抑制最優先を確言——トランプ氏の利下げ要求に応じない姿勢を鮮明に",
+    "title_en": "Federal Reserve Chair Warsh emphasizes political independence, signals focus on inflation",
+    "url": "https://www.pbs.org/newshour/economy/federal-reserve-chair-warsh-emphasizes-political-independence-signals-focus-on-inflation",
+    "summary": "新連邦準備制度理事会議長のケビン・ウォーシュ氏がポルトガルのシントラで開催された中央銀行会議で発言し、インフレ抑制を最優先とし政治的独立を維持する姿勢を明確にした。\n「インフレが2%を上回ることを容認するとはなからないと思うなら、それは失望させることになる。物価安定を実現する」と述べ、トランプ大統領が繰り返す利下げ要求に応じない意向を示した。「FRBは非常に長い間独立した中央銀行だった。この瞬間もそうあり続け、変化はない」とも強調した。\n5月22日に就任したウォーシュ議長は就任前に低金利支持を主張して政権に重用されたが、就任後は一転してインフレ重視・独立志向を示している。インフレは5月に3年ぶり高水準4.2%（イラン戦争の石油価格押し上げ）に達したが、和平後のエネルギー価格下落で鈍化の可能性も出てきた。\nウォール街は9月の利上げ（現在3.6%→3.9%）を一部織り込んでいるが、ウォーシュ議長は「戦術・戦略はこれから」と言及を避けた。AI投資が短期的にはインフラコスト上昇でインフレ要因になっているとも認め、5つのタスクフォースを設置してAIの生産性・インフレへの影響を研究中と述べた。\n翌木曜日の6月雇用統計（市場予想11.5万人増・失業率4.3%）がFedの次の一手を占う材料となる。\n💡 投資含意: Fed独立維持姿勢は「政治的利下げ圧力→利下げ」シナリオを排除し、金利環境の不確実性が続く。成長株・高PER銘柄には逆風。\n🔗 波及: 9月利上げ観測の高まりはドル高・新興国通貨安・米国債利回り上昇を通じてグローバルな資本フローに影響する。\n📈 関連銘柄: TLT（長期米国債・利上げ観測で下落）、GLD（ゴールド）、バリュー株全般\n⚖️ 強気/弱気: 中立〜弱気（成長株・高PER）— 利上げ観測継続が重し\n📅 次の注目: 7月3日（木）の6月非農業部門雇用統計と9月FOMCでの利上げ有無",
+    "created_at": "2026-07-01T22:31:11.914Z"
+  },
+  {
+    "date": "2026-07-01",
+    "category": "politics",
+    "source": "PBS Politics",
+    "title_ja": "トランプ大統領の昨年の仮想通貨収入が12億ドル——投資家に損失をもたらしながら個人は巨額利益",
+    "title_en": "Trump took in about $1.2 billion from crypto businesses last year, financial disclosure shows",
+    "url": "https://www.pbs.org/newshour/politics/trump-took-in-about-1-2-billion-from-crypto-businesses-last-year-financial-disclosure-shows",
+    "summary": "トランプ大統領の年次財産申告書（927ページ）が公開され、昨年1年間で仮想通貨事業から約12億ドルを得ていたことが明らかになった。\n内訳はWorld Liberty Financial（ガバナンストークン販売）からの5億ドル超と、CIC Digital LLC（顔写真入りミームコイン）から6億ドル超。買った投資家はその後大幅損失を被っており、ミームコインは最高値74ドルから現在1.68ドルへ急落。World Liberty Financial のトークンも最初の取引開始から80%値下がりしている。\n不動産事業も海外展開で急拡大しており、UAE（1,040万ドル）・サウジアラビア（900万ドル）・カタール（500万ドル）・ベトナム（500万ドル）等から収益を得ている。これらの国の多くが同期間に関税優遇・軍事支援・先端技術アクセス等の政策上の恩恵を受けており、利益相反問題として浮上している。Mar-a-Lagoの収益も前年比50%増（7,700万ドル）となり、Forbes推定純資産は24億ドルから60億ドルに急増した。\n仮想通貨に友好的な規制環境整備と大統領個人の仮想通貨収益が時系列で重なっており、規制の信頼性・中立性への疑念が高まっている。\n💡 投資含意: 大統領個人の仮想通貨利益と規制緩和政策が紐付いているという認識が広がると、機関投資家の暗号資産に対するガバナンスリスクの評価が変わりうる。\n🔗 波及: 議会でのSEC・CFTC暗号資産規制の信頼性を巡る公聴会・調査が強まる見込み。規制環境の予測可能性が低下すれば暗号資産業界全体の不確実性が増す。\n📈 関連銘柄: COIN（Coinbase）、MSTR（Microstrategy）、BTC（暗号資産全体のセンチメント）\n⚖️ 強気/弱気: 中立（短期）/弱気（長期）— 規制の信頼性低下が機関投資家の参入障壁となりうる\n📅 次の注目: 議会公聴会での利益相反調査の展開とSEC・CFTC次期規制方針",
+    "created_at": "2026-07-01T22:31:11.914Z"
+  },
+  {
+    "date": "2026-07-01",
+    "category": "politics",
+    "source": "PBS Politics",
+    "title_ja": "USMCA更新交渉が難航——米国は50%国内製造要件を要求、カナダ・メキシコは拒否",
+    "title_en": "U.S., Canada and Mexico begin bumpy negotiations to renew North American trade pact",
+    "url": "https://www.pbs.org/newshour/world/u-s-canada-and-mexico-begin-bumpy-negotiations-to-renew-north-american-trade-pact",
+    "summary": "USMCA（米国・メキシコ・カナダ協定）の6年更新期限（7月1日）を迎えたが、米国は「現状維持での更新」を拒否し、貿易赤字削減と自動車製造要件の大幅改定を求める協議が始まった。\n最大の争点は米国が求める「自動車の50%を米国内で製造すること」という新要件で、カナダとメキシコは「レッドライン（絶対に受け入れられない条件）」として明確に拒否している。現行の輸入自動車でこの基準を満たすのは5台に1台にすぎないとCoface経済学者は試算する。\n米国とカナダの間では2国間交渉すら始まっておらず、「米・墨が合意後にカナダに『これを飲め』と迫る構図」（元米通商交渉官）になりかねないとの懸念が浮上している。\nUSMCAは2036年まで有効で、その間に合意できなければ失効する。ただしどの国も6ヵ月の予告で脱退できるため、トランプ大統領が「自分の協定を更新しない」との発言と合わせて緊張が続いている。\n自動車（Ford Maverick・Chevy Equinox等のメキシコ生産モデル）は5〜7%の価格上昇が試算される一方、日々5億ドルの貿易が行われる北米サプライチェーン全体への不確実性は極めて大きい。\n💡 投資含意: USMCA再交渉の長期化は北米製造業・自動車の不確実性を高め、サプライチェーン再構築コストが業績に影響する。輸入車価格上昇は米国内製造・EV（TSLA等）に追い風。\n🔗 波及: 関税・輸入車コスト上昇→国内製造回帰→設備投資・工場建設ブーム→建設・重機・産業機械需要。農業（乳製品）・エネルギー分野でも個別争点が継続する。\n📈 関連銘柄: F（Ford）、GM、TSLA（国内製造で有利）、HON・CAT（工場建設関連）\n⚖️ 強気/弱気: 弱気（USMCA合意失敗リスク時の自動車・農業）/強気（米国内製造・TSLA・国内製造コンポーネント）\n📅 次の注目: 次回の3ヵ国交渉日程と自動車製造要件の妥協案の出現",
+    "created_at": "2026-07-01T22:31:11.914Z"
+  },
+  {
+    "date": "2026-07-01",
+    "category": "robotics",
+    "source": "NVIDIA Robotics",
+    "title_ja": "NVIDIA Isaac ROSを率いるエンジニアが語るオープンソース戦略——「ロボット開発者全員を仲間にする」",
+    "title_en": "How Jaiveer Singh Is Helping Robots — and Developers — Move Faster",
+    "url": "https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/",
+    "summary": "NVIDIAのロボティクスソフトウェアエンジニアリングチームを率いるJaiveer SinghがIsaac ROSとオープンソース戦略の意義について語った。\nIsaac ROSはROS 2フレームワーク上にCUDAアクセラレートされたライブラリとAIモデルを組み合わせたNVIDIAの物理AI向けミドルウェアで、自律移動ロボット・マニピュレーション・ヒューマノイドまで幅広く対応している。\nインターン時代のプロジェクトとして始まったIsaac ROSは「オープンソース化によってGPUの全能力を開放した」ことが開発者コミュニティでの爆発的採用につながったとSinghは語る。\nJetsonエッジシステムからDGX Sparkワークステーションまでシームレスに動作し、「LEGO的」なモジュール設計が既存のROS2コードとの組み合わせを容易にしている。\n「NVIDIAはロボティクスを他の誰も重要と思っていない時代から取り組んでいた」という言葉は、ロボティクスエコシステムにおける同社の長期的な先行者優位を端的に示す。\n💡 投資含意: NVIDIA Isaac ROSのエコシステム拡大はJetson・DGX Spark・NVIDIAクラウドの採用増加につながり、ロボティクス向け半導体・インフラ需要を下支えする。\n🔗 波及: オープンソースロボティクススタックのデファクト標準化はロック効果を生み、後続のAI・センサー製品のNVIDIA基盤への統合を促進する。\n📈 関連銘柄: NVDA（Isaac ROS・Jetson・DGXの収益）\n⚖️ 強気/弱気: 強気 — ロボティクスOS分野でのNVIDIAの生態系構築が先行者優位を確立\n📅 次の注目: Isaac ROS上に構築されたヒューマノイド・自律ロボット企業の商業展開件数",
+    "created_at": "2026-07-01T22:31:11.914Z"
+  },
+  {
+    "date": "2026-07-01",
+    "category": "robotics",
+    "source": "The Robot Report",
+    "title_ja": "Apptronik、「Apollo 2」発表と8,360㎡のデータ収集施設「Robot Park」を開設——Google DeepMindと連携",
+    "title_en": "Apptronik unveils Apollo 2 and a flagship data collection and training facility",
+    "url": "https://www.therobotreport.com/apptronik-unveils-apollo-2-flagship-data-collection-training-facility/",
+    "summary": "ApptronikがヒューマノイドロボットApollo 2を発表し、同時にテキサス州オースティンに約8,360㎡のデータ収集・学習施設「Robot Park」を開設した。\nApollo 2は2脚型と車輪ベース型の2コンフィグレーションを持ち、Google DeepMindとの研究パートナーシップのもと収集したデータがGemini Roboticsファウンデーションモデルの学習に直接供給される仕組みを構築している。\n総資金調達額は約10億ドル（直近の5.2億ドル調達含む）に達し、Mercedes-Benz・GXO（物流）がカスタマーとして参加。Robot Parkは物流・製造・小売等の顧客ユースケースをカバーする。\nApollo 2で学習した知見をApollo 3の商業製品開発に直接接続する「展開→データ収集→学習→改善→再展開」の継続的ループが確立されており、開発コスト低減とロボット知能の加速的向上が見込まれる。\nNASAのValkyrie開発から始まった15台以上のロボット開発経験を持つ約300人規模のチームが支える技術基盤は、業界でも屈指の深さだ。\n💡 投資含意: 「Robot Parkでの実世界データ収集→Gemini Roboticsモデル改善」ループはヒューマノイドロボット開発コストを継続的に低下させる。Google DeepMindへのデータ供給元として戦略的価値が高い。\n🔗 波及: Google DeepMindとのパートナーシップはGOOGLにロボティクスデータ面での優位性をもたらし、NVDA Isaac Labsとの競争を激化させる可能性。\n📈 関連銘柄: GOOGL（Gemini Robotics）、NVDA（競合基盤）、Mercedes-Benz（顧客）\n⚖️ 強気/弱気: 強気 — 実世界データ収集規模と学習ループの確立がヒューマノイド商業化を加速\n📅 次の注目: Apollo 3の商業化タイムラインとRobot Park拡張計画の詳細",
+    "created_at": "2026-07-01T22:31:11.914Z"
+  },
+  {
+    "date": "2026-07-01",
+    "category": "robotics",
+    "source": "The Robot Report",
+    "title_ja": "屋外・産業ロボット普及で「耐環境設計」が必須要件に——充電インフラが盲点",
+    "title_en": "In Robotics, Ruggedization Is No Longer Optional",
+    "url": "https://www.therobotreport.com/in-robotics-ruggedization-is-no-longer-optional/",
+    "summary": "自律移動ロボットの展開環境が「制御された倉庫・工場」を超えて屋外・建設・農業・物流ヤードへと広がるにつれ、粉塵・水分・温度変動・振動への耐性設計が必須要件として浮上している。\nかつて軍・鉱業・特殊産業機械向けだった「ラゲダイズ（耐環境）設計」が今や民間の自律移動ロボット製品に求められるようになっており、ロボット本体だけでなく充電インフラも同等の耐環境性が必要だ。\n特に見落とされやすいのが充電システムで、外部環境への暴露により障害が生じると稼働率全体が低下する。IP65以上の防塵防水対応充電器・ワイヤレス充電・リモート監視・バッテリー管理の統合が競争優位の鍵になりつつある。\n稼働時間延長（1日あたりの利用率向上）・メンテナンス工数削減・充電インフラの柔軟な配置という3点が、屋外ロボット普及の核心的な課題として整理される。\n💡 投資含意: 屋外ロボット普及は本体ハードだけでなく、耐環境充電・電源管理・リモート監視インフラの新市場を開拓する。本体と同等規模の付帯市場が生まれる可能性。\n🔗 波及: ロボット展開環境の拡大はIP65以上の防塵防水対応部品・センサー・電源管理のサプライチェーン需要を高め、コンポーネント専門メーカーに恩恵をもたらす。\n📈 関連銘柄: NVDA（ロボティクスAI基盤）、ABB・KUKA（産業ロボット）\n⚖️ 強気/弱気: 強気 — 屋外・産業ロボット展開の増加は市場拡大を意味する\n📅 次の注目: 屋外・半構造化環境向けロボット大型受注案件と関連インフラ企業への投資動向",
+    "created_at": "2026-07-01T22:31:11.914Z"
+  },
+  {
+    "date": "2026-07-01",
+    "category": "robotics",
+    "source": "The Robot Report",
+    "title_ja": "ロボット薬局スタートアップ「Queue」がステルスから登場——薬剤師不要で96%コスト削減、シード1,260万ドル",
+    "title_en": "Queue raises funding to build fully autonomous pharmacy",
+    "url": "https://www.therobotreport.com/queue-raises-funding-fully-autonomous-pharmacy/",
+    "summary": "ロボティクス・スタートアップQueueがステルスから抜け出し、完全自律型調剤ロボットシステムと1,260万ドルのシードラウンド（AlleyCorp主導）を同時発表した。\nQueueのシステムは薬剤師なしで密閉された薬瓶から処方薬を自動調剤・確認でき、30秒で60錠バイアルを充填、従来の薬局運営比96%のコスト削減を謳う。米国で最も処方される280薬品に対応している。\n背景には深刻な薬剤師・薬局技師不足（空き率40%超）と採算割れによる薬局閉鎖の激化があり、2010年以降で3件に1件の薬局が閉店して「薬局砂漠」が拡大している。670億ドル規模の小売薬局市場が構造的危機に直面している状況だ。\nCEO Nick Desaiは訪問医療スタートアップHeal（2億ドル超調達）出身、CTO Josh LiuはTesla・Zipline経験者で、大手全国薬局チェーン1社をすでに顧客として確保し実証機を展開済み。\nAlleyCorp主導のシードに続きRiot Venturesが参加、総調達額は1,860万ドルに達した。\n💡 投資含意: 薬局ロボティクスは労働力問題を根本解決しうる規模とスピードを持ち、ヘルスケアロボティクスの中でも商業化進度が高い。CVS・Walgreens等の大手との協業で急拡大の可能性。\n🔗 波及: CVS Health・Walgreens等の大手薬局チェーンが採用すると薬局スタッフの大幅削減と収益構造改善が起きる一方、人材派遣・薬局技師職への影響が生じる。\n📈 関連銘柄: CVS、WBA（Walgreens）、GDRX（薬価プラットフォーム）\n⚖️ 強気/弱気: 強気（薬局ロボティクス）/弱気（既存薬局スタッフ関連業務）\n📅 次の注目: 大手薬局チェーンとの商業展開規模の公表とFDA規制対応状況",
+    "created_at": "2026-07-01T22:31:11.914Z"
+  },
+  {
+    "date": "2026-07-01",
+    "category": "robotics",
+    "source": "The Robot Report",
+    "title_ja": "2026年6月ロボティクス総括——ヒューマノイド上場・大型調達・生産マイルストーンが相次ぐ",
+    "title_en": "Top 10 robotics developments of June 2026",
+    "url": "https://www.therobotreport.com/top-10-robotic-stories-june-2026/",
+    "summary": "The Robot Reportが2026年6月のロボティクス主要出来事トップ10をまとめた。ヒューマノイドロボット分野が6月の最大テーマで、上場・新展開・生産マイルストーン・大型資金調達が相次いだ。\n主要トピックは以下の通り：NVIDIAがGTC TaipeiとComputexで物理AI開発用のオープンソースツール群を公開。AGIBOTがバッチ生産から大規模展開フェーズへ移行。Standard BotsがシリーズCで10億ドル評価額達成（ニューヨーク製造拠点拡大）。Agility RoboticsがSPAC（Churchill Capital XI）との合併を発表し「米国唯一の純粋ヒューマノイド上場企業」となる予定。NEURAロボティクスがシリーズCで最大14億ドル規模を目指す。BMWがFigure.AIのFigure 03をスパルタンバーグ工場に追加採用（Figure 02の成功後）。General IntuitionがシリーズA調達。Collaborative Roboticsが第2世代Proxieモバイルロボットを公開。\n6月1ヵ月だけでこれだけのイベントが集中したことは、ヒューマノイドロボット産業が「実証・研究フェーズ」から「量産・商業展開フェーズ」へ移行した証左だ。\n💡 投資含意: ヒューマノイドロボットの生産規模拡大と大手製造業への展開加速は、アクチュエータ・センサー・エッジAI半導体のサプライチェーン全体への需要を示す。\n🔗 波及: Agility Robotics上場で「純粋ヒューマノイド株」への直接投資が可能になり、評価額プレミアムがつく可能性。BMWのFigure採用は他欧州自動車メーカーへの波及を示唆する。\n📈 関連銘柄: NVDA（Isaac ROS・Omniverse）、TSLA（Optimus競合）、ABB・FANUC（産業ロボット）、Agility Robotics（SPAC上場後）\n⚖️ 強気/弱気: 強気 — ヒューマノイドロボット産業の商業化ステージへの移行が確認\n📅 次の注目: Agility Robotics・SPAC合併完了と最初のヒューマノイド上場銘柄のバリュエーション動向",
+    "created_at": "2026-07-01T22:31:11.914Z"
+  },
+  {
+    "date": "2026-07-01",
+    "category": "technology",
+    "source": "TechCrunch",
+    "title_ja": "米国がAnthropicのMythos・Fableへの輸出規制を解除——7月1日からアクセス回復",
+    "title_en": "Trump drops restrictions on Anthropic's Mythos and Fable models",
+    "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+    "summary": "米商務省がAnthropicのMythosおよびFableモデルへの輸出規制を解除し、7月1日から海外ユーザーへのアクセスを段階的に回復させると発表した。\n6月12日に輸出規制リストに加えられた両モデルは、外国人への提供に特別許可が必要となり事実上の公開停止に追い込まれていたが、AnthropicがHoward Lutnick商務長官に「セキュリティリスクの積極的な検知・対処」「米政府とのプロトコル策定協力」「悪意ある活動の報告」を約束したことで解除された。\n背景には、アジア系AI企業（Fugu・Tulong Fengなど）がMythosクラスの性能に肉薄するモデルを相次いでリリースし、輸出規制が米国AIの国際競争力を損なうとの危機感が政府内で高まったことがある。\nサイバーセキュリティ専門家からは「規制は安全策というより政権批判的なAnthropicへの圧力だった」との見方もあり、今回の解除でその見方が補強された。将来モデルリリース時の政府審査プロセスは依然として不透明なままで、業界全体に計画立案の難しさが残る。\n💡 投資含意: 輸出規制解除でAnthropicはグローバルAPI収益機会を回復する。AMZN（主要投資家）に中期的な好材料。\n🔗 波及: トランプ政権のAI政策の場当たり的性格が浮き彫りに。今後の新モデルリリース時の規制リスクがAI企業全体の計画立案を難しくする。\n📈 関連銘柄: Anthropic（非上場）、AMZN（投資家・AWS）、MSFT（OpenAI等の並行した政策リスク）\n⚖️ 強気/弱気: 強気（Anthropic）— グローバルAPI復活。弱気（AI規制環境）— 政策の予測不可能性は継続\n📅 次の注目: Mythos・Fableの国際顧客への完全アクセス回復タイムラインと次回モデルリリース時の審査プロセス",
+    "created_at": "2026-07-01T22:31:11.914Z"
+  },
+  {
+    "date": "2026-07-01",
+    "category": "technology",
+    "source": "TechCrunch",
+    "title_ja": "Cloudflare、AI企業にクローラー分離を義務化——9月15日から広告掲載サイトをデフォルトでブロック",
+    "title_en": "Cloudflare's new policy pushes AI companies to pay for publishers' content",
+    "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+    "summary": "CDN大手Cloudflareが、AI企業に対して「検索用クローラー」と「AI学習・エージェント用クローラー」を分離することを義務付ける新ポリシーを発表した。2026年9月15日から、分離されていない「混合用途クローラー」は広告掲載サイトをデフォルトでブロックする。\n背景にはインターネットトラフィックの過半数がすでにボットに占められた（人間トラフィックを超えた）という現状があり、パブリッシャーが「コンテンツが無料でAI学習データに使われている」という問題が長年の課題だった。\nCloudflareはGoogleへの言及として「世界最大の検索エンジンが他のAI企業の2倍の情報にアクセスできている」と問題視した。GoogleのGooglebotはSearch・AI Overviewsなど複数目的に使われており、これがOthersとの非対称性を生んでいるとの指摘だ。\n「Pay Per Crawl（クロール当たり課金）」から「Pay Per Use（コンテンツが価値を生んだ時の課金）」への進化も発表。Ceramic.ai・You.comが初期パートナーで、パブリッシャーがコンテンツ活用に対して収益を得られる仕組みが整いつつある。AI企業にとって学習データアクセスのコスト増・制限の現実化を意味する。\n💡 投資含意: コンテンツ取得コストの上昇はAI訓練の費用構造を変え、パブリッシャーへの収益還元モデルを生む。CloudflareはAIエコシステムの審判役として課金できる新事業が生まれる。\n🔗 波及: OpenAI・Anthropic・Googleなどが独自のコンテンツ取得コストの増加か、パブリッシャーとのライセンス契約拡大かを迫られる。\n📈 関連銘柄: NET（Cloudflare・新ビジネスモデルの受益者）、GOOG（クローラー分離を迫られる）、NYT・メディア株（コンテンツ収益化の波及）\n⚖️ 強気/弱気: 強気（NET・パブリッシャー）/弱気（AI企業のデータ取得コスト）\n📅 次の注目: 9月15日施行後の主要AI企業の対応（クローラー分離・ライセンス契約）",
+    "created_at": "2026-07-01T22:31:11.914Z"
+  },
+  {
+    "date": "2026-07-01",
+    "category": "technology",
+    "source": "TechCrunch",
+    "title_ja": "MetaがAI余剰コンピュートを外販へ——SpaceXと同様にクラウド参入を計画",
+    "title_en": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+    "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+    "summary": "Metaが自社AIデータセンターの余剰コンピュートを外部に販売するクラウドインフラビジネス「Meta Compute」の立ち上げを計画していることがBloombergの報道で明らかになった。\nMetaは今後数年間でAIインフラに合計1,829億ドルをコミットしており、マンハッタン規模のオハイオデータセンターが今年中に稼働予定だが、自社AIサービス（Meta AI・Llama）から直接的な収益は依然不明確だ。\nCoreWeaveのモデルを模倣して「生の計算能力」を販売し、さらに非公開モデル「Muse Spark」を含む各種AIモデルをAWSのように提供することも検討中。SpaceX（xAI経由）がすでに余剰コンピュートビジネスでAnthropicやGoogleとリース契約を締結しており、Metaが続く形だ。\nMeta Computeはインフラ責任者Santosh Janardhan、Meta Superintelligence LabsリーダーDaniel Gross、Dina Powell McCormickが主導する。\n「AIレースの真の勝者はモデル・サービス提供者ではなくデータセンター所有者かもしれない」という示唆を、この動きは一層強める。\n💡 投資含意: MetaのクラウドAI参入は「AI三強（AWS・Azure・GCP）」の外に第4の大規模プレイヤーが出現することを意味し、AI推論コストの下落と競争激化をもたらしうる。\n🔗 波及: META株の評価が「ソーシャルメディア企業」からAIインフラ企業へと再構築される可能性。既存クラウド大手の利益率への圧縮リスク。\n📈 関連銘柄: META（新収益源・評価再構築）、AMZN（AWS・競合）、MSFT（Azure・競合）、NVDA（データセンター需要拡大）\n⚖️ 強気/弱気: 強気（META・NVDA）/弱気（クラウド大手のAI部門マージン）\n📅 次の注目: Meta Computeの正式発表と初期顧客・料金体系の詳細公開",
+    "created_at": "2026-07-01T22:31:11.914Z"
+  },
+  {
+    "date": "2026-07-01",
+    "category": "technology",
+    "source": "TechCrunch",
+    "title_ja": "AIネオクラウド「Together AI」がシリーズCで800M ドル調達、評価額83億ドルへ急上昇",
+    "title_en": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
+    "url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+    "summary": "NVIDIAのGPUクラスターを中心としたAIインフラをレンタル提供するネオクラウド企業Together AIが、シリーズCで8億ドルを調達し評価額が83億ドルに達した。\nAramco Venturesがリード、Vista Equity・General Catalyst・Emergence Capital・NVIDIA・March Capital・Pegatron・SentinelOne's S Venturesが参加した。前回シリーズB（3.05億ドル・33億ドル評価）から約16ヵ月で評価額を2.5倍に伸ばした形だ。\nTogether AIの直近四半期アニュアルブッキングは11.5億ドルを超えており、Cursor・Cognition・Decagonなど急成長AIスタートアップを主要顧客に持つ。\n企業がクローズドフロンティアモデルの高価格トークンに代わりオープンソースモデルをネオクラウド経由で使う動きが加速しており、業界全体でのオープンソースモデル利用が過去1年で3倍になったとTogether AIは述べる。Upscale AI（5億ドル）・TensorWave（3.5億ドル）など競合ネオクラウドも大型調達が相次いでいる。\n💡 投資含意: ネオクラウドの台頭はNVIDIA GPU需要を拡大させる一方、AWS・Azure・GCPのAI API価格に下押し圧力をかける。\n🔗 波及: AIインフラへのVC資金流入が継続しており、AIインフラバブルの懸念も並行して高まっている。\n📈 関連銘柄: NVDA（GPUインフラ需要の最大受益者）、AMZN・MSFT・GOOG（クラウド大手：競合圧力）\n⚖️ 強気/弱気: 強気（NVDA・GPU需要）/弱気（クラウド大手のAI API価格・マージン）\n📅 次の注目: Together AIのIPO計画の具体化と競合ネオクラウドとの統廃合動向",
+    "created_at": "2026-07-01T22:31:11.914Z"
+  },
+  {
+    "date": "2026-07-01",
+    "category": "technology",
+    "source": "CNBC Technology",
+    "title_ja": "Palo AltoとCrowdStrikeが史上最高のQ2記録——「Mythosモーメント」がサイバー需要を急増させる",
+    "title_en": "Palo Alto, CrowdStrike both have best quarter ever as AI threats bolster cyber demand",
+    "url": "https://www.cnbc.com/2026/06/30/palo-alto-crowdstrike-stock-ai-mythos.html",
+    "summary": "サイバーセキュリティ大手のPalo Alto Networks（PANW）とCrowdStrike（CRWD）がQ2において過去最高の四半期パフォーマンスを記録した。Palo Altoは+113%、CrowdStrikeは+95%とそれぞれ上場来最高の上昇率を達成した。\n需要急増の直接的な背景は「Mythosモーメント」——Mythosクラスのモデルがサイバー攻撃に活用され、脆弱性発見や大規模攻撃の自動化・高速化が可能になったことで、企業が防衛強化に迫られている。\nCrowdStrikeCEO George Kurtzは「Mythosが証明したのは世界がAIのためのサイバーセキュリティエコシステムを必要としているということ」と表現した。両社はProject Glasswingパートナーとして早期にMythosへのアクセスを得ており、AIエージェントセキュリティとアイデンティティ管理製品の開発で先行する。\nPalo Alto CEOは「Mythos以降6週間で顧客1,200社超から相談・800件の打ち合わせ」を報告し、CrowdStrikeはFalcon Shield IdのARRが4倍成長を達成した。\nただし両社とも好決算後に株価が下落する局面もあり、投資家の期待水準が極めて高くなっていることへの注意も必要だ。\n💡 投資含意: AI脅威の増大がサイバーセキュリティ支出を非裁量的経費に変えており、PANW・CRWDは業界再編のプラットフォームプレイヤーとして高い評価を維持する。\n🔗 波及: Mythosクラスのモデルが普及するほどサイバー防御需要は増大し、防衛・金融・ヘルスケアでの採用が加速する。\n📈 関連銘柄: PANW、CRWD、FTNT（Fortinet）、S（SentinelOne）\n⚖️ 強気/弱気: 強気 — AI脅威拡大がサイバー防衛支出を非裁量化している\n📅 次の注目: Q3決算でのARR成長持続確認とGlasswingパートナー経由の新製品発表",
+    "created_at": "2026-07-01T22:31:11.914Z"
   }
 ]

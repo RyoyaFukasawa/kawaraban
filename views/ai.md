@@ -1,6 +1,80 @@
 # 🤖 AI・先進技術 — 全アーカイブ
 
-全121件 / 日付の新しい順
+全126件 / 日付の新しい順
+
+## 2026-07-01
+
+### [LLMの「集団思考」問題——あるスタートアップが多様性欠如の解決に挑む](https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/)
+*LLMs are stuck in a groupthink groove. This startup is trying to get them out.*
+出典: MIT Tech Review AI ・ #ai #2026-07-01
+
+大規模言語モデル（LLM）が画一的な回答に収束してしまう「集団思考（groupthink）」の問題に取り組むスタートアップをMIT Technology Reviewが紹介した。
+「1から10のランダムな数字を答えて」と主要LLMに問うと、ほぼ必ず7が返ってくるという事例が象徴するように、現在のLLMは多様な視点や応答を生成する能力が著しく低い。
+この均一性は、複数のモデルが同じ大規模データセットで学習されることに起因しており、マーケティング・創造的ライティング・投資リサーチなど多角的視点を求める用途で致命的な欠点となる。
+あるスタートアップがこの問題の解決策を開発しているとのことだが、具体的なアプローチはRSSの範囲では不明（本文は有料）。
+💡 投資含意: LLM出力の多様性・予測不可能性を高める技術は、戦略立案・法務・投資リサーチ等の高付加価値エンタープライズ用途で差別化要素になりうる。
+🔗 波及: AI出力の均一性への懸念が高まると、評価指標・レッドチーミング・adversarial testingの市場が拡大する。
+📈 関連銘柄: Anthropic（Claude）、MSFT（Copilot）、GOOG（Gemini）— LLMプラットフォーム全体の品質課題として影響
+⚖️ 強気/弱気: 中立 — 問題提起の段階。解決策の実効性は未確認
+📅 次の注目: このスタートアップの資金調達公表と大手LLMプロバイダーの対応策
+
+### [Anthropic、科学研究特化のAIエージェント「Claude Science」を発表](https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/)
+*Claude Science is Anthropic's newest flagship product*
+出典: MIT Tech Review AI ・ #ai #2026-07-01
+
+Anthropicが製薬エグゼクティブ・バイオテック創業者・研究者向けイベントで「Claude Science」を発表した。Claude Codeがソフトウェアエンジニアリングを自律支援するように、科学研究を自律的に担う新フラッグシップ製品として位置付けられている。
+Claude Codeと同様に、簡潔な高レベル指示で意味のある研究作業を自律実行する設計で、創薬・ゲノム解析・材料科学等の複雑な科学分野への応用が想定されている。
+本文は有料のため具体的な機能・価格・早期アクセスパートナーの詳細はRSSの範囲では不明だが、「Claude Codeに続くAnthropicの最重要新製品」という位置付けは明確だ。
+科学AI市場はMicrosoft ResearchやGoogle DeepMindも注力する高付加価値領域で、研究者の生産性を10倍にするとの期待がバイオテック・製薬業界に広まっている。
+💡 投資含意: 創薬・バイオ向けAIエージェントは研究費効率化と発見サイクル短縮で莫大な価値を生む可能性があり、製薬大手との長期契約につながりうる。
+🔗 波及: Claude CodeがAI開発者市場を席巻したように、Claude Scienceが科学研究市場でのAnthropicのシェア拡大の起点になりうる。競合（OpenAI o3、Gemini Advanced）も科学特化機能を強化中。
+📈 関連銘柄: Anthropic（非上場）、AMZN（主要投資家）、REGN・MRK・EXAS（創薬AI受益）
+⚖️ 強気/弱気: 強気 — 製薬・バイオ向けAIエージェントの新市場開拓
+📅 次の注目: Claude Scienceの正式公開と早期アクセスパートナー（製薬・バイオ企業）の発表
+
+### [⚠️ SWE-rebenchリーダーボード更新——GLM-5.2・Qwen3.6・Gemma 4 31Bがコーディングベンチマークに登場](https://www.reddit.com/r/LocalLLaMA/comments/1uknx14/swerebench_leaderboard_update_glm52_qwen3627b/)
+*SWE-rebench leaderboard update: GLM-5.2, Qwen3.6-27B, Qwen3.6-35B-A3B, Gemma 4 31B and more + improved UI*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-07-01
+
+SWE-rebench（ソフトウェアエンジニアリングベンチマーク）のリーダーボードが更新され、GLM-5.2、Qwen3.6-27B、Qwen3.6-35B-A3B、Gemma 4 31Bなどが追加されたという投稿がRedditのr/LocalLLaMAにある。
+UIも改善されたとされており、コーディングタスクにおけるオープンモデルの性能進化が継続的に可視化されている模様だ。
+GLM-5.2が有料クローズドモデルに匹敵するとの評価が昨日から注目を集めており、このベンチマーク更新は中国製・オープンウェイトモデルの競争力上昇の証左として見られている。
+Qwen3.6シリーズの複数バリアントも登場しており、量子化効率と性能のトレードオフが開発者コミュニティで活発に議論されている模様だ。
+⚠️ 未確認情報（Reddit発・要裏取り）
+💡 投資含意: コーディングベンチマークでオープンモデルがクローズドモデルに迫るほど、エンタープライズのAI支出がオープン基盤（Together AI等）にシフトする圧力が高まる。
+🔗 波及: GitHub Copilot（MSFT）やCursorのような有料コーディングAIサービスへの価格圧力が継続的に強まる。
+📈 関連銘柄: MSFT（GitHub Copilot）、Anthropic（非上場）、GOOG（Gemini Code Assist）— 有料モデル競合
+⚖️ 強気/弱気: 弱気（有料クローズドモデル）/強気（オープンエコシステム基盤企業）
+📅 次の注目: SWE-bench-Verified等の公式ベンチマークでのGLM-5.2・Qwen3.6スコア確認
+
+### [ChatGPTのグローバル普及が加速——利用深化と多機能活用が進む](https://openai.com/index/how-chatgpt-adoption-has-expanded)
+*How ChatGPT adoption has expanded*
+出典: OpenAI ・ #ai #2026-07-01
+
+OpenAIが「OpenAI Signals」データを公開し、ChatGPTのグローバル採用が「登録数」だけでなく「利用の深化」という質的な面でも拡大していることを明らかにした。
+ユーザーが機能を多様に試し、地域・言語をまたいで活用が広がっており、単一用途から複合的な業務活用へとシフトしていることが示されている。
+詳細な数値はRSSの範囲では不明（本文へのアクセス不可）だが、AIアシスタントが「試すもの」から「日常ツール」へと移行するフェーズを公式データが裏付けた形だ。
+AIアシスタント市場で習慣形成が進むことは、課金コンバージョンと解約率改善の両面でOpenAIの収益構造を強化しうる。
+💡 投資含意: 利用深化はChatGPT Plus・Team・EnterpriseのARPU改善と解約率低下に直結し、OpenAIの収益基盤を中長期で強化する。
+🔗 波及: MicrosoftのCopilot、GoogleのGeminiも同様の利用深化競争を余儀なくされる。AIアシスタント市場でのエンゲージメント指標が評価軸として定着していく。
+📈 関連銘柄: MSFT（Copilot/Azure OpenAI）、GOOG（競合Gemini）
+⚖️ 強気/弱気: 強気 — 利用の習慣化はAI課金モデル成熟の証左
+📅 次の注目: OpenAIの次回財務開示における有料会員数・Enterpriseアカウント数の公表
+
+### [HuggingFaceとCerebras、Gemma 4でリアルタイム音声AIを実現——ロボット1万台超で稼働中](https://huggingface.co/blog/cerebras-gemma4-voice-ai)
+*Hugging Face and Cerebras bring Gemma 4 to real-time voice AI*
+出典: Hugging Face ・ #ai #2026-07-01
+
+Hugging FaceとCerebrasが共同で、Google DeepMindのGemma 4 31Bモデルを使ったリアルタイム音声AIデモを公開した。
+Cerebrasの超高速推論エンジンを組み合わせることで「考える間の沈黙」を解消し、人間との会話に近いレスポンスタイムを実現している。
+アーキテクチャはCerebras（LLM推論）、Gemma 4 31B（言語モデル）、Qwen（TTS）の3層構成でフルオープン・モジュール型。全レイヤーが検査・改変・拡張可能で、開発者がロボット・アシスタント・製品等に自由に組み込める。
+P95レイテンシの安定化が核心で、「中央値は速いが時々数秒止まる」という従来型の欠点を克服。すでにReachy Miniロボット1万台以上のバックエンドとして本番稼働している。
+Cerebrasを選ぶ理由は「コスト削減だけでなく、低レイテンシと予測可能なパフォーマンスで自然なインタラクションを実現すること」とHugging Faceは説明する。
+💡 投資含意: 高速・安定推論への需要はCerebrasのような特化インフラ企業の優位性を高め、推論市場でのNVIDIA GPU独占に対抗する動きを加速させる。
+🔗 波及: リアルタイム音声AIの実用化がロボット・コールセンター・音声アシスタント分野で進むと、エッジAI半導体・低レイテンシクラウド需要が拡大する。
+📈 関連銘柄: NVDA（Cerebrasと競合するGPUインフラ）、GOOGL（Gemmaモデル開発元）
+⚖️ 強気/弱気: 強気 — 音声AI実用化の加速は特化型推論インフラ・エッジ半導体需要を高める
+📅 次の注目: Cerebrasの推論性能ベンチマーク比較と音声AI分野での大型顧客獲得
 
 ## 2026-06-30
 

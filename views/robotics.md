@@ -1,6 +1,80 @@
 # 🦾 フィジカルAI・ロボティクス — 全アーカイブ
 
-全54件 / 日付の新しい順
+全59件 / 日付の新しい順
+
+## 2026-07-01
+
+### [2026年6月ロボティクス総括——ヒューマノイド上場・大型調達・生産マイルストーンが相次ぐ](https://www.therobotreport.com/top-10-robotic-stories-june-2026/)
+*Top 10 robotics developments of June 2026*
+出典: The Robot Report ・ #robotics #2026-07-01
+
+The Robot Reportが2026年6月のロボティクス主要出来事トップ10をまとめた。ヒューマノイドロボット分野が6月の最大テーマで、上場・新展開・生産マイルストーン・大型資金調達が相次いだ。
+主要トピックは以下の通り：NVIDIAがGTC TaipeiとComputexで物理AI開発用のオープンソースツール群を公開。AGIBOTがバッチ生産から大規模展開フェーズへ移行。Standard BotsがシリーズCで10億ドル評価額達成（ニューヨーク製造拠点拡大）。Agility RoboticsがSPAC（Churchill Capital XI）との合併を発表し「米国唯一の純粋ヒューマノイド上場企業」となる予定。NEURAロボティクスがシリーズCで最大14億ドル規模を目指す。BMWがFigure.AIのFigure 03をスパルタンバーグ工場に追加採用（Figure 02の成功後）。General IntuitionがシリーズA調達。Collaborative Roboticsが第2世代Proxieモバイルロボットを公開。
+6月1ヵ月だけでこれだけのイベントが集中したことは、ヒューマノイドロボット産業が「実証・研究フェーズ」から「量産・商業展開フェーズ」へ移行した証左だ。
+💡 投資含意: ヒューマノイドロボットの生産規模拡大と大手製造業への展開加速は、アクチュエータ・センサー・エッジAI半導体のサプライチェーン全体への需要を示す。
+🔗 波及: Agility Robotics上場で「純粋ヒューマノイド株」への直接投資が可能になり、評価額プレミアムがつく可能性。BMWのFigure採用は他欧州自動車メーカーへの波及を示唆する。
+📈 関連銘柄: NVDA（Isaac ROS・Omniverse）、TSLA（Optimus競合）、ABB・FANUC（産業ロボット）、Agility Robotics（SPAC上場後）
+⚖️ 強気/弱気: 強気 — ヒューマノイドロボット産業の商業化ステージへの移行が確認
+📅 次の注目: Agility Robotics・SPAC合併完了と最初のヒューマノイド上場銘柄のバリュエーション動向
+
+### [ロボット薬局スタートアップ「Queue」がステルスから登場——薬剤師不要で96%コスト削減、シード1,260万ドル](https://www.therobotreport.com/queue-raises-funding-fully-autonomous-pharmacy/)
+*Queue raises funding to build fully autonomous pharmacy*
+出典: The Robot Report ・ #robotics #2026-07-01
+
+ロボティクス・スタートアップQueueがステルスから抜け出し、完全自律型調剤ロボットシステムと1,260万ドルのシードラウンド（AlleyCorp主導）を同時発表した。
+Queueのシステムは薬剤師なしで密閉された薬瓶から処方薬を自動調剤・確認でき、30秒で60錠バイアルを充填、従来の薬局運営比96%のコスト削減を謳う。米国で最も処方される280薬品に対応している。
+背景には深刻な薬剤師・薬局技師不足（空き率40%超）と採算割れによる薬局閉鎖の激化があり、2010年以降で3件に1件の薬局が閉店して「薬局砂漠」が拡大している。670億ドル規模の小売薬局市場が構造的危機に直面している状況だ。
+CEO Nick Desaiは訪問医療スタートアップHeal（2億ドル超調達）出身、CTO Josh LiuはTesla・Zipline経験者で、大手全国薬局チェーン1社をすでに顧客として確保し実証機を展開済み。
+AlleyCorp主導のシードに続きRiot Venturesが参加、総調達額は1,860万ドルに達した。
+💡 投資含意: 薬局ロボティクスは労働力問題を根本解決しうる規模とスピードを持ち、ヘルスケアロボティクスの中でも商業化進度が高い。CVS・Walgreens等の大手との協業で急拡大の可能性。
+🔗 波及: CVS Health・Walgreens等の大手薬局チェーンが採用すると薬局スタッフの大幅削減と収益構造改善が起きる一方、人材派遣・薬局技師職への影響が生じる。
+📈 関連銘柄: CVS、WBA（Walgreens）、GDRX（薬価プラットフォーム）
+⚖️ 強気/弱気: 強気（薬局ロボティクス）/弱気（既存薬局スタッフ関連業務）
+📅 次の注目: 大手薬局チェーンとの商業展開規模の公表とFDA規制対応状況
+
+### [屋外・産業ロボット普及で「耐環境設計」が必須要件に——充電インフラが盲点](https://www.therobotreport.com/in-robotics-ruggedization-is-no-longer-optional/)
+*In Robotics, Ruggedization Is No Longer Optional*
+出典: The Robot Report ・ #robotics #2026-07-01
+
+自律移動ロボットの展開環境が「制御された倉庫・工場」を超えて屋外・建設・農業・物流ヤードへと広がるにつれ、粉塵・水分・温度変動・振動への耐性設計が必須要件として浮上している。
+かつて軍・鉱業・特殊産業機械向けだった「ラゲダイズ（耐環境）設計」が今や民間の自律移動ロボット製品に求められるようになっており、ロボット本体だけでなく充電インフラも同等の耐環境性が必要だ。
+特に見落とされやすいのが充電システムで、外部環境への暴露により障害が生じると稼働率全体が低下する。IP65以上の防塵防水対応充電器・ワイヤレス充電・リモート監視・バッテリー管理の統合が競争優位の鍵になりつつある。
+稼働時間延長（1日あたりの利用率向上）・メンテナンス工数削減・充電インフラの柔軟な配置という3点が、屋外ロボット普及の核心的な課題として整理される。
+💡 投資含意: 屋外ロボット普及は本体ハードだけでなく、耐環境充電・電源管理・リモート監視インフラの新市場を開拓する。本体と同等規模の付帯市場が生まれる可能性。
+🔗 波及: ロボット展開環境の拡大はIP65以上の防塵防水対応部品・センサー・電源管理のサプライチェーン需要を高め、コンポーネント専門メーカーに恩恵をもたらす。
+📈 関連銘柄: NVDA（ロボティクスAI基盤）、ABB・KUKA（産業ロボット）
+⚖️ 強気/弱気: 強気 — 屋外・産業ロボット展開の増加は市場拡大を意味する
+📅 次の注目: 屋外・半構造化環境向けロボット大型受注案件と関連インフラ企業への投資動向
+
+### [Apptronik、「Apollo 2」発表と8,360㎡のデータ収集施設「Robot Park」を開設——Google DeepMindと連携](https://www.therobotreport.com/apptronik-unveils-apollo-2-flagship-data-collection-training-facility/)
+*Apptronik unveils Apollo 2 and a flagship data collection and training facility*
+出典: The Robot Report ・ #robotics #2026-07-01
+
+ApptronikがヒューマノイドロボットApollo 2を発表し、同時にテキサス州オースティンに約8,360㎡のデータ収集・学習施設「Robot Park」を開設した。
+Apollo 2は2脚型と車輪ベース型の2コンフィグレーションを持ち、Google DeepMindとの研究パートナーシップのもと収集したデータがGemini Roboticsファウンデーションモデルの学習に直接供給される仕組みを構築している。
+総資金調達額は約10億ドル（直近の5.2億ドル調達含む）に達し、Mercedes-Benz・GXO（物流）がカスタマーとして参加。Robot Parkは物流・製造・小売等の顧客ユースケースをカバーする。
+Apollo 2で学習した知見をApollo 3の商業製品開発に直接接続する「展開→データ収集→学習→改善→再展開」の継続的ループが確立されており、開発コスト低減とロボット知能の加速的向上が見込まれる。
+NASAのValkyrie開発から始まった15台以上のロボット開発経験を持つ約300人規模のチームが支える技術基盤は、業界でも屈指の深さだ。
+💡 投資含意: 「Robot Parkでの実世界データ収集→Gemini Roboticsモデル改善」ループはヒューマノイドロボット開発コストを継続的に低下させる。Google DeepMindへのデータ供給元として戦略的価値が高い。
+🔗 波及: Google DeepMindとのパートナーシップはGOOGLにロボティクスデータ面での優位性をもたらし、NVDA Isaac Labsとの競争を激化させる可能性。
+📈 関連銘柄: GOOGL（Gemini Robotics）、NVDA（競合基盤）、Mercedes-Benz（顧客）
+⚖️ 強気/弱気: 強気 — 実世界データ収集規模と学習ループの確立がヒューマノイド商業化を加速
+📅 次の注目: Apollo 3の商業化タイムラインとRobot Park拡張計画の詳細
+
+### [NVIDIA Isaac ROSを率いるエンジニアが語るオープンソース戦略——「ロボット開発者全員を仲間にする」](https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/)
+*How Jaiveer Singh Is Helping Robots — and Developers — Move Faster*
+出典: NVIDIA Robotics ・ #robotics #2026-07-01
+
+NVIDIAのロボティクスソフトウェアエンジニアリングチームを率いるJaiveer SinghがIsaac ROSとオープンソース戦略の意義について語った。
+Isaac ROSはROS 2フレームワーク上にCUDAアクセラレートされたライブラリとAIモデルを組み合わせたNVIDIAの物理AI向けミドルウェアで、自律移動ロボット・マニピュレーション・ヒューマノイドまで幅広く対応している。
+インターン時代のプロジェクトとして始まったIsaac ROSは「オープンソース化によってGPUの全能力を開放した」ことが開発者コミュニティでの爆発的採用につながったとSinghは語る。
+JetsonエッジシステムからDGX Sparkワークステーションまでシームレスに動作し、「LEGO的」なモジュール設計が既存のROS2コードとの組み合わせを容易にしている。
+「NVIDIAはロボティクスを他の誰も重要と思っていない時代から取り組んでいた」という言葉は、ロボティクスエコシステムにおける同社の長期的な先行者優位を端的に示す。
+💡 投資含意: NVIDIA Isaac ROSのエコシステム拡大はJetson・DGX Spark・NVIDIAクラウドの採用増加につながり、ロボティクス向け半導体・インフラ需要を下支えする。
+🔗 波及: オープンソースロボティクススタックのデファクト標準化はロック効果を生み、後続のAI・センサー製品のNVIDIA基盤への統合を促進する。
+📈 関連銘柄: NVDA（Isaac ROS・Jetson・DGXの収益）
+⚖️ 強気/弱気: 強気 — ロボティクスOS分野でのNVIDIAの生態系構築が先行者優位を確立
+📅 次の注目: Isaac ROS上に構築されたヒューマノイド・自律ロボット企業の商業展開件数
 
 ## 2026-06-30
 

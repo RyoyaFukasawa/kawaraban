@@ -1,6 +1,80 @@
 # 🖥 テクノロジー — 全アーカイブ
 
-全152件 / 日付の新しい順
+全157件 / 日付の新しい順
+
+## 2026-07-01
+
+### [Palo AltoとCrowdStrikeが史上最高のQ2記録——「Mythosモーメント」がサイバー需要を急増させる](https://www.cnbc.com/2026/06/30/palo-alto-crowdstrike-stock-ai-mythos.html)
+*Palo Alto, CrowdStrike both have best quarter ever as AI threats bolster cyber demand*
+出典: CNBC Technology ・ #technology #2026-07-01
+
+サイバーセキュリティ大手のPalo Alto Networks（PANW）とCrowdStrike（CRWD）がQ2において過去最高の四半期パフォーマンスを記録した。Palo Altoは+113%、CrowdStrikeは+95%とそれぞれ上場来最高の上昇率を達成した。
+需要急増の直接的な背景は「Mythosモーメント」——Mythosクラスのモデルがサイバー攻撃に活用され、脆弱性発見や大規模攻撃の自動化・高速化が可能になったことで、企業が防衛強化に迫られている。
+CrowdStrikeCEO George Kurtzは「Mythosが証明したのは世界がAIのためのサイバーセキュリティエコシステムを必要としているということ」と表現した。両社はProject Glasswingパートナーとして早期にMythosへのアクセスを得ており、AIエージェントセキュリティとアイデンティティ管理製品の開発で先行する。
+Palo Alto CEOは「Mythos以降6週間で顧客1,200社超から相談・800件の打ち合わせ」を報告し、CrowdStrikeはFalcon Shield IdのARRが4倍成長を達成した。
+ただし両社とも好決算後に株価が下落する局面もあり、投資家の期待水準が極めて高くなっていることへの注意も必要だ。
+💡 投資含意: AI脅威の増大がサイバーセキュリティ支出を非裁量的経費に変えており、PANW・CRWDは業界再編のプラットフォームプレイヤーとして高い評価を維持する。
+🔗 波及: Mythosクラスのモデルが普及するほどサイバー防御需要は増大し、防衛・金融・ヘルスケアでの採用が加速する。
+📈 関連銘柄: PANW、CRWD、FTNT（Fortinet）、S（SentinelOne）
+⚖️ 強気/弱気: 強気 — AI脅威拡大がサイバー防衛支出を非裁量化している
+📅 次の注目: Q3決算でのARR成長持続確認とGlasswingパートナー経由の新製品発表
+
+### [AIネオクラウド「Together AI」がシリーズCで800M ドル調達、評価額83億ドルへ急上昇](https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/)
+*Neocloud Together AI raises $800M, leaps to $8.3B valuation*
+出典: TechCrunch ・ #technology #2026-07-01
+
+NVIDIAのGPUクラスターを中心としたAIインフラをレンタル提供するネオクラウド企業Together AIが、シリーズCで8億ドルを調達し評価額が83億ドルに達した。
+Aramco Venturesがリード、Vista Equity・General Catalyst・Emergence Capital・NVIDIA・March Capital・Pegatron・SentinelOne's S Venturesが参加した。前回シリーズB（3.05億ドル・33億ドル評価）から約16ヵ月で評価額を2.5倍に伸ばした形だ。
+Together AIの直近四半期アニュアルブッキングは11.5億ドルを超えており、Cursor・Cognition・Decagonなど急成長AIスタートアップを主要顧客に持つ。
+企業がクローズドフロンティアモデルの高価格トークンに代わりオープンソースモデルをネオクラウド経由で使う動きが加速しており、業界全体でのオープンソースモデル利用が過去1年で3倍になったとTogether AIは述べる。Upscale AI（5億ドル）・TensorWave（3.5億ドル）など競合ネオクラウドも大型調達が相次いでいる。
+💡 投資含意: ネオクラウドの台頭はNVIDIA GPU需要を拡大させる一方、AWS・Azure・GCPのAI API価格に下押し圧力をかける。
+🔗 波及: AIインフラへのVC資金流入が継続しており、AIインフラバブルの懸念も並行して高まっている。
+📈 関連銘柄: NVDA（GPUインフラ需要の最大受益者）、AMZN・MSFT・GOOG（クラウド大手：競合圧力）
+⚖️ 強気/弱気: 強気（NVDA・GPU需要）/弱気（クラウド大手のAI API価格・マージン）
+📅 次の注目: Together AIのIPO計画の具体化と競合ネオクラウドとの統廃合動向
+
+### [MetaがAI余剰コンピュートを外販へ——SpaceXと同様にクラウド参入を計画](https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/)
+*Meta, like SpaceX, looks to turn excess AI compute into cash*
+出典: TechCrunch ・ #technology #2026-07-01
+
+Metaが自社AIデータセンターの余剰コンピュートを外部に販売するクラウドインフラビジネス「Meta Compute」の立ち上げを計画していることがBloombergの報道で明らかになった。
+Metaは今後数年間でAIインフラに合計1,829億ドルをコミットしており、マンハッタン規模のオハイオデータセンターが今年中に稼働予定だが、自社AIサービス（Meta AI・Llama）から直接的な収益は依然不明確だ。
+CoreWeaveのモデルを模倣して「生の計算能力」を販売し、さらに非公開モデル「Muse Spark」を含む各種AIモデルをAWSのように提供することも検討中。SpaceX（xAI経由）がすでに余剰コンピュートビジネスでAnthropicやGoogleとリース契約を締結しており、Metaが続く形だ。
+Meta Computeはインフラ責任者Santosh Janardhan、Meta Superintelligence LabsリーダーDaniel Gross、Dina Powell McCormickが主導する。
+「AIレースの真の勝者はモデル・サービス提供者ではなくデータセンター所有者かもしれない」という示唆を、この動きは一層強める。
+💡 投資含意: MetaのクラウドAI参入は「AI三強（AWS・Azure・GCP）」の外に第4の大規模プレイヤーが出現することを意味し、AI推論コストの下落と競争激化をもたらしうる。
+🔗 波及: META株の評価が「ソーシャルメディア企業」からAIインフラ企業へと再構築される可能性。既存クラウド大手の利益率への圧縮リスク。
+📈 関連銘柄: META（新収益源・評価再構築）、AMZN（AWS・競合）、MSFT（Azure・競合）、NVDA（データセンター需要拡大）
+⚖️ 強気/弱気: 強気（META・NVDA）/弱気（クラウド大手のAI部門マージン）
+📅 次の注目: Meta Computeの正式発表と初期顧客・料金体系の詳細公開
+
+### [Cloudflare、AI企業にクローラー分離を義務化——9月15日から広告掲載サイトをデフォルトでブロック](https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/)
+*Cloudflare's new policy pushes AI companies to pay for publishers' content*
+出典: TechCrunch ・ #technology #2026-07-01
+
+CDN大手Cloudflareが、AI企業に対して「検索用クローラー」と「AI学習・エージェント用クローラー」を分離することを義務付ける新ポリシーを発表した。2026年9月15日から、分離されていない「混合用途クローラー」は広告掲載サイトをデフォルトでブロックする。
+背景にはインターネットトラフィックの過半数がすでにボットに占められた（人間トラフィックを超えた）という現状があり、パブリッシャーが「コンテンツが無料でAI学習データに使われている」という問題が長年の課題だった。
+CloudflareはGoogleへの言及として「世界最大の検索エンジンが他のAI企業の2倍の情報にアクセスできている」と問題視した。GoogleのGooglebotはSearch・AI Overviewsなど複数目的に使われており、これがOthersとの非対称性を生んでいるとの指摘だ。
+「Pay Per Crawl（クロール当たり課金）」から「Pay Per Use（コンテンツが価値を生んだ時の課金）」への進化も発表。Ceramic.ai・You.comが初期パートナーで、パブリッシャーがコンテンツ活用に対して収益を得られる仕組みが整いつつある。AI企業にとって学習データアクセスのコスト増・制限の現実化を意味する。
+💡 投資含意: コンテンツ取得コストの上昇はAI訓練の費用構造を変え、パブリッシャーへの収益還元モデルを生む。CloudflareはAIエコシステムの審判役として課金できる新事業が生まれる。
+🔗 波及: OpenAI・Anthropic・Googleなどが独自のコンテンツ取得コストの増加か、パブリッシャーとのライセンス契約拡大かを迫られる。
+📈 関連銘柄: NET（Cloudflare・新ビジネスモデルの受益者）、GOOG（クローラー分離を迫られる）、NYT・メディア株（コンテンツ収益化の波及）
+⚖️ 強気/弱気: 強気（NET・パブリッシャー）/弱気（AI企業のデータ取得コスト）
+📅 次の注目: 9月15日施行後の主要AI企業の対応（クローラー分離・ライセンス契約）
+
+### [米国がAnthropicのMythos・Fableへの輸出規制を解除——7月1日からアクセス回復](https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/)
+*Trump drops restrictions on Anthropic's Mythos and Fable models*
+出典: TechCrunch ・ #technology #2026-07-01
+
+米商務省がAnthropicのMythosおよびFableモデルへの輸出規制を解除し、7月1日から海外ユーザーへのアクセスを段階的に回復させると発表した。
+6月12日に輸出規制リストに加えられた両モデルは、外国人への提供に特別許可が必要となり事実上の公開停止に追い込まれていたが、AnthropicがHoward Lutnick商務長官に「セキュリティリスクの積極的な検知・対処」「米政府とのプロトコル策定協力」「悪意ある活動の報告」を約束したことで解除された。
+背景には、アジア系AI企業（Fugu・Tulong Fengなど）がMythosクラスの性能に肉薄するモデルを相次いでリリースし、輸出規制が米国AIの国際競争力を損なうとの危機感が政府内で高まったことがある。
+サイバーセキュリティ専門家からは「規制は安全策というより政権批判的なAnthropicへの圧力だった」との見方もあり、今回の解除でその見方が補強された。将来モデルリリース時の政府審査プロセスは依然として不透明なままで、業界全体に計画立案の難しさが残る。
+💡 投資含意: 輸出規制解除でAnthropicはグローバルAPI収益機会を回復する。AMZN（主要投資家）に中期的な好材料。
+🔗 波及: トランプ政権のAI政策の場当たり的性格が浮き彫りに。今後の新モデルリリース時の規制リスクがAI企業全体の計画立案を難しくする。
+📈 関連銘柄: Anthropic（非上場）、AMZN（投資家・AWS）、MSFT（OpenAI等の並行した政策リスク）
+⚖️ 強気/弱気: 強気（Anthropic）— グローバルAPI復活。弱気（AI規制環境）— 政策の予測不可能性は継続
+📅 次の注目: Mythos・Fableの国際顧客への完全アクセス回復タイムラインと次回モデルリリース時の審査プロセス
 
 ## 2026-06-30
 
