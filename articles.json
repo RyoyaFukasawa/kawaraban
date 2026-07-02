@@ -6328,5 +6328,235 @@
     "url": "https://www.cnbc.com/2026/06/30/palo-alto-crowdstrike-stock-ai-mythos.html",
     "summary": "サイバーセキュリティ大手のPalo Alto Networks（PANW）とCrowdStrike（CRWD）がQ2において過去最高の四半期パフォーマンスを記録した。Palo Altoは+113%、CrowdStrikeは+95%とそれぞれ上場来最高の上昇率を達成した。\n需要急増の直接的な背景は「Mythosモーメント」——Mythosクラスのモデルがサイバー攻撃に活用され、脆弱性発見や大規模攻撃の自動化・高速化が可能になったことで、企業が防衛強化に迫られている。\nCrowdStrikeCEO George Kurtzは「Mythosが証明したのは世界がAIのためのサイバーセキュリティエコシステムを必要としているということ」と表現した。両社はProject Glasswingパートナーとして早期にMythosへのアクセスを得ており、AIエージェントセキュリティとアイデンティティ管理製品の開発で先行する。\nPalo Alto CEOは「Mythos以降6週間で顧客1,200社超から相談・800件の打ち合わせ」を報告し、CrowdStrikeはFalcon Shield IdのARRが4倍成長を達成した。\nただし両社とも好決算後に株価が下落する局面もあり、投資家の期待水準が極めて高くなっていることへの注意も必要だ。\n💡 投資含意: AI脅威の増大がサイバーセキュリティ支出を非裁量的経費に変えており、PANW・CRWDは業界再編のプラットフォームプレイヤーとして高い評価を維持する。\n🔗 波及: Mythosクラスのモデルが普及するほどサイバー防御需要は増大し、防衛・金融・ヘルスケアでの採用が加速する。\n📈 関連銘柄: PANW、CRWD、FTNT（Fortinet）、S（SentinelOne）\n⚖️ 強気/弱気: 強気 — AI脅威拡大がサイバー防衛支出を非裁量化している\n📅 次の注目: Q3決算でのARR成長持続確認とGlasswingパートナー経由の新製品発表",
     "created_at": "2026-07-01T22:31:11.914Z"
+  },
+  {
+    "date": "2026-07-02",
+    "category": "ai",
+    "source": "BAIR Blog",
+    "title_ja": "Berkeley AI Research、2026年卒業生の進路を公開——Physical Intelligence・OpenAI・Mistral AIなどへ",
+    "title_en": "2026 BAIR Graduate Showcase",
+    "url": "http://bair.berkeley.edu/blog/2026/07/01/grads-2026/",
+    "summary": "UCバークレーのAI研究所（BAIR）が2026年度卒業生の研究成果と進路を発表。Baifeng Shi（Physical Intelligence、汎用視覚・ロボットモデル）、Hanlin Zhu（OpenAI、LLMスケーリング）、Haozhi Qi（Amazon+シカゴ大、器用な操作）、Josh Kang（Mistral AI）、J.D. Zamfirescu-Pereira（UCLA、人間-AI協調設計）、Eve Fleisig（Princeton、LLM公平性）など。研究テーマはロボット・身体化AI、LLM推論、生成モデル、AIの安全性、医療・科学応用まで多岐。【投資視点】トップ研究者の就職先がPhysical Intelligence・OpenAI・MistralというAIスタートアップに集中。ロボット・身体化AI分野への人材流入は同セクターの成長を示す先行指標として注目できる。",
+    "created_at": "2026-07-02T22:28:01.815Z"
+  },
+  {
+    "date": "2026-07-02",
+    "category": "ai",
+    "source": "TechCrunch",
+    "title_ja": "OpenAI、米国政府系ファンドへ株式5%提供を提案——トランプ政権との関係強化で政治リスク軽減狙い",
+    "title_en": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+    "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+    "summary": "OpenAIのSam Altmanが米国政府系ウェルスファンドへの株式5%提供を提案したと報じられた。トランプ大統領は6月に「米国が出資するのは美しいこと」と述べていた。FTは「Altmanの安全提案：われわれを勝たせるか、全員が負けるか」と報道し、米国主導の世界秩序が米国AIオリゴポリーに優位性をもたらすという論点を提起。【投資視点】OpenAIが政府との関係を制度化することで規制リスクを軽減する戦略。米国AI産業への政府関与が高まる中、規制の恩恵を受けやすいポジション確立の動き。競合他社への影響（Anthropic、Google DeepMind）にも注目。",
+    "created_at": "2026-07-02T22:28:01.815Z"
+  },
+  {
+    "date": "2026-07-02",
+    "category": "ai",
+    "source": "Reddit r/LocalLLaMA",
+    "title_ja": "⚠️ Kimi K2.7 CodeがGitHub Copilotで利用可能に——MoonshotのコーディングモデルがMicrosoftエコシステムへ統合",
+    "title_en": "Kimi K2.7 Code is generally available in GitHub Copilot",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ulm1gt/",
+    "summary": "⚠️ この情報はRedditコミュニティ投稿に基づくものであり、内容の正確性は未検証です。\n中国のスタートアップMoonshot AIのコーディング特化モデル「Kimi K2.7 Code」がGitHub Copilotで一般提供開始されたとのコミュニティ報告。MicrosoftがCopilotのモデル選択肢を拡大し、中国系AIモデルを統合した形。【投資視点】GitHub Copilot（Microsoft）がモデル多様化を進める中、中国系コーディングAIの採用は競争激化の一側面。コーディングAI市場ではGitHub Copilot、Cursor、Amazon Codewhispererが競争中。",
+    "created_at": "2026-07-02T22:28:01.815Z"
+  },
+  {
+    "date": "2026-07-02",
+    "category": "ai",
+    "source": "Reddit r/LocalLLaMA",
+    "title_ja": "⚠️ NVIDIAのAI研究者「AGIは来ない」——クローズドモデルはAOLと同じ末路、未来はオープンソースへ",
+    "title_en": "Nvidia AI executive says the future is open-source models, not AGI from closed labs",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ult0f4/",
+    "summary": "⚠️ この情報はRedditコミュニティ投稿に基づくものであり、内容の正確性は未検証です。\nNVIDIAのAI分野の著名研究者がAGIの到来を否定し、OpenAIやAnthropicのクローズドモデルをかつてのAOL・Prodigyのクローズドインターネットに例えたとされる。将来は各企業がカスタマイズされたオープンソースモデルを持つ時代になるとの見解。【投資視点】もしこの見方が正しければ、Meta（LLaMA）やMistral、Hugging Faceのようなオープンモデル提供者が有利。クローズドAPIに依存するOpenAI・Anthropicの長期戦略への問いかけとして注目に値する。",
+    "created_at": "2026-07-02T22:28:01.815Z"
+  },
+  {
+    "date": "2026-07-02",
+    "category": "ai",
+    "source": "MIT Tech Review AI",
+    "title_ja": "AIが産業用タービンの運用を最適化——エネルギー・製造業への実用展開が加速",
+    "title_en": "Teaching AI to run with the turbines",
+    "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+    "summary": "産業用タービンの運転をAIで最適化し、発電効率向上や予兆保全を実現する取り組みが進んでいる。エネルギー・製造セクターへのAI実用展開が本格化している段階を示す事例。【投資視点】GEベルノバ、シーメンス・エナジー、ABBなどの産業用AIソリューション企業に注目。エネルギー効率改善は規制強化・コスト圧力の双方から需要が強い。（本文有料会員限定のためRSSヘッドラインに基づく要約）",
+    "created_at": "2026-07-02T22:28:01.815Z"
+  },
+  {
+    "date": "2026-07-02",
+    "category": "economy",
+    "source": "BBC Business",
+    "title_ja": "ディーゼル価格が26年ぶり最大の月間下落——イラン戦争終結期待が燃料費急落を招く",
+    "title_en": "Diesel sees biggest monthly fall in 26 years as Iran peace hopes cut fuel prices",
+    "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o",
+    "summary": "ディーゼル燃料が26年ぶりの最大月間下落率を記録。米国・イスラエルとイランの戦争勃発時に急騰した燃料コストが、和平交渉への期待から急落。物流・航空・農業など燃料コスト敏感業種にとっては追い風。ホルムズ海峡の通行が正常化すれば原油供給が増加し、この傾向が続く可能性がある。（BBC 403のためRSS要約に基づく）【投資視点】燃料コスト低下は輸送・物流（FedEx、UPS、Maersk）、航空（デルタ、ユナイテッド）のコスト構造改善に直結。一方でエネルギー企業（エクソン、シェブロン）の収益圧力となる。イラン交渉の行方が最大の変数。",
+    "created_at": "2026-07-02T22:28:01.815Z"
+  },
+  {
+    "date": "2026-07-02",
+    "category": "economy",
+    "source": "CNBC Markets",
+    "title_ja": "BYD・小米のEV納車が急増、株価急騰——テスラの8%急落と対照的な中国EV勢の好調",
+    "title_en": "Shares of BYD and Xiaomi surge as June delivery figures fuel optimism",
+    "url": "https://www.cnbc.com/2026/07/02/china-ev-stocks-xiaomi-byd-june-deliveries-production.html",
+    "summary": "BYDと小米（Xiaomi）が好調な6月EV納車データを発表し、香港上場株が急騰。テスラが同日7.5%急落した（競争激化懸念）のと対照的に、中国EV勢は力強い成長を示した。BYDは世界最大のEVメーカーの地位を維持しており、小米は独自のEV「SU7」シリーズで急拡大中。（RSSヘッドライン・説明文に基づく要約）【投資視点】テスラvs中国EV勢の構図が鮮明化。BYD・小米の香港上場株は中国国内需要の強さを反映。ただし欧州での関税リスクや地政学的要因により、海外展開には不確実性が残る。テスラは7月22日決算での粗利率改善が株価回復のカギ。",
+    "created_at": "2026-07-02T22:28:01.815Z"
+  },
+  {
+    "date": "2026-07-02",
+    "category": "economy",
+    "source": "CNBC Markets",
+    "title_ja": "6月雇用統計：非農業部門雇用者数5.7万人増にとどまる——予想11.5万人を大幅下回り景気減速の懸念",
+    "title_en": "U.S. job creation cools sharply in June with payrolls growth of just 57,000",
+    "url": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html",
+    "summary": "米労働統計局が発表した6月の雇用統計は、非農業部門雇用者数が5.7万人増（Dow Jones予想11.5万人を大幅下回り）。5月分は12.9万人に、4月分は14.8万人にそれぞれ下方修正。失業率は4.2%（小幅低下）だが、労働参加率が0.3ポイント低下し61.5%（2021年3月以来最低）、家計調査では就業者数が50.7万人減少。世界杯の雇用押し上げ期待も外れ、レジャー・ホスピタリティ -6.1万人。平均時給は前月比+0.3%、前年比+3.5%（予想並み）。株価先物は上昇、2年国債利回りは3.5bp低下して4.13%。9月利上げはほぼ消滅。FRBは据え置き継続の方向。【投資視点】雇用鈍化は利上げ圧力を和らげ、グロース・ハイテク株にはやや追い風。ただし労働参加率低下は潜在的な需要減退を示唆し、企業業績には中長期的な逆風。7月22日のテスラ決算を含む今後の企業業績確認が重要。",
+    "created_at": "2026-07-02T22:28:01.815Z"
+  },
+  {
+    "date": "2026-07-02",
+    "category": "economy",
+    "source": "Financial Times",
+    "title_ja": "プライベートクレジットから47億ドルの解約殺到——「業界の過剰拡張」への投資家の懸念が拡大",
+    "title_en": "Blue Owl hit by $4.7bn of redemption requests as private credit investor exodus persists",
+    "url": "https://www.ft.com/content/private-credit-blue-owl-redemptions",
+    "summary": "Blue Owlをはじめとするプライベートクレジットファンド20社の第2四半期解約請求が220億ドルを超えたとフィナンシャル・タイムズが報道。NYTも「業界が急拡大しすぎ、返済能力のない企業への融資が多すぎる」との専門家見解を報じた。低金利・信用緩和期に急成長したプライベートクレジット市場（約3兆ドル規模）が、金利高止まり環境で問題債権増加とファンド解約の二重圧力に直面。（両紙とも有料会員限定のためRSS要約に基づく）【投資視点】Blue Owl（OBDC）、Ares Management、Apollo Globalなどのオルタナティブ資産運用会社に直接的リスク。大手銀行のオフバランス信用リスクへの影響も注視が必要。信用市場の信頼性低下はリスクオフの引き金になりうる。",
+    "created_at": "2026-07-02T22:28:01.815Z"
+  },
+  {
+    "date": "2026-07-02",
+    "category": "economy",
+    "source": "NYT Business",
+    "title_ja": "AIは雇用を奪っているのか増やしているのか——計測困難な経済変革の実態",
+    "title_en": "A.I. Is Reshaping the Economy. Good Luck Measuring How.",
+    "url": "https://www.nytimes.com/2026/07/02/business/economy/ai-economy-data.html",
+    "summary": "一部の統計はAIが既に雇用喪失を引き起こしていることを示す一方、別のデータは逆の傾向を示しており、AI経済効果の正確な計測は極めて困難という調査報道。本日発表の5.7万人増にとどまった雇用統計と合わせて読むべき重要な文脈を提供。AIによる生産性向上が統計指標に現れるまでのタイムラグ問題、業種ごとの影響の非均一性が論点。（有料会員限定のためRSS要約に基づく）【投資視点】AI投資が経済統計に反映されるまでに時間差があることを意識した中長期投資視点が重要。労働市場の構造変化を先読みする企業（リスキリング、AI前提の業務設計）に注目したい。",
+    "created_at": "2026-07-02T22:28:01.815Z"
+  },
+  {
+    "date": "2026-07-02",
+    "category": "politics",
+    "source": "BBC World",
+    "title_ja": "ノルドストリーム爆破でウクライナ人を起訴——ドイツ・EU関係に深刻な影響の懸念",
+    "title_en": "Ukrainian charged in Germany over Nord Stream blasts",
+    "url": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo",
+    "summary": "2022年9月のノルドストリーム海底パイプライン爆破事件でドイツ当局がウクライナ人を起訴。ウクライナ政府は関与を否定しているが、ドイツおよびEUとの関係に深刻な影響を与える可能性がある。EU統合・ウクライナ支援の政治的連帯に亀裂が生じるリスクも。（本文はBBC 403のためRSS要約に基づく報告）【投資視点】ウクライナ支援の政治的基盤が揺らぐ可能性。欧州エネルギーインフラ再建・LNG調達の長期計画にも影響しうる。ドイツ・欧州政治の安定性リスクとして注視。",
+    "created_at": "2026-07-02T22:28:01.815Z"
+  },
+  {
+    "date": "2026-07-02",
+    "category": "politics",
+    "source": "BBC World",
+    "title_ja": "ロシアがキエフに「史上最大規模」の攻撃——少なくとも25人死亡、昨日のゼレンスキー警告が現実に",
+    "title_en": "Russia launches 'most massive' attack on Kyiv, killing at least 25",
+    "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do",
+    "summary": "ロシアがウクライナの首都キエフに対して「これまでで最大規模」とされる攻撃を実施し、少なくとも25人が死亡。攻撃は過去最多の兵器数を使用し、市内広範囲にわたる被害が報告された。昨日の当ダイジェストでゼレンスキー大統領が警告していた攻撃が現実のものとなった。（本文はBBCロボット対策403のためRSS要約に基づく報告）【投資視点】ウクライナ支援が継続する欧州防衛予算拡大の局面。防衛関連株（BAE Systems、Rheinmetall、Leonardo）に引き続き注目。原油・天然ガス価格への影響も要監視。",
+    "created_at": "2026-07-02T22:28:01.815Z"
+  },
+  {
+    "date": "2026-07-02",
+    "category": "politics",
+    "source": "CBS News",
+    "title_ja": "米イラン協議が「進展あり」の主張中に一時停止——最高指導者の葬儀で7〜10日の間隔、ホルムズ海峡と濃縮ウランが最難問",
+    "title_en": "U.S.-Iran talks pause for ayatollah's funeral after claims of progress",
+    "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/",
+    "summary": "イランの最高指導者（米イラン戦争で死亡）の葬儀のため、6月17日の了解覚書（MoU）締結後2回目の交渉が7〜10日間中断。60日以内の最終合意を目指す期限が迫る中、未解決の核心的問題が残る：①ホルムズ海峡の主権（イランは「イラン・オマーン共同管理」を要求、米国は完全な自由通行を主張）、②イスファハン核施設地下の約400kg高濃縮ウランの処理（米軍の攻撃で施設は損傷）。イランFM Araghchiは米国の地域軍事プレゼンスを非難。専門家は「最難問は先送りされている」と指摘。一方トランプ大統領は「非核化は順調」と前向きコメント。【投資視点】交渉決裂リスクが再浮上すれば原油・LNG価格が急騰するシナリオに備える必要がある。ホルムズ海峡は世界の石油輸送の約20%を占める要衝。",
+    "created_at": "2026-07-02T22:28:01.815Z"
+  },
+  {
+    "date": "2026-07-02",
+    "category": "politics",
+    "source": "CNBC",
+    "title_ja": "トランプ、関税撤回の前日にApple・Nvidia株を大量購入——「インサイダー取引」との批判が噴出",
+    "title_en": "Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound",
+    "url": "https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html",
+    "summary": "2025年4月8日、市場が4日間で12%急落する中、トランプ大統領は327件の株式購入（年間で11番目に多い取引日）を実施。Apple・Alphabet・Amazon・Microsoft・Nvidiaをそれぞれ10〜25万ドル規模で取得。翌4月9日朝、「今こそ買い時！」とSNS投稿後に関税一部撤回を発表。S&P500は9.5%高（Apple +15%、Nvidia +19%）。その後S&P500は累計+50%。年間収入総額22.4億ドルの一部。ホワイトハウスは「独立した第三者機関が運用する完全裁量口座」と説明。Redditでは「インサイダー取引ではないか」との議論が拡大。【投資視点】大統領の市場影響力と個人投資の利益相反問題は米国の政策信頼性リスクとして市場関係者が注目すべき事項。規制強化の議論が高まれば大手テック株の政策感応度が上昇する可能性。",
+    "created_at": "2026-07-02T22:28:01.815Z"
+  },
+  {
+    "date": "2026-07-02",
+    "category": "politics",
+    "source": "PBS",
+    "title_ja": "トランプ大統領の2025年収入が20億ドル超——UAEの60億円ステーブルコイン投資と中東外交が利益相反の核心",
+    "title_en": "Trump's $2 billion income in 2025 raises fresh questions about profiting off presidency",
+    "url": "https://www.pbs.org/newshour/show/trumps-2b-income-in-2025-raises-fresh-questions-about-profiting-off-presidency/",
+    "summary": "トランプ大統領の2025年財務開示によると総収入は22.4億ドル（前年比3倍超）。主要な収入源：①就任3日前に立ち上げたミームコイン（数億ドル、ただし購入者の多くが損失）、②World Liberty Financial（ステーブルコイン）——UAEが就任式同日に50%を秘密裏に取得、さらに2億ドルを追加投資。トランプがUAEを含む中東和平交渉を主導する中、UAEとの利益関係が深刻な利益相反問題を形成。他にも中東・ベトナム・ルーマニア・モルディブでの不動産案件、サウジアラビア・カタール政府絡みの取引、8,000万ドル超の訴訟和解金など。NYTのEric Lipton記者は「米国史上前例のない事態」とコメント。【投資視点】大統領の利益相反問題が深刻化すれば、外交政策の予見可能性が低下し、中東関連（エネルギー、防衛）ポジションの不確実性が高まる。法的・政治的リスクの動向を継続注視。",
+    "created_at": "2026-07-02T22:28:01.815Z"
+  },
+  {
+    "date": "2026-07-02",
+    "category": "robotics",
+    "source": "CNBC Technology",
+    "title_ja": "アリババ傘下のアント・グループ、18カ月でヒューマノイドロボット企業12社に出資——Zeroth Roboticsへ73億円のリード投資",
+    "title_en": "Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months",
+    "url": "https://www.cnbc.com/2026/07/01/alibaba-affiliate-ant-group-enters-the-humanoid-robot-market-with-12-deals.html",
+    "summary": "アリババ傘下のフィンテック企業アント・グループが2025年1月以降18カ月でヒューマノイドロボット企業12社へ投資。最新ではZeroth Robotics（家庭用ロボット：高齢者介護・ペットケア・子どもの教育向け）への5億元（約73億円）のリード投資を実施。Zerothは上半期売上高が前年比600%増、受注3万件超。秋から北米・欧州向け海外展開を計画。アントは独自ロボット子会社「RobbyAnt」も設立。NVIDIA も中国でロボティクス採用を拡大中。【投資視点】中国ヒューマノイドロボット市場への資本流入が急増。Zerothの高成長・海外展開計画は中国ロボット企業のグローバル展開という新たな競争軸を示す。ユニトリー、ギャラクシー、リンカーボットなども同グループのポートフォリオ。",
+    "created_at": "2026-07-02T22:28:01.815Z"
+  },
+  {
+    "date": "2026-07-02",
+    "category": "robotics",
+    "source": "The Robot Report",
+    "title_ja": "Automate 2026レポート——ヒューマノイドの誇大広告から「実用的フィジカルAI」へ業界がシフト",
+    "title_en": "Automate 2026 show recap: from humanoid hype to practical physical AI",
+    "url": "https://www.therobotreport.com/automate-2026-show-recap/",
+    "summary": "北米最大のロボット・自動化見本市「Automate 2026」の総括。最大のトレンドは「ヒューマノイドブームから実用的フィジカルAI・エッジコンピューティング展開へ」の転換。ソフトウェアオーケストレーション、デジタルツイン、高度な運動学計算が労働力不足解消の実践的手段として注目を集めた。ポッドキャスト第251回として配信。【投資視点】Automate出展企業（FANUC、Yaskawa、ABB、Cognex等）や産業用ロボットソフトウェア企業（Inductive Automation、Rockwell Automation）が中期的な実装拡大の恩恵を受ける可能性。ヒューマノイド単体ではなくロボット×AI×ソフトウェアのエコシステム全体に着目したい。",
+    "created_at": "2026-07-02T22:28:01.815Z"
+  },
+  {
+    "date": "2026-07-02",
+    "category": "robotics",
+    "source": "The Robot Report",
+    "title_ja": "Luxonis、フィジカルAIの知覚レイヤー拡大へシリーズA 1,400万ドル調達——Fortune 500の60社超が顧客",
+    "title_en": "Luxonis closes Series A round to scale physical AI perception layer",
+    "url": "https://www.therobotreport.com/luxonis-closes-series-a-round-to-scale-physical-ai-perception-layer/",
+    "summary": "フィジカルAI向け3D知覚カメラを手がけるLuxonisがDeNali Growth Partners主導・Taiwania Capital参加でシリーズA 1,400万ドルを調達。OAKカメラ＋DepthAI SDK（累計600万ダウンロード）を展開し、2025年12月にはOAK4クラウド知覚エコシステムを発表。NVIDIA Isaac Simとも連携。顧客基盤はFortune 500企業60社超（ダウ30種のうち17社）。農業・防衛・産業自動化・重機・医療機器・物流倉庫を主要市場として拡大を目指す。【投資視点】エッジAI知覚コンポーネントは産業ロボット普及の基盤技術。NVIDIAとの連携強化は採用拡大の追い風。Series A規模ながら既存顧客基盤の厚みは注目に値する。",
+    "created_at": "2026-07-02T22:28:01.815Z"
+  },
+  {
+    "date": "2026-07-02",
+    "category": "technology",
+    "source": "TechCrunch",
+    "title_ja": "AnthropicがSamsungとカスタムAIチップを協議——OpenAIの「Jalapeño」チップに続く独自半導体戦略",
+    "title_en": "Anthropic is discussing a new custom chip with Samsung",
+    "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+    "summary": "Anthropicがサムスン電子とカスタム推論チップについて初期段階の協議を行っていると報じられた（The Information報道）。Anthropicは「多様化されたスタックの維持が鍵」と回答するにとどめ、決定事項はない段階。背景：OpenAIが先週BroadcomとのAI推論チップ「Jalapeño」を発表。サムスンはNVIDIAの主要パートナーで韓国にAIチップ工場を建設中、Google向け交渉も並行中。【投資視点】AI大手が独自シリコン開発を加速する流れが明確に。NVIDIA依存からの脱却を目指す各社の動きはNVIDIAへの長期リスク要因。一方サムスンのファウンドリ部門（Samsung Foundry）は複数大手との交渉で受注拡大の好機。",
+    "created_at": "2026-07-02T22:28:01.815Z"
+  },
+  {
+    "date": "2026-07-02",
+    "category": "technology",
+    "source": "TechCrunch",
+    "title_ja": "Microsoftが「AI展開会社」を25億ドルで設立——AWSの10億ドル対抗施策に続く大型企業向けAI実装攻勢",
+    "title_en": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+    "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+    "summary": "MicrosoftがAI展開専門会社「Microsoft Frontier Company」を設立。25億ドル＋6,000人の専門家チームで、大企業のAI実装を支援する。商用部門CEO Judson Althoffが主導。顧客にはロンドン証券取引所グループ、ユニリーバ、Land O'Lakes、アクセンチュアが含まれる。2日前にAWSが類似の10億ドル規模「Foundation Deployment Engine」施策を発表しており、大企業AI実装市場での競争が激化している。【投資視点】AIインフラ整備からAI活用・実装支援へ需要の重心がシフト。MicrosoftとAWSの競争はコンサルティング・SI企業（Accenture、Deloitte等）にも波及。エンタープライズAI実装は2026〜2027年の主要テーマになる見通し。",
+    "created_at": "2026-07-02T22:28:01.815Z"
+  },
+  {
+    "date": "2026-07-02",
+    "category": "technology",
+    "source": "TechCrunch",
+    "title_ja": "テスラQ2納車台数が過去最高の約48万台——ただし株価は7.5%急落、競合激化と米国需要鈍化が重荷",
+    "title_en": "Tesla Q2 2026 deliveries hit record despite stock selloff",
+    "url": "https://techcrunch.com/2026/07/02/tesla-saw-a-massive-sales-jump-in-the-second-quarter/",
+    "summary": "テスラの2026年Q2納車台数は約48万台（Model 3/Y: 467,762台）で四半期過去最高。市場予想（406,600台）を18%超過し、前年比+25%・前四半期比+34%の大幅増。ただし株価は7.5%下落（約1年ぶりの下げ幅）。好材料：地理的拡大、廉価モデル投入、イラン戦争後の欧州EV需要回復。逆風：米国消費者のHV回帰、BYD・NIO・小米との競争激化、マスクの政治活動への反感。エネルギー部門：13.5GWh（前年9.6GWh）。Q2決算発表は7月22日。【投資視点】好調な納車台数にもかかわらず株価が下落したのは将来の利益率・競争への懸念の表れ。7月22日の決算でASP・粗利益率の動向を確認することが重要。",
+    "created_at": "2026-07-02T22:28:01.815Z"
+  },
+  {
+    "date": "2026-07-02",
+    "category": "technology",
+    "source": "CNBC Technology",
+    "title_ja": "GoogleがEU反トラスト制裁金47億ドルの最終判決で敗訴——Android支配の乱用認定、追加上訴の余地なし",
+    "title_en": "Google loses fight over record $4.7 billion EU antitrust fine",
+    "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
+    "summary": "EU司法裁判所（ECJ）がGoogleのAndroid反トラスト制裁金41億ユーロ（約47億ドル）上訴を棄却、最終確定。Googleが自社アプリのプリインストールを条件としてAndroidライセンスを提供したことによる市場支配力の乱用を認定。GOOGL株は時間外-1%。別途、広告技術関連で29.5億ユーロの制裁金事件も係争中。今後はDMA・DSA規制が競争法執行の主軸に。トランプ政権はデジタルサービス税課税国への100%関税を示唆しており、欧米規制摩擦は続く。【投資視点】47億ドルの一時的影響はAlphabetの時価総額（約2兆ドル）に対し軽微。ただし将来的なDMA対応コストやビジネスモデル変更リスクが中期的な懸念点。",
+    "created_at": "2026-07-02T22:28:01.815Z"
+  },
+  {
+    "date": "2026-07-02",
+    "category": "technology",
+    "source": "CNBC Technology",
+    "title_ja": "サムスン・SKハイニックスが9〜14%急落——Nasdaq半導体安が波及も、SKハイニックスは10兆円投資計画を発表",
+    "title_en": "Samsung Electronics, SK Hynix shares tumble over 9% as chip rout spreads to Asia",
+    "url": "https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html",
+    "summary": "Nasdaq半導体急落（マイクロン-10%、Sandisk-10%）がアジアに波及し、サムスン電子が9.06%、SKハイニックスが14.57%下落、KOSPI指数を大幅に押し下げた。中国でもSMIC -11%、上海Iluvatar CoreX -18%と連鎖安。一方でSKハイニックスのKwak CEO は100兆ウォン（6.4兆円）の国内投資計画を発表：M17 NAND工場（2027年着工、2029年稼働）＋AI データセンター5GW→15GW拡張。SKハイニックスは7月10日にNasdaq ADR取引も開始予定。【投資視点】短期の株価下落と中長期の設備投資拡大計画が同時進行。半導体セクターのボラティリティが高い局面だが、HBM・NAND需要の長期トレンドは変わらず。ADR上場で米国投資家からのアクセスが向上する点も注目。",
+    "created_at": "2026-07-02T22:28:01.815Z"
   }
 ]

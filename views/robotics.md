@@ -1,6 +1,26 @@
 # 🦾 フィジカルAI・ロボティクス — 全アーカイブ
 
-全59件 / 日付の新しい順
+全62件 / 日付の新しい順
+
+## 2026-07-02
+
+### [Luxonis、フィジカルAIの知覚レイヤー拡大へシリーズA 1,400万ドル調達——Fortune 500の60社超が顧客](https://www.therobotreport.com/luxonis-closes-series-a-round-to-scale-physical-ai-perception-layer/)
+*Luxonis closes Series A round to scale physical AI perception layer*
+出典: The Robot Report ・ #robotics #2026-07-02
+
+フィジカルAI向け3D知覚カメラを手がけるLuxonisがDeNali Growth Partners主導・Taiwania Capital参加でシリーズA 1,400万ドルを調達。OAKカメラ＋DepthAI SDK（累計600万ダウンロード）を展開し、2025年12月にはOAK4クラウド知覚エコシステムを発表。NVIDIA Isaac Simとも連携。顧客基盤はFortune 500企業60社超（ダウ30種のうち17社）。農業・防衛・産業自動化・重機・医療機器・物流倉庫を主要市場として拡大を目指す。【投資視点】エッジAI知覚コンポーネントは産業ロボット普及の基盤技術。NVIDIAとの連携強化は採用拡大の追い風。Series A規模ながら既存顧客基盤の厚みは注目に値する。
+
+### [Automate 2026レポート——ヒューマノイドの誇大広告から「実用的フィジカルAI」へ業界がシフト](https://www.therobotreport.com/automate-2026-show-recap/)
+*Automate 2026 show recap: from humanoid hype to practical physical AI*
+出典: The Robot Report ・ #robotics #2026-07-02
+
+北米最大のロボット・自動化見本市「Automate 2026」の総括。最大のトレンドは「ヒューマノイドブームから実用的フィジカルAI・エッジコンピューティング展開へ」の転換。ソフトウェアオーケストレーション、デジタルツイン、高度な運動学計算が労働力不足解消の実践的手段として注目を集めた。ポッドキャスト第251回として配信。【投資視点】Automate出展企業（FANUC、Yaskawa、ABB、Cognex等）や産業用ロボットソフトウェア企業（Inductive Automation、Rockwell Automation）が中期的な実装拡大の恩恵を受ける可能性。ヒューマノイド単体ではなくロボット×AI×ソフトウェアのエコシステム全体に着目したい。
+
+### [アリババ傘下のアント・グループ、18カ月でヒューマノイドロボット企業12社に出資——Zeroth Roboticsへ73億円のリード投資](https://www.cnbc.com/2026/07/01/alibaba-affiliate-ant-group-enters-the-humanoid-robot-market-with-12-deals.html)
+*Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months*
+出典: CNBC Technology ・ #robotics #2026-07-02
+
+アリババ傘下のフィンテック企業アント・グループが2025年1月以降18カ月でヒューマノイドロボット企業12社へ投資。最新ではZeroth Robotics（家庭用ロボット：高齢者介護・ペットケア・子どもの教育向け）への5億元（約73億円）のリード投資を実施。Zerothは上半期売上高が前年比600%増、受注3万件超。秋から北米・欧州向け海外展開を計画。アントは独自ロボット子会社「RobbyAnt」も設立。NVIDIA も中国でロボティクス採用を拡大中。【投資視点】中国ヒューマノイドロボット市場への資本流入が急増。Zerothの高成長・海外展開計画は中国ロボット企業のグローバル展開という新たな競争軸を示す。ユニトリー、ギャラクシー、リンカーボットなども同グループのポートフォリオ。
 
 ## 2026-07-01
 

@@ -1,6 +1,38 @@
 # 🖥 テクノロジー — 全アーカイブ
 
-全157件 / 日付の新しい順
+全162件 / 日付の新しい順
+
+## 2026-07-02
+
+### [サムスン・SKハイニックスが9〜14%急落——Nasdaq半導体安が波及も、SKハイニックスは10兆円投資計画を発表](https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html)
+*Samsung Electronics, SK Hynix shares tumble over 9% as chip rout spreads to Asia*
+出典: CNBC Technology ・ #technology #2026-07-02
+
+Nasdaq半導体急落（マイクロン-10%、Sandisk-10%）がアジアに波及し、サムスン電子が9.06%、SKハイニックスが14.57%下落、KOSPI指数を大幅に押し下げた。中国でもSMIC -11%、上海Iluvatar CoreX -18%と連鎖安。一方でSKハイニックスのKwak CEO は100兆ウォン（6.4兆円）の国内投資計画を発表：M17 NAND工場（2027年着工、2029年稼働）＋AI データセンター5GW→15GW拡張。SKハイニックスは7月10日にNasdaq ADR取引も開始予定。【投資視点】短期の株価下落と中長期の設備投資拡大計画が同時進行。半導体セクターのボラティリティが高い局面だが、HBM・NAND需要の長期トレンドは変わらず。ADR上場で米国投資家からのアクセスが向上する点も注目。
+
+### [GoogleがEU反トラスト制裁金47億ドルの最終判決で敗訴——Android支配の乱用認定、追加上訴の余地なし](https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html)
+*Google loses fight over record $4.7 billion EU antitrust fine*
+出典: CNBC Technology ・ #technology #2026-07-02
+
+EU司法裁判所（ECJ）がGoogleのAndroid反トラスト制裁金41億ユーロ（約47億ドル）上訴を棄却、最終確定。Googleが自社アプリのプリインストールを条件としてAndroidライセンスを提供したことによる市場支配力の乱用を認定。GOOGL株は時間外-1%。別途、広告技術関連で29.5億ユーロの制裁金事件も係争中。今後はDMA・DSA規制が競争法執行の主軸に。トランプ政権はデジタルサービス税課税国への100%関税を示唆しており、欧米規制摩擦は続く。【投資視点】47億ドルの一時的影響はAlphabetの時価総額（約2兆ドル）に対し軽微。ただし将来的なDMA対応コストやビジネスモデル変更リスクが中期的な懸念点。
+
+### [テスラQ2納車台数が過去最高の約48万台——ただし株価は7.5%急落、競合激化と米国需要鈍化が重荷](https://techcrunch.com/2026/07/02/tesla-saw-a-massive-sales-jump-in-the-second-quarter/)
+*Tesla Q2 2026 deliveries hit record despite stock selloff*
+出典: TechCrunch ・ #technology #2026-07-02
+
+テスラの2026年Q2納車台数は約48万台（Model 3/Y: 467,762台）で四半期過去最高。市場予想（406,600台）を18%超過し、前年比+25%・前四半期比+34%の大幅増。ただし株価は7.5%下落（約1年ぶりの下げ幅）。好材料：地理的拡大、廉価モデル投入、イラン戦争後の欧州EV需要回復。逆風：米国消費者のHV回帰、BYD・NIO・小米との競争激化、マスクの政治活動への反感。エネルギー部門：13.5GWh（前年9.6GWh）。Q2決算発表は7月22日。【投資視点】好調な納車台数にもかかわらず株価が下落したのは将来の利益率・競争への懸念の表れ。7月22日の決算でASP・粗利益率の動向を確認することが重要。
+
+### [Microsoftが「AI展開会社」を25億ドルで設立——AWSの10億ドル対抗施策に続く大型企業向けAI実装攻勢](https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/)
+*Microsoft launches its own AI deployment company with $2.5 billion commitment*
+出典: TechCrunch ・ #technology #2026-07-02
+
+MicrosoftがAI展開専門会社「Microsoft Frontier Company」を設立。25億ドル＋6,000人の専門家チームで、大企業のAI実装を支援する。商用部門CEO Judson Althoffが主導。顧客にはロンドン証券取引所グループ、ユニリーバ、Land O'Lakes、アクセンチュアが含まれる。2日前にAWSが類似の10億ドル規模「Foundation Deployment Engine」施策を発表しており、大企業AI実装市場での競争が激化している。【投資視点】AIインフラ整備からAI活用・実装支援へ需要の重心がシフト。MicrosoftとAWSの競争はコンサルティング・SI企業（Accenture、Deloitte等）にも波及。エンタープライズAI実装は2026〜2027年の主要テーマになる見通し。
+
+### [AnthropicがSamsungとカスタムAIチップを協議——OpenAIの「Jalapeño」チップに続く独自半導体戦略](https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/)
+*Anthropic is discussing a new custom chip with Samsung*
+出典: TechCrunch ・ #technology #2026-07-02
+
+Anthropicがサムスン電子とカスタム推論チップについて初期段階の協議を行っていると報じられた（The Information報道）。Anthropicは「多様化されたスタックの維持が鍵」と回答するにとどめ、決定事項はない段階。背景：OpenAIが先週BroadcomとのAI推論チップ「Jalapeño」を発表。サムスンはNVIDIAの主要パートナーで韓国にAIチップ工場を建設中、Google向け交渉も並行中。【投資視点】AI大手が独自シリコン開発を加速する流れが明確に。NVIDIA依存からの脱却を目指す各社の動きはNVIDIAへの長期リスク要因。一方サムスンのファウンドリ部門（Samsung Foundry）は複数大手との交渉で受注拡大の好機。
 
 ## 2026-07-01
 

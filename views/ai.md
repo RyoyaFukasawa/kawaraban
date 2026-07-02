@@ -1,6 +1,42 @@
 # 🤖 AI・先進技術 — 全アーカイブ
 
-全126件 / 日付の新しい順
+全131件 / 日付の新しい順
+
+## 2026-07-02
+
+### [AIが産業用タービンの運用を最適化——エネルギー・製造業への実用展開が加速](https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/)
+*Teaching AI to run with the turbines*
+出典: MIT Tech Review AI ・ #ai #2026-07-02
+
+産業用タービンの運転をAIで最適化し、発電効率向上や予兆保全を実現する取り組みが進んでいる。エネルギー・製造セクターへのAI実用展開が本格化している段階を示す事例。【投資視点】GEベルノバ、シーメンス・エナジー、ABBなどの産業用AIソリューション企業に注目。エネルギー効率改善は規制強化・コスト圧力の双方から需要が強い。（本文有料会員限定のためRSSヘッドラインに基づく要約）
+
+### [⚠️ NVIDIAのAI研究者「AGIは来ない」——クローズドモデルはAOLと同じ末路、未来はオープンソースへ](https://www.reddit.com/r/LocalLLaMA/comments/1ult0f4/)
+*Nvidia AI executive says the future is open-source models, not AGI from closed labs*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-07-02
+
+⚠️ この情報はRedditコミュニティ投稿に基づくものであり、内容の正確性は未検証です。
+NVIDIAのAI分野の著名研究者がAGIの到来を否定し、OpenAIやAnthropicのクローズドモデルをかつてのAOL・Prodigyのクローズドインターネットに例えたとされる。将来は各企業がカスタマイズされたオープンソースモデルを持つ時代になるとの見解。【投資視点】もしこの見方が正しければ、Meta（LLaMA）やMistral、Hugging Faceのようなオープンモデル提供者が有利。クローズドAPIに依存するOpenAI・Anthropicの長期戦略への問いかけとして注目に値する。
+> ⚠️ **未確認情報**（Reddit r/LocalLLaMA発・要裏取り）。コミュニティの話題であり、事実は確認されていません。
+
+### [⚠️ Kimi K2.7 CodeがGitHub Copilotで利用可能に——MoonshotのコーディングモデルがMicrosoftエコシステムへ統合](https://www.reddit.com/r/LocalLLaMA/comments/1ulm1gt/)
+*Kimi K2.7 Code is generally available in GitHub Copilot*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-07-02
+
+⚠️ この情報はRedditコミュニティ投稿に基づくものであり、内容の正確性は未検証です。
+中国のスタートアップMoonshot AIのコーディング特化モデル「Kimi K2.7 Code」がGitHub Copilotで一般提供開始されたとのコミュニティ報告。MicrosoftがCopilotのモデル選択肢を拡大し、中国系AIモデルを統合した形。【投資視点】GitHub Copilot（Microsoft）がモデル多様化を進める中、中国系コーディングAIの採用は競争激化の一側面。コーディングAI市場ではGitHub Copilot、Cursor、Amazon Codewhispererが競争中。
+> ⚠️ **未確認情報**（Reddit r/LocalLLaMA発・要裏取り）。コミュニティの話題であり、事実は確認されていません。
+
+### [OpenAI、米国政府系ファンドへ株式5%提供を提案——トランプ政権との関係強化で政治リスク軽減狙い](https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/)
+*OpenAI proposed donating 5% of its equity to a US sovereign wealth fund*
+出典: TechCrunch ・ #ai #2026-07-02
+
+OpenAIのSam Altmanが米国政府系ウェルスファンドへの株式5%提供を提案したと報じられた。トランプ大統領は6月に「米国が出資するのは美しいこと」と述べていた。FTは「Altmanの安全提案：われわれを勝たせるか、全員が負けるか」と報道し、米国主導の世界秩序が米国AIオリゴポリーに優位性をもたらすという論点を提起。【投資視点】OpenAIが政府との関係を制度化することで規制リスクを軽減する戦略。米国AI産業への政府関与が高まる中、規制の恩恵を受けやすいポジション確立の動き。競合他社への影響（Anthropic、Google DeepMind）にも注目。
+
+### [Berkeley AI Research、2026年卒業生の進路を公開——Physical Intelligence・OpenAI・Mistral AIなどへ](http://bair.berkeley.edu/blog/2026/07/01/grads-2026/)
+*2026 BAIR Graduate Showcase*
+出典: BAIR Blog ・ #ai #2026-07-02
+
+UCバークレーのAI研究所（BAIR）が2026年度卒業生の研究成果と進路を発表。Baifeng Shi（Physical Intelligence、汎用視覚・ロボットモデル）、Hanlin Zhu（OpenAI、LLMスケーリング）、Haozhi Qi（Amazon+シカゴ大、器用な操作）、Josh Kang（Mistral AI）、J.D. Zamfirescu-Pereira（UCLA、人間-AI協調設計）、Eve Fleisig（Princeton、LLM公平性）など。研究テーマはロボット・身体化AI、LLM推論、生成モデル、AIの安全性、医療・科学応用まで多岐。【投資視点】トップ研究者の就職先がPhysical Intelligence・OpenAI・MistralというAIスタートアップに集中。ロボット・身体化AI分野への人材流入は同セクターの成長を示す先行指標として注目できる。
 
 ## 2026-07-01
 
