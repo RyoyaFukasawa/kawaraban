@@ -1,6 +1,75 @@
 # 🤖 AI・先進技術 — 全アーカイブ
 
-全131件 / 日付の新しい順
+全136件 / 日付の新しい順
+
+## 2026-07-03
+
+### [⚠️ MistralがApache 2.0の定理証明特化モデル「Leanstral 1.5」を公開——miniF2F完全飽和・PutnamBench 87%達成](https://www.reddit.com/r/LocalLLaMA/comments/1umgdhx/mistral_released_leanstral15119ba6b/)
+*Mistral released Leanstral-1.5-119B-A6B*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-07-03
+
+Mistral AIが数学定理証明・形式検証に特化した「Leanstral 1.5」（119B総パラメータ、6Bアクティブ）をApache 2.0ライセンスで公開したという投稿がコミュニティで話題となっている。公式ブログ（mistral.ai/news/leanstral-1-5/）でも告知されており、実際のMistral公式リリースと考えられる。
+モデルの位置づけ：定理証明言語「Lean」向けに特化した世界最大規模クラスのAIモデル。mid-training（中間学習）・SFT（教師あり微調整）・CISPO強化学習の三段階で訓練。
+具体的なベンチマーク：①miniF2F（数学定理証明標準ベンチマーク）を飽和（ほぼ100%正解）、②PutnamBench（大学数学コンペティション問題集672問中587問を解答）、③FATE-H：87%・FATE-X：34%でSOTA達成、④57の実際のコードリポジトリに適用し、過去未発見のバグ5件を発見。
+形式検証AIの意義：「形式検証」とはプログラムの正しさを数学的に証明する技術で、航空・医療・金融・半導体設計など高信頼性ソフトウェアに不可欠。従来は専門家が手動で実施していたが、AIが実用水準に近づいたことを示す可能性がある。
+投資・業界含意：Mistralがオープンウェイトでこの分野に参入したことで、クローズドAPI企業（OpenAI・Anthropic）に対するオープンソース陣営の技術力を示す事例として注目。形式検証の自動化は高信頼性システムを持つセクター全体のコスト削減余地を示唆。
+💡 投資含意: 形式検証AIが実用化されれば、ソフトウェア品質保証コストが大幅低減し、FinTech・航空宇宙・医療機器業界の開発コスト構造が変わる可能性。Mistral AI（非公開）の技術競争力の再確認材料。
+📈 関連銘柄: なし（Mistralは非上場）。長期的には形式検証コスト低下の恩恵を受ける垂直産業（BA、RTX、医療機器各社）に間接影響。
+⚖️ 強気材料（AIの産業応用拡大全般）
+⚠️ 未確認情報（Reddit発・要裏取り）
+
+### [⚠️ MoE推論を最大13.9%高速化するデコードルーティング手法「ELDR」論文——vLLMに実装・40GPU規模で検証](https://www.reddit.com/r/LocalLLaMA/comments/1umfr10/eldr_expertlocalityaware_decode_routing_for/)
+*ELDR: Expert-Locality-Aware Decode Routing for PD-Disaggregated MoE Serving*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-07-03
+
+MoE（混合エキスパート）型LLMのサービング効率を大幅改善する手法「ELDR」の論文（arXiv:2607.00466）がコミュニティで話題となっている。vLLMに実装され、最大40GPU規模の本番相当環境で評価済み。
+手法の核心：PD分離型（プリフィル-デコード分離）LLMサービングでは、デコードワーカーの割り当てが単純な負荷分散で行われており、MoEモデルではエキスパートの局所性を無視した場合に遅延が増大する。ELDRはプリフィル時のエキスパート活性化パターンから「シグネチャ」を算出し、同様のシグネチャを持つリクエストを同じデコードワーカーに誘導することでエキスパートウェイトのキャッシュ再利用率を高める。
+実測効果：3つのMoEモデル・2つのワークロードで中央値TPOT（トークン当たり生成時間）を5.9〜13.9%削減。モデルの出力は変化しない（非破壊的最適化）。KVキャッシュとシグネチャキャッシュを共同インデックス化することでプレフィックスキャッシング環境でも精度を維持。
+背景：DeepSeek V3/V4・Mixtral等MoEモデルの普及に伴い、推論コストの効率化は商業展開の競争力に直結する。現在の業界水準では13.9%の改善は顕著であり、規模の経済が働くほど絶対額の削減効果が大きくなる。
+産業含意：vLLMはOpenAI・Anthropic・Google・Amazonをはじめ多数のAIサービスで使用される事実上の標準推論エンジン。ELDRがvLLMのデフォルト機能に組み込まれれば、業界全体のMoE推論コストが下がる可能性がある。
+💡 投資含意: AI推論コストの削減はクラウドAIサービス（AMZN/AWS・GOOGL・MSFT/Azure）の利益率改善に貢献。一方、コスト低下による値下げ競争は新規参入のハードルを下げる。GPU需要への影響は軽微（同じモデルをより少ない時間で処理するため回転率は上がる）。
+📈 関連銘柄: AMZN・GOOGL・MSFT（MoE推論コスト削減の恩恵）、NVDA（変化なし、GPU絶対需要は維持）
+⚖️ 強気材料（AIクラウド事業者のコスト効率）
+⚠️ 未確認情報（Reddit発・要裏取り）
+
+### [⚠️ AMDがオープンソースのインタラクティブ世界モデル「Micro-World」を公開——アクション制御で動画シーンを動的生成](https://www.reddit.com/r/LocalLLaMA/comments/1umey6p/microworld_actioncontrolled_interactive_world/)
+*Micro-World - Action-controlled Interactive world model - AMD*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-07-03
+
+AMDのAGIチームが「Micro-World」というアクション制御型インタラクティブ世界モデルをオープンソースで公開したという投稿がコミュニティで話題となっている。GitHub（AMD-AGI/Micro-World）およびHugging Face（amd/Micro-World）でモデルウェイト・訓練コード・推論コード・データセットがすべて公開されており、実際のAMD公式リリースと考えられる。
+アーキテクチャ：Wan2.1モデルファミリーをベースに、画像→世界（I2W）とテキスト→世界（T2W）の両バリアントを訓練。アクション注入にはadaLN（パラメータ効率重視）とControlNet（訓練安定性重視）を併用。ユーザーのアクション入力に応じてシーンが動的に変化するインタラクティブな動画生成が可能。
+背景：「世界モデル」はロボット制御・自動運転・ゲームエンジン・シミュレーターの基盤技術として注目が高まる分野。NVIDIAのCosmos（クローズド）が業界をリードするなか、AMDがオープンソースで参入したことは競争構造に変化をもたらす可能性がある。
+AMDの戦略的含意：AMDはGPU単体の競合にとどまらず、AIソフトウェアエコシステムへの研究投資を公開する形で加速している。ROCm/HIPプラットフォームとの組み合わせで「NVIDIAのCUDA依存を崩す」オープンスタック戦略の一環として解釈できる。
+💡 投資含意: AMDがAIソフトウェア研究を公開することで、NVIDIAのCUDAエコシステムへの対抗軸が形成される。短期的な事業インパクトは軽微だが、中長期的なGPU市場シェア競争において重要なシグナル。
+📈 関連銘柄: AMD（強気材料の補強）、NVDA（競争激化の観点で中立〜若干の逆風）
+⚖️ 強気材料（AMD）、弱気材料（NVDAエコシステム独占への軽微なリスク）
+⚠️ 未確認情報（Reddit発・要裏取り）
+
+### [⚠️ audio.cppがGGML音楽生成・音源分離に対応——10分の楽曲を60秒で生成、C++ネイティブ実装](https://www.reddit.com/r/LocalLLaMA/comments/1um2tbf/audiocpp_the_sound_of_ggml_cggml_native_acestep/)
+*[audio.cpp] The Sound of GGML — C++/GGML native ACE-Step, Stable Audio, HeartMuLa, RoFormer, HTDemucs released. 10-Minute Music in 60 Seconds!*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-07-03
+
+llama.cppと同じGGMLフレームワークを使った音楽・音声AI統合ライブラリ「audio.cpp」が大型アップデートを公開したという投稿がコミュニティで話題となっている。GitHub（0xShug0/audio.cpp）で公開されているオープンソースプロジェクト。
+今回追加された機能：①音楽生成（ACE-Step 1.5 Turbo/Base、HeartMuLa、Stable Audio 3 Music）、②効果音生成（Stable Audio 3 SFX）、③音源分離（Mel-Band RoFormer、HTDemucs）。これによりaudio.cppは「音声合成（TTS）」だけでなく、「音楽生成・効果音生成・音源分離」まで一つのネイティブC++フレームワークでカバー。
+性能：ACE-Step Turboで600秒（10分）の楽曲を60.16秒で生成（RTF 0.100、9.97倍速）。Pythonパスより約1.47倍高速。ただしHTDemucsは現状PythonよりGGML版が遅い部分もあると開発者自身が明記。
+背景：llama.cppがLLM（大規模言語モデル）のローカル実行を普及させたように、audio.cppは音楽・音声AIをクラウドなしでローカル実行可能にすることを目指す。Suno・Udio等の音楽生成AIクラウドサービスに対するオープンソース代替として機能する可能性がある。
+含意：音楽生成AIのコモディティ化が加速する可能性。クラウドベースの音楽生成サービス（Suno、Udio）は長期的に価格競争圧力を受ける。一方、ローカル実行の普及はエッジAI向け半導体需要を維持する。
+💡 投資含意: 音楽生成AIのクラウドサービス一強体制が揺らぐリスク。Spotifyが音楽生成AI投資の方向性を検討する上で、オープンソース代替の台頭は競合コスト低下として参照される可能性。ローカルAI実行はAMD・Intel CPUおよびコンシューマGPU需要の底支え。
+📈 関連銘柄: AMD・INTC（ローカルAI実行需要で中立〜強気）、SPOT（競争激化の中長期リスク）
+⚖️ 弱気材料（音楽生成AIクラウドSaaS）、強気材料（ローカルAI半導体）
+⚠️ 未確認情報（Reddit発・要裏取り）
+
+### [Google DeepMindと映画スタジオA24が「前例のない」研究提携を発表](https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/)
+*Google DeepMind and A24 announce first-of-its-kind research partnership*
+出典: Google DeepMind ・ #ai #2026-07-03
+
+Google DeepMindと米独立系映画スタジオA24が「業界初」とされる研究提携を発表した。タイトルに「first-of-its-kind（前例のない）」と明記されており、AI研究機関と映画スタジオの本格的な協業の嚆矢として注目される。
+A24は「Moonlight」「エブリシング・エブリウェア・オール・アット・ワンス」など批評・興行の両面で評価される独立系映画スタジオ。DeepMindはAlphaFold・Geminiなどで知られるGoogle傘下の世界有数のAI研究機関。
+本文の取得に失敗しており（403）、RSSの記述も詳細を含まないため、提携の具体的な内容・範囲・条件などは不明。一般に、AI研究機関とクリエイティブ産業の提携では映像生成・脚本解析・音楽制作・視覚効果などへのAI応用研究が含まれることが多い。
+提携の意義：AI×エンタテインメントのコラボが研究機関レベルで公式化されたことは、クリエイティブAIの産業化が次の段階に入りつつある先行指標。Adobe、Runway、Pika等のクリエイティブAIツール企業との競合または補完関係にも影響しうる。
+💡 投資含意: GOOGL（DeepMind）がエンタテインメント・クリエイティブ産業への本格参入を示す動き。Adobe等のクリエイティブAIプラットフォーム企業には中長期的な競争圧力となる可能性。
+📈 関連銘柄: GOOGL（強気方向補強）、ADBE（競争リスク要因として中立〜弱気）
+⚖️ 強気材料（GOOGL、クリエイティブAIの産業化全般）
 
 ## 2026-07-02
 
