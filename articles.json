@@ -6778,5 +6778,215 @@
     "url": "https://www.cnbc.com/2026/07/02/autonomous-defense-startup-quantum-systems.html",
     "summary": "ドイツの自律型防衛スタートアップ「Quantum Systems」がシリーズDで12億ドルを調達し、評価額は約80億ドルに達した。陸海空をカバーする無人システム（ドローン・UUV・UGV）を開発しており、黒字経営を達成済み。\n経緯：同ラウンドはBlackstone・Noteus・Airbus・Adventが主導し、Bond・Fidelity・Balderton・HV Capitalが参加。Airbusの参加はサプライチェーン確保と欧州防衛市場への販路アクセスとして戦略的意義が大きい。\n数字：2026年の防衛テック業界全体での調達額はすでに174億ドルに達し、2025年通年の112億ドルを超過した。主な事例：Anduril 50億ドル（5月）、Shield AI 20億ドル、Saronic 18億ドル（いずれも3月）。欧州ではHelsing（$18B評価でIPO準備中）、Stark（Sequoia/Thiel主導で5億ユーロ）も大型調達。\n実績：2025年にウクライナで19,000件以上のミッションを実施——実戦での運用実績は投資家の信頼性証明として機能。\n構造的変化：Blackstoneのような大手PEファンドが防衛テックへ参入したことは、この分野の主流投資化を示す。従来は上場大手（LMT・RTX）が独占していた防衛システム市場に、AIネイティブのスタートアップが本格参入している。\n💡 投資含意: 自律型防衛システムの急成長は上場防衛大手（LMT、RTX、NOC）の在来型ビジネスモデルへの長期的圧力を示す。一方で半導体（エッジAIチップ：NVDA、Qualcomm）の軍事向け需要増は明確な追い風。欧州防衛予算の拡大がこのトレンドを加速。\n🔗 波及: ドローン×AI軍事利用の拡大→NATO加盟国への供給拡大→米国防衛サプライチェーン（L3Harris、KTOS）の受注増加\n📈 関連銘柄: RTX・LMT・NOC（既存防衛大手）、NVDA・QCOM（エッジAI）、KTOS（小型防衛ドローン）\n⚖️ 強気材料（防衛テックエコシステム・エッジAI需要）\n📅 次の注目: HelsingSのIPO詳細（$18B評価が実現するか）",
     "created_at": "2026-07-03T22:28:55.344Z"
+  },
+  {
+    "date": "2026-07-04",
+    "category": "ai",
+    "source": "Reddit r/LocalLLaMA",
+    "title_ja": "⚠️ PalantirはHugging Faceに無料登録するが公開モデル・データセットはゼロ",
+    "title_en": "Palantir is a free org on HF with 0 open-source models and 0 public datasets shared",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1umbw0v/palantir_is_a_free_org_on_hf_with_0_opensource/",
+    "summary": "PalantirがHugging Faceで組織アカウントを持ちながら公開モデルもデータセットも一切共有していないとRedditで指摘され議論を呼んでいる。\n同社CEOは「米政府顧客の一部がオープンソースAIへ移行した」と発言するなどオープンソース活用を推進する姿勢を演出しているが、実際のHF上のオープンソース活動はゼロだ。\nPalantirはAIP（AI Platform）でプロプライエタリなAIソリューションを提供しており、オープンソース化は同社のビジネスモデルと本来は相容れない。\n同社株（PLTR）はAIバリュエーション高騰の中でPER300倍超の水準で取引されており、オープンソース戦略への期待もその一因と見られる。\nReddit由来の情報であり、実際のHugging Face上での確認が必要。\n💡投資含意: PLTRのバリュエーションにはオープン化期待が織り込まれており、活動ゼロが広く認識されれば失望売りにつながるリスクがある。\n🔗波及: 政府向けAI市場でのオープンソースvs.プロプライエタリの競争激化。MSFT・Amazon（AWS Bedrock）・METAが競合。\n📈関連銘柄: PLTR（直接）、META（オープンソース受益者、Llama）\n⚖️強気弱気: 弱気―オープンソース活動がゼロなら信頼性の毀損リスク。強気―政府顧客との独占的関係はオープン化に依存せず不変。\n📅次の注目: HuggingFaceでの公開モデル動向、Q2決算（8月予定）でのAIP売上成長率\n⚠️ 未確認情報（Reddit発・要裏取り）",
+    "created_at": "2026-07-04T22:33:40.789Z"
+  },
+  {
+    "date": "2026-07-04",
+    "category": "ai",
+    "source": "Reddit r/LocalLLaMA",
+    "title_ja": "⚠️ GoogleがTabFM-1.0.0を公開―ゼロショット対応の表形式データ基盤モデル",
+    "title_en": "google/tabfm-1.0.0",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1un5hyi/googletabfm100/",
+    "summary": "GoogleリサーチがTabFM-1.0.0を公開した。構造化・表形式データ向けのファンデーションモデルで、分類・回帰タスクにゼロショット推論を実現する。\n従来の表形式MLはデータセットごとにモデル訓練とハイパーパラメータ探索が必要だったが、TabFMは数値・カテゴリ混在カラムに対して文脈内学習（ICL）で予測を行う。\nファインチューニング不要でトレーニング例をコンテキストに渡すだけで推論できる点が特徴。GoogleリサーチのHF組織で公開されている（Reddit情報）。\n企業の業務データ分析・予測への応用が期待され、データサイエンティストの作業効率化ツールとして商用展開の可能性がある。\n既存のAutoMLプラットフォーム（DataRobot等）への競合圧力が増す可能性があり、GCPエコシステムへの統合次第ではクラウド粘着性向上につながる。\n💡投資含意: GoogleのエンタープライズAIツール強化の一環。BigQueryやVertex AIとの統合が進めばGCPビジネスの優位性を高める。\n🔗波及: DataRobot・Databricksなど自動MLプラットフォームへの競合圧力。SNOW（Snowflake）のML機能とも競合。\n📈関連銘柄: GOOGL（直接）、DDOG・SNOW（間接的な競合）\n⚖️強気弱気: 強気―ゼロショット性能が高ければ企業データ分析の参入障壁を下げGCPの採用を加速。弱気―Reddit由来情報で実際の性能・可用性は未確認。\n📅次の注目: Google公式発表、arxiv論文、Vertex AI統合の有無\n⚠️ 未確認情報（Reddit発・要裏取り）",
+    "created_at": "2026-07-04T22:33:40.789Z"
+  },
+  {
+    "date": "2026-07-04",
+    "category": "ai",
+    "source": "Reddit r/LocalLLaMA",
+    "title_ja": "⚠️ [論文] マルチブロック拡散言語モデル―非自己回帰型LMの推論高速化手法",
+    "title_en": "[Paper] Multi-Block Diffusion Language Models",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1un8y5p/paper_multiblock_diffusion_language_models/",
+    "summary": "ブロック拡散言語モデル（BD-LM）をシングルブロックからマルチブロック（MultiBD）へ拡張する論文がRedditで共有された。\nBD-LMはKVキャッシュ対応と可変長生成を実現した拡散ベースのテキスト生成モデルで、自己回帰型（AR）に対する代替アーキテクチャとして注目されている。\nMultiBDは連続するブロック群を同時にデコードすることでシングルブロック方式より推論を高速化し、Transformerの逐次生成に比べ並列デコードによるレイテンシ改善を実現する。\n実用化されればLLMの推論コスト（GPU時間）を大幅に削減でき、エッジデバイスや低レイテンシアプリケーションへの展開が容易になる可能性がある。\n研究段階の成果であり、情報源はReddit（未確認）。\n💡投資含意: 推論効率向上はクラウドプロバイダーのGPUコスト削減・マージン改善に貢献。OnDevice AI実現を加速すればApple・Qualcommにも有利に働く。\n🔗波及: 拡散ベースLMが台頭すればvLLM等の既存AR専用最適化ソフトとの競合が生じる。インテルMeteorLakeやQualcomm Snapdragonのオンデバイス推論需要に影響。\n📈関連銘柄: NVDA・AMD（推論チップ需要）、AAPL（オンデバイスAI）、QCOM\n⚖️強気弱気: 強気―AR型との推論コスト差が縮まれば業界全体のAI普及がさらに加速。弱気―研究から実用化まで長い時間が必要で短期影響は限定的。\n📅次の注目: arxiv論文詳細、主要LLMラボの採用・実験状況、vLLM等推論フレームワークの対応\n⚠️ 未確認情報（Reddit発・要裏取り）",
+    "created_at": "2026-07-04T22:33:40.789Z"
+  },
+  {
+    "date": "2026-07-04",
+    "category": "ai",
+    "source": "Reddit r/LocalLLaMA",
+    "title_ja": "⚠️ [論文] GEAR：画像生成向けガイド付きエンドツーエンド自己回帰モデル",
+    "title_en": "[Paper] GEAR: Guided End-to-End AutoRegression for Image Synthesis",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1un9955/paper_gear_guided_endtoend_autoregression_for/",
+    "summary": "視覚生成モデルの標準的な2段階学習（トークナイザ学習→フリーズ→生成器学習）の非効率を解消するGEARアーキテクチャを提案した論文がRedditで話題となっている。\n既存手法ではトークナイザが生成器の学習容易性を考慮しないため両者が最適に連携できない問題があったが、GEARはトークナイザと生成器をエンドツーエンドで結合し相互最適化を可能にする。\n画像生成ベンチマークでSOTA水準の性能を達成したとされており、マルチモーダルLLMの推論品質・生成効率の改善が期待される研究方向だ。\n実用化されれば画像・動画生成AIの推論コスト削減に貢献し、Adobe FireflyやMidjourneyなどのモデル更新サイクルを加速させる可能性がある。\nただし情報源はRedditであり、arxivの論文内容確認が必要。\n💡投資含意: マルチモーダル生成AIの性能・効率向上はGPU推論需要と密接に連動。トークナイザ改善はモデルサイズの小型化にも貢献し得る。\n🔗波及: NVIDIAのH100/B200推論需要、OpenAI・Anthropic・Geminiのマルチモーダル競争、AdobeのFirefly製品ロードマップ\n📈関連銘柄: NVDA（間接）、ADBE（Adobe）、MSFT（Azure画像生成API）\n⚖️強気弱気: 強気―研究が実装に移ればマルチモーダルAIの差別化競争を加速。弱気―研究段階のため短期インパクト限定的。\n📅次の注目: arxiv論文公開、大手ラボ（Google・OpenAI）の採用・引用状況\n⚠️ 未確認情報（Reddit発・要裏取り）",
+    "created_at": "2026-07-04T22:33:40.789Z"
+  },
+  {
+    "date": "2026-07-04",
+    "category": "economy",
+    "source": "NYT Business",
+    "title_ja": "最高騰した株式市場は最大の損失をもたらす―過去100年の研究が示すバブルのパターン",
+    "title_en": "The Hottest Stock Markets Lead to the Biggest Losses",
+    "url": "https://www.nytimes.com/2026/07/03/business/stocks-investing-markets.html",
+    "summary": "投資家の熱狂が最高潮に達した株式市場ほど、最終的に最大の資産破壊をもたらすという過去100年の研究結果をNYTが報じた（記事本文はペイウォール）。\n歴史的に「最も注目を集めた市場・セクター」が最終的にはパフォーマンスが最悪となるパターンが繰り返されており、現在のAI株ブームとの類似性が指摘されている。\nMANGOS株やAIテック全般への集中投資が進む中、過去の事例（1990年代インターネットバブル、2000年代中国・BRICs等）を参照点として警鐘を鳴らす内容だ。\n「個人投資家が最も熱狂しているときが最も危険」という古典的なコントラリアン投資の知見が再確認される。\n分散投資と長期視点の重要性が改めて強調される一方、AIの生産性革命が今回は「本物」との反論もある。\n💡投資含意: AI株への過度な集中投資リスクに対する警告として機能。バリュエーション分散（AI以外のセクター）とポジションサイズ管理が重要になる局面。\n🔗波及: 機関投資家のポートフォリオリバランス（テック→エネルギー・ヘルスケア・金融）が進む可能性。ゴールド・国債等の防衛的資産への需要増加も。\n📈関連銘柄: GLD（金ETF）、TLT（長期国債ETF）、VTV（バリュー株ETF）\n⚖️強気弱気: 弱気（AI株）―熱狂の末の崩壊シナリオ。強気―AIの収益化が歴史上の「バブル」とは質的に異なり長期成長が続くとの反論も有力。\n📅次の注目: Q2決算シーズン（7〜8月）でのAI収益化検証、FRBの利下げ時期とバリュエーションへの影響",
+    "created_at": "2026-07-04T22:33:40.789Z"
+  },
+  {
+    "date": "2026-07-04",
+    "category": "economy",
+    "source": "NYT Business",
+    "title_ja": "マラッカ海峡はホルムズ海峡の通行料モデルになれるか―両海峡の違いと石油輸送リスク",
+    "title_en": "Why One Global Shipping Choke Point Isn't a Blueprint for Another",
+    "url": "https://www.nytimes.com/2026/07/03/business/strait-malacca-hormuz.html",
+    "summary": "マラッカ海峡（シンガポール・マレーシア・インドネシアが管理）をモデルにホルムズ海峡（イラン・オマンが管轄）での通行料徴収が検討される中、両海峡の根本的な違いを分析したNYTの記事（ペイウォール）。\nマラッカ海峡は3カ国の平和的な協調管理のもと円滑に機能しているが、ホルムズ海峡はイランと西洋の緊張関係が常に存在する地政学的な火薬庫だ。\n世界の石油輸送の約20%を担うホルムズ海峡での通行料徴収はサプライショックを引き起こす可能性があり、石油価格の重大なリスク要因となる。\nハメネイ師死去後のイラン新指導部の外交姿勢次第では、ホルムズ海峡の通行条件が変化し得る。\n石油の代替輸送ルート（サウジアラビアのアラビア半島横断パイプライン等）の重要性が再認識される文脈でもある。\n💡投資含意: ホルムズ海峡リスクは原油価格の「テール・リスク」として常に存在する。具体的な緊張高まりの局面ではエネルギー株の価格が急騰するシナリオに備える。\n🔗波及: 代替ルートへの投資（サウジパイプライン、UAE備蓄）、海運保険コスト上昇、LNG（米国産）の需要増加につながる可能性。\n📈関連銘柄: XOM・CVX・OXY（エネルギー）、CQP・LNG（LNG輸出）\n⚖️強気弱気: 強気（エネルギー株）―ホルムズ緊張高まりで原油急騰シナリオ。弱気（マクロ）―エネルギー高騰がインフレ再燃・景気後退リスクにつながる。\n📅次の注目: イラン後継指導部の対外姿勢、ホルムズ海峡の通行状況確認",
+    "created_at": "2026-07-04T22:33:40.789Z"
+  },
+  {
+    "date": "2026-07-04",
+    "category": "economy",
+    "source": "NYT Business",
+    "title_ja": "銀行の当座貸越手数料が再び急増―議会が上限規制を廃止、消費者負担増",
+    "title_en": "Why Some Banks Still Charge High Overdraft Fees",
+    "url": "https://www.nytimes.com/2026/07/03/your-money/banks-overdraft-fees.html",
+    "summary": "議会が昨年（2025年）銀行の当座貸越手数料の上限規制を廃止したことで、銀行収益は再び増加しており消費者負担が高まっているとNYTが報じた（記事本文はペイウォール）。\nBiden政権時代に導入された1件当たり$8への上限規制が撤廃され、一部の銀行は引き続き$25〜$35超の手数料を徴収している。\n規制廃止は消費者金融保護局（CFPB）の権限縮小と連動しており、トランプ政権の金融規制緩和方針の一環だ。\n低所得層の消費者が特に影響を受けやすく、社会的不平等の拡大への懸念も高まっている。\n大手銀行（JPMorgan・BofA・Wells Fargo等）の手数料収益増加はEPS改善につながる一方、評判リスクと将来的な規制揺り戻しのリスクを内包している。\n💡投資含意: 銀行の非金利収益（手数料）増加はEPS上乗せ要因。金融規制緩和が継続する間はネット・インタレスト・マージン以外の収益源として評価される。\n🔗波及: 消費者向けフィンテック（Chime・Current等のノーフィーバンク）への競争優位を与える可能性。CFPB の権限縮小は規制テックセクターにも影響。\n📈関連銘柄: JPM・BAC・WFC（大手銀行）、SYF（Synchrony、クレジット）\n⚖️強気弱気: 強気―非金利収益増加でEPS改善、配当・自社株買い余力増加。弱気―消費者保護規制の揺り戻し（中間選挙後）と評判リスク。\n📅次の注目: Q2銀行決算での手数料収益開示（7月中旬）、CFPB再活性化の立法動向",
+    "created_at": "2026-07-04T22:33:40.789Z"
+  },
+  {
+    "date": "2026-07-04",
+    "category": "economy",
+    "source": "NYT Business",
+    "title_ja": "「MANGOS」株は既に軟調転換か―Meta・Anthropic・Nvidia・Google・OpenAI・SpaceXの6銘柄",
+    "title_en": "Are the 'MANGOS' Stocks Already Turning Soft?",
+    "url": "https://www.nytimes.com/2026/07/04/business/mangos-ai-stocks.html",
+    "summary": "Wall Streetが「MANGOS」という新たな頭字語（Meta・Anthropic・Nvidia・Google・OpenAI・SpaceX）でAIブームの中心銘柄群を命名し、その評価妥当性に疑問符が付き始めていると、NYTが報じた（記事本文はペイウォール）。\n従来の「FAANG」「MAG7」から進化したこの頭字語には、IPO済みの新興企業（Anthropic・OpenAI・SpaceX）が含まれている点が新しい。\n急騰後の評価調整局面に入っているとの見方があり、バリュエーションの持続可能性について議論が起きている。\nAI投資ブームの長期持続性と収益化の実現タイミングが問われており、「NVDAの成長は本物だが他はバブルか」という選別意識が高まっている。\n個人投資家を含む幅広い層がAI株に集中投資している状況は、歴史的な高騰後に最大の損失をもたらすパターンと重なるという指摘もある（別記事）。\n💡投資含意: MANGOS各銘柄の選別が重要になる局面。収益化が進む（NVDA・META・GOOGL）と評価が先行している（Anthropic・OpenAI・SpaceX）で分けて考える必要がある。\n🔗波及: AI株全体のバリュエーション再評価が進めば、ハイパースケーラー（AMZN・MSFT）の設備投資見通しの修正にも影響。\n📈関連銘柄: NVDA、META、GOOGL（収益確認済み）、MSFT（OpenAI恩恵）、AMZN（Anthropic）\n⚖️強気弱気: 強気―AI収益化が続く限りバリュエーション拡張は継続。弱気―「MANGOSはバブル」の認識が広がれば急速なバリュエーション圧縮リスク。\n📅次の注目: 各社Q2決算（7〜8月）でのAI収益寄与の確認",
+    "created_at": "2026-07-04T22:33:40.789Z"
+  },
+  {
+    "date": "2026-07-04",
+    "category": "economy",
+    "source": "NYT Business",
+    "title_ja": "トランプ記念コインで約100万人の投資家が計$38億の損失―機関投資家は利益",
+    "title_en": "Nearly a Million Investors Lost a Total of $3.8 Billion on Trump Crypto Coin",
+    "url": "https://www.nytimes.com/2026/07/04/us/politics/trump-coin-crypto-investors-loss.html",
+    "summary": "暗号資産分析会社の報告書によると、トランプ大統領の記念メームコインで小売投資家約100万人が合計$38億の損失を被ったと、NYTが報じた（記事本文はペイウォールにつきRSS記述に基づく）。\n小売投資家（個人）の大多数が損失を抱える一方、機関投資家や早期参入者は利益を得たという典型的なメームコインの「内部者優遇」構造が明らかになった。\n現職大統領が自身の名前を冠したメームコインを発行・販売し一般投資家に多大な損失をもたらした件は、暗号資産規制の強化を求める声を高める。\nSECと議会での暗号資産規制フレームワーク議論（GENIUS法案等）と連動し、規制強化の可能性が高まっている。\n一方でトランプ政権は暗号資産産業に親和的な姿勢を取っており、規制強化と規制緩和の両方向へのシグナルが混在している。\n💡投資含意: メームコイン問題の政治化は暗号資産市場全体へのセンチメントリスク。一方でビットコイン・イーサリアム等の主要コインへのシフトと規制の明確化を促進する側面も。\n🔗波及: Coinbase・Binance等の取引所が規制強化でコンプライアンスコスト増。Bitcoinは「機関投資家の安全資産」として再評価される可能性。\n📈関連銘柄: COIN（Coinbase）、MSTR（MicroStrategy）、ビットコインETF各社\n⚖️強気弱気: 弱気―メームコイン損失問題が投資家信頼を傷つけ暗号資産市場全体のリスクオフを誘発。強気―規制明確化は主要コインの制度的採用を加速。\n📅次の注目: SECの暗号資産規制指針、GENIUS法案の議会進捗",
+    "created_at": "2026-07-04T22:33:40.789Z"
+  },
+  {
+    "date": "2026-07-04",
+    "category": "politics",
+    "source": "The Hill",
+    "title_ja": "トランプ政権が建国250周年に「トランプ・アカウント」を正式開始―新生児向け$1,000連邦投資口座",
+    "title_en": "Trump's $1K investment accounts roll out for eligible newborns",
+    "url": "https://thehill.com/homenews/administration/5953424-donald-trump-newborn-investment-accounts-live/",
+    "summary": "トランプ政権が7月4日（米国建国250周年）に「トランプ・アカウント」（新生児投資プログラム）を正式開始した。米国籍の新生児に$1,000の連邦貯蓄口座を開設するOBBBAの目玉政策の一つだ。\nBig Beautiful Bill（OBBBA）に盛り込まれた政策で、対象は米国籍を持つ全ての新生児。開設された口座は証券投資口座として運用され、子が成人した際に利用可能となる仕組み。\n建国250周年の祝賀ムードに合わせたシンボリックな政策発表であり、トランプ支持層への訴求力が高い。\n投資口座の運用先（株式インデックス等）や運営機関の選定は今後の実施細則に委ねられており、金融業界への影響が注目される。\n$1,000×年間出生数（約360万人）＝年間約$36億の財政支出となり、国債発行増加の一因となる可能性がある。\n💡投資含意: 新規の長期株式投資資金として年間数十億ドル規模の確実な株式需要が創出される。S&P500インデックスファンドへの組み込みが検討されれば市場への構造的プラス効果。\n🔗波及: 証券会社・資産運用会社（Fidelity・Vanguard・BlackRock等）が口座管理で利益を得る可能性。教育資金（529プラン）との差別化が議論となる。\n📈関連銘柄: BLK（BlackRock）、SCHW（Charles Schwab）、MS・GS（資産運用部門）\n⚖️強気弱気: 強気―長期的な株式需要の底上げに貢献。弱気―財政赤字拡大の一因となり長期金利上昇リスク。\n📅次の注目: 実施細則の発表（運用先・運営機関の選定）、他国での類似制度との比較",
+    "created_at": "2026-07-04T22:33:40.789Z"
+  },
+  {
+    "date": "2026-07-04",
+    "category": "politics",
+    "source": "The Hill",
+    "title_ja": "トランプの弾薬備蓄増強計画が米国の生産能力の壁に直面―$1.5兆国防費要求も停滞",
+    "title_en": "Trump battles time in bid to boost weapons stockpiles",
+    "url": "https://thehill.com/policy/defense/5948623-trump-munitions-stockpiles-hurdles-time-congress/",
+    "summary": "トランプ大統領が推進する弾薬・武器備蓄の増強計画が米国の生産能力の厳しい現実に直面しているとThe Hillが報じた（記事本文は403エラーにつきRSS記述に基づく）。\n$1.5兆ドルという史上最大規模の国防費要求が議会に提出されているが、承認の見通しは日を追うごとに不透明になっている。\n武器・弾薬の生産ラインは数年単位での整備が必要であり、予算承認されても即座に備蓄増強には結びつかない構造的制約がある。\nウクライナへの武器支援と自国備蓄の維持を両立する課題が継続しており、欧州同盟国の防衛支出増加にも影響する。\n防衛産業の供給能力拡大には設備投資と熟練労働者育成が不可欠であり、短期的なサプライチェーン制約が残る。\n💡投資含意: 防衛費増額の長期トレンドは明確。しかし生産能力のボトルネックで恩恵が短期に集中せず、Lockheed・Raytheon等の受注増が2〜3年かけて顕在化する。\n🔗波及: 欧州防衛産業（Rheinmetall・KNDS等）の受注増、米国サプライチェーン再構築への投資促進\n📈関連銘柄: LMT（Lockheed Martin）、RTX（Raytheon）、NOC（Northrop Grumman）、GD（General Dynamics）\n⚖️強気弱気: 強気―$1.5兆が通れば防衛株に長期的な追い風。弱気―議会承認遅延と生産能力制約で恩恵が先送りされるリスク。\n📅次の注目: 米議会の国防予算審議の進捗、ウクライナへの追加支援決定",
+    "created_at": "2026-07-04T22:33:40.789Z"
+  },
+  {
+    "date": "2026-07-04",
+    "category": "politics",
+    "source": "BBC World",
+    "title_ja": "ハメネイ師葬儀初日にテヘランで大規模な群衆―遺体はイラン・イラク各地を巡回",
+    "title_en": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+    "url": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
+    "summary": "イランの最高指導者アリー・ハメネイ師の葬儀初日（7月4日）にテヘランの大モスラで大規模な群衆が集まったとBBCが報じた（記事本文は403エラーにつきRSS記述に基づく）。\nハメネイ師の遺体は月曜日（7月7日）まで大モスラに安置された後、イランとイラクの各地を巡回する予定で、イラン当局は数百万人の参列を見込んでいる。\n2026年6月死去のハメネイ師の後継問題はイラン政治の最大焦点であり、新最高指導者の選出過程が中東地政学の大きな転換点となる。\n後継指導部のイデオロギー・外交政策次第でイラン核交渉の行方が変わり、中東の地政学リスクプレミアムが再評価される可能性がある。\nハメネイ師の死去は既に各国市場に織り込まれているが、後継者決定プロセスと新指導部の対外姿勢が中長期的な原油価格・地政学リスクを左右する。\n💡投資含意: イラン後継体制の不確実性が中東地政学プレミアムを維持。石油サプライリスクと核合意の可能性の両面でシナリオが分岐している。\n🔗波及: ホルムズ海峡通航リスク、イスラエル・サウジとの関係変化、イラン核開発の進展速度に影響。\n📈関連銘柄: XOM・CVX（原油上昇恩恵）、RTX・LMT（地政学リスク上昇時の防衛株）\n⚖️強気弱気: 強気（原油・防衛）―後継者が強硬派なら地政学リスク長期化。弱気（マクロ）―改革派台頭なら核合意再開でイランの石油供給増加・原油安。\n📅次の注目: 専門家会議（マジュレ・ホブレガン）の最高指導者選出プロセス、イランの公式発表",
+    "created_at": "2026-07-04T22:33:40.789Z"
+  },
+  {
+    "date": "2026-07-04",
+    "category": "politics",
+    "source": "BBC World",
+    "title_ja": "ウクライナがロシアのサンクトペテルブルク近郊の石油ターミナルを攻撃",
+    "title_en": "Ukraine hits major oil terminal in Russia's St Petersburg",
+    "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+    "summary": "ウクライナがロシアのサンクトペテルブルク近郊にある主要石油ターミナルを攻撃したとBBCが報じた（記事本文は403エラーにつき詳細不明）。\nゼレンスキー大統領は「ロシアの戦費収入を生み出す主要インフラが標的だ」と声明を発表した。\nロシアの石油輸出インフラへの攻撃はウクライナの戦略的な収入源破壊作戦の一環で、これまでの南部・黒海方面の石油タンカー攻撃から北西部（バルト海方面）へ戦線が拡大している可能性がある。\nサンクトペテルブルク近郊のターミナルはロシアの欧州向け石油輸出の主要経路の一つであり、攻撃が成功すればロシアの輸出収入に打撃を与える。\n欧州の石油供給への影響と原油価格への短期的な影響が注目される（具体的被害規模は未確認）。\n💡投資含意: ロシアの石油輸出インフラへの攻撃が継続・拡大すれば欧州の原油供給懸念が高まりエネルギー価格が上昇するリスクがある。\n🔗波及: 欧州の代替供給源（ノルウェー・北海・米国LNG）への需要が増加する可能性。米国LNG輸出企業に有利。\n📈関連銘柄: XOM・CVX（米国エネルギー）、CQP・LNG（LNG輸出）\n⚖️強気弱気: 強気（エネルギー株）―石油インフラ攻撃継続で原油・LNG価格上昇。弱気（マクロ）―地政学リスク上昇でリスクオフを誘発する可能性。\n📅次の注目: ターミナルの被害規模確認、原油価格（Brent）の反応、ロシアの報復動向",
+    "created_at": "2026-07-04T22:33:40.789Z"
+  },
+  {
+    "date": "2026-07-04",
+    "category": "politics",
+    "source": "PBS Politics",
+    "title_ja": "FBIが全国260名の解析官を動員してジョージア州2020年選挙を調査",
+    "title_en": "The FBI is directing hundreds of analysts to its investigation of Georgia's 2020 presidential election",
+    "url": "https://www.pbs.org/newshour/politics/the-fbi-is-directing-hundreds-of-analysts-to-its-investigation-of-georgias-2020-presidential-election",
+    "summary": "FBIが全国の支局に260名の捜査解析官とスタッフ・オペレーション・スペシャリストを動員し、ジョージア州フルトン郡の2020年選挙調査に「サージ（集中投入）」するよう求めるメモをAP通信が入手した。\n各員が7月17日までに推定708件のレコードを確認するよう指示されており、1月にはFBIがフルトン郡の投票用紙や文書を含む数百箱を押収している。\nジョージア州の票は2020年に3回（うち1回は手作業）カウントされており、いずれもバイデン勝利を確認。司法省はフルトン郡での「不正の疑い」を捜査中と既に表明している。\nトランプ大統領の2024年就任後に再起動した連邦調査が本格化しており、政治的文脈での司法機関利用への懸念が民主党側から上がっている。\n調査の法的結果次第でジョージア州の選挙管理制度や次回大統領選の運営に影響を与える可能性がある。\n💡投資含意: 政治的不確実性の長期化はUSマクロリスクの一要素。直接的な市場インパクトは限定的だが、司法リスクの高まりは一部セクター（選挙関連技術）に影響。\n🔗波及: 州政府・地方選挙管理システムへのセキュリティ投資需要拡大。連邦捜査当局への政治的干渉懸念は司法機関の信頼性リスクを高める。\n📈関連銘柄: 直接的な関連銘柄は限定的。政治リスク上昇を受けた防衛・セキュリティ株に間接的影響。\n⚖️強気弱気: 弱気（制度リスク）―司法の政治化が進めば米国民主主義の信頼性リスクとして外国人投資家のカントリーリスク評価を高める可能性。\n📅次の注目: 7月17日の期限後のFBI捜査状況、連邦裁判所の今後の動向",
+    "created_at": "2026-07-04T22:33:40.789Z"
+  },
+  {
+    "date": "2026-07-04",
+    "category": "robotics",
+    "source": "The Robot Report",
+    "title_ja": "AvrideがクラウドVLMを配送ロボットの「安全ウォッチャー」として統合―文脈理解で緊急現場を回避",
+    "title_en": "Context is king: How Avride uses cloud VLMs as a safety net for delivery robots",
+    "url": "https://www.therobotreport.com/how-avride-uses-cloud-vlms-safety-net-delivery-robots/",
+    "summary": "Avride（Uber初期チームが設立）が配送ロボットにクラウド型ビジョン言語モデル（VLM）を「VLMウォッチャー」として統合し、文脈理解による安全レイヤーを追加している。\nオンボードのセンサーと神経網は標準的なナビゲーション（歩行者・交通信号・障害物検知）を処理するが、「活動中の犯罪現場か帰宅中の警官か」「濡れたセメントか通常の歩道か」といった深い文脈理解はローカルモデルには難しい。\nクラウドVLMは5秒ごとのライブストリーム解析でシーン全体を解釈し、異常な文脈を検知した場合にリモートオペレーターへのアシスト要求をトリガーする。リアルタイム操舵には使用せず（レイテンシ・接続性の問題）、「早期警戒システム」として機能する。\nマルチプロバイダー・プラグアンドプレイ構成で特定ベンダーに依存せず、常に最新のSOTAモデルを利用できる。将来的にはVLMをオンボードコンピュートに移行することを目指している。\nロボットの社会的許容性（犯罪現場・緊急現場への侵入回避）が商業展開の鍵であることを示す実例であり、日本のロボット配送規制論議にも示唆を与える。\n💡投資含意: クラウドVLMのリアルタイム活用は大規模な推論需要を生み出す。AWSやGCPのAPI利用増加に直結し、NVDA（推論チップ）の継続需要を支える。\n🔗波及: Serve Robotics・Starship等の競合配送ロボット企業も同様のVLM統合に向かう可能性。自動運転全般においてVLMの「文脈理解」が差別化要素となる。\n📈関連銘柄: NVDA（推論GPU）、AMZN・GOOGL（クラウドVLM API）、UBER（Avrideスピンアウト元）\n⚖️強気弱気: 強気―クラウドVLMのオンボード化が進めば推論チップ需要がロボット単体にまで拡大。弱気―クラウド依存はネットワーク障害リスクを内包。\n📅次の注目: VLMのオンボード移行タイムライン、Avrideの運営ロボット台数拡大計画",
+    "created_at": "2026-07-04T22:33:40.789Z"
+  },
+  {
+    "date": "2026-07-04",
+    "category": "robotics",
+    "source": "The Robot Report",
+    "title_ja": "Quartehill幹部が語る自律走行トラック時代の高速道路インフラ課題―米国連邦高速70周年",
+    "title_en": "Quarterhill discusses transport modernization as U.S. marks 70 years of federal highways",
+    "url": "https://www.therobotreport.com/quarterhill-discusses-transport-modernization-u-s-marks-70-years-federal-highways/",
+    "summary": "米国連邦高速道路網70周年（1956年アイゼンハワー大統領が連邦補助高速道路法に署名）を機に、インテリジェント交通システム（ITS）大手Quarterhillが自律走行トラックの商業展開状況と課題を詳述した。\nKodiakとAuroraが既に商業回廊を運営中。米国の「まず展開、後で規制」アプローチが欧州の「先に規制」モデルに比べ商業化を加速させていると分析する。\n課題として：80,000ポンド（36トン）の自律型貨物トラックが混在する道路管理の複雑性、混合交通（自律型・従来型・プラトーニング車両）のリアルタイム管理、充分なインフラが追いつかない可能性が挙げられている。\n米国トラック協会（ATA）は2026年のドライバー不足を82,000人と予測。自律走行は即座に解消はしないが、ラストマイル・地域配送での人材需要は継続するとの見通し。\n公共インフラ（道路の摩耗・渋滞管理）コストを負担する機関と、コスト削減恩恵を受ける物流企業との間の費用分担が未解決の政策課題となっている。\n💡投資含意: 自律型貨物物流の拡大はQuarterhill等のITSインフラ企業、センサーメーカー、デジタル道路管理システムへの需要を創出する。\n🔗波及: Aurora（NASDAQ: AUR）・Kodiak（非上場）の商業化加速、Waymo・Motional等の乗用型AVにも類似の規制・インフラ問題が波及。\n📈関連銘柄: AUR（Aurora Innovation）、LIDR（AEye等LiDARベンダー）、QRTL（Quarterhill）\n⚖️強気弱気: 強気―米国の規制寛容な環境が自律走行商業化のリードを維持。弱気―大型自律トラックの事故リスクが社会受容性と規制を激変させる可能性。\n📅次の注目: Aurora・Kodiak各社の営業マイル数・収益化発表、FMCSA（連邦自動車安全局）の自律型商用車規制動向",
+    "created_at": "2026-07-04T22:33:40.789Z"
+  },
+  {
+    "date": "2026-07-04",
+    "category": "technology",
+    "source": "TechCrunch",
+    "title_ja": "アリババがClaude Code使用を禁止―Anthropicの中国企業向け規約違反が背景",
+    "title_en": "Alibaba reportedly bans employees from using Claude Code",
+    "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "summary": "アリババが7月10日付でClaude Codeを「高リスクソフトウェア」に分類し、社員の使用を禁止したとTechCrunchが報じた。\nAnthropicの利用規約は中国企業のClaude利用を禁止しており、同社がアリババのアカウントへのアクセスを制限したことが直接の引き金となった。\n一時「Claude Codeが中国ユーザーを特定・排除しようとした」疑惑が拡散したが、実際には無許可リセラーの不正利用やモデル蒸留を防ぐための内部実験の一環だったとAnthropicが説明している。\nアリババ社員は代替ツールとして自社開発の「Qoder」へ移行するよう指示されており、中国テック企業の国産AI開発推進の動きが加速している。\n米中間の技術デカップリングの進展を示す一例であり、Anthropicは現在IPOを秘密裏に申請中（別報道）であるため、中国市場リスクの遮断は投資家にとってポジティブシグナルともなり得る。\n一方でアリババのAIツール自社開発加速は長期的にAnthropicの競合を育てる可能性もある。\n💡投資含意: Anthropicの地政学リスク管理が明確化され、IPO評価への寄与が期待される。中国排除はTAM縮小だが、規制コンプライアンスの徹底が欧米企業向け信頼性を高める。\n🔗波及: Baidu・Alibabaなど中国AI基盤モデルのさらなる自立化を促進。開発者エコシステムの米中二分化が加速。\n📈関連銘柄: AMZN・GOOGL（Anthropic投資家）、BABA（Qoder開発加速）\n⚖️強気弱気: 強気―Anthropicの利用規約強化はコンプライアンス明確化でIPO後の企業価値を支える。弱気―中国市場除外でLTV（顧客生涯価値）が低下する懸念。\n📅次の注目: AnthropicのIPO申請書類開示、Qoderの機能・採用状況",
+    "created_at": "2026-07-04T22:33:40.789Z"
+  },
+  {
+    "date": "2026-07-04",
+    "category": "technology",
+    "source": "TechCrunch",
+    "title_ja": "MidjourneyがハリウッドスタジオにAI使用の全詳細開示を要求―「あなた方も同じことをしている」",
+    "title_en": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+    "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+    "summary": "MidjourneyはDisney・Universal・Warner Bros.との著作権訴訟（2025年提起）の中で、スタジオ側のAI使用の全詳細を開示するよう法的申立てを行った。\n従来の開示要求は消費者向けAI製品に限定されていたが、今回はストーリーボードや社内ツール等の非公開用途を含むすべての内部AI使用を対象としている。\nMidjourney側の主張は「スタジオ自身が著作権保護されたコンテンツで学習した生成AIを内部的に使用しており、原告らは自分たちが訴えていることを自社でやっている可能性がある」というものだ。\n裁判官は当初、開示範囲を消費者向けAIに限定していたが、この申立てが認められれば訴訟の均衡が大きく変わる可能性がある。\nハリウッドの内部AI使用が明らかになれば著作権訴訟の構図が根本的に覆り、業界全体のAI使用ガイドライン策定を迫られる。\n💡投資含意: 著作権訴訟の行方はAI学習データのライセンス慣行を決定づける。スタジオ敗訴ならばロイヤリティ要求が弱まりAI基盤モデル開発コストが低下する可能性がある。\n🔗波及: Adobe・Getty Imagesなどライセンス型プラットフォームが有利な地位を得る可能性。Microsoft CopilotやOpenAI等も同様の訴訟リスクを抱える。\n📈関連銘柄: DIS（Disney）、CMCSA（Comcast/Universal）、WBD（Warner Bros.Discovery）、ADBE（Adobe）\n⚖️強気弱気: 強気―スタジオのAI使用開示でMidjourney有利となればAI著作権問題の業界解決が加速。弱気―スタジオ勝訴なら生成AIへの規制強化リスク。\n📅次の注目: 裁判所の開示命令、Q3スタジオ決算でのAI支出開示",
+    "created_at": "2026-07-04T22:33:40.789Z"
+  },
+  {
+    "date": "2026-07-04",
+    "category": "technology",
+    "source": "CNBC Technology",
+    "title_ja": "SpaceX IPO後に議員2名が株式購入を開示―史上最大$750億IPOと政治リスクの交差",
+    "title_en": "First known congressional SpaceX stock buys surface after record IPO",
+    "url": "https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html",
+    "summary": "SpaceX（6月12日上場）後、連邦議員2名が株式購入の開示書類を提出した。メウザー下院議員（下院金融サービス委員会）が6月15日に1.5万〜5万ドル、シスネロス下院議員（下院軍事委員会）が6月18日に1千〜1.5万ドルをそれぞれ購入した。\nSpaceXは$150/株で上場し、$2兆超の時価総額と$750億の調達額（史上最大IPO）を記録した。上場後株価は$201.80のピーク後に約20%下落し現在$162。\nSpaceXの主要顧客であるDOD（国防総省）とSEC規制対象となる金融サービスを監督する委員会の議員が購入しており、利益相反リスクが指摘されている。\nAnthropicがIPOを秘密裏に申請済み、OpenAIは$1兆評価額でのIPOを目指しておりテックIPO波の続きが注目される。\n議会での個人株取引禁止法案は上下両院とも停滞しており、近い将来の立法化は困難な見通し。\n💡投資含意: SpaceXのポスト$201高値からの20%下落は短期過熱冷却局面。機関投資家の追加参入とロックアップ解除が次の方向性を決める。\n🔗波及: Anthropic・OpenAIのIPO投資家需要の確認指標として機能。テックIPO市場全体の水温を測るバロメーター。\n📈関連銘柄: AMZN・GOOGL（Anthropic保有）、MSFT（OpenAIパートナー）\n⚖️強気弱気: 強気―テック規制緩和の追い風でIPO市場は活況継続。弱気―議員スキャンダルが株取引禁止法案を復活させリスクオフを誘発する懸念。\n📅次の注目: SpaceXのロックアップ解除日程、AnthropicのIPO申請書類公開タイミング",
+    "created_at": "2026-07-04T22:33:40.789Z"
+  },
+  {
+    "date": "2026-07-04",
+    "category": "technology",
+    "source": "CNBC Technology",
+    "title_ja": "マクロン・モディが個人外交でAI巨大企業を誘致―欧州・インドのデータセンター競争が加速",
+    "title_en": "From Macron to Modi, governments are rolling out the red carpet for AI giants",
+    "url": "https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html",
+    "summary": "フランス・マクロン大統領とインド・モディ首相がトップセールスでAI巨大企業を自国に誘致する個人外交戦略を展開しており、CNBCが詳細を報じた。\nフランスはマクロン大統領がSoftBank・孫正義氏と直接テキストを交わして確保した案件で、2031年までに3.1GWのAIデータセンター建設（€750億プログラムの一部）が決まっている。G7サミット（6月）ではOpenAI・Anthropic・Google DeepMindのCEOを昼食会に招いた。\nインドはAmazon $480億（うち$210億がAI・クラウド）、Microsoftがアジア最大投資、Google $150億（米国外最大のAIハブ）、ASMLがTata Electronicsへ先端リソグラフィを供給する契約を締結した。\nインドは国内に先端半導体製造も最前線基盤モデルも持たず、「グローバルAI株ラリーにインドは完全に乗り遅れている」とCNBCが指摘している。\nAI覇権争いが地政学的な誘致競争へと発展しており、国家によるAIインフラへの投資が数百兆円規模に拡大している。\n💡投資含意: データセンター投資の地理的分散が進みマルチクラウドのエネルギーインフラ需要が急増する。原子力エネルギー（フランス）が改めて注目を集める。\n🔗波及: SoftBankのAI戦略再加速、ASMLの欧州以外の顧客拡大、Tata Electronicsの半導体製造能力向上\n📈関連銘柄: NVDA（データセンター）、AMZN・GOOGL（クラウド投資）、ASML（リソグラフィ）\n⚖️強気弱気: 強気―各国政府の投資コミットが超大型AIインフラ発注に直結。弱気―インドの半導体不足や規制リスクが実行を遅らせる可能性。\n📅次の注目: SoftBank・NVIDIA・AmazonのQ3設備投資発表、ASML受注動向",
+    "created_at": "2026-07-04T22:33:40.789Z"
+  },
+  {
+    "date": "2026-07-04",
+    "category": "technology",
+    "source": "NYT Technology",
+    "title_ja": "MicrosoftがEU規制でタックスヘイブン活用の詳細を開示―他のUS企業にも同様の義務",
+    "title_en": "Microsoft Disclosure Provides Rare Glimpse of Tax Haven Tactics",
+    "url": "https://www.nytimes.com/2026/07/03/technology/microsoft-europe-disclosure-tax-havens.html",
+    "summary": "MicrosoftがEU規制に従いタックスヘイブン活用の詳細を開示したと、NYTが報じた（記事本文はペイウォールにより詳細不明）。\nEUの公開的国別報告制度（CbCR）の新指令により、他の米国大手テック企業も同様の詳細開示が義務付けられる見通しだ。\nテック大手の法人税負担の軽減構造が公になることで各国での増税・税制改正議論が加速する可能性がある。\n欧州でのAIインフラ投資拡大（フランス・インドの誘致競争等）と並行して租税問題が浮上しており、テック企業の欧州事業への規制コストが高まる局面だ。\nOECDの15%グローバル最低法人税の実施強化とも連動しており、テック大手の実効税率上昇リスクが改めて意識される。\n💡投資含意: テック大手の欧州有効税率が上昇すればEPS成長ガイダンスに下方修正圧力がかかる。MSFT・GOOGL・APPLが特に影響を受けやすい。\n🔗波及: EU指令の発効で他のUS企業（Amazon・Apple・Meta等）も同様の開示を義務付けられ、投資家の税コスト見直しが進む。\n📈関連銘柄: MSFT（直接）、GOOGL、AAPL、META、AMZN（欧州事業各社）\n⚖️強気弱気: 弱気―実効税率上昇でEPS圧迫。強気―開示が透明性を高め長期的な規制リスク低減につながるとの見方も。\n📅次の注目: 各社Q2/Q3決算での欧州税コスト開示、EU指令の発効スケジュール確認",
+    "created_at": "2026-07-04T22:33:40.789Z"
   }
 ]

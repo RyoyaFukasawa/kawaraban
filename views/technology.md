@@ -1,6 +1,84 @@
 # 🖥 テクノロジー — 全アーカイブ
 
-全167件 / 日付の新しい順
+全172件 / 日付の新しい順
+
+## 2026-07-04
+
+### [MicrosoftがEU規制でタックスヘイブン活用の詳細を開示―他のUS企業にも同様の義務](https://www.nytimes.com/2026/07/03/technology/microsoft-europe-disclosure-tax-havens.html)
+*Microsoft Disclosure Provides Rare Glimpse of Tax Haven Tactics*
+出典: NYT Technology ・ #technology #2026-07-04
+
+MicrosoftがEU規制に従いタックスヘイブン活用の詳細を開示したと、NYTが報じた（記事本文はペイウォールにより詳細不明）。
+EUの公開的国別報告制度（CbCR）の新指令により、他の米国大手テック企業も同様の詳細開示が義務付けられる見通しだ。
+テック大手の法人税負担の軽減構造が公になることで各国での増税・税制改正議論が加速する可能性がある。
+欧州でのAIインフラ投資拡大（フランス・インドの誘致競争等）と並行して租税問題が浮上しており、テック企業の欧州事業への規制コストが高まる局面だ。
+OECDの15%グローバル最低法人税の実施強化とも連動しており、テック大手の実効税率上昇リスクが改めて意識される。
+💡投資含意: テック大手の欧州有効税率が上昇すればEPS成長ガイダンスに下方修正圧力がかかる。MSFT・GOOGL・APPLが特に影響を受けやすい。
+🔗波及: EU指令の発効で他のUS企業（Amazon・Apple・Meta等）も同様の開示を義務付けられ、投資家の税コスト見直しが進む。
+📈関連銘柄: MSFT（直接）、GOOGL、AAPL、META、AMZN（欧州事業各社）
+⚖️強気弱気: 弱気―実効税率上昇でEPS圧迫。強気―開示が透明性を高め長期的な規制リスク低減につながるとの見方も。
+📅次の注目: 各社Q2/Q3決算での欧州税コスト開示、EU指令の発効スケジュール確認
+
+### [マクロン・モディが個人外交でAI巨大企業を誘致―欧州・インドのデータセンター競争が加速](https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html)
+*From Macron to Modi, governments are rolling out the red carpet for AI giants*
+出典: CNBC Technology ・ #technology #2026-07-04
+
+フランス・マクロン大統領とインド・モディ首相がトップセールスでAI巨大企業を自国に誘致する個人外交戦略を展開しており、CNBCが詳細を報じた。
+フランスはマクロン大統領がSoftBank・孫正義氏と直接テキストを交わして確保した案件で、2031年までに3.1GWのAIデータセンター建設（€750億プログラムの一部）が決まっている。G7サミット（6月）ではOpenAI・Anthropic・Google DeepMindのCEOを昼食会に招いた。
+インドはAmazon $480億（うち$210億がAI・クラウド）、Microsoftがアジア最大投資、Google $150億（米国外最大のAIハブ）、ASMLがTata Electronicsへ先端リソグラフィを供給する契約を締結した。
+インドは国内に先端半導体製造も最前線基盤モデルも持たず、「グローバルAI株ラリーにインドは完全に乗り遅れている」とCNBCが指摘している。
+AI覇権争いが地政学的な誘致競争へと発展しており、国家によるAIインフラへの投資が数百兆円規模に拡大している。
+💡投資含意: データセンター投資の地理的分散が進みマルチクラウドのエネルギーインフラ需要が急増する。原子力エネルギー（フランス）が改めて注目を集める。
+🔗波及: SoftBankのAI戦略再加速、ASMLの欧州以外の顧客拡大、Tata Electronicsの半導体製造能力向上
+📈関連銘柄: NVDA（データセンター）、AMZN・GOOGL（クラウド投資）、ASML（リソグラフィ）
+⚖️強気弱気: 強気―各国政府の投資コミットが超大型AIインフラ発注に直結。弱気―インドの半導体不足や規制リスクが実行を遅らせる可能性。
+📅次の注目: SoftBank・NVIDIA・AmazonのQ3設備投資発表、ASML受注動向
+
+### [SpaceX IPO後に議員2名が株式購入を開示―史上最大$750億IPOと政治リスクの交差](https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html)
+*First known congressional SpaceX stock buys surface after record IPO*
+出典: CNBC Technology ・ #technology #2026-07-04
+
+SpaceX（6月12日上場）後、連邦議員2名が株式購入の開示書類を提出した。メウザー下院議員（下院金融サービス委員会）が6月15日に1.5万〜5万ドル、シスネロス下院議員（下院軍事委員会）が6月18日に1千〜1.5万ドルをそれぞれ購入した。
+SpaceXは$150/株で上場し、$2兆超の時価総額と$750億の調達額（史上最大IPO）を記録した。上場後株価は$201.80のピーク後に約20%下落し現在$162。
+SpaceXの主要顧客であるDOD（国防総省）とSEC規制対象となる金融サービスを監督する委員会の議員が購入しており、利益相反リスクが指摘されている。
+AnthropicがIPOを秘密裏に申請済み、OpenAIは$1兆評価額でのIPOを目指しておりテックIPO波の続きが注目される。
+議会での個人株取引禁止法案は上下両院とも停滞しており、近い将来の立法化は困難な見通し。
+💡投資含意: SpaceXのポスト$201高値からの20%下落は短期過熱冷却局面。機関投資家の追加参入とロックアップ解除が次の方向性を決める。
+🔗波及: Anthropic・OpenAIのIPO投資家需要の確認指標として機能。テックIPO市場全体の水温を測るバロメーター。
+📈関連銘柄: AMZN・GOOGL（Anthropic保有）、MSFT（OpenAIパートナー）
+⚖️強気弱気: 強気―テック規制緩和の追い風でIPO市場は活況継続。弱気―議員スキャンダルが株取引禁止法案を復活させリスクオフを誘発する懸念。
+📅次の注目: SpaceXのロックアップ解除日程、AnthropicのIPO申請書類公開タイミング
+
+### [MidjourneyがハリウッドスタジオにAI使用の全詳細開示を要求―「あなた方も同じことをしている」](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/)
+*Midjourney wants Hollywood studios to reveal the details of their AI usage*
+出典: TechCrunch ・ #technology #2026-07-04
+
+MidjourneyはDisney・Universal・Warner Bros.との著作権訴訟（2025年提起）の中で、スタジオ側のAI使用の全詳細を開示するよう法的申立てを行った。
+従来の開示要求は消費者向けAI製品に限定されていたが、今回はストーリーボードや社内ツール等の非公開用途を含むすべての内部AI使用を対象としている。
+Midjourney側の主張は「スタジオ自身が著作権保護されたコンテンツで学習した生成AIを内部的に使用しており、原告らは自分たちが訴えていることを自社でやっている可能性がある」というものだ。
+裁判官は当初、開示範囲を消費者向けAIに限定していたが、この申立てが認められれば訴訟の均衡が大きく変わる可能性がある。
+ハリウッドの内部AI使用が明らかになれば著作権訴訟の構図が根本的に覆り、業界全体のAI使用ガイドライン策定を迫られる。
+💡投資含意: 著作権訴訟の行方はAI学習データのライセンス慣行を決定づける。スタジオ敗訴ならばロイヤリティ要求が弱まりAI基盤モデル開発コストが低下する可能性がある。
+🔗波及: Adobe・Getty Imagesなどライセンス型プラットフォームが有利な地位を得る可能性。Microsoft CopilotやOpenAI等も同様の訴訟リスクを抱える。
+📈関連銘柄: DIS（Disney）、CMCSA（Comcast/Universal）、WBD（Warner Bros.Discovery）、ADBE（Adobe）
+⚖️強気弱気: 強気―スタジオのAI使用開示でMidjourney有利となればAI著作権問題の業界解決が加速。弱気―スタジオ勝訴なら生成AIへの規制強化リスク。
+📅次の注目: 裁判所の開示命令、Q3スタジオ決算でのAI支出開示
+
+### [アリババがClaude Code使用を禁止―Anthropicの中国企業向け規約違反が背景](https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/)
+*Alibaba reportedly bans employees from using Claude Code*
+出典: TechCrunch ・ #technology #2026-07-04
+
+アリババが7月10日付でClaude Codeを「高リスクソフトウェア」に分類し、社員の使用を禁止したとTechCrunchが報じた。
+Anthropicの利用規約は中国企業のClaude利用を禁止しており、同社がアリババのアカウントへのアクセスを制限したことが直接の引き金となった。
+一時「Claude Codeが中国ユーザーを特定・排除しようとした」疑惑が拡散したが、実際には無許可リセラーの不正利用やモデル蒸留を防ぐための内部実験の一環だったとAnthropicが説明している。
+アリババ社員は代替ツールとして自社開発の「Qoder」へ移行するよう指示されており、中国テック企業の国産AI開発推進の動きが加速している。
+米中間の技術デカップリングの進展を示す一例であり、Anthropicは現在IPOを秘密裏に申請中（別報道）であるため、中国市場リスクの遮断は投資家にとってポジティブシグナルともなり得る。
+一方でアリババのAIツール自社開発加速は長期的にAnthropicの競合を育てる可能性もある。
+💡投資含意: Anthropicの地政学リスク管理が明確化され、IPO評価への寄与が期待される。中国排除はTAM縮小だが、規制コンプライアンスの徹底が欧米企業向け信頼性を高める。
+🔗波及: Baidu・Alibabaなど中国AI基盤モデルのさらなる自立化を促進。開発者エコシステムの米中二分化が加速。
+📈関連銘柄: AMZN・GOOGL（Anthropic投資家）、BABA（Qoder開発加速）
+⚖️強気弱気: 強気―Anthropicの利用規約強化はコンプライアンス明確化でIPO後の企業価値を支える。弱気―中国市場除外でLTV（顧客生涯価値）が低下する懸念。
+📅次の注目: AnthropicのIPO申請書類開示、Qoderの機能・採用状況
 
 ## 2026-07-03
 
