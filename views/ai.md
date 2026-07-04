@@ -1,6 +1,72 @@
 # 🤖 AI・先進技術 — 全アーカイブ
 
-全136件 / 日付の新しい順
+全140件 / 日付の新しい順
+
+## 2026-07-04
+
+### [⚠️ [論文] GEAR：画像生成向けガイド付きエンドツーエンド自己回帰モデル](https://www.reddit.com/r/LocalLLaMA/comments/1un9955/paper_gear_guided_endtoend_autoregression_for/)
+*[Paper] GEAR: Guided End-to-End AutoRegression for Image Synthesis*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-07-04
+
+視覚生成モデルの標準的な2段階学習（トークナイザ学習→フリーズ→生成器学習）の非効率を解消するGEARアーキテクチャを提案した論文がRedditで話題となっている。
+既存手法ではトークナイザが生成器の学習容易性を考慮しないため両者が最適に連携できない問題があったが、GEARはトークナイザと生成器をエンドツーエンドで結合し相互最適化を可能にする。
+画像生成ベンチマークでSOTA水準の性能を達成したとされており、マルチモーダルLLMの推論品質・生成効率の改善が期待される研究方向だ。
+実用化されれば画像・動画生成AIの推論コスト削減に貢献し、Adobe FireflyやMidjourneyなどのモデル更新サイクルを加速させる可能性がある。
+ただし情報源はRedditであり、arxivの論文内容確認が必要。
+💡投資含意: マルチモーダル生成AIの性能・効率向上はGPU推論需要と密接に連動。トークナイザ改善はモデルサイズの小型化にも貢献し得る。
+🔗波及: NVIDIAのH100/B200推論需要、OpenAI・Anthropic・Geminiのマルチモーダル競争、AdobeのFirefly製品ロードマップ
+📈関連銘柄: NVDA（間接）、ADBE（Adobe）、MSFT（Azure画像生成API）
+⚖️強気弱気: 強気―研究が実装に移ればマルチモーダルAIの差別化競争を加速。弱気―研究段階のため短期インパクト限定的。
+📅次の注目: arxiv論文公開、大手ラボ（Google・OpenAI）の採用・引用状況
+⚠️ 未確認情報（Reddit発・要裏取り）
+
+### [⚠️ [論文] マルチブロック拡散言語モデル―非自己回帰型LMの推論高速化手法](https://www.reddit.com/r/LocalLLaMA/comments/1un8y5p/paper_multiblock_diffusion_language_models/)
+*[Paper] Multi-Block Diffusion Language Models*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-07-04
+
+ブロック拡散言語モデル（BD-LM）をシングルブロックからマルチブロック（MultiBD）へ拡張する論文がRedditで共有された。
+BD-LMはKVキャッシュ対応と可変長生成を実現した拡散ベースのテキスト生成モデルで、自己回帰型（AR）に対する代替アーキテクチャとして注目されている。
+MultiBDは連続するブロック群を同時にデコードすることでシングルブロック方式より推論を高速化し、Transformerの逐次生成に比べ並列デコードによるレイテンシ改善を実現する。
+実用化されればLLMの推論コスト（GPU時間）を大幅に削減でき、エッジデバイスや低レイテンシアプリケーションへの展開が容易になる可能性がある。
+研究段階の成果であり、情報源はReddit（未確認）。
+💡投資含意: 推論効率向上はクラウドプロバイダーのGPUコスト削減・マージン改善に貢献。OnDevice AI実現を加速すればApple・Qualcommにも有利に働く。
+🔗波及: 拡散ベースLMが台頭すればvLLM等の既存AR専用最適化ソフトとの競合が生じる。インテルMeteorLakeやQualcomm Snapdragonのオンデバイス推論需要に影響。
+📈関連銘柄: NVDA・AMD（推論チップ需要）、AAPL（オンデバイスAI）、QCOM
+⚖️強気弱気: 強気―AR型との推論コスト差が縮まれば業界全体のAI普及がさらに加速。弱気―研究から実用化まで長い時間が必要で短期影響は限定的。
+📅次の注目: arxiv論文詳細、主要LLMラボの採用・実験状況、vLLM等推論フレームワークの対応
+⚠️ 未確認情報（Reddit発・要裏取り）
+
+### [⚠️ GoogleがTabFM-1.0.0を公開―ゼロショット対応の表形式データ基盤モデル](https://www.reddit.com/r/LocalLLaMA/comments/1un5hyi/googletabfm100/)
+*google/tabfm-1.0.0*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-07-04
+
+GoogleリサーチがTabFM-1.0.0を公開した。構造化・表形式データ向けのファンデーションモデルで、分類・回帰タスクにゼロショット推論を実現する。
+従来の表形式MLはデータセットごとにモデル訓練とハイパーパラメータ探索が必要だったが、TabFMは数値・カテゴリ混在カラムに対して文脈内学習（ICL）で予測を行う。
+ファインチューニング不要でトレーニング例をコンテキストに渡すだけで推論できる点が特徴。GoogleリサーチのHF組織で公開されている（Reddit情報）。
+企業の業務データ分析・予測への応用が期待され、データサイエンティストの作業効率化ツールとして商用展開の可能性がある。
+既存のAutoMLプラットフォーム（DataRobot等）への競合圧力が増す可能性があり、GCPエコシステムへの統合次第ではクラウド粘着性向上につながる。
+💡投資含意: GoogleのエンタープライズAIツール強化の一環。BigQueryやVertex AIとの統合が進めばGCPビジネスの優位性を高める。
+🔗波及: DataRobot・Databricksなど自動MLプラットフォームへの競合圧力。SNOW（Snowflake）のML機能とも競合。
+📈関連銘柄: GOOGL（直接）、DDOG・SNOW（間接的な競合）
+⚖️強気弱気: 強気―ゼロショット性能が高ければ企業データ分析の参入障壁を下げGCPの採用を加速。弱気―Reddit由来情報で実際の性能・可用性は未確認。
+📅次の注目: Google公式発表、arxiv論文、Vertex AI統合の有無
+⚠️ 未確認情報（Reddit発・要裏取り）
+
+### [⚠️ PalantirはHugging Faceに無料登録するが公開モデル・データセットはゼロ](https://www.reddit.com/r/LocalLLaMA/comments/1umbw0v/palantir_is_a_free_org_on_hf_with_0_opensource/)
+*Palantir is a free org on HF with 0 open-source models and 0 public datasets shared*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-07-04
+
+PalantirがHugging Faceで組織アカウントを持ちながら公開モデルもデータセットも一切共有していないとRedditで指摘され議論を呼んでいる。
+同社CEOは「米政府顧客の一部がオープンソースAIへ移行した」と発言するなどオープンソース活用を推進する姿勢を演出しているが、実際のHF上のオープンソース活動はゼロだ。
+PalantirはAIP（AI Platform）でプロプライエタリなAIソリューションを提供しており、オープンソース化は同社のビジネスモデルと本来は相容れない。
+同社株（PLTR）はAIバリュエーション高騰の中でPER300倍超の水準で取引されており、オープンソース戦略への期待もその一因と見られる。
+Reddit由来の情報であり、実際のHugging Face上での確認が必要。
+💡投資含意: PLTRのバリュエーションにはオープン化期待が織り込まれており、活動ゼロが広く認識されれば失望売りにつながるリスクがある。
+🔗波及: 政府向けAI市場でのオープンソースvs.プロプライエタリの競争激化。MSFT・Amazon（AWS Bedrock）・METAが競合。
+📈関連銘柄: PLTR（直接）、META（オープンソース受益者、Llama）
+⚖️強気弱気: 弱気―オープンソース活動がゼロなら信頼性の毀損リスク。強気―政府顧客との独占的関係はオープン化に依存せず不変。
+📅次の注目: HuggingFaceでの公開モデル動向、Q2決算（8月予定）でのAIP売上成長率
+⚠️ 未確認情報（Reddit発・要裏取り）
 
 ## 2026-07-03
 
