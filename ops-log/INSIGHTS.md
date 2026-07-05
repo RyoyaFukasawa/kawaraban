@@ -21,23 +21,58 @@
 
 | 論点 | 種別 | 状態 | 初出 | 最終更新 | メモ |
 |---|---|---|---|---|---|
-| FT / NYT が全記事 paywalled で本文取得不可 | ソース | 🟡継続 | 2026-05-30 | 2026-06-28 | 直近2週（06-22〜06-28）全日で全件 paywalled/403 継続。Economy は実質 CNBC + PBS のみ。Reuters/AP URL はコンテナ環境から検証不可（下記行参照） |
+| FT / NYT が全記事 paywalled で本文取得不可 | ソース | 🟡継続 | 2026-05-30 | 2026-07-05 | 直近3週（06-22〜07-05）全日で全件 paywalled/403 継続。Economy は実質 CNBC + PBS のみ。Reuters/AP URL はコンテナ環境から検証不可（下記行参照） |
 | CBS News の `/video/` URL は本文0字 | 仕組み | 🟢解消 | 2026-05-30 | 2026-06-14 | /video/ フィルタPR導入済み（06-07実施）。06-09ログで「フィルタが機能している」を確認。ただし `/transcript/` URL 問題が新たに浮上（下記行参照） |
-| CBS News の `/transcript/` URL（番組書き起こし）がノイズ | 仕組み | 🟡継続 | 2026-06-14 | 2026-06-28 | PR #15（open）にフィルタ追加済みだが未マージ。06-28ログでも「CBS番組紹介・カルチャー記事が大量混入」と記録。PR #15 マージ待ち |
-| BBC / The Hill が本文取得で403（bot遮断疑い） | 仕組み | 🟡継続 | 2026-05-30 | 2026-06-28 | 直近2週（06-22〜06-28）全日403継続。RSS description で代替中。User-Agent 調整は継続検討 |
-| WSJ Politics フィードが SKIP（HTTP 403/サイト改編疑い） | ソース | 🔴悪化 | 2026-05-29 | 2026-06-28 | 06-21時点で21日以上連続 SKIP。PR #16（improve/feeds-2026-06-21, open）で削除予定だが未マージ。feeds.ts にまだ残っている |
-| WSJ Technology フィードが SKIP（HTTP 403/サイト改編疑い） | ソース | 🔴悪化 | 2026-06-21 | 2026-06-28 | 06-21時点で15日以上連続 SKIP。PR #16（open）で削除予定だが未マージ。feeds.ts にまだ残っている |
-| AI枠（先進性優先）の効き具合は要観測 | 仕組み | 🟡継続 | 2026-06-02 | 2026-06-28 | 週末（06-27・06-28）はAI枠全件がReddit r/LocalLLaMA unverified（100%）が定常化。UNVERIFIED_RATIO_CAP=0.40実装はPR #16（未マージ）。Anthropic Blog未追加が週末問題の根本原因 |
-| Reddit r/MachineLearning のノイズ（議論スレが多く採用率低） | ソース | 🔴悪化 | 2026-06-07 | 2026-06-28 | PR #15（open）で削除待ち。06-28ログでは raw-items.json に r/MachineLearning エントリなし（削除済みまたはフィード停止）。PR マージ待ち |
-| Reuters Business / AP Business を economy に追加すること | ソース | 🔵検証中 | 2026-06-07 | 2026-06-28 | 週次コンテナ環境ではDNS解決不可（全外部ホストが403/host not in allowlist）のため今週も検証不可。日次ルーティン環境での検証が必要 |
-| Anthropic Blog を AI枠に追加すること | ソース | 🔵検証中 | 2026-06-21 | 2026-06-28 | 06-22〜06-28の5/7日で「急務」と記録。今週（2026-06-28）DEBATESで議論→ジャッジ条件付き「やる」裁定→PR化（improve/feeds-2026-06-28）。条件: (1)初回fetch目視確認 (2)description代替時SKIP明示。週次コンテナからは依然403（proxy制限）だが日次環境での動作が前提 |
-| Reddit unverified ソースの比率上限（UNVERIFIED_RATIO_CAP） | 仕組み | 🔵検証中 | 2026-06-21 | 2026-06-28 | PR #16（open）に UNVERIFIED_RATIO_CAP=0.40 + per-category カウンタの実装が含まれるが未マージ。06-26ログでは「Reddit 3件採用で制限超過（60%）」が報告されており、PRのマージが急務 |
-| IEEE Spectrum Robotics の実効性問題 | ソース | 🔵検証中 | 2026-06-28 | 2026-06-28 | feeds.ts に追加済みだが3日連続機能不全: 06-26「Video Fridayのみ実質コンテンツなし」、06-27「0件」、06-28「raw-items.jsonに存在しない」。NVIDIA Roboticsも7日間採用記事の言及なし（並行問題）。週次DEBATESで「保留」裁定。NVIDIA問題を調査後、TechCrunch Robotics専用フィードへの差し替えを検討（2週間期限: 2026-07-12） |
-| NVIDIA Robotics フィードの謎の不在 | ソース | 🔵検証中 | 2026-06-28 | 2026-06-28 | feeds.tsに追加済みだが06-22〜06-28の7日間のログでNVIDIA Roboticsからの採用記事が一度も言及されない。フィード設定の問題か更新頻度の問題か不明。IEEE Spectrum Robotics問題と並行して調査が必要 |
+| CBS News の `/transcript/` URL（番組書き起こし）がノイズ | 仕組み | 🟡継続 | 2026-06-14 | 2026-07-05 | PR #15（open）にフィルタ追加済みだが未マージ。07-05ログでも「番組書き起こし記事混入の可能性あり」と記録。PR #15 マージ待ち |
+| BBC / The Hill が本文取得で403（bot遮断疑い） | 仕組み | 🟡継続 | 2026-05-30 | 2026-07-05 | 直近3週（06-22〜07-05）全日403継続。RSS description で代替中。User-Agent 調整は継続検討 |
+| WSJ Politics フィードが SKIP（HTTP 403/サイト改編疑い） | ソース | 🔴悪化 | 2026-05-29 | 2026-07-05 | 07-05時点で37日以上連続 SKIP。PR #16（improve/feeds-2026-06-21, open）で削除予定だが未マージ。feeds.ts にまだ残っている |
+| WSJ Technology フィードが SKIP（HTTP 403/サイト改編疑い） | ソース | 🔴悪化 | 2026-06-21 | 2026-07-05 | 07-05時点で31日以上連続 SKIP。PR #16（open）で削除予定だが未マージ。feeds.ts にまだ残っている |
+| AI枠（先進性優先）の効き具合は要観測 | 仕組み | 🔴悪化 | 2026-06-02 | 2026-07-05 | 07-03〜07-05の3日連続でAI枠全件がReddit r/LocalLLaMA unverified（100%）。UNVERIFIED_RATIO_CAP=0.40実装はPR #16（未マージ）。Anthropic Blog未追加が根本原因。6月初出から2週間以上未解消 |
+| Reddit r/MachineLearning のノイズ（議論スレが多く採用率低） | ソース | 🔴悪化 | 2026-06-07 | 2026-07-05 | PR #15（open）で削除待ち。07-05ログでも候補0件継続。今週の DEBATES で「この週の PR には含めない（PR #15 のリベースで対処）」と裁定。期限: 2026-07-14 |
+| Reuters Business / AP Business を economy に追加すること | ソース | 🔵検証中 | 2026-06-07 | 2026-07-05 | 週次コンテナ環境ではDNS解決不可（全外部ホストが403/host not in allowlist）のため今週も検証不可。日次ルーティン環境での検証が必要。07-04 の祝日エラーも解消できる可能性がある |
+| Anthropic Blog を AI枠に追加すること | ソース | 🔵検証中 | 2026-06-21 | 2026-07-05 | 06-22〜07-05の12/14日で「急務」と記録。PR improve/feeds-2026-06-28（open）で追加済み・未マージ。07-05ログでも「Anthropic Blog未追加が最大の構造的欠落」と明記。PR マージが根本的解決策 |
+| Reddit unverified ソースの比率上限（UNVERIFIED_RATIO_CAP） | 仕組み | 🔴悪化 | 2026-06-21 | 2026-07-05 | PR #16（open）未マージ継続。07-03〜07-05の3日連続でAI枠100% unverified（5/5件）。PR #16 マージが唯一の根本的解決策。運用での回避は困難 |
+| IEEE Spectrum Robotics の実効性問題 | ソース | 🔴悪化 | 2026-06-28 | 2026-07-05 | 07-04・07-05でSKIP（404/空）。07-03は「Video Friday」1件のみ（1787字）。2-stepプランでStep 2（次日次ログで≥1件確認後に削除PR）。今週は触れず、Step 1（TechCrunch Robotics追加）を先行実施 |
+| NVIDIA Robotics フィードの謎の不在 | ソース | 🟡継続 | 2026-06-28 | 2026-07-05 | 06-29〜07-05の7日間のログでもNVIDIA Roboticsからの採用記事言及なし。更新頻度が低いだけの可能性（月1〜2回）。IEEE問題より優先度低。引き続き観測中 |
+| TechCrunch Robotics フィードの追加 | ソース | 🔵検証中 | 2026-07-05 | 2026-07-05 | Step 1: feeds.ts に追加 PR（improve/feeds-2026-07-05）。スタートアップ・資金調達・製品発表の速報に強く、The Robot Report の産業専門報道と補完関係。週次コンテナからは403（proxy制限）のため日次環境での fetch 確認が必要。Step 2 で IEEE Spectrum 削除を予定 |
 
 ---
 
 ## 週次エントリ（末尾に追記していく）
+
+### 2026-07-05 — TechCrunch Robotics 追加 PR（Step 1 of 2）・PR #15 マージ催促
+
+**読んだ日次ログ**: 2026-06-29〜2026-07-05 の7件全件。
+
+**今週の最大の課題**:
+- **Robotics 候補の底打ち**: 07-05 に候補1件（最悪値）。07-02=3件、07-03=3件、07-04=2件と週を通じて低水準。IEEE Spectrum Robotics が07-04・07-05でSKIP、NVIDIA Roboticsは採用ゼロが3週間以上継続。
+- **AI枠 3日連続100% unverified**: 07-03・07-04・07-05で AI枠全5件が Reddit r/LocalLLaMA（unverified）。UNVERIFIED_RATIO_CAP（PR #16）未マージと Anthropic Blog 未追加の二重の構造問題が継続。
+- **Reddit r/MachineLearning 0件継続**: 07-05ログでも候補0件。PR #15 未マージで feeds.ts に残存。
+
+**最新性/先進性の担保**:
+平日はOpenAI Blog等が機能するが、週末・祝日（07-04 米国独立記念日）に verified AI ソースがゼロになる状態が定常化。UNVERIFIED_RATIO_CAP と Anthropic Blog の両方がマージされるまで解消しない。
+
+**ソース構成の穴（今週の診断）**:
+1. Robotics: The Robot Report 1件のみという危機的状況が限界に達した。TechCrunch Robotics 追加（今週 PR 化・Step 1）で応急処置。
+2. AI: Anthropic Blog 不在（PR improve/feeds-2026-06-28 未マージ）が最大の欠落。3週間以上「急務」が継続。
+3. AI: UNVERIFIED_RATIO_CAP（PR #16）未マージで unverified 100% が常態化。
+4. Economy: FT・NYT・BBC Business 全件 paywalled/403 継続。本文取得可能なソースが実質ゼロ。
+
+**選定ロジックの妥当性**:
+UNVERIFIED_RATIO_CAP のマージが最優先。日次 routine 側での運用回避は不可能（公式ソースがゼロの日は上限を設けても代替がない）。
+
+**打った手（今週の PR）**:
+- `src/feeds.ts` の robotics カテゴリに TechCrunch Robotics（`https://techcrunch.com/category/robotics/feed/`）を追加（PR `improve/feeds-2026-07-05`、Step 1 of 2）。
+- IEEE Spectrum Robotics の削除は Step 2（次の日次ログで ≥1 件確認後に別PR）。
+- Reddit r/MachineLearning の削除は PR #15 のリベースで対処（この週の PR には含めない）。
+- 議論ログ: `ops-log/DEBATES/2026-07-05.md`
+
+**残した宿題**:
+1. **最優先**: PR #15（CBS /transcript/ + r/MachineLearning 削除）・PR #16（WSJ削除・UNVERIFIED_RATIO_CAP）・PR improve/feeds-2026-06-28（Anthropic Blog）のマージを促す（オーナー判断）。期限: 2026-07-14。
+2. TechCrunch Robotics の日次環境での fetch 確認後、IEEE Spectrum Robotics 削除 PR（Step 2）を作成。
+3. Reuters/AP Business URL の日次環境での検証（週次コンテナからは依然不可）。
+
+---
 
 ### 2026-06-28 — Anthropic Blog追加 PR・IEEE Spectrum保留
 
