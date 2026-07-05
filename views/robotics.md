@@ -1,6 +1,23 @@
 # 🦾 フィジカルAI・ロボティクス — 全アーカイブ
 
-全66件 / 日付の新しい順
+全67件 / 日付の新しい順
+
+## 2026-07-05
+
+### [HumanoidがKinetIQ Ascend発表―強化学習で数日以内に人間超えの産業操作信頼性を達成](https://www.therobotreport.com/humanoid-announces-kinetiq-ascend-reinforcement-learning-approach/)
+*Humanoid says KinetIQ Ascend reinforcement learning approaches human-level dexterity*
+出典: The Robot Report ・ #robotics #2026-07-05
+
+ロンドン発のロボットスタートアップHumanoidが強化学習（RL）アプローチ「KinetIQ Ascend」を公表した。工業用マニピュレーションタスクで99.9%の信頼性を人間デモのわずか数日後に達成するという。
+2024年創業のHumanoidは250人以上のエンジニア・研究者を擁し、2年以内に汎用産業用ヒューマノイドロボットのNo.1企業を目指す。5月にはBoschおよびSchaefflerと量産体制のパートナーシップを締結済みで、London・Boston・Vancouver・San Diegoにオフィスを持つ。
+KinetIQ Ascendの主要成果：①鋼製ベアリングのビンピッキングで42%のスループット向上・人間デモの1.5倍速達成。②部品を人間へ手渡しするタスクで85%スループット向上・成功率80%→98%に改善。③両腕トートハンドリングで約2倍スループット・成功率78%→99%（失敗率約20分の1）。いずれも数日間のトレーニングで達成。
+「RL手法のスケーリング則はLLMと同様」という主張が特徴的。訓練時間の増加と共にロボット性能が予測可能に向上するとし、未見の物体にも汎化し、ワークフローの最難部分だけを改善すれば全体が向上するという発見も報告している。
+
+💡 投資含意: RL×ヒューマノイドが実用スケールの産業展開に近づいていることを示す。NVDA（Isaac/Jetson等のロボティクスAI）とBosch・Schaeffler（自動車/産業部品）への間接的なポジティブシグナル。
+🔗 波及: Figure AI・1X・Agility Robotics等との技術差別化競争が加速。産業用ロボットメーカー（FANUC・安川電機・三菱電機）への脅威・機会の両面。LLMスケーリング則のロボット適用が広まれば、ロボット専用AIチップ（NVIDIA Jetson等）の需要が急増する可能性。
+📈 関連銘柄: NVDA（ロボティクスAI基盤）、FANUC（競合・被影響）
+⚖️ 強気/弱気: 強気―RL手法のスケーラビリティが実証されれば産業ヒューマノイド市場が数年で急拡大。弱気―数値は同社自己申告で独立検証が必要。市場採用は量産コストと信頼性に依存。
+📅 次の注目: Humanoidの技術報告書公開内容詳細、Bosch/Schaefflerとの量産開始タイムライン
 
 ## 2026-07-04
 
