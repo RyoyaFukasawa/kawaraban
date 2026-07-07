@@ -1,6 +1,82 @@
 # 🦾 フィジカルAI・ロボティクス — 全アーカイブ
 
-全67件 / 日付の新しい順
+全72件 / 日付の新しい順
+
+## 2026-07-07
+
+### [ドローン企業Quantum Systemsが12億ドル調達──企業価値80億ドル超、ウクライナ実績で機関投資家が集結](https://www.therobotreport.com/quantum-systems-raises-1-2b-expand-drone-production-deployments/)
+*Quantum Systems raises $1.2B to expand drone production and deployments*
+出典: The Robot Report ・ #robotics #2026-07-07
+
+ドイツの防衛ドローン企業Quantum SystemsがシリーズDで12億ドルの資金調達を完了した。企業価値は80億ドル超（前回の約2倍）に達し、防衛テック企業としての急速な評価額上昇を示している。
+2025年、ウクライナでの実戦運用で19,000件以上のミッションをこなした実績が大型調達の背景にある。
+今回の調達はBlackstone・Noteus・Airbus・Adventが共同リード。FidelityやWellington、A.P. Moller Holdingも参加するなど、大手機関投資家が一斉に参入する構図となった。Airbus Defence & Spaceとの提携も深化。
+MOSAIC（UXS＝無人システム間のソフトウェアエコシステム）も開発中で、ドローン間連携・指揮統制の標準化を狙うソフトウェアロックイン戦略として注目される。収益は三桁成長で黒字化達成済み。
+実戦証明を経た防衛ドローンに機関資金が集中する構図が鮮明になっており、UAV分野でのM&A・IPO加速を示唆している。
+
+💡 投資含意: 防衛ドローン市場に本格的な機関資金（Blackstone・Fidelity等）が流入するフェーズへ移行。将来のIPO候補として注目度が高まる。
+🔗 波及: エアバスやBlackstoneが防衛テックへ直接出資する流れは継続。UAV関連の半導体（センサー・AI推論チップ）にも間接需要が生まれる。
+📈 関連銘柄: Quantum Systems（非上場）; BA（Airbus競合）; RTX, LMT（防衛大手）
+⚖️ 強気: 実戦証明+機関投資家参入で防衛ドローンセクター評価額が上昇局面——業界全体へ波及
+
+### [Kraken RoboticsがCovelya Groupを6億1500万カナダドルで買収──海中無人システムの覇権を狙う](https://www.therobotreport.com/kraken-robotics-acquires-covelya-group-for-615m/)
+*Kraken Robotics acquires Covelya Group for $615M*
+出典: The Robot Report ・ #robotics #2026-07-07
+
+カナダの海中ロボティクス企業Kraken RoboticsがCovelya Groupを6億1500万カナダドル（約4億3200万米ドル）で買収した。海中インテリジェンス・3Dイメージング・無人海洋システム（UUV）分野の統合強化が目的。
+Krakenは以前にも3D at Depth Incを買収するなど、海中センシング技術の積み上げを継続的に進めてきた企業。
+買収により24ヶ月以内に700万ドルのシナジー効果を見込む。Coveylaの技術は水中3Dイメージング・自律潜水機向けインテリジェンスシステムが中心。
+海中ドローン・自律潜水艦市場は防衛（機雷探知・港湾警備）と資源探査（海底鉱物・石油ガス）の両面で需要拡大中。NATO諸国の海中防衛ニーズ増加を追い風に、M&Aによる規模拡大路線を加速している。
+海底ケーブル点検や海上風力基礎点検など民間インフラ用途への応用も広く、陸上・空中ロボティクスに比べてまだ競合過密度が低い分野。
+
+💡 投資含意: 海中UUVは防衛・資源・インフラ点検での確実な需要拡大が見込め、かつ競合がまだ少ない。Krakenの統合型海中AIシステム企業としての位置づけが強まる。
+🔗 波及: 海中センシング・3Dイメージング技術の専門企業へのM&A圧力が高まる可能性。競合Teledyne等にも再評価の機会。
+📈 関連銘柄: Kraken Robotics（TSX-V: PNG）; TDY（Teledyne、競合）
+⚖️ 強気: 海中防衛ロボティクスへのM&A集約は市場形成期のシグナル——早期投資機会として注目
+
+### [ボストン・ダイナミクスがFIFAワールドカップへ──Atlasが強化学習でゴールを蹴り、Spotがスタジアム警備](https://www.therobotreport.com/boston-dynamics-brings-its-legged-robots-to-the-fifa-world-cup/)
+*Boston Dynamics brings its legged robots to the FIFA World Cup*
+出典: The Robot Report ・ #robotics #2026-07-07
+
+ボストン・ダイナミクスがFIFAワールドカップにAtlasとSpotを投入した。Atlasは強化学習（RL）と動作キャプチャを組み合わせた「Ghost Rabona」キックを披露、Spotはスタジアムセキュリティ業務を担当した。
+親会社の現代自動車がFIFAとの27年間のスポンサーシップを拡張する形で実現した連携。世界最大規模のスポーツイベントを舞台に、ロボティクス戦略を世界へ発信する絶好の機会を得た。
+Atlasのキックポリシーは強化学習を用いてシミュレーションで数時間〜1日以内に訓練完了。Spotは360度カメラ・熱感知・LiDARを搭載し会場警備を実施（顔認識は使用せず）。
+強化学習による動作習得速度の向上は、工場・倉庫など産業用途への転用可能性も示す。FIFAワールドカップという舞台での成功デモは、企業・スポーツ団体への導入提案における説得力を大幅に高める。
+Atlasの産業グレードへの展開が加速すれば、NVDA（Isaac RL学習インフラ）やセンサーメーカーへの需要増に連鎖する。
+
+💡 投資含意: グローバルイベントでのブランド露出は商業採用の先導役。現代自動車グループがロボティクスを長期戦略として本気で位置づけている点は投資判断材料となる。
+🔗 波及: BDのAtlas/Spot採用加速はNVDA（Isaac RL）やセンサーメーカー需要増へ連鎖。競合人型ロボ企業（Figure AI、1X等）も実演強化を迫られる。
+📈 関連銘柄: 現代自動車（005380.KS）↑; NVDA（RL学習インフラ）; ロボティクスETF（BOTZ, ROBO）
+⚖️ 強気: グローバルブランド露出でBD/現代のロボティクス戦略の本気度を確認——中長期の強気材料
+
+### [米国製自律型地上車両が初めてウクライナの実戦へ──Forteraの「Lancer」が100台以上展開、350トンの物資を輸送](https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/)
+*The first American autonomous ground vehicles are fighting in Ukraine*
+出典: TechCrunch ・ #robotics #2026-07-07
+
+米スタートアップForteraの自律型地上車両「Lancer」（Polaris ATVベース、積載750kg・ガス動力）が100台以上ウクライナに展開され、実戦での物資輸送・医療後送ミッションを遂行している。米国製自律型地上車両が戦場で実用化された初のケースとなった。
+2025年10月以降の実績として、2,500マイル以上走行、1,100件以上のミッション、777,440ポンド（約350トン）の物資輸送、52件の死傷者後送を完了。通信はStarlinkを活用。
+Forteraはこれまでに5億ドル以上を調達しており、競合としてScout AI（1億ドル調達）、Field AI、Overland AIが台頭している。
+現状は遠隔操縦が主体。機体の価値が高いため損失を避けたいことと、敵の脅威への自律対応力がまだ成熟していないことが理由。ただし実戦データの蓄積が将来の自律化を大幅に加速する構造にある。
+実戦証明を経た防衛テック企業が政府・軍調達で参入障壁を形成しつつあり、民間防衛テック全体の評価額引き上げにつながりうる。
+
+💡 投資含意: 実戦デプロイによる「戦場データ」の先行獲得は競合との差別化要因。防衛テック企業のIPO・評価額に上昇圧力をかける可能性がある。
+🔗 波及: 上場防衛大手（RTX, LMT, NOC等）は直接競合しないが、AI化された中小防衛テックへの投資マネーが向かいやすい環境が継続。PLTR等のソフトウェア統合企業も受益。
+📈 関連銘柄: Forterra（非上場）; PLTR（防衛ソフト統合）; RTX, LMT（防衛大手・競合/連携）
+⚖️ 強気: 防衛ロボティクスへの実需確認——セクター全体に追い風
+
+### [NVIDIAとHugging FaceがIsaac GR00T 1.7をLeRobotへ統合──オープンロボティクスの標準化が加速](https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/)
+*NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community*
+出典: NVIDIA Robotics ・ #robotics #2026-07-07
+
+NVIDIAがHugging Faceと連携し、Isaac GR00T 1.7とIsaac Teleop操作ツールをLeRobotフレームワークへ統合した。ロボット開発の一貫したエンド・ツー・エンド開発経路を確立する狙いで、オープンコミュニティを通じたロボットAI標準の主導戦略の一環。
+NVIDIAは300万人の開発者コミュニティ、HFは1600万人のビルダーコミュニティをそれぞれ抱える。両者の連携はロボット基盤モデルの普及速度を大幅に高めると見られる。
+次世代基盤モデルCosmos 3も将来的にLeRobotへ追加予定。Isaac GR00T 1.7のLeRobot統合により、研究者・スタートアップが商用グレードのロボット基盤モデルを無料で利用できる環境が整いつつある。
+ロボット開発のアクセスバリアが低下することで、産業ロボティクス・物流・農業など幅広い領域での採用加速が期待される。
+
+💡 投資含意: NVDAがオープンコミュニティを通じてロボットAI標準を事実上主導する戦略。開発者のIsaacエコシステムへのロックインが進み、将来の産業ロボット向けGPU需要に直結する。
+🔗 波及: HFとNVIDIAが一体化することでロボット向けクラウド学習サービス（HF Jobs等）の需要が高まり、AWSやAzureのクラウド収益にも恩恵。
+📈 関連銘柄: NVDA（Isaac/Cosmos）↑; AMZN, MSFT（クラウドロボット学習インフラ）
+⚖️ 強気: ロボティクスはNVDAにとって中長期の第2の柱として位置づけが強化されつつある——強気材料
 
 ## 2026-07-05
 

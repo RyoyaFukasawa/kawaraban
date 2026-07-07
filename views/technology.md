@@ -1,6 +1,83 @@
 # 🖥 テクノロジー — 全アーカイブ
 
-全177件 / 日付の新しい順
+全182件 / 日付の新しい順
+
+## 2026-07-07
+
+### [サムスン決算が「AIの高いハードルを下回った」と判断され半導体株が全面安──Kospi-5%、Micron-5%](https://www.cnbc.com/2026/07/07/chip-stocks-ai-selloff-samsung.html)
+*Chip stocks sell off after Samsung earnings fall short of high AI bar*
+出典: CNBC Technology ・ #technology #2026-07-07
+
+サムスン電子の四半期決算発表を受け、AI関連への高い期待に届かなかったとの見方から半導体株全般が大きく売られた。利益自体はNvidiaとAppleを上回ったが、市場の高い期待に応えられなかった格好。
+メモリ市場は「RAMageddon」とも称される急騰局面が続いており、AI向けHBMや高性能DRAMの需要爆発が株価を押し上げてきた。しかしその持続性への懐疑がこのタイミングで噴出した。
+サムスン株-8%、韓国総合株価指数（Kospi）-5%、SKハイニックス-6%、Micron-5%、Sandisk-7%、Intel-9%、AMD-6%、Marvell・Lam・Applied Materials各-6%、半導体ETF（iShares）-5%。
+直近の上昇幅はMicron+229%、Sandisk+581%（それぞれ年初来）と非常に大きかったため、調整余地は十分あった。
+Apple・Microsoftがメモリコスト上昇を製品価格に転嫁中との報道、DeepSeekが独自チップを開発中との情報が重なり、「AI消費がこれほどのメモリ価格上昇を正当化できるのか」という問いが市場全体に波及した。
+
+💡 投資含意: AIメモリ需要の持続性と供給増加のタイミングを見極めるフェーズに突入。短期的には押し目買い機会の可能性がある一方、需給バランスの変化に注意が必要。
+🔗 波及: メモリ価格下落懸念はApple・Microsoft等の端末・クラウドベンダーには逆にコスト軽減効果。AI代替チップ（DeepSeek等）の進展が長期的にNVDA支配への対抗圧力になりうる。
+📈 関連銘柄: 005930.KS（サムスン）, MU（Micron）, 000660.KS（SKハイニックス）, INTC, AMD↓; AAPL, MSFT（メモリ調達コスト軽減）
+⚖️ 弱気: AI需要持続性への疑念が高まりメモリ・半導体株全般に調整圧力——短期的には慎重姿勢
+
+### [中国AIモデルが米企業で急拡大──コスト急騰でOpenAI・AnthropicからDeepSeek・Z.aiへのシフトが加速](https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html)
+*Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge*
+出典: CNBC Technology ・ #technology #2026-07-07
+
+OpenRouterの集計で、2月8日以降に米国企業が利用するトークンの30%超を中国AIモデル（DeepSeek・Z.ai等）が占めるようになった。AI基盤モデルのコスト急騰を背景に、米企業が中国製オープンソースモデルへのシフトを加速させている。
+背景として、米主要AIラボ（OpenAI・Anthropic）が最上位モデルの価格を引き上げる一方、DeepSeek・Z.aiは高い性能を維持しつつ60〜90%安い価格を実現している。
+OpenRouterでの中国モデルシェアは最高46%まで上昇（過去12ヶ月平均11%、2025年前半は4.5%）。AI企業Lindyは6月にClaudeから全トークンをDeepSeekへ移行し、数ヶ月で数百万ドル節約見込み。
+Z.aiのGLM 5.2はVercelで2026年最速採用を記録（1週間で日次トークン27倍、利用企業数80倍）。GLM 5.2はAnthropicのOpus 4.8と同等水準のエージェントベンチマークを約1/5のコストで達成したとされる。
+中国モデルはトップ米国モデルの「6〜9ヶ月遅れ」の性能とされるが、コスト差が大きく「十分に良い」判断で採用が進む構造。米政府もOpenAI新モデルの展開制限要請、Anthropic Mythos/Fableへの輸出規制解除など対応を模索中。
+
+💡 投資含意: AI基盤モデルの価格競争が本格化。高価なプロプライエタリモデルに依存するSaaS企業のコスト構造が圧迫され、利益率低下リスクが高まる。逆に中国モデルを前提とした安価なAI製品展開企業は競争優位を得やすい。
+🔗 波及: AnthropicやOpenAIの収益成長への懸念が高まると、MSFTやAMZN（OpenAI/Anthropic投資家・再販者）の評価にもマイナス。クラウドインフラ需要を下押しする可能性も。
+📈 関連銘柄: MSFT（OpenAI再販）, AMZN（Anthropic投資・AWS Bedrock）↓懸念; BABA（Qwen開発）↑相対優位
+⚖️ 弱気: 米系AIラボの価格設定力侵食はMSFT・AMZN・GOOGLのAI収益見通しに中長期の逆風
+
+### [NVIDIAの次世代ラックシステム「Kyber」が2028年以降に延期──製造上の課題でRubin Ultraのロードマップに影](https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html)
+*Nvidia's next-gen AI rack system delayed to 2028 on manufacturing snags, SemiAnalysis says*
+出典: CNBC Technology ・ #technology #2026-07-07
+
+調査会社SemiAnalysisが、NVIDIAの次世代ラックスケールシステム「Kyber NVL144」（144チップ搭載、2027年Rubin Ultra向け）が製造上の課題から2028年以降に12ヶ月以上延期になると報告した。NVIDIA側は「ロードマップに変更はない」と否定している。
+問題はPCBミッドプレーン（モジュール間を接続する多層プリント基板）の製造難度にある。より大型のNVL576（8ラックを光接続した巨大システム）も遅延または限定出荷の見込み。
+代替案として検討されていた「2台のNvidiaラックを連結する方式」は、クラウド顧客（CSP・ハイパースケーラー）から「奇妙な設計で運用コストが大きい」と拒否され中止となった。
+SemiAnalysisは「Rubin Ultraのスケールアップの実証済み解決策がない」状態と指摘し、AMDやGoogleの独自チップが高性能帯で競合する稀な機会が生じる可能性を示唆。
+一方、現行世代のRubinシステムはAWS・Azure・GCP等8社向けに秋から出荷開始予定。SemiAnalysisはNVDAのデータセンター売上が2027年度後半でコンセンサスを20%上回ると予測しており、短期業績への影響は限定的とみられる。
+
+💡 投資含意: NVDAがロードマップ否定のコメントを出しているため即時の業績影響は限定的とみられるが、次世代システムへの不安がセンチメントを一時押し下げる可能性がある。
+🔗 波及: AMDやGoogle（TPU）は「Kyber空白期間」に高性能AI計算向け受注機会を獲得しやすくなる。台湾PCBメーカーへの影響も注目。
+📈 関連銘柄: NVDA↓（短期センチメント）; AMD, GOOGL↑（相対優位）
+⚖️ 弱気: 短期的にはロードマップ懸念で調整リスクあり；長期的にはNVDAの技術回復力を市場が信頼するかが問われる
+
+### [マイクロソフトが4800人削減、Xbox事業ではスタジオ4社のスピンオフも──2026年最大のテック株下落企業が構造改革](https://www.cnbc.com/2026/07/06/microsoft-cuts-2point1percent-of-employees-as-xbox-unit-plans-to-spin-studios.html)
+*Microsoft cuts 4,800 jobs, as Xbox unit downsizes and plans to spin off four gaming studios*
+出典: CNBC Technology ・ #technology #2026-07-07
+
+マイクロソフトが4,800人の即時削減（全社員の2.1%）を発表した。Xbox事業では合計3,200人（Xbox従業員の約20%）を削減し、4つのゲームスタジオのスピンオフも決定した。
+MSFTは2026年に入り株価が-19%となっており、大手テック企業の中で最大の下落率。企業ソフトウェア需要がAIによって代替されるとの懸念が株価を押し下げてきた背景がある。
+Xbox削減3,200名のうち1,600名は即時、残り1,600名は2027年度を通じて実施。スピンオフ対象はCompulsion Games、Double Fine、Ninja Theory、Undead Labs。Arkane Studiosも「戦略的選択肢を検討中」とされる。
+同社人事責任者コールマン氏は「AI自動化による直接的な人員置き換えではない」とコメントしているが、市場の懐疑は続く。今回の構造改革はゲーム事業のコアへの集中と、AI・クラウドへのリソースシフトとして読み取れる。
+スピンオフされた4スタジオのIPが独立後にどう評価されるかが今後の焦点。ゲーム業界再編の呼び水となる可能性もある。
+
+💡 投資含意: MSFT全体としてはAI・クラウドへの注力強化が中長期プラス。ゲーム部門のリストラは短期コスト計上を伴うが、体制スリム化で将来の利益率改善が期待される。
+🔗 波及: Xboxリストラは競合任天堂・Sonyの相対優位を一時的に高める可能性。スピンオフIPの独立・売却案件としてゲームパブリッシャーが注目。
+📈 関連銘柄: MSFT↑（長期AI注力）; 7974.T（任天堂）, 6758.T（Sony）が相対的に優位になる可能性
+⚖️ 強気/弱気: 短期はリストラコストと不透明感で弱気材料、中長期はAI集中投資の成果を待つ局面
+
+### [SKハイニックスが米市場へ──約280億ドル規模のADR上場でAIメモリ需要を追い風に](https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/)
+*US investors will soon get access to SK Hynix, another memory maker riding the AI boom*
+出典: TechCrunch ・ #technology #2026-07-07
+
+韓国の半導体大手SKハイニックスが、ADR（米国預託証券）によりナスダックへの上場を目指す。AI向けHBM（高帯域幅メモリ）の最大手として、米国投資家の旺盛な需要を取り込む狙い。
+ADR数約1780万株（1ADR＝普通株1/10）、調達額は約280億ドル規模。価格決定は翌木曜日、上場は翌金曜日（ナスダック）を予定。
+2026年第1四半期売上高は前年比+200%、株価は年初来+260%と急成長中。「RAMageddon」と呼ばれるメモリ価格急騰の直接受益企業。
+比較対象としてMicronは直近1年+700%（時価総額1兆ドル超）。サムスンとSKハイニックスが計5500億ドル超の新規供給能力を公表済みであり、将来の供給過剰リスクが内在している。
+上場タイミングにサムスン株が急落（-8%）しているため、ADRへの需要・価格設定への影響が懸念される。「RAMageddon」バブルの持続性が問われる局面でもある。
+
+💡 投資含意: SKハイニックスADRはAIメモリ需要の直接投資手段が増えることを意味する。上場初期は資金流入が期待されるが、サムスン急落との重なりで価格形成が荒れる可能性あり。
+🔗 波及: 半導体ETFへのリバランスでMicron等への資金移動も起きうる。供給過剰リスクが顕在化した場合、SKハイニックス・Micron両社に同時に下方圧力。
+📈 関連銘柄: SKハイニックスADR（新規）; MU（Micron）; 000660.KS（韓国上場SKハイニックス）
+⚖️ 強気/弱気: AI需要継続なら強気、供給過剰シナリオへの転換で急反落リスクあり
 
 ## 2026-07-05
 
