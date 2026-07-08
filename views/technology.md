@@ -1,6 +1,68 @@
 # 🖥 テクノロジー — 全アーカイブ
 
-全182件 / 日付の新しい順
+全186件 / 日付の新しい順
+
+## 2026-07-08
+
+### [Waymoが新たに4都市（サンディエゴ・ラスベガス・タンパ・デンバー）でロボタクシー展開──10都市超から一気に拡大、週100万回目標へ](https://www.cnbc.com/2026/07/08/waymo-starts-driverless-rides-in-san-diego-las-vegas-tampa-denver.html)
+*Waymo to start driverless rides in 4 more U.S. markets as expansion accelerates*
+出典: CNBC Technology ・ #technology #2026-07-08
+
+Waymo（Alphabet子会社）がサンディエゴ・ラスベガス・タンパ（フロリダ）・デンバーの4都市への無人ロボタクシーサービス拡張を発表した。まずAlphabet従業員向けに先行展開し、その後一般公開する段階的なロールアウトを採用。
+現在Waymoはすでに10都市以上で無人運転車を稼働させており、2026年2月に調達した160億ドルの資金を背景に急拡大フェーズに入っている。累計自律走行回数は2,000万回以上に達した。
+競合ではテスラがテキサス・マイアミへ拡大、Amazon傘下のZooxもオースティン・マイアミで一般向けサービスを準備中。Waymoのフリートは現在約4,000台（5・6世代ADS搭載）で、先行者優位は大きいが競争は本格化する見込み。
+今年後半にはロンドン（初の海外市場）でもサービス開始を予定。2026年末までに週100万回以上のトリップ達成が目標値として設定されている。
+一方で足元の課題として、洪水路への誤走行や7月4日の花火イベントでバッテリー切れが続出するなど、スケールアップ段階での安全事象の可視性が高まっており、規制・世論の動向には注意が必要。
+
+💡 投資含意: Waymoの急速な都市拡張は先行者優位とデータ蓄積スピードで競合を引き離す戦略の継続。AlphabetへのWaymo寄与が市場で評価されれば、GOOGLのバリュエーション向上につながる。
+🔗 波及: Waymoの拡大はUber・Lyftへの長期的な業務代替リスクを高める。ライダー・センサー・マッピングなどWaymo供給サプライヤーへの需要増。Tesla FSDとの商業競争が本格化。
+📈 関連銘柄: GOOGL（Waymo親会社）↑; UBER, LYFT（中長期脅威）↓; TSLA（競合）
+⚖️ 強気: 先行者優位とスケールの加速はAlphabetへの長期価値創出の確度を高める
+
+### [AppleがBroadcomと300億ドル超の米国製チップ長期契約──Apple史上最大の国内製造コミットメント、2031年まで150億個超を生産](https://www.cnbc.com/2026/07/08/apple-commits-30-billion-to-broadcom-for-us-chipmaking-push.html)
+*Apple commits $30 billion to Broadcom for U.S. chipmaking push*
+出典: CNBC Technology ・ #technology #2026-07-08
+
+Appleがチップメーカーのブロードコムと多年間の新長期契約を締結した。300億ドル超の規模で、コロラド州フォートコリンズのBroadcom工場への15億ドルの設備拡張を含む。2031年まで150億個以上の米国製チップを生産する計画で、Apple史上最大の米国内製造コミットメントとなった。
+対象製品はワイヤレスコンポーネント（セルラー・Wi-Fi・Bluetooth）向けのカスタムASICシリコン。ASICはAIワークロードにも広く使われており、将来的なApple AI製品への応用も想定される。発表後、Broadcom株は約5%上昇した。
+Apple CEOのティム・クック氏はトランプ政権への協力を明示し「米国内でのエンドツーエンドのシリコン供給チェーン確立を支援する取り組み」と強調した。2025年に発表した「4年間・600億ドルの米国投資計画（AMP）」の最大の単一案件として位置づけられる。
+AppleはこれまでBroadcom（無線チップ）・TSMC（製造）・ソニー（カメラセンサー）など幅広いサプライヤーに依存してきた。今回の契約は「特定の機能をBroadcomが担い、国内製造化する」というより深い排他的パートナーシップへの格上げを示す。
+ビジネス的背景として、関税リスクへの対応と米国政府との関係強化が組み合わさった戦略的な動きとして読み取れる。Intel除外やTSMCとの分離はないが、Broadcomの長期的な受注基盤は著しく強化される。
+
+💡 投資含意: BroadcomにとってAppleとの300億ドル超・2031年までの長期契約は売上の視認性を大幅に高める確実な追い風。AVGO株への直接的なプラス材料として評価されやすい。
+🔗 波及: Appleの国内製造シフトはTSMC（台湾）依存を部分的に低減。米国半導体製造エコシステム全体への設備投資拡大の流れを後押しする。iPhone向け部品需要の国内化が進む場合、INTC等の米国製造拠点にも波及する可能性。
+📈 関連銘柄: AVGO（Broadcom）↑（長期受注確定）; AAPL（国内化リスク分散でプラス）; TSM（台湾依存低減の影響を観察）
+⚖️ 強気: 長期・大規模の確定受注はBroadcomにとって株主価値の向上に直結する明確な強気材料
+
+### [MetaがAI画像生成モデル「Muse Image」を公開──広告クリエイティブの自動生成で収益化を狙い、OpenAI・Googleに追従](https://www.cnbc.com/2026/07/07/meta-ai-muse-image.html)
+*Meta enters AI image model race in bid to court advertisers and subscribers*
+出典: CNBC Technology ・ #technology #2026-07-08
+
+MetaがAI画像生成モデル「Muse Image」（旧コード名Mango）を正式公開した。Meta Superintelligence Labsを率いるAlexandr Wang（元Scale AI創業者）が指揮する第2弾リリースで、4月のMuse Spark LLMに続く「Muse」シリーズの展開。
+Muse Imageは消費者向けにはMeta AIアプリ・WhatsApp DM・Instagram Storiesなどで無料提供。大量生成・高機能利用には2026年5月から開始したMeta Oneサブスクリプションが必要となり、新たな月額課金ストリームが形成される。
+最大の収益化ポイントは広告主向けのAdvantage Plus統合。「広告主のクリエイティブをもとに高品質なバリエーション画像を少ないイテレーションで生成できる」とMetaは主張しており、広告ROI向上とクリエイティブ制作コスト削減を訴求する。Metaはこれまでのイメージ生成機能にMidjourney・Black Forest Labs等の外部モデルを使っており、内製化によって依存度を下げる狙いもある。
+内部ベンチマークではOpenAI GPT Image 2には届かないがGoogleのNano Banana 2を上回ると主張。Muse Video（動画生成モデル）も後日リリース予定としており、生成AI全般を自社スタック化する方向性が鮮明。
+MetaのAIモデル戦略はLlamaファミリーのオープンウェイト公開からMuse系の内部モデルへと移行しており、プロプライエタリ資産でのマネタイズを志向しつつある転換点として注目される。
+
+💡 投資含意: 広告主向けのAI画像生成内製化はMeta Advantageの収益性を高め、広告ROASの改善につながりやすい。月額サブスク導入による収益多様化も評価材料。
+🔗 波及: Midjourney・Runway等のサードパーティAI画像生成ツールへのMetaからの発注が縮小しうる。OpenAI（GPT Image）・Google（Imagen）との競合が激化する。
+📈 関連銘柄: META↑（広告AI内製化・サブスク収益）; GOOGL, MSFT（競合AI画像）; 外部AI画像ベンダー（非上場）に中長期の脅威
+⚖️ 強気: 広告クリエイティブのAI自動化はMetaの広告事業のスケーラビリティを高める——Metaにとって明確な強気材料
+
+### [SpaceXAIがGrok 4.5を公開──「Opus-class・2倍のトークン効率・大幅低価格」でAIモデル競争に参入](https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/)
+*SpaceXAI releases Grok 4.5, which Elon describes as an 'Opus-class model'*
+出典: TechCrunch ・ #technology #2026-07-08
+
+SpaceXAI（イーロン・マスク傘下、株式公開済み）が最新モデルGrok 4.5を公開した。マスク氏はXで「Anthropic Opus-classだが、より高速・より高いトークン効率・低コスト」と評し、「Opus 4.7とほぼ同等の能力だが大幅に高速」とも述べた。SpaceXAIのIPO後、初のモデルリリースとなる。
+Grok 4.5はコーディング・クリエイティブライティング・リサーチ・オフィス業務など汎用業務を網羅するワークホース設計。SpaceXAIは「競合他社比2倍のトークン効率」を主張しており、実コストの削減効果として市場での訴求力は高い。
+価格は入力$2/百万トークン・出力$6/百万トークン。AnthropicのOpus 4.7は入力$5/百万・出力$25/百万であり、同等性能とするならば最大4分の1の価格帯となる。OpenAIの最上位Sol（入力$5/百万・出力$30/百万）と比べても大幅安。
+ベンチマークでは「業界最上位には届かないが拮抗する水準」と位置づけられており、速度とコスト効率を差別化軸としている。同週にはOpenAIもGPT-5.6（「最も強力なモデル」）のリリースを予定しており、主要ラボによる新モデルラッシュが続いている。
+SpaceXAI上場後初のリリースとして、投資家への成果報告という意味合いも持つ。APIエコシステムの拡大が重要な次のマイルストーン。
+
+💡 投資含意: Grok 4.5の価格破壊的な価格体系は、AnthropicやOpenAIが高価格モデルへ誘導する戦略への圧力を高める。コスト重視のSaaS企業が乗り換えを検討しやすくなる構図。
+🔗 波及: AIモデル価格下落競争の再加速。OpenAI（MSFT）・Anthropic（AMZN）の収益性シナリオへのリスク。SpaceXAI（非上場→上場後）の株価動向が業界センチメントに影響しうる。
+📈 関連銘柄: SpaceXAI（上場間もない）; MSFT（OpenAI収益依存）↓リスク; AMZN（Anthropic依存）↓リスク; GOOGL（競合AI）
+⚖️ 弱気（米国AI収益）: 競争激化による価格破壊はプロプライエタリAIラボの収益性への中長期的な逆風
 
 ## 2026-07-07
 
