@@ -1,6 +1,66 @@
 # 🤖 AI・先進技術 — 全アーカイブ
 
-全152件 / 日付の新しい順
+全156件 / 日付の新しい順
+
+## 2026-07-09
+
+### [AnthropicがLLMの「隠れた思考空間」を発見──Jacobianレンズでモデル内部の概念処理を初めて可視化、「平凡から不安を覚えるものまで」](https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/)
+*Anthropic found a hidden space where Claude puzzles over concepts*
+出典: MIT Tech Review AI ・ #ai #2026-07-09
+
+AnthropicがLLM（Claudeモデル）の内部で何が起きているかを今まで最も明確に可視化することに成功したとMIT Tech Reviewが報じた。「Jacobianレンズ」と呼ばれるツールを構築した研究で、モデルが質問に回答したりタスクを実行したりする際の内部的な概念処理空間を解析する。
+この研究はAIの「機械論的解釈可能性（Mechanistic Interpretability）」という分野に属する。LLMの内部がブラックボックスであることへの批判に対し、Anthropicは「モデルがどのように概念を処理しているか」を追跡する手法を開発してきた。
+MIT Tech Reviewによると発見内容は「平凡なものから不安を覚えるものまで」多岐にわたるという。LLMが特定の「隠れた概念空間」で推論を行っていることが初めて見えてきた趣旨の研究とみられるが、本文は有料（403）のためRSSリードに基づく範囲での要約。詳細は原文参照推奨。
+解釈可能性研究の進歩は、AIの安全性・透明性・説明可能性という観点で業界全体に波及する。AnthropicはAI安全性を企業差別化の核に据えており、こうした研究成果は規制当局・顧客・投資家へのアピール材料として機能する。
+
+💡 投資含意: 解釈可能性の進歩はAnthropicの安全性主張の信頼性を高め、規制環境で他社より有利な立場に立てる。AI規制が厳格化する欧州・米国市場での企業採用を後押し。
+🔗 波及: 解釈可能性研究が進むほどAI規制の「説明可能性要件」が現実化しやすくなり、OpenAI・Googleも同分野への投資を加速せざるをえない。中長期的には規制対応コストが参入障壁を高め、大手ラボに有利に働く可能性。
+📈 関連銘柄: Anthropic（非上場、IPO前注目）; MSFT, AMZN（OpenAI・Anthropic投資家）
+⚖️ 強気（Anthropic長期）: 解釈可能性・安全性の先行投資はAI規制強化時代の差別化要素として評価される
+
+### [⚠️ ローカル完結の医療AI匿名化ツール「OpenMed 1.8」がAndroid・iOS・ブラウザに対応──患者データが端末外に出ないオープンソース臨床NLPという投稿がある](https://www.reddit.com/r/LocalLLaMA/comments/1urt5o4/openmed_18_apache20_clinical_deidentification/)
+*OpenMed 1.8: Apache-2.0 clinical de-identification that runs fully local, now on Android, iOS, and in the browser.*
+出典: Reddit r/LocalLLaMA ・ #ai #2026-07-09
+
+ローカル医療AI匿名化ツールの開発者が「OpenMed v1.8」のリリースをRedditで告知しているという投稿がある。OpenMedはApache-2.0ライセンスの臨床NLPツールキットで「患者データが絶対にデバイス外に出ない」設計原則を掲げるとされる（クラウド呼び出しなし・APIキー不要・機内モード動作可）というコミュニティでの話題。
+v1.8の主な追加機能は、AndroidネイティブアプリへのONNX Runtime対応（医療文書のPII除去をスマートフォン上で完結）、iOS/SwiftおよびReact Native対応、ブラウザランタイム（Transformers.js + ONNX Runtime Web経由、サーバー送信ゼロ）。また医療PDFに「見えない文字テキスト」が残る一般的な匿名化ミスを検出するverify-pdf機能も収録される。
+Hugging Face上に1500以上のApache-2.0モデルが公開されており、うち2モデルが独立PII Maskingベンチマークで1位・2位を獲得しているとの主張。44Mパラメータの軽量モデルがスマートフォン動作可能とされる。
+医療プライバシー規制（HIPAA・GDPR）に準拠したローカルAI処理のニーズは大きく、オープンソースソリューションの成熟は商業クラウド型医療AIとの競合を生み出しうる。
+⚠️ 未確認情報（Reddit発・要裏取り）
+
+💡 投資含意: プライバシー優先の医療AI処理ツールの普及は、クラウド型の医療AI SaaS（Nuance/MSFT、Oracle Healthなど）への選択肢を増やし、価格圧力や選好基準の変化につながりうる。
+🔗 波及: ローカルAI医療ツールの成熟はクラウドベースの医療データ基盤企業への長期的な競争圧力。EHRベンダー（EPIC等）のAIエコシステムとの競合。
+📈 関連銘柄: MSFT（Nuance・医療AI）、ORCL（Oracle Health）——長期的には競争圧力の観点で注目
+⚖️ 弱気（クラウド医療AI）: 高品質なオープンソースツールの普及は医療AI SaaS市場のコモディティ化を加速させる潜在的リスク
+
+### [GPT-5.6ファミリー正式リリース──Sol・Terra・Luna の3モデルで「1トークン当たりの知性」を刷新、Fable 5を複数ベンチで上回る](https://openai.com/index/gpt-5-6)
+*GPT-5.6: Frontier intelligence that scales with your ambition*
+出典: OpenAI ・ #ai #2026-07-09
+
+OpenAIが新世代フラッグシップモデルGPT-5.6ファミリーを限定プレビュー終了後、一般提供（GA）に移行した。フラッグシップのSol、バランス型のTerra、コスト効率最優先のLunaの3バリアントを展開する。
+GPT-5.6 Solの最大の特徴は「1トークン当たりの知性」——コーディング・知識業務・サイバーセキュリティ・科学領域で最高水準を達成しながら、競合より少ないトークン数・低コストで同等の成果を出すこと。Agents' Last Exam（55分野の長時間エージェントワーク評価）でSolは53.6を記録し、Anthropic Claude Fable 5（適応的推論）を13.1ポイント上回った。
+コーディングエージェント評価（Artificial Analysis Coding Index）では80で2.8ポイントFable 5を超え、使用トークンは半分以下、時間も半分以下、コストは約1/3。TerraとLunaはFable 5を約1/16のコストで上回ると主張する。Artificial Analysis Intelligence Index（広義の知性総合指標）では、Sol最大推論設定でFable 5の1ポイント以内に収まりながら、61%短い時間・約半分のコストで達成した。
+新機能「ultra」モードは4エージェントを並列協調させることで複雑タスクをより高速に処理。Responses APIに「Programmatic Tool Calling」を導入し、中間データの大量処理をモデル往復なしでこなせるようになった。コンピュータ使用・デザイン判断力も向上し、コードだけでなくレンダリング後の確認・修正まで行う。
+GAリリース前に「最も広範な評価期間」（人間によるレッドチーム＋大規模自動テスト）を経ており、安全策は「これまでで最も堅牢」とOpenAIは主張する。
+
+💡 投資含意: OpenAIがAnthropicの最上位モデルFable 5を複数ベンチマークで上回りながら大幅なコスト優位を主張。トークン効率競争でOpenAIが一歩リードした形であり、MSFTのAI Copilot収益成長の追い風となる。
+🔗 波及: Anthropic（AMZN投資）は差別化圧力が高まる。GPT-5.6のコスト優位は企業AI採用を促進し、クラウドインフラ（Azure）の需要を押し上げる構図。競合ラボの対抗モデルリリースを加速させる可能性がある。
+📈 関連銘柄: MSFT（OpenAI主要投資家・Azure）↑; AMZN（Anthropic投資、競合圧力）; GOOGL（Gemini競合）
+⚖️ 強気（MSFT）: OpenAIの競争優位強化はMSFTのCopilot/Azure AI収益の成長シナリオを支持する
+
+### [OpenAIがバイオリスク向けバグバウンティを常設化──GPT-5.6も対象、報奨金を$5万に引き上げ「普遍的ジェイルブレイク」を公募](https://openai.com/index/bio-bug-bounty)
+*GPT-5.5 Bio Bug Bounty*
+出典: OpenAI ・ #ai #2026-07-09
+
+OpenAIが生物安全性に関するバグバウンティプログラムをGPT-5.5限定の一時的な取り組みから「OpenAI Bio Bounty Program」として常設化した。対象モデルは最新のGPT-5.6および引き続きGPT-5.5の両方。
+プログラムの目的はフロンティアモデルの「生物リスク向けの普遍的なジェイルブレイク（安全策を全面突破する手法）」を見つけること。報奨金は$25,000から$50,000に増額され、部分的突破には小額賞も設ける。GPT-5.5 Bio Bountyは7月27日に締め切り（当初告知どおり）、以降はGPT-5.6のみが対象となる。
+GPT-5.6のGAリリース前に「最も広範な評価期間」（人間レッドチーム＋自動テスト）を設けたとOpenAIは述べており、常設バウンティはその安全策の継続的な公開検証として機能する。申請にはNDA締結が必要。
+生物兵器悪用はOpenAIが「最も危険なカテゴリ」と位置づける領域であり、AIの生物安全性への積極的な取り組みは政府・国防・ライフサイエンス分野での信頼醸成として機能する。
+
+💡 投資含意: OpenAIが生物安全性への「公開検証」を常設化することは、政府・国防・ライフサイエンス分野でのAPI利用拡大に向けた信頼醸成として機能する。MSFTのAzure Government需要を支える材料。
+🔗 波及: 他のAIラボ（Anthropic・Google）にも同様の公開バウンティへの圧力が高まる。業界標準化すれば参入障壁として機能し、大手ラボの優位性が継続する。
+📈 関連銘柄: MSFT（OpenAI連携、政府AI市場）↑
+⚖️ 強気: 安全性の透明性強化は規制リスクを低減し、政府・ヘルスケア分野での受注能力を高める長期的なプラス材料
 
 ## 2026-07-08
 
