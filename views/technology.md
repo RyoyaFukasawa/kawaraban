@@ -1,6 +1,65 @@
 # 🖥 テクノロジー — 全アーカイブ
 
-全191件 / 日付の新しい順
+全195件 / 日付の新しい順
+
+## 2026-07-10
+
+### [ステーブルコインCircleがOCC銀行免許取得——USDC($730億流通)の自己保有管理が可能に、同日SWIFTが17行とブロックチェーン決済コンソーシアム始動](https://www.cnbc.com/2026/07/10/circle-gets-an-occ-bank-charter-as-stablecoin-competition-heats-up-shares-surge-14percent.html)
+*Stablecoin issuer Circle just got the greenlight to operate as a bank. The shares are up 5%*
+出典: CNBC Technology ・ #technology #2026-07-10
+
+USDCの発行体CircleがOCC（通貨監督官局）から信託銀行免許を取得した。「Circle National Trust」として外部の第三者銀行・カストディアンに依存せずUSDCの裏付け資産（現金・国債）を自社で直接管理できるようになる。株価は当初急騰後に落ち着き終値で約5%高。
+$730億を超える流通残高を持つUSDCにとって、準備資産の自己管理はコスト効率・透明性・規制対応の大幅向上を意味する。また銀行規制が州別50種類から連邦一本に統一されるため、国際展開のコストが大幅に下がる。GENIUSアクト（ステーブルコイン規制法、約1年前成立）に基づき大規模発行者へのOCC免許取得が義務化されており、今回はその履行となる。
+同日、国際銀行間通信協会SWIFTがCiti・HSBBを含む17行とブロックチェーン決済コンソーシアムを始動。また6月にはBlackRock・Coinbase・Mastercard・Stripe・Visaが参加するOpen USD（OUSD）ステーブルコイン構想も始動しており、伝統的金融機関のステーブルコイン参入が加速している。
+今回の動きはCircleの競争地位を強化すると同時に、大手銀行・フィンテックによる自社ステーブルコイン発行という脅威も同時に顕在化させる。
+
+💡 投資含意: Circle（上場済）のOCC免許はステーブルコイン発行体の「銀行化」トレンドを示す。連邦規制の明確化は制度的不確実性を減らし、暗号・フィンテックセクター全体のバリュエーション改善材料。
+🔗 波及: Coinbase・BitGo・Paxos・Rippleが同様の免許申請中。大手銀行（JPM・BAC等）の自社ステーブルコイン参入が加速すれば、既存の決済フロー（Visa・Mastercard）に構造的な変化が生じうる。
+📈 関連銘柄: COIN↑（ステーブルコイン規制明確化）; PYPL↑（決済再評価）; V, MA（ステーブルコイン競合、長期的圧力）; JPM（自社ステーブルコイン戦略の評価）
+⚖️ 強気（暗号規制明確化）: 連邦免許取得は制度リスクの大幅低減であり、ステーブルコイン関連企業全体のバリュエーション底上げ材料
+
+### [SKハイニックスが米国史上最大の外国企業IPO——Nasdaqデビュー+14%・$265億調達、HBMチップのAI需要で「コリアディスカウント」を払拭](https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/)
+*SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs*
+出典: TechCrunch ・ #technology #2026-07-10
+
+韓国メモリ半導体大手のSKハイニックスが7月10日、Nasdaqに上場し177.9百万のADRを1株$149で販売して$265億（KRW 40兆）を調達した。アリババの2014年IPO（$250億）を上回る「米国史上最大の外国企業IPO」で、株価はIPO価格から+14%超で始まった。需要は供給の7倍超を超える過熱人気だった。
+SKハイニックスはNvidiaのGPU向けHBM（高帯域メモリ）の主要供給元であり、HBM需要がここ1年で同社株を7倍超に押し上げた。IPO調達資金は韓国での新ファブ・パッケージング施設・EUVスキャナー購入に充てられ、AIが引き起こす世界的なメモリ不足に対応する投資となる。
+米商務長官ルトニック氏は同日の別イベントでSKハイニックス・サムスン両社に「米国に工場を建設してほしい」と要請。競合の米Micronも$2500億の米国製造計画を発表した（7月9日報道の続報）。
+IPOの成功は「コリアディスカウント（韓国株に付くバリュエーション割引）」の克服を示す事例として注目され、AI半導体メモリサイクルへの市場の根強い信頼を反映している。
+
+💡 投資含意: AIメモリ需要が依然旺盛であることをIPO人気が裏付けた。NVDAの主要HBMサプライヤーが米国資本市場でも高評価を得たことで、HBM市場はNVDA・AMD・ハイパースケーラーのAI投資と連動して成長する構図が明確化。
+🔗 波及: Micronはより本格的な国内製造投資でSKH・サムスンに対抗。半導体装置（AMAT・LRCX・KLA）需要が韓国・米国の両ファブで拡大。米政府の国内製造要請が今後の補助金交渉に影響する可能性。
+📈 関連銘柄: SKHY（SKハイニックス Nasdaq上場）; MU↑（競合・共存・国内優遇）; NVDA↑（HBM供給能力向上）; AMAT, KLA, LRCX↑（装置需要拡大）
+⚖️ 強気（AIメモリ）: IPO人気とプレミアム価格での調達成功はAIメモリサイクルが依然上昇局面にあることを示す市場の信任
+📅 次の注目: 7/13（月）本格取引開始; SKHYとMU・サムスンの米国ファブ誘致交渉の進展
+
+### [量子コンピュータ企業Oratomicが$3億シリーズA調達——光学ピンセット方式で「2万量子ビットでの実用機」を目指し、Khosla最大初期投資](https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/)
+*Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits*
+出典: TechCrunch ・ #technology #2026-07-10
+
+Caltechの物理学者が創業したOratomicが、ARCH Venture Partners・Spark Capital・Khosla Ventures共同リードで$3億のシリーズAを調達した。追加投資家にはBezos Expeditions・Index Ventures・General Catalyst・Lowercarbon Capital・Bain Capitalが名を連ねる。
+Oratomicはレーザーを「光学ピンセット」として使い個別の原子を固定する「中性原子」方式の量子コンピュータを開発。「従来思われていたより大幅に少ない量子ビット数（1〜2万個）で誤り訂正を実現できる」という研究ブレイクスルーが創業の動機で、CEO Dolev Bluvstein氏は「この発見が全員の考えを変えた」と述べる。
+競合のPsiQuantum（$70億評価・100万量子ビット目標）とは対照的に、Oratomicは「NISQ（ノイズ中間スケール）プロトタイプ段階を完全にスキップして2万量子ビットでの実用機を構築する」路線。「全てのコア部品を実験的に検証済み」と主張する。
+量子コンピュータ企業への投資熱が高まり、Infleqtion・Quantinuumが今年IPO、Rigetti・IonQは過去18ヶ月で株価急騰している。Vinod Khoslaは「Khoslaとして最大規模の初期投資」と表現した。
+
+💡 投資含意: 量子コンピュータ関連の公開株（RGTI・IonQ）は直近18ヶ月で急騰済みだが、Oratomicの大型シリーズAはセクターへの資金流入継続を示す。フォールト・トレラント量子機の実用化が近づけば暗号・AI・創薬のパラダイムシフトとなる。
+🔗 波及: 量子コンピューティング実用化が見えてくると既存の暗号標準（RSA等）の陳腐化リスクが意識され、量子耐性セキュリティ需要が先行して高まる。バイオ・創薬（分子シミュレーション）への応用も長期テーマ。
+📈 関連銘柄: RGTI（Rigetti）↑; IonQ↑（量子株センチメント連動）; QMCO（テーマ株）
+⚖️ 強気: 大型VCの継続投資は量子関連公開株全体のセンチメントを押し上げる材料
+
+### [EUがMetaのInstagram・Facebook「依存設計」でDSA違反と正式認定——全世界売上の最大6%（推定$100億超）の制裁金手続き始動](https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/)
+*EU threatens Meta with fines over addictive features on Facebook and Instagram*
+出典: TechCrunch ・ #technology #2026-07-10
+
+欧州委員会が、MetaのFacebook・Instagramが「依存を引き起こす設計（Addictive Design）」でEUのデジタルサービス法（DSA）に違反しているとの予備的認定を下した。無限スクロール・自動再生・プッシュ通知・高度個人化アルゴリズムがユーザーを「オートパイロット」状態に追い込み、強迫的な使用習慣を形成させると指摘。
+委員会はMetaに対し、自動再生とデフォルト無限スクロールの無効化・効果的な休憩時間の導入・エンゲージメント最大化からの脱却を求めた。Metaが提供するスクリーンタイム管理ツールについては「簡単に解除でき、実質的な削減につながっていない」と批判した。
+これは今年2度目のDSA違反認定（4月：13歳未満ユーザーへの対処不足）。米国でも4つの州が計$1.4兆のペナルティを求める訴訟を起こしており、Metaのプラットフォーム設計に対する法的包囲網が世界的に強まっている。
+今回の認定はまだ予備的段階で、Metaは正式回答の機会を持つ。最終確定の場合、全世界年間総売上の最大6%（2025年売上約$1700億から推計すると$100億超）の制裁金が科される可能性がある。
+
+💡 投資含意: Metaの欧州リスクが具体化。6%制裁金が確定すれば業績直接影響は大きいが、最終決定・執行まで数年かかることが多い。より重大なのは「依存設計の変更」強制によるユーザーエンゲージメント低下→広告収益圧迫シナリオ。
+🔗 波及: DSA規制の厳格化はMeta以外のプラットフォーム（TikTok・YouTube/GOOGL・X）にも同様の要件が適用される潮流をつくる。ユーザーエンゲージメント起点の広告ビジネスモデル全体への構造的な圧力。
+📈 関連銘柄: META↓（制裁金リスク・エンゲージメント低下懸念）; GOOGL（YouTube、同類リスク）; SNAP↓（同業）; TTD（ターゲティングコスト増）
+⚖️ 弱気（Meta欧州）: 規制の実効的執行が続けば欧州での広告収益成長が中長期的に抑制される逆風材料
 
 ## 2026-07-09
 
