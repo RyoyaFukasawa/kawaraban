@@ -5,7 +5,7 @@
 import { writeFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
-import { FEEDS } from "../src/feeds.ts";
+import { FEEDS, MAX_PER_CATEGORY } from "../src/feeds.ts";
 import { parseFeed, type FeedItem } from "../src/rss.ts";
 import { existingUrls } from "../src/db.ts";
 
@@ -17,6 +17,11 @@ const OUT_PATH = join(__dirname, "..", "raw-items.json");
 // RSSが返してくる大昔の記事（例: WSJが1年前の記事を混ぜてくる）を弾くため。
 // これにより「昨日と同じ事件の別記事」が翌日また選ばれて重複するのを根本から防ぐ。
 const FRESHNESS_HOURS = 36;
+
+// unverified ソース（Reddit 等）がカテゴリ採用枠を占有しすぎるのを防ぐ上限比率。
+// 06-21に r/LocalLLaMA が AI枠5件中4件（80%）を占めたことへの対処。
+// MAX_PER_CATEGORY × この値 を超えた unverified 候補はスキップする。
+const UNVERIFIED_RATIO_CAP = 0.40;
 
 /**
  * pubDate が新鮮（FRESHNESS_HOURS 以内）かを判定する。
@@ -71,6 +76,7 @@ async function main() {
   const candidates: RawCandidate[] = [];
   const perCategoryUrls = new Set<string>(); // 同一実行内の重複も排除
   let staleTotal = 0; // 鮮度フィルタで除外した総数
+  const unverifiedCountPerCategory: Record<string, number> = {};
 
   for (const feed of FEEDS) {
     try {
@@ -82,6 +88,12 @@ async function main() {
         const url = item.link.trim();
         if (!url) continue;
         if (url.includes("/video/")) { skipped++; continue; } // 動画ページURL除外（本文0字になるため）
+        if (feed.unverified) {
+          const cap = Math.max(2, Math.floor(MAX_PER_CATEGORY * UNVERIFIED_RATIO_CAP));
+          const cnt = unverifiedCountPerCategory[feed.category] ?? 0;
+          if (cnt >= cap) { skipped++; continue; }
+          unverifiedCountPerCategory[feed.category] = cnt + 1;
+        }
         if (seen.has(url) || perCategoryUrls.has(url)) continue; // 重複排除
         if (!isFresh(item.pubDate, nowMs)) {
           stale++; // 古い記事は除外（前日以前の事件の再掲を防ぐ）
