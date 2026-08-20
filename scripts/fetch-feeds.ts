@@ -82,6 +82,7 @@ async function main() {
         const url = item.link.trim();
         if (!url) continue;
         if (url.includes("/video/")) { skipped++; continue; } // 動画ページURL除外（本文0字になるため）
+        if (url.includes("/transcript/")) { skipped++; continue; } // 番組書き起こしURL除外（CBS等。投資含意なし）
         if (seen.has(url) || perCategoryUrls.has(url)) continue; // 重複排除
         if (!isFresh(item.pubDate, nowMs)) {
           stale++; // 古い記事は除外（前日以前の事件の再掲を防ぐ）
