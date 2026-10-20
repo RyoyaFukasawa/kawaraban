@@ -139,6 +139,13 @@ export const FEEDS: FeedSource[] = [
     url: "https://www.therobotreport.com/feed/",
     category: "robotics",
   },
+  {
+    // TechCrunch ロボティクス専用フィード。スタートアップ・資金調達・製品発表の速報に強く、
+    // The Robot Report の産業専門報道と補完関係にある（無料・本文も無料）。
+    name: "TechCrunch Robotics",
+    url: "https://techcrunch.com/category/robotics/feed/",
+    category: "robotics",
+  },
 
   // --- 政治 ---
   {
