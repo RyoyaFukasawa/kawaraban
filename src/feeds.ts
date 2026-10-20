@@ -27,12 +27,8 @@ export interface FeedSource {
 
 export const FEEDS: FeedSource[] = [
   // --- テクノロジー ---
-  {
-    name: "WSJ Technology",
-    url: "https://feeds.a.dj.com/rss/RSSWSJD.xml",
-    category: "technology",
-    paywalled: true,
-  },
+  // WSJ Technology は 2026-06-21 時点で 15 日以上連続 SKIP のため削除。
+  // 代替候補: Politico Tech / Wired / The Verge（日次環境での疎通確認後に追加予定）。
   {
     // テックスタートアップ・資金調達・企業競争の報道。テック投資に直結（無料・本文も無料）。
     // 個人ブログ的だった MarkTechPost からの差し替え（信頼性と投資直結度で上回るため）。
@@ -141,12 +137,8 @@ export const FEEDS: FeedSource[] = [
   },
 
   // --- 政治 ---
-  {
-    name: "WSJ Politics",
-    url: "https://feeds.a.dj.com/rss/RSSPolitics.xml",
-    category: "politics",
-    paywalled: true,
-  },
+  // WSJ Politics は 2026-06-21 時点で 21 日以上連続 SKIP のため削除。
+  // 代替候補: Politico / AP Politics（日次環境での疎通確認後に追加予定）。
   {
     name: "The Hill",
     url: "https://thehill.com/homenews/feed/",
