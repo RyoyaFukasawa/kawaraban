@@ -4,200 +4,360 @@
     "category": "technology",
     "paywalled": false,
     "unverified": false,
+    "title_en": "Yale&#8217;s Sonnenfeld: Nvidia is a &#8216;detriment&#8217; to U.S. industrial might — not a champion",
+    "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+    "description": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
+    "pubDate": "Wed, 25 Nov 2026 00:12:02 +0000"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "technology",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Trump reportedly says pardoning Jensen Huang is &#8216;an option&#8217;",
+    "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+    "description": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.",
+    "pubDate": "Wed, 25 Nov 2026 00:10:27 +0000"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "technology",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+    "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+    "description": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+    "pubDate": "Tue, 24 Nov 2026 22:27:52 +0000"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "technology",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "In all-hands meeting, Jensen Huang thanks White House and says he&#8217;s in therapy",
+    "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+    "description": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+    "pubDate": "Tue, 24 Nov 2026 21:48:27 +0000"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "technology",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Even the best AI agents struggle with everyday life",
+    "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+    "description": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+    "pubDate": "Tue, 24 Nov 2026 21:33:29 +0000"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "technology",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+    "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+    "description": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+    "pubDate": "Tue, 24 Nov 2026 21:32:38 +0000"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "technology",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+    "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+    "description": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+    "pubDate": "Tue, 24 Nov 2026 21:19:52 +0000"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "technology",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+    "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
+    "description": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.",
+    "pubDate": "Tue, 24 Nov 2026 21:09:04 +0000"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "technology",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+    "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+    "description": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+    "pubDate": "Tue, 24 Nov 2026 18:30:42 +0000"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "technology",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "UK warns AI-driven cyberattacks are exposing years of weak security",
+    "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+    "description": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+    "pubDate": "Tue, 24 Nov 2026 18:02:59 +0000"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "technology",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Threads comes to iPad and takes a page from X&#8217;s playbook with cashtags",
+    "url": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/",
+    "description": "The addition of live stock quotes and charts could help Threads attract the financial community that has historically relied on X.",
+    "pubDate": "Tue, 24 Nov 2026 17:44:34 +0000"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "technology",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Electric truck startup Harbinger gets financing boost from Palmer Luckey&#8217;s bank",
+    "url": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
+    "description": "Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth.",
+    "pubDate": "Tue, 24 Nov 2026 17:29:09 +0000"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "technology",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Meta brings its Muse AI assistant directly into Instagram DMs",
+    "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+    "description": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+    "pubDate": "Tue, 24 Nov 2026 17:00:00 +0000"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "technology",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+    "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+    "description": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+    "pubDate": "Tue, 24 Nov 2026 16:46:00 +0000"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "technology",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
+    "url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
+    "description": "Uber and Nuro have started testing driverless Lucid Gravity SUVs on public streets in the San Francisco Bay Area.",
+    "pubDate": "Tue, 24 Nov 2026 16:40:46 +0000"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "technology",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+    "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+    "description": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+    "pubDate": "Tue, 24 Nov 2026 16:10:00 +0000"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "technology",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Pinterest will now let parents limit the AI-generated content their teens see",
+    "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+    "description": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+    "pubDate": "Tue, 24 Nov 2026 16:02:37 +0000"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "technology",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Amazon&#8217;s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+    "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+    "description": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+    "pubDate": "Tue, 24 Nov 2026 15:51:07 +0000"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "technology",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Huang reportedly admitted to more than two affairs to Nvidia&#8217;s board",
+    "url": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
+    "description": "During a meeting before his reinstatement, Huang admitted to more affairs beyond the two that have been reported in the news, according to The Wall Street Journal.",
+    "pubDate": "Tue, 24 Nov 2026 13:29:53 +0000"
+  },
+  {
+    "source": "TechCrunch",
+    "category": "technology",
+    "paywalled": false,
+    "unverified": false,
     "title_en": "Figma employee sues, alleging company forced her to confront harassers",
     "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
     "description": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination.",
     "pubDate": "Mon, 23 Nov 2026 23:07:49 +0000"
   },
   {
-    "source": "TechCrunch",
+    "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-    "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-    "description": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-    "pubDate": "Mon, 23 Nov 2026 22:05:50 +0000"
+    "title_en": "Trump open to pardoning Jensen Huang if needed: NY Post",
+    "url": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
+    "description": "Trump said he would be willing to pardon Jensen Huang if needed and argued that the Nvidia CEO should not have to invoke the Fifth Amendment before Congress.",
+    "pubDate": "Wed, 25 Nov 2026 02:09:45 GMT"
   },
   {
-    "source": "TechCrunch",
+    "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-    "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-    "description": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
-    "pubDate": "Mon, 23 Nov 2026 22:02:05 +0000"
+    "title_en": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+    "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+    "description": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+    "pubDate": "Wed, 25 Nov 2026 01:13:56 GMT"
   },
   {
-    "source": "TechCrunch",
+    "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-    "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-    "description": "\"The mistake has been corrected,\" Elon Musk chimed in.",
-    "pubDate": "Mon, 23 Nov 2026 21:47:41 +0000"
+    "title_en": "Jim Cramer says Tuesday's market pullback is an encouraging sign. Here's why",
+    "url": "https://www.cnbc.com/2026/11/24/jim-cramer-market-pullback.html",
+    "description": "Jim Cramer said Tuesday's market action following Monday's massive rally is an encouraging sign that stocks are on the path to a more sustainable recovery.",
+    "pubDate": "Tue, 24 Nov 2026 23:23:34 GMT"
   },
   {
-    "source": "TechCrunch",
+    "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-    "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
-    "description": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
-    "pubDate": "Mon, 23 Nov 2026 21:25:42 +0000"
+    "title_en": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
+    "url": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
+    "description": "Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI's headquarters.",
+    "pubDate": "Tue, 24 Nov 2026 22:03:01 GMT"
   },
   {
-    "source": "TechCrunch",
+    "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Nvidia employees greet Jensen Huang like a hero as he returns to company&#8217;s HQ",
-    "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-    "description": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
-    "pubDate": "Mon, 23 Nov 2026 20:38:53 +0000"
+    "title_en": "AI debt markets shudder as Nvidia's top 'banker' returns",
+    "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ai-credit-markets.html",
+    "description": "Fears about some companies' AI debt ramped higher Tuesday, a day after Jensen Huang's return as Nvidia CEO.",
+    "pubDate": "Tue, 24 Nov 2026 21:52:05 GMT"
   },
   {
-    "source": "TechCrunch",
+    "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "&#8216;Outrageous,&#8217; &#8216;reckless,&#8217; &#8216;wow&#8217;: Here&#8217;s what politicians are saying about Jensen Huang&#8217;s return to Nvidia",
-    "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
-    "description": "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.",
-    "pubDate": "Mon, 23 Nov 2026 19:31:41 +0000"
+    "title_en": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+    "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
+    "description": "The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand.",
+    "pubDate": "Tue, 24 Nov 2026 22:07:45 GMT"
   },
   {
-    "source": "TechCrunch",
+    "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Google Search&#8217;s AI Mode can now tap into Drive and Wallet for more personalized responses",
-    "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-    "description": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
-    "pubDate": "Mon, 23 Nov 2026 19:14:46 +0000"
+    "title_en": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
+    "url": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html",
+    "description": "Meta doesn't serve ads in its Muse personal agent, but the tool is already boosting the company's ad business, a senior executive told CNBC.",
+    "pubDate": "Tue, 24 Nov 2026 20:37:40 GMT"
   },
   {
-    "source": "TechCrunch",
+    "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-    "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-    "description": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
-    "pubDate": "Mon, 23 Nov 2026 18:12:22 +0000"
+    "title_en": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+    "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+    "description": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
+    "pubDate": "Tue, 24 Nov 2026 23:13:49 GMT"
   },
   {
-    "source": "TechCrunch",
+    "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Amazon snaps up Decart&#8217;s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-    "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-    "description": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
-    "pubDate": "Mon, 23 Nov 2026 17:14:23 +0000"
+    "title_en": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
+    "url": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
+    "description": "Republicans worry Nvidia CEO Jensen Huang's affairs with a suspected Chinese spy jeopardized U.S. national security.",
+    "pubDate": "Tue, 24 Nov 2026 21:13:39 GMT"
   },
   {
-    "source": "TechCrunch",
+    "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Meta throws out its net-zero goal — its competitors should be furious",
-    "url": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
-    "description": "Meta walked back its 2030 net-zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
-    "pubDate": "Mon, 23 Nov 2026 17:13:45 +0000"
+    "title_en": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
+    "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
+    "description": "Jensen Huang is back as CEO of Nvidia and immediately faces the challenge of leading the chip giant and defending himself in Washington.",
+    "pubDate": "Tue, 24 Nov 2026 17:51:45 GMT"
   },
   {
-    "source": "TechCrunch",
+    "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Jensen Huang isn&#8217;t out of the woods yet",
-    "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
-    "description": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
-    "pubDate": "Mon, 23 Nov 2026 16:57:40 +0000"
+    "title_en": "Anthropic closes below $83 IPO price, but analysts are still largely positive",
+    "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+    "description": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
+    "pubDate": "Tue, 24 Nov 2026 21:04:03 GMT"
   },
   {
-    "source": "TechCrunch",
+    "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Trump reportedly called into Nvidia board meeting to advocate for Huang&#8217;s return",
-    "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
-    "description": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
-    "pubDate": "Mon, 23 Nov 2026 16:39:10 +0000"
+    "title_en": "Nvidia brought Jensen Huang back. But the investigations aren’t over",
+    "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ceo-return.html",
+    "description": "Jensen Huang is back as Nvidia CEO, but the company still faces an internal investigation and California and federal scrutiny.",
+    "pubDate": "Tue, 24 Nov 2026 15:03:36 GMT"
   },
   {
-    "source": "TechCrunch",
+    "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "CrowdStrike to acquire Zscaler for $44 billion",
-    "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
-    "description": "The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents.",
-    "pubDate": "Mon, 23 Nov 2026 16:20:11 +0000"
+    "title_en": "Futures turn red as Huang-effect fails to deliver another day of gains",
+    "url": "https://www.cnbc.com/2026/11/24/futures-turn-red-as-huang-effect-fails-to-deliver-another-day-of-gains.html",
+    "description": "Investors assess the return of Huang as investigations loom",
+    "pubDate": "Tue, 24 Nov 2026 11:58:45 GMT"
   },
   {
-    "source": "TechCrunch",
+    "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Dutch privacy authority urges consumers not to buy &#8216;pervert glasses&#8217;",
-    "url": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
-    "description": "The Netherlands' data protection agency said smart wearables violate people's privacy, get information wrong, and can result in unsafe situations.",
-    "pubDate": "Mon, 23 Nov 2026 15:29:49 +0000"
+    "title_en": "Nvidia shares fall more than 5% as Huang comeback rally cools",
+    "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
+    "description": "Jensen Huang was reinstated as CEO of Nvidia after he resigned following an acknowledgement of an extramarital affair.",
+    "pubDate": "Tue, 24 Nov 2026 21:15:23 GMT"
   },
   {
-    "source": "TechCrunch",
+    "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Trump endorses Jensen Huang&#8217;s return to Nvidia, says US has no evidence of wrongdoing",
-    "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
-    "description": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
-    "pubDate": "Mon, 23 Nov 2026 15:04:01 +0000"
+    "title_en": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
+    "url": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html",
+    "description": "Privacy-focused messaging application Signal has joined United Airlines and JPMorgan Chase in implementing restrictions around artificial intelligence agents.",
+    "pubDate": "Tue, 24 Nov 2026 14:46:01 GMT"
   },
   {
-    "source": "TechCrunch",
+    "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-    "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
-    "description": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
-    "pubDate": "Mon, 23 Nov 2026 14:43:03 +0000"
-  },
-  {
-    "source": "TechCrunch",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Nvidia reverses course and brings Jensen Huang back as CEO",
-    "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-    "description": "The stunning reversal was supported by senior officials in the U.S. government.",
-    "pubDate": "Mon, 23 Nov 2026 14:21:59 +0000"
-  },
-  {
-    "source": "TechCrunch",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Uber now lets you book rides that record the drive by default",
-    "url": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/",
-    "description": "The option, which uses the front camera of the Uber driver's phone to record the entire drive, will show up as \"Recorded Rides\" in the app.",
-    "pubDate": "Mon, 23 Nov 2026 14:00:00 +0000"
-  },
-  {
-    "source": "TechCrunch",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-    "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-    "description": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
-    "pubDate": "Mon, 23 Nov 2026 01:25:53 +0000"
+    "title_en": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
+    "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
+    "description": "Jensen Huang’s return has underscored Nvidia’s deep reliance on its founder, putting the company's board oversight and corporate governance under scrutiny.",
+    "pubDate": "Tue, 24 Nov 2026 10:56:56 GMT"
   },
   {
     "source": "CNBC Technology",
@@ -207,7 +367,7 @@
     "title_en": "Six key questions raised by Jensen Huang's return to Nvidia",
     "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
     "description": "As Jensen Huang returns to Nvidia, questions remained around the board's reversal, Trump's involvement and the tech giant's future.",
-    "pubDate": "Tue, 24 Nov 2026 03:05:49 GMT"
+    "pubDate": "Tue, 24 Nov 2026 13:31:29 GMT"
   },
   {
     "source": "CNBC Technology",
@@ -234,10 +394,10 @@
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
+    "title_en": "Asian tech stocks recover from ‘collateral damage’ of Jensen Huang’s departure",
     "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
     "description": "Investors piled back into the tech market, following the reinstatement of Nvidia CEO Jensen Huang by its board.",
-    "pubDate": "Tue, 24 Nov 2026 02:20:36 GMT"
+    "pubDate": "Tue, 24 Nov 2026 09:46:01 GMT"
   },
   {
     "source": "CNBC Technology",
@@ -257,7 +417,7 @@
     "title_en": "AI adoption grows in Asia, but measuring the gains remains tricky",
     "url": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
     "description": "Businesses across Asia-Pacific are seeing returns from AI investments, even as confidence in measuring those gains varies, according to an AWS survey.",
-    "pubDate": "Mon, 23 Nov 2026 23:42:27 GMT"
+    "pubDate": "Tue, 24 Nov 2026 05:07:16 GMT"
   },
   {
     "source": "CNBC Technology",
@@ -276,8 +436,8 @@
     "unverified": false,
     "title_en": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
     "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-returns-colette-kress-cfo.html",
-    "description": "Kress steered the company through billions in AI financing deals and during Huang's sudden departure. Now she's back to full-time CFO.",
-    "pubDate": "Tue, 24 Nov 2026 02:21:06 GMT"
+    "description": "Kress led the company for 11 days during Huang’s sudden departure and steered Nvidia through billions in AI financing deals before that. Now she's back to CFO.",
+    "pubDate": "Tue, 24 Nov 2026 15:19:46 GMT"
   },
   {
     "source": "CNBC Technology",
@@ -340,94 +500,54 @@
     "pubDate": "Mon, 23 Nov 2026 21:04:03 GMT"
   },
   {
-    "source": "CNBC Technology",
+    "source": "BBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
-    "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-    "description": "The Nvidia board said it had input from senior levels of the U.S. government.",
-    "pubDate": "Mon, 23 Nov 2026 21:08:05 GMT"
+    "title_en": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+    "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+    "description": "The verdict follows a months-long trial in New York.",
+    "pubDate": "Wed, 25 Nov 2026 01:11:57 GMT"
   },
   {
-    "source": "CNBC Technology",
+    "source": "BBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
-    "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
-    "description": "The states are seeking civil penalties and injunctions to stop Grok and X from creation and distribution of nonconsensual sexualized images.",
-    "pubDate": "Mon, 23 Nov 2026 16:45:31 GMT"
+    "title_en": "Why tiny cars are taking off across Europe",
+    "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+    "description": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+    "pubDate": "Wed, 25 Nov 2026 00:34:05 GMT"
   },
   {
-    "source": "CNBC Technology",
+    "source": "BBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
-    "url": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html",
-    "description": "OKXICE is set to debut Monday despite objections from 90% of the companies whose stocks it initially proposed to list.",
-    "pubDate": "Mon, 23 Nov 2026 15:30:27 GMT"
+    "title_en": "US attorney general dodges questions about Nvidia investigation",
+    "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+    "description": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+    "pubDate": "Tue, 24 Nov 2026 21:19:42 GMT"
   },
   {
-    "source": "CNBC Technology",
+    "source": "BBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Futures rally after Wall Street's nightmare week",
-    "url": "https://www.cnbc.com/2026/11/23/futures-rally-after-wall-streets-nightmare-week-.html",
-    "description": "Investors look to buy the dip as technology stocks lead early gains for the Nasdaq",
-    "pubDate": "Mon, 23 Nov 2026 11:10:34 GMT"
+    "title_en": "Faisal Islam: Fears over the AI boom haven't gone away",
+    "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+    "description": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
+    "pubDate": "Tue, 24 Nov 2026 18:21:43 GMT"
   },
   {
-    "source": "CNBC Technology",
+    "source": "BBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "‘Worst COP ever’: Climate talks collapse after draft deal fails to include fossil fuels",
-    "url": "https://www.cnbc.com/2026/11/23/cop31-climate-summit-fossil-fuels.html",
-    "description": "Governments and campaigners rejected the \"cover decision\" drafted at the U.N.'s climate summit, COP31, on Sunday.",
-    "pubDate": "Mon, 23 Nov 2026 13:16:38 GMT"
-  },
-  {
-    "source": "CNBC Technology",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Tech stocks see monster rally after Jensen Huang returns as Nvidia CEO",
-    "url": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
-    "description": "The Nasdaq slid 10% last week in its worst week since the early days of Covid in 2020.",
-    "pubDate": "Mon, 23 Nov 2026 21:22:13 GMT"
-  },
-  {
-    "source": "CNBC Technology",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
-    "url": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
-    "description": "The U.S. is investigating Megaspeed and Alice Huang after it emerged a former associate of hers was reportedly \"deeply involved\" in the firm's activities",
-    "pubDate": "Mon, 23 Nov 2026 14:40:11 GMT"
-  },
-  {
-    "source": "CNBC Technology",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-    "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
-    "description": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
-    "pubDate": "Mon, 23 Nov 2026 23:28:19 GMT"
-  },
-  {
-    "source": "CNBC Technology",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
-    "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
-    "description": "Clayton’s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions.",
-    "pubDate": "Sun, 22 Nov 2026 17:14:03 GMT"
+    "title_en": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
+    "url": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
+    "description": "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it.",
+    "pubDate": "Tue, 24 Nov 2026 09:33:00 GMT"
   },
   {
     "source": "BBC Technology",
@@ -474,30 +594,40 @@
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
-    "url": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
-    "description": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
-    "pubDate": "Mon, 23 Nov 2026 14:08:50 GMT"
-  },
-  {
-    "source": "BBC Technology",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-    "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
-    "description": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
-    "pubDate": "Mon, 23 Nov 2026 00:08:00 GMT"
+    "title_en": "Tech Life",
+    "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyx?at_medium=RSS&at_campaign=rss",
+    "description": "Experts from around the world plot the progress of AI development every five years.",
+    "pubDate": "Tue, 24 Nov 2026 21:00:00 GMT"
   },
   {
     "source": "NPR Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Trump claims credit as Jensen Huang returns to Nvidia",
-    "url": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump",
-    "description": "President Trump endorsed the announcement, calling it essential for the success of the company and the economy. He added that the government does not see Huang's return as a national security risk.",
-    "pubDate": "Mon, 23 Nov 2026 09:53:41 -0500"
+    "title_en": "How high technology is changing cargo crime",
+    "url": "https://www.npr.org/2026/11/24/nx-s1-6051029/how-high-technology-is-changing-cargo-crime",
+    "description": "Truckloads of turkey and bourbon are getting stolen in transit. Cargo theft of food and beverages are on the rise in part because the goods are hard to trace. We look at how high technology is changing cargo crime.",
+    "pubDate": "Tue, 24 Nov 2026 17:49:10 -0500"
+  },
+  {
+    "source": "NPR Technology",
+    "category": "technology",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "For workplace culture champions, Jensen Huang's return is 'unfathomable'",
+    "url": "https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women",
+    "description": "Some who have worked to promote diversity and inclusion in Silicon Valley say Jensen Huang's reinstatement as Nvidia's CEO sends a message that all that matters is money.",
+    "pubDate": "Tue, 24 Nov 2026 05:00:00 -0500"
+  },
+  {
+    "source": "NYT Technology",
+    "category": "technology",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Jensen Huang Apologizes to Nvidia Employees, Says He Is in Therapy",
+    "url": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html",
+    "description": "A day after returning to his company, Mr. Huang acknowledged that he had violated Nvidia’s code of conduct and “made some terrible mistakes.”",
+    "pubDate": "Tue, 24 Nov 2026 21:46:11 +0000"
   },
   {
     "source": "NYT Technology",
@@ -507,37 +637,17 @@
     "title_en": "With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board",
     "url": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html",
     "description": "Nvidia’s board said Mr. Huang would not be back. But President Trump, who pushed for Mr. Huang’s reinstatement, effectively overrode the board, governance experts said.",
-    "pubDate": "Mon, 23 Nov 2026 21:26:52 +0000"
+    "pubDate": "Tue, 24 Nov 2026 15:40:13 +0000"
   },
   {
     "source": "NYT Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Trump Is Said to Have Pushed to Reinstate Nvidia CEO Jensen Huang",
-    "url": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html",
-    "description": "The president set in motion a weekend of maneuvering, led by Vice President JD Vance, to help Jensen Huang get his old job back.",
-    "pubDate": "Mon, 23 Nov 2026 23:41:29 +0000"
-  },
-  {
-    "source": "NYT Technology",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
-    "url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
-    "description": "The administration added Megaspeed to the entity list, a trade blacklist, after weeks of sparring among top officials on the decision.",
-    "pubDate": "Tue, 24 Nov 2026 03:12:26 +0000"
-  },
-  {
-    "source": "NYT Technology",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Elon Musk Faces an A.I. Dilemma at SpaceX",
-    "url": "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html",
-    "description": "Mr. Musk’s SpaceX is renting out computing power from its data centers to competitors, including Anthropic. That’s making it harder for his own A.I. effort.",
-    "pubDate": "Mon, 23 Nov 2026 16:13:32 +0000"
+    "title_en": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
+    "url": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
+    "description": "The woman whose role has become a focus of the Nvidia spying saga grew up in a small town built around a weapons factory. Her jump to finance and the tech world paralleled China’s own.",
+    "pubDate": "Tue, 24 Nov 2026 19:19:59 +0000"
   },
   {
     "source": "NYT Technology",
@@ -546,8 +656,18 @@
     "unverified": false,
     "title_en": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say",
     "url": "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html",
-    "description": "A court filing said the engineer captured meetings on customers, A.I. safety and a foreign government briefing. Federal prosecutors are investigating what he did with the recordings.",
-    "pubDate": "Tue, 24 Nov 2026 01:36:36 +0000"
+    "description": "Abdulrahman Alfozan, who has been jailed since October, will be freed on a $1 million bond. Prosecutors say he recorded dozens of meetings.",
+    "pubDate": "Tue, 24 Nov 2026 21:09:25 +0000"
+  },
+  {
+    "source": "NYT Technology",
+    "category": "technology",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Blanche Downplays Questions Over Nvidia as Investigators Examine Company’s Customers",
+    "url": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
+    "description": "Justice Department investigators have gathered evidence of Nvidia’s high-powered computer chips being illegally diverted by other firms to China, according to people familiar with the inquiries.",
+    "pubDate": "Tue, 24 Nov 2026 23:27:37 +0000"
   },
   {
     "source": "NYT Technology",
@@ -594,6 +714,16 @@
     "category": "technology",
     "paywalled": false,
     "unverified": false,
+    "title_en": "Trump Is Said to Have Pushed to Reinstate Nvidia CEO Jensen Huang",
+    "url": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html",
+    "description": "The president set in motion a weekend of maneuvering, led by Vice President JD Vance, to help Jensen Huang get his old job back.",
+    "pubDate": "Mon, 23 Nov 2026 23:41:29 +0000"
+  },
+  {
+    "source": "NYT Technology",
+    "category": "technology",
+    "paywalled": false,
+    "unverified": false,
     "title_en": "Jensen Huang’s Return as Nvidia CEO Feels Like Déjà Vu in Silicon Valley",
     "url": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-ceo-return-silicon-valley.html",
     "description": "The rise, fall and return of founders of Silicon Valley tech companies is a well-worn tale.",
@@ -607,17 +737,7 @@
     "title_en": "Trump’s Own Stock Portfolio Likely Benefits From Nvidia’s Rise",
     "url": "https://www.nytimes.com/2026/11/23/technology/trump-nvidia-stock-purchases.html",
     "description": "It’s not possible to determine the size of the president’s stake in the chip maker because there is a lag between when trades occur and when they are disclosed.",
-    "pubDate": "Mon, 23 Nov 2026 17:04:35 +0000"
-  },
-  {
-    "source": "NYT Technology",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "SpaceX Sued By Oregon and Virginia Over A.I.-Generated Sexualized Images",
-    "url": "https://www.nytimes.com/2026/11/23/technology/spacex-lawsuit-ai-sexualized-images.html",
-    "description": "The states accused Elon Musk’s company of violating consumer protection laws with its Grok Imagine artificial intelligence tool, which created the images.",
-    "pubDate": "Mon, 23 Nov 2026 13:40:06 +0000"
+    "pubDate": "Tue, 24 Nov 2026 21:29:57 +0000"
   },
   {
     "source": "NYT Technology",
@@ -630,6 +750,66 @@
     "pubDate": "Mon, 23 Nov 2026 15:43:28 +0000"
   },
   {
+    "source": "NYT Technology",
+    "category": "technology",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "What Nvidia’s Interim CEO, Colette Kress, Said to Employees After Jensen Huang’s Resignation",
+    "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html",
+    "description": "At an all-hands meeting with employees, Colette Kress sought to put the indiscretions of Nvidia’s co-founder, Jensen Huang, behind them.",
+    "pubDate": "Tue, 24 Nov 2026 21:01:44 +0000"
+  },
+  {
+    "source": "OpenAI",
+    "category": "ai",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "description": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+    "pubDate": "Tue, 24 Nov 2026 13:00:00 GMT"
+  },
+  {
+    "source": "OpenAI",
+    "category": "ai",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Searching for distant planets with Astra",
+    "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "description": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+    "pubDate": "Tue, 24 Nov 2026 11:00:00 GMT"
+  },
+  {
+    "source": "OpenAI",
+    "category": "ai",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "How Intentful uses dots to make more time for growth",
+    "url": "https://openai.com/business/customer-stories/intentful-dots",
+    "description": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+    "pubDate": "Tue, 24 Nov 2026 00:00:00 GMT"
+  },
+  {
+    "source": "OpenAI",
+    "category": "ai",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "How iFood scales coding agents across 15,000 repositories",
+    "url": "https://openai.com/business/customer-stories/ifood",
+    "description": "",
+    "pubDate": "Tue, 24 Nov 2026 00:00:00 GMT"
+  },
+  {
+    "source": "OpenAI",
+    "category": "ai",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Clay helps sales teams win with Codex and ChatGPT",
+    "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+    "description": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+    "pubDate": "Tue, 24 Nov 2026 00:00:00 GMT"
+  },
+  {
     "source": "OpenAI",
     "category": "ai",
     "paywalled": false,
@@ -638,26 +818,6 @@
     "url": "https://openai.com/index/introducing-shirudo",
     "description": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
     "pubDate": "Mon, 23 Nov 2026 21:20:00 GMT"
-  },
-  {
-    "source": "OpenAI",
-    "category": "ai",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Connected intelligence for in-house legal",
-    "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-    "description": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
-    "pubDate": "Mon, 23 Nov 2026 08:00:00 GMT"
-  },
-  {
-    "source": "OpenAI",
-    "category": "ai",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Richpanel helps companies automate 50% of support in 30 days",
-    "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-    "description": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
-    "pubDate": "Mon, 23 Nov 2026 08:00:00 GMT"
   },
   {
     "source": "Google DeepMind",
@@ -674,20 +834,30 @@
     "category": "ai",
     "paywalled": false,
     "unverified": false,
-    "title_en": "RoboTrack: Point tracking for real-world robotic manipulation",
-    "url": "https://huggingface.co/blog/allenai/robotrack",
+    "title_en": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+    "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
     "description": "",
-    "pubDate": "Mon, 23 Nov 2026 17:20:37 GMT"
+    "pubDate": "Tue, 24 Nov 2026 16:34:13 GMT"
   },
   {
     "source": "Hugging Face",
     "category": "ai",
     "paywalled": false,
     "unverified": false,
-    "title_en": "How to build and maintain an agentic evaluation",
-    "url": "https://huggingface.co/blog/agentic-evals",
+    "title_en": "RoboTrack: Point tracking for real-world robotic manipulation",
+    "url": "https://huggingface.co/blog/allenai/robotrack",
     "description": "",
-    "pubDate": "Mon, 23 Nov 2026 00:00:00 GMT"
+    "pubDate": "Mon, 23 Nov 2026 17:20:37 GMT"
+  },
+  {
+    "source": "MIT Tech Review AI",
+    "category": "ai",
+    "paywalled": true,
+    "unverified": false,
+    "title_en": "Raising the stakes for enterprise networks with AI modernization",
+    "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+    "description": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As&#8230;",
+    "pubDate": "Tue, 24 Nov 2026 15:15:16 +0000"
   },
   {
     "source": "MIT Tech Review AI",
@@ -698,6 +868,26 @@
     "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral&#8230;",
     "pubDate": "Mon, 23 Nov 2026 17:36:08 +0000"
+  },
+  {
+    "source": "The Robot Report",
+    "category": "robotics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Robotics Summit 2027 opens call for speakers",
+    "url": "https://www.therobotreport.com/robotics-summit-2027-opens-call-for-speakers/",
+    "description": "The Robotics Summit &#038; Expo returns to Boston June 2-3, 2027 with deepened coverage, an expanded expo floor, and more. The post Robotics Summit 2027 opens call for speakers appeared first on The Robot Report .",
+    "pubDate": "Tue, 24 Nov 2026 18:03:37 +0000"
+  },
+  {
+    "source": "The Robot Report",
+    "category": "robotics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "SoftBank acquires Marc Raibert&#8217;s Robotics and AI Institute",
+    "url": "https://www.therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute/",
+    "description": "SoftBank has completed its acquisition of the Robotics and AI Institute from Hyundai Motor Group, expanding its robotics portfolio as the research organization looks to fill 24 open positions in Massachusetts and Switzerland. The post SoftBank acquires Marc Raibert&#8217;s Robotics and AI Institute appeared first on The Robot Report .",
+    "pubDate": "Tue, 24 Nov 2026 14:48:57 +0000"
   },
   {
     "source": "The Robot Report",
@@ -720,294 +910,334 @@
     "pubDate": "Mon, 23 Nov 2026 15:16:26 +0000"
   },
   {
-    "source": "The Robot Report",
-    "category": "robotics",
+    "source": "The Hill",
+    "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "NVIDIA reinstates Jensen Huang after 11-day absence",
-    "url": "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/",
-    "description": "The NVIDIA board reversed its decision following discussions with Huang and senior U.S. government officials, amid growing pressure from the White House, investors and technology executives. The post NVIDIA reinstates Jensen Huang after 11-day absence appeared first on The Robot Report .",
-    "pubDate": "Mon, 23 Nov 2026 14:20:46 +0000"
+    "title_en": "Trump says he&#039;ll meet with El-Sayed to discuss &#039;Trumpcare&#039;",
+    "url": "https://thehill.com/homenews/administration/6241682-trump-el-sayed-trumpcare-healthcare/",
+    "description": "President Trump said he will meet with Sen.-elect Abdul El-Sayed (D-Mich.) to discuss his rebranding of a single-payer healthcare bill, also known as “Medicare for All,” with the name “TrumpCare.” In an interview with the New York Post, Trump called El-Sayed “very smart” for the rebranding, adding that the Michigan Democrat “did a good job....",
+    "pubDate": "Wed, 25 Nov 2026 01:50:07 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Army wants to resume helicopter flights near Reagan National airport",
-    "url": "https://thehill.com/policy/transportation/6239029-army-seeks-reagan-national-flight-approval/",
-    "description": "The Army is seeking federal approval to resume helicopter training flights near Ronald Reagan Washington National Airport, drawing safety concerns nearly two years after a deadly midair collision over the Potomac River killed 67 people. Rep. Don Beyer (D-Va.), whose district includes the airport, said Monday that Army officials informed his office during a briefing...",
-    "pubDate": "Tue, 24 Nov 2026 04:02:29 +0000"
+    "title_en": "Van Hollen: Abrego Garcia leaving US, &#039;will be safe&#039; amid self-deportation reports",
+    "url": "https://thehill.com/policy/international/6241572-kilmar-abrego-garcia-self-deports/",
+    "description": "Salvadoran migrant Kilmar Abrego Garcia, whose wrongful deportation became a flashpoint in the debate over President Trump's immigration crackdown, self-deported Tuesday, Sen. Chris Van Hollen (D-Md.) confirmed. ABC News reported Abrego Garcia boarded a flight from a Washington, D.C.-area airport to Madrid, Spain. His departure came as he was facing deportation to one of several...",
+    "pubDate": "Wed, 25 Nov 2026 01:42:16 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "White House sends Congress &#039;anomalies&#039; request to keep federal agencies funded",
-    "url": "https://thehill.com/homenews/administration/6238980-white-house-requests-stopgap-funding/",
-    "description": "The White House is asking Congress to include billions of dollars in additional funding in a stopgap spending bill to fund federal agencies that lawmakers are expected to take up next month. The 12-page “anomalies” request sent Monday, reported by Politico, outlines a series of exceptions to current spending levels that would allow the Trump...",
-    "pubDate": "Tue, 24 Nov 2026 03:18:42 +0000"
+    "title_en": "Pentagon talking with Ford to supply military vehicles",
+    "url": "https://thehill.com/newsletters/defense-national-security/6241645-pentagon-ford-military-vehicles/",
+    "description": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story Pentagon talking with Ford to supply military vehicles The Pentagon has had discussions with Ford about supplying vehicles and other products for the U.S. military as the department looks to bolster manufacturing. © Carolyn Kaster, Associated...",
+    "pubDate": "Wed, 25 Nov 2026 01:16:28 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Heavily redacted documents detailing raid on Omar&#039;s house unsealed",
-    "url": "https://thehill.com/regulation/court-battles/6238953-omar-search-records-unsealed/",
-    "description": "A federal court on Monday released unsealed records related to the search of Rep. Ilhan Omar’s (D-Minn.) Washington, D.C., home last month after federal prosecutors made a last-minute attempt to block the release of the files. The heavily redacted documents reveal some information regarding the scope of the investigation, in which federal investigators sought evidence...",
-    "pubDate": "Tue, 24 Nov 2026 02:15:17 +0000"
+    "title_en": "Hispanic Caucus plants memorial tree at Capitol for late Rep. Raúl Grijalva",
+    "url": "https://thehill.com/blogs/in-the-know/6241576-chc-memorializes-raul-grijalva/",
+    "description": "The Congressional Hispanic Caucus (CHC) planted a memorial tree in the U.S. Capitol Grounds for the late Rep. Raúl Grijalva (D-Ariz.), a longtime House Democrat who rose to the upper ranks of the caucus before his passing. The bur oak tree dedicated to Grijalva is located east of the U.S. Capitol building, across the plaza...",
+    "pubDate": "Wed, 25 Nov 2026 00:55:22 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Trump, incoming Iowa governor, punt Army lead detonation back and forth",
-    "url": "https://thehill.com/newsletters/defense-national-security/6238857-trump-sand-iowa-lead-detonation/",
-    "description": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story Trump, incoming Iowa governor, punt Army lead detonation back and forth The Army’s plan to detonate tons of explosive lead material in Iowa is in limbo on Monday after Iowa Gov.-elect Rob Sand (D) passed the decision...",
-    "pubDate": "Tue, 24 Nov 2026 00:20:29 +0000"
+    "title_en": "53 incoming House Democrats threaten to skip Harvard orientation over strike",
+    "url": "https://thehill.com/homenews/house/6241454-house-democrats-skip-harvard-orientation/",
+    "description": "Fifty-three incoming House Democrats on Tuesday warned that they could skip Harvard University’s orientation for new lawmakers in solidarity with graduate student workers on strike. The incoming House members wrote in a letter to Harvard’s president Alan Garber; Jacob Watts, the Harvard Kennedy School’s director of programs and events; and provost John Manning that the...",
+    "pubDate": "Tue, 24 Nov 2026 23:56:54 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Trump says Iowa detonation will be up to Democrat",
-    "url": "https://thehill.com/newsletters/energy-environment/6238863-trump-says-iowa-detonation-will-be-up-to-democrat/",
-    "description": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story Trump says Iowa detonation will be up to Democrat Neither President Trump nor Iowa Gov.-elect Rob Sand (D) appears to want ownership of a political hot potato as the Army considers detonating lead-containing munitions, stirring public outcry. © Scott Olson, Getty Images While the...",
-    "pubDate": "Tue, 24 Nov 2026 00:15:21 +0000"
+    "title_en": "Questions mount on RFK Jr.&#039;s plan to regain measles elimination status",
+    "url": "https://thehill.com/newsletters/healthcare/6241511-rfk-jr-measles-elimination-questions/",
+    "description": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story Questions mount on RFK Jr.'s plan to regain measles elimination status A growing measles outbreak across the U.S. is highlighting concerns about the impact of vaccine hesitancy under Health Secretary Robert F. Kennedy Jr.’s leadership. © Jose Luis Magana, Associated...",
+    "pubDate": "Tue, 24 Nov 2026 23:52:45 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Pennsylvania confirms 9th measles-related death",
-    "url": "https://thehill.com/policy/healthcare/6238800-pennsylvania-confirms-ninth-measles-death/",
-    "description": "Pennsylvania health officials on Monday confirmed the state’s ninth measles-related death this year, less than a week after the U.S. lost its measles elimination status after more than 25 years. The Pennsylvania Department of Health said an unvaccinated Centre County resident died after testing positive for the virus. The state has recorded 1,638 measles cases...",
-    "pubDate": "Tue, 24 Nov 2026 00:01:44 +0000"
+    "title_en": "Chip restrictions in the spotlight after Huang&#039;s return",
+    "url": "https://thehill.com/newsletters/technology/6241465-chip-restrictions-in-the-spotlight-after-huangs-return/",
+    "description": "{beacon} Technology Technology &#8202; The Big Story Huang's return puts chip restrictions front-and-center Jensen Huang's return to Nvidia is rallying lawmakers on both sides of the aisle around a push to pass restrictions on chip sales to China in a year-end defense bill. © iStock, Getty Images Plus A trio of chip export control bills...",
+    "pubDate": "Tue, 24 Nov 2026 23:25:57 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Trump, Iowa&#039;s Sand play hot potato with lead detonation call",
-    "url": "https://thehill.com/policy/energy-environment/6238814-trump-sand-iowa-lead-detonation-army-epa-munitions/",
-    "description": "Neither President Trump nor Iowa Gov.-elect Rob Sand (D) appears to want ownership of a political hot potato as the Army considers detonating lead-containing munitions, stirring public outcry. While the Army had been poised to move ahead with the controversial Iowa detonation on Wednesday, Trump on Monday said he would not move forward with the...",
-    "pubDate": "Mon, 23 Nov 2026 23:46:27 +0000"
+    "title_en": "Jensen Huang’s Nvidia return adds momentum to chip export controls",
+    "url": "https://thehill.com/policy/technology/6241448-trump-pressures-nvidia-huang-return/",
+    "description": "President Trump’s successful effort to pressure Nvidia’s board to bring back Jensen Huang as CEO has sparked a furious reaction from lawmakers in both parties, promising to make the relationship between the two men a central point of congressional investigations. The ramped-up oversight of Trump and Jensen Huang, who lost his job after reports of...",
+    "pubDate": "Tue, 24 Nov 2026 23:09:39 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Appeals court declines to halt Iowa lead detonation as Sand says feds should make call",
-    "url": "https://thehill.com/regulation/court-battles/6238765-appeals-court-army-iowa-lead-detonation-sand-trump-epa/",
-    "description": "The Army’s plan to detonate tons of explosive lead material in Iowa is in limbo on Monday after Iowa Gov.-elect Rob Sand (D) passed the decision back to President Trump and a federal appeals court declined to intervene. Trump earlier in the day said that while he personally supported detonating the lead-containing munitions, he would...",
-    "pubDate": "Mon, 23 Nov 2026 23:24:53 +0000"
+    "title_en": "FAA issues and lifts ground stop at Chicago&#039;s O&#039;Hare",
+    "url": "https://thehill.com/homenews/administration/6241322-faa-ohare-ground-stop/",
+    "description": "The Federal Aviation Administration (FAA) on Tuesday issued a ground stop at O’Hare International Airport in Chicago — the second brief pause on flights in two days. The ground stop was placed in effect until 4:15 p.m. local time due to an equipment outage with a ​ground surveillance radar and ​tracking system. The pause in...",
+    "pubDate": "Tue, 24 Nov 2026 22:57:40 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Trump: DOJ working to overturn Newsom&#039;s death row commutations",
-    "url": "https://thehill.com/homenews/administration/6238764-trump-slams-newsom-commutations/",
-    "description": "President Trump slammed California Gov. Gavin Newsom (D) on Monday over the governor’s move to commute the death penalty for California death row inmates. The president, speaking from the Justice Department, called Newsom’s actions \"one of the most shocking acts of injustice our country has ever seen.” He said officials in the room “are working...",
-    "pubDate": "Mon, 23 Nov 2026 23:24:26 +0000"
+    "title_en": "Army detonating lead munitions tomorrow",
+    "url": "https://thehill.com/newsletters/energy-environment/6241360-army-detonating-lead-munitions-tomorrow/",
+    "description": "{beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story Army detonating lead munitions tomorrow The Army is going ahead with detonating lead-containing munitions in Iowa on Wednesday after President Trump threw additional uncertainty into the controversy on Monday. © Brigida I. Sanchez/U.S. Army Corps of Engineers via AP “We are proceeding with the...",
+    "pubDate": "Tue, 24 Nov 2026 22:43:30 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Jensen Huang’s dramatic return to Nvidia: 5 takeaways",
-    "url": "https://thehill.com/homenews/analysis/6238763-trump-drives-nvidia-ceo-return/",
-    "description": "Jensen Huang was reinstated as Nvidia’s CEO on Monday morning in one of the most shocking developments seen on Wall Street in years. Jensen Huang, the chip behemoth’s co-founder, had been ousted by Nvidia’s board amid an admitted affair with a woman alleged to be working with Chinese intelligence, Alice Huang. Alice Huang, no relation...",
-    "pubDate": "Mon, 23 Nov 2026 23:16:19 +0000"
+    "title_en": "Nearly 1 in 3 Americans have &#039;very little&#039; faith in FAA: Poll",
+    "url": "https://thehill.com/policy/transportation/6241364-faa-faith-poll-low/",
+    "description": "Nearly a third of Americans have “very little” faith in the Federal Aviation Administration (FAA), according to a new survey. In The Economist/YouGov poll, 28 percent of respondents said they have “very little” confidence in the FAA, while 44 percent said they have “some” and 19 percent said they have “quite a lot.” Nine percent...",
+    "pubDate": "Tue, 24 Nov 2026 22:42:30 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Appeals court invalidates pregnant workers’ protection law",
-    "url": "https://thehill.com/newsletters/healthcare/6238718-appeals-court-invalidates-pregnant-workers-protection-law/",
-    "description": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story Appeals court invalidates pregnant workers’ protection law A divided federal appeals court on Friday struck down a law that requires employers to provide accommodations to pregnant women, ruling that Congress violated the Constitution by passing it using pandemic-era proxy...",
-    "pubDate": "Mon, 23 Nov 2026 23:09:10 +0000"
+    "title_en": "Gas prices easing, but still squeezing Americans",
+    "url": "https://thehill.com/newsletters/business-economy/6241363-gas-prices-easing-but-still-squeezing-americans/",
+    "description": "Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story Here's where gas prices stand ahead of Thanksgiving Gas prices have eased in recent weeks, but Americans are still feeling elevated pressure at the pump this Thanksgiving week. © Greg Nash The average price of a...",
+    "pubDate": "Tue, 24 Nov 2026 22:39:44 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Jensen&#039;s back",
-    "url": "https://thehill.com/newsletters/technology/6238707-jensens-back/",
-    "description": "{beacon} Technology Technology &#8202; The Big Story Why Nvidia's board did a 180 on Jensen Huang Jensen Huang was resinstated as Nvidia CEO on Monday, marking a drastic turn of events that left Washington and Wall Street with questions. © AP Photo/Jeffrey McWhorter Nvidia's board of directors unanimously voted to bring Huang back as CEO...",
-    "pubDate": "Mon, 23 Nov 2026 23:02:42 +0000"
+    "title_en": "How much did Trump stand to make from Huang return?",
+    "url": "https://thehill.com/homenews/administration/6241139-trump-nvidia-huang-return-profits/",
+    "description": "President Trump, who pushed Nvidia’s board of directors to reinstate Jensen Huang as CEO despite his high-profile scandal, has already benefited financially from the tech mogul’s return to the company. Nvidia’s stock, which closed at $125.53 per share on Friday, surged on Monday to a high of $171.05 per share — before it fell to...",
+    "pubDate": "Tue, 24 Nov 2026 22:26:48 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Commerce Department adds Megaspeed to trade blacklist amid Nvidia scandal",
-    "url": "https://thehill.com/policy/technology/6238594-commerce-blacklists-megaspeed-nvidia/",
-    "description": "The Commerce Department moved to add Megaspeed — the company at the center of Nvidia's national security scandal — to its trade entity blacklist on Monday, according to federal records. The move, published in the Federal Register on Monday, comes as scrutiny mounts on the Commerce Department to tighten its chip export controls following reports...",
-    "pubDate": "Mon, 23 Nov 2026 22:45:24 +0000"
+    "title_en": "Huang apologizes to Nvidia employees, says he&#039;s in therapy: Reports",
+    "url": "https://thehill.com/policy/technology/6241274-nvidia-ceo-jensen-huang-reinstated/",
+    "description": "Nvidia CEO Jensen Huang apologized to the company and admitted he was in therapy every day in his first all-hands meeting with employees since he was reinstated, according to new reports. “I made some terrible mistakes,” Huang told employees, adding that he was unfaithful to his wife, The New York Times reported. “I hurt my kids...",
+    "pubDate": "Tue, 24 Nov 2026 22:13:51 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Key House Democrat will oppose permitting reform bill",
-    "url": "https://thehill.com/policy/energy-environment/6238574-mike-levin-opposes-baaja/",
-    "description": "Rep. Mike Levin (D-Calif.) on Monday said he will oppose a Senate-passed bill that seeks to speed up the build-out of the nation’s energy and infrastructure. Levin, a clean energy advocate, said in a statement that with the 2026 Bipartisan American Affordability and Jobs Act (BAAJA), \"there's real promise on costs and clean energy deployment.\"...",
-    "pubDate": "Mon, 23 Nov 2026 22:38:17 +0000"
-  },
-  {
-    "source": "The Hill",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Stocks surge after Huang returns to Nvidia",
-    "url": "https://thehill.com/newsletters/business-economy/6238640-stocks-surge-after-huang-returns-to-nvidia/",
-    "description": "Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story Huang's return powers stock market rally The stock market roared back to life on Monday, buoyed by Nvidia reinstating Jensen Huang as CEO. © Markus Schreiber, Associated Press The Dow Jones Industrial Average closed up by...",
-    "pubDate": "Mon, 23 Nov 2026 22:33:09 +0000"
+    "title_en": "Jim Cramer reverses course on Huang, praises CEO&#039;s return",
+    "url": "https://thehill.com/business/6241021-trump-nvidia-ceo-reinstatement/",
+    "description": "CNBC’s Jim Cramer changed his tune on Jensen Huang being reinstated as Nvidia’s CEO following Huang’s resignation from the company amid reports of his extramarital affairs — including one with an alleged Chinese spy. “We may not like what he did, but he got off,” Cramer said during CNBC’s “Squawk on the Street” on Monday....",
+    "pubDate": "Tue, 24 Nov 2026 22:03:48 +0000"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Appeals court clears way for Army to detonate Iowa explosives",
+    "title_en": "Maps show how far lead dust from Iowa detonation could travel",
+    "url": "https://www.cbsnews.com/news/maps-show-how-far-lead-dust-from-about-5-tons-of-iowa-explosives-could-spread/",
+    "description": "Maps of the planned lead azide detonation in Middletown show the shaded area stretching from near Burlington toward Macon, Missouri, by noon Wednesday. The forecasts will change with the weather.",
+    "pubDate": "Tue, 24 Nov 2026 21:22:30 -0500"
+  },
+  {
+    "source": "CBS News",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Iran developing chemical weapons, Israeli defense minister says",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+    "description": "Israeli Defense Minister Israel Katz said Iran was developing chemical weapons and left open the possibility of preemptive strikes if necessary.",
+    "pubDate": "Tue, 24 Nov 2026 21:14:28 -0500"
+  },
+  {
+    "source": "CBS News",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Army to detonate unstable explosives in Iowa Wednesday morning",
     "url": "https://www.cbsnews.com/news/army-iowa-explosives-trump-appeals-court/",
     "description": "A federal appeals court on Monday declined to block the Army from detonating explosives containing lead azide at a munitions plant in Iowa.",
-    "pubDate": "Mon, 23 Nov 2026 22:21:47 -0500"
+    "pubDate": "Tue, 24 Nov 2026 20:49:43 -0500"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "A timeline of the Karen Read case",
-    "url": "https://www.cbsnews.com/news/karen-read-trial-timeline-john-okeefe/",
-    "description": "Here&#039;s a look at how events have unfolded in the Karen Read case.",
-    "pubDate": "Mon, 23 Nov 2026 22:20:34 -0500"
+    "title_en": "Fort Hood shooter Nidal Hasan will petition to delay his execution",
+    "url": "https://www.cbsnews.com/news/nidal-hasan-delay-execution-petition/",
+    "description": "Nidal Hasan, the Army soldier who fatally shot 13 people in the attack at the Texas Army post in 2009, told a federal court Tuesday that he plans to file a petition to delay his execution by firing squad.",
+    "pubDate": "Tue, 24 Nov 2026 20:49:00 -0500"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Federal court releases Rep. Ilhan Omar D.C. home raid documents",
-    "url": "https://www.cbsnews.com/news/congresswoman-ilhan-omar-house-raid-documents-release/",
-    "description": "A federal court on Monday evening released documents regarding last month&#039;s raid at the Washington, D.C. home of Democratic Minnesota U.S. Rep. Ilhan Omar.",
-    "pubDate": "Mon, 23 Nov 2026 21:21:00 -0500"
+    "title_en": "China launches first foreign astronaut to its space station",
+    "url": "https://www.cbsnews.com/news/china-launches-shenzhou-24-spacecraft/",
+    "description": "China has launched the Shenzhou 24 spacecraft with three astronauts, sending the first foreign crew member to its space station.",
+    "pubDate": "Tue, 24 Nov 2026 20:38:00 -0500"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Can Anthropic win hearts and minds by curing hearts and minds?",
-    "url": "https://www.cbsnews.com/news/anthropic-drug-discovery-claude-science-ipo/",
-    "description": "Anthropic says Claude Science can drive breakthroughs in drug discovery. It could also open lucrative commercial opportunities, experts say.",
-    "pubDate": "Mon, 23 Nov 2026 21:04:55 -0500"
+    "title_en": "Angola inmates speak out against non-unanimous jury convictions",
+    "url": "https://www.cbsnews.com/news/non-unanimous-juries-louisiana-convictions/",
+    "description": "Reporting from the Louisiana State Penitentiary, 60 Minutes contributor Sebastian Junger interviewed inmates who are still in prison after being convicted by a non-unanimous jury, a practice the U.S. Supreme Court ruled unconstitutional in 2020.",
+    "pubDate": "Tue, 24 Nov 2026 20:10:39 -0500"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Husband of woman arrested by ICE at airport calls it \"unjust\"",
-    "url": "https://www.cbsnews.com/news/ice-arrest-seattle-airport-husband/",
-    "description": "Jose Castillo told CBS News he felt \"useless\" seeing his wife and father-in-law be taken into federal custody at Seattle-Tacoma International Airport.",
-    "pubDate": "Mon, 23 Nov 2026 20:49:00 -0500"
+    "title_en": "Man on cruise ship goes overboard off Bahamas, search underway",
+    "url": "https://www.cbsnews.com/news/royal-caribbean-allure-of-the-seas-man-overboard-bahamas/",
+    "description": "The Allure of the Seas is on an eight-day Thanksgiving cruise in the Caribbean that departed from Miami on Sunday.",
+    "pubDate": "Tue, 24 Nov 2026 19:57:01 -0500"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "9th measles death recorded in Pennsylvania amid ongoing outbreak",
-    "url": "https://www.cbsnews.com/news/pennsylvania-measles-outbreak-death/",
-    "description": "Pennsylvania&#039;s outbreak is the largest in the country​, with over 1,600 cases reported, and the deaths this year are the Keystone State&#039;s first from measles in 35 years.",
-    "pubDate": "Mon, 23 Nov 2026 20:26:00 -0500"
+    "title_en": "Meghan Markle&#039;s father indicted on child pornography charges",
+    "url": "https://www.cbsnews.com/news/thomas-markle-indicted-federal-grand-jury-child-pornography-charges/",
+    "description": "Thomas Markle, who was arrested in early November in Florida, was indicted by a Los Angeles grand jury on two counts of possession of child pornography.",
+    "pubDate": "Tue, 24 Nov 2026 19:49:41 -0500"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Zelenskyy says Ukraine sank Russian warship off Libya&#039;s coast",
-    "url": "https://www.cbsnews.com/news/ukraine-zelenskyy-2-russian-ships-libya/",
-    "description": "Ukrainian President Volodymyr Zelenskyy said his country was behind attacks that sank a Russian warship and damaged a sanctioned cargo vessel off Libya.",
-    "pubDate": "Mon, 23 Nov 2026 20:20:55 -0500"
+    "title_en": "Why the Army says it needs to detonate unstable explosives in Iowa",
+    "url": "https://www.cbsnews.com/news/lead-azide-detonation-iowa-army-explosives/",
+    "description": "The U.S. Army plans to detonate 68 drums of lead azide in Iowa despite local leaders and residents raising concerns.",
+    "pubDate": "Tue, 24 Nov 2026 19:37:46 -0500"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Nvidia reinstates Jensen Huang as CEO",
-    "url": "https://www.cbsnews.com/news/nvidia-reinstates-jensen-huang-ceo/",
-    "description": "Nvidia said Monday that it has restored Jensen Huang as the chipmaker&#039;s chief executive, calling him the \"right person\" to lead the company.",
-    "pubDate": "Mon, 23 Nov 2026 20:19:26 -0500"
+    "title_en": "5 questions Nvidia still faces after bringing back Jensen Huang",
+    "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-challenges/",
+    "description": "Despite Jensen Huang&#039;s shock return as Nvidia&#039;s CEO, experts say it&#039;s anything but business as usual for the chipmaker.",
+    "pubDate": "Tue, 24 Nov 2026 19:33:07 -0500"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Nvidia&#039;s Jensen Huang still testifying before Congress next week",
-    "url": "https://www.cbsnews.com/news/jensen-huang-congress-reinstatement-nvidia/",
-    "description": "Jensen Huang is still set to testify before lawmakers next week, congressional panels confirmed, after he was reinstated as Nvidia&#039;s CEO Monday, after resigning earlier this month amid allegations of affairs.",
-    "pubDate": "Mon, 23 Nov 2026 20:18:24 -0500"
+    "title_en": "Nvidia&#039;s Jensen Huang still has security clearance, sources say",
+    "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-security-clearance-todd-blanche/",
+    "description": "Attorney General Todd Blanche did not say whether federal investigators interviewed Jensen Huang — who was rehired as CEO on Monday — or examined his relationship with an alleged Chinese spy.",
+    "pubDate": "Tue, 24 Nov 2026 19:19:15 -0500"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Huang&#039;s return at Nvidia puts spotlight on chipmaker&#039;s board",
-    "url": "https://www.cbsnews.com/news/nvidia-board-reinstates-ceo-jensen-huang/",
-    "description": "Nvidia directors&#039; decision to rehire Jensen Huang shows a \"lack of courage,\" according to one prominent governance expert.",
-    "pubDate": "Mon, 23 Nov 2026 20:17:32 -0500"
+    "title_en": "Rep. Omar D.C. home search sought evidence going back to 1980",
+    "url": "https://www.cbsnews.com/news/ilhan-omar-home-search-documents-magistrate-judge-probable-cause/",
+    "description": "The warrant application covers a 46-year period beginning in 1980, long before Omar was in Congress, according to newly released court records. The documents are heavily redacted, and no criminal charges are listed.",
+    "pubDate": "Tue, 24 Nov 2026 18:41:00 -0500"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Nasdaq gains 6.5% after Huang reinstated as Nvidia CEO",
-    "url": "https://www.cbsnews.com/news/us-stock-futures-rebound-tech-rout/",
-    "description": "The Nasdaq Composite closed 6.5% higher, erasing all of its losses from Friday, when the index suffered its second-worst day of 2026.",
-    "pubDate": "Mon, 23 Nov 2026 20:12:57 -0500"
-  },
-  {
-    "source": "CBS News",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Democrats announce 12 debates starting in June for 2028 race",
-    "url": "https://www.cbsnews.com/news/2028-presidential-race-democratic-debates/",
-    "description": "In announcing the debate framework, DNC chair Ken Martin leaned heavily into one of his signature causes, ending dark money in politics.",
-    "pubDate": "Mon, 23 Nov 2026 13:05:00 -0500"
+    "title_en": "Wendy&#039;s \"pricing scheme\" inflated menu prices, lawsuit alleges",
+    "url": "https://www.cbsnews.com/news/wendys-class-action-lawsuit-dynamic-pricing/",
+    "description": "In a proposed class action, a California resident alleges that Wendy&#039;s conspired with its franchisees to set and raise menu prices.",
+    "pubDate": "Tue, 24 Nov 2026 15:19:43 -0500"
   },
   {
     "source": "BBC World",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
-    "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-    "description": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-    "pubDate": "Tue, 24 Nov 2026 01:11:54 GMT"
+    "title_en": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+    "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+    "description": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+    "pubDate": "Tue, 24 Nov 2026 16:49:07 GMT"
+  },
+  {
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+    "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+    "description": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+    "pubDate": "Tue, 24 Nov 2026 18:07:46 GMT"
+  },
+  {
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Land mine casualties soar in Syria, two years after war",
+    "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+    "description": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+    "pubDate": "Tue, 24 Nov 2026 15:17:28 GMT"
+  },
+  {
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Nigerian monarch, 92, suspended after sexual assault claims",
+    "url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
+    "description": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
+    "pubDate": "Tue, 24 Nov 2026 19:10:31 GMT"
+  },
+  {
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Israeli air strike kills Hamas internal security chief in Gaza",
+    "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+    "description": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+    "pubDate": "Tue, 24 Nov 2026 15:35:53 GMT"
   },
   {
     "source": "BBC World",
@@ -1017,27 +1247,27 @@
     "title_en": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
     "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
     "description": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-    "pubDate": "Tue, 24 Nov 2026 02:15:59 GMT"
+    "pubDate": "Tue, 24 Nov 2026 10:58:51 GMT"
   },
   {
     "source": "BBC World",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "What strike on Russian ship in Libya says about spread of Ukraine war",
-    "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
-    "description": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
-    "pubDate": "Mon, 23 Nov 2026 20:48:35 GMT"
+    "title_en": "What Jensen Huang's return teaches China's Xi about Trump",
+    "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+    "description": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
+    "pubDate": "Tue, 24 Nov 2026 07:26:27 GMT"
   },
   {
     "source": "BBC World",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
-    "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
-    "description": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
-    "pubDate": "Tue, 24 Nov 2026 00:23:25 GMT"
+    "title_en": "Pope Francis' diary reveals claims he saw the devil three times",
+    "url": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
+    "description": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
+    "pubDate": "Tue, 24 Nov 2026 11:10:57 GMT"
   },
   {
     "source": "BBC World",
@@ -1054,30 +1284,40 @@
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-    "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
-    "description": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
-    "pubDate": "Mon, 23 Nov 2026 17:07:25 GMT"
+    "title_en": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
+    "url": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
+    "description": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+    "pubDate": "Tue, 24 Nov 2026 17:04:00 GMT"
   },
   {
     "source": "BBC World",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
-    "url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
-    "description": "The UK is joined by several other nations in recognising an ICJ ruling that Myanmar carried out genocide.",
-    "pubDate": "Mon, 23 Nov 2026 21:03:34 GMT"
+    "title_en": "Car bomb tears through Colombian city wounding more than 20",
+    "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+    "description": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
+    "pubDate": "Tue, 24 Nov 2026 11:45:52 GMT"
   },
   {
     "source": "BBC World",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "What failure of COP31 reveals about a divided world",
-    "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
-    "description": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
-    "pubDate": "Mon, 23 Nov 2026 17:24:25 GMT"
+    "title_en": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+    "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+    "description": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+    "pubDate": "Tue, 24 Nov 2026 19:27:23 GMT"
+  },
+  {
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Russian governor detained in rare criminal case against regional leader",
+    "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
+    "description": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
+    "pubDate": "Tue, 24 Nov 2026 12:45:43 GMT"
   },
   {
     "source": "BBC World",
@@ -1094,6 +1334,16 @@
     "category": "politics",
     "paywalled": false,
     "unverified": false,
+    "title_en": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+    "url": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
+    "description": "Hasina has spoken several times of her desire to return, but this is the first time she has set a date.",
+    "pubDate": "Tue, 24 Nov 2026 06:23:01 GMT"
+  },
+  {
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
     "title_en": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
     "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
     "description": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
@@ -1104,17 +1354,27 @@
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Prominent Zimbabwean preacher arrested on sexual assault allegations",
-    "url": "https://www.bbc.co.uk/news/articles/cxyvdmjr893zo?at_medium=RSS&at_campaign=rss",
-    "description": "Uebert Angel, a British-Zimbabwean national, leads a charismatic church with branches in several countries.",
-    "pubDate": "Mon, 23 Nov 2026 14:55:14 GMT"
+    "title_en": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
+    "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
+    "description": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
+    "pubDate": "Tue, 24 Nov 2026 00:23:25 GMT"
   },
   {
     "source": "BBC World",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "How Nvidia is reacting to Jensen Huang's return as CEO",
+    "title_en": "Watch: Moment troops raid home and capture Mexican drug lord",
+    "url": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
+    "description": "Newly-released bodycam footage shows the moment troops detained 'El Chapo Isidro', who had managed to evade capture for years.",
+    "pubDate": "Tue, 24 Nov 2026 09:09:41 GMT"
+  },
+  {
+    "source": "BBC World",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Cheers and applause as Jensen Huang returns to Nvidia office",
     "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
     "description": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
     "pubDate": "Tue, 24 Nov 2026 01:21:41 GMT"
@@ -1144,26 +1404,6 @@
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Ukraine shares video of strikes on Russian ships off Libya",
-    "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
-    "description": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
-    "pubDate": "Mon, 23 Nov 2026 11:34:10 GMT"
-  },
-  {
-    "source": "BBC World",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-    "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-    "description": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-    "pubDate": "Sun, 22 Nov 2026 22:37:43 GMT"
-  },
-  {
-    "source": "BBC World",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
     "title_en": "Dad who discovered daughter's murder on Facebook feels ignored by South African police",
     "url": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo?at_medium=RSS&at_campaign=rss",
     "description": "South African communities tell the BBC of measures they're taking to keep women safe after a wave of horrific killings.",
@@ -1174,20 +1414,160 @@
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
-    "url": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
-    "description": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
-    "pubDate": "Mon, 23 Nov 2026 13:09:52 GMT"
+    "title_en": "What strike on Russian ship in Libya says about spread of Ukraine war",
+    "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+    "description": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+    "pubDate": "Mon, 23 Nov 2026 20:48:35 GMT"
   },
   {
-    "source": "BBC World",
+    "source": "PBS Politics",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Five takeaways from the failed climate talks COP31",
-    "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
-    "description": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
-    "pubDate": "Mon, 23 Nov 2026 06:33:50 GMT"
+    "title_en": "How Trump may have profited from Huang's return to Nvidia",
+    "url": "https://www.pbs.org/newshour/show/how-trump-may-have-profited-from-huangs-return-to-nvidia",
+    "description": "A day after President Trump intervened to reinstate Nvidia's embattled CEO, a new report suggests that Trump himself may have benefited financially to the tune of millions of dollars. White House correspondent Liz Landers reports.",
+    "pubDate": "Tue, 24 Nov 2026 18:55:53 -0500"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "N.C. Democrat reflects on flipping longtime GOP seat: 'It's a new day in the South'",
+    "url": "https://www.pbs.org/newshour/show/n-c-democrat-reflects-on-flipping-longtime-gop-seat-its-a-new-day-in-the-south",
+    "description": "With most races called, Democrats are on track for a 260-seat majority in the House. No state felt the blue wave more than North Carolina, where Democrats flipped seven House seats and a Senate seat. In the 5th Congressional District, someone never elected to office before, Chuck Hubbard, narrowly beat longtime Republican incumbent Virginia Foxx. Lisa Desjardins spoke with Hubbard about his win.",
+    "pubDate": "Tue, 24 Nov 2026 18:35:28 -0500"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Bob Woodward reveals why he's naming sources in new book 'Secrets'",
+    "url": "https://www.pbs.org/newshour/show/bob-woodward-reveals-why-hes-naming-sources-in-new-book-secrets",
+    "description": "For over five decades, veteran journalist Bob Woodward has exposed some of Washington's closely kept secrets. In his new memoir fittingly titled \"Secrets,\" he lets us in on some of his own, and unmasks the anonymous sources that allowed him incredible access to ten American presidents. Amna Nawaz sat down with Woodward and discussed why he chose to name some of them now.",
+    "pubDate": "Tue, 24 Nov 2026 18:25:48 -0500"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "States sue HUD over a rule that would end housing aid for mixed-status families",
+    "url": "https://www.pbs.org/newshour/nation/states-sue-hud-over-a-rule-that-would-end-housing-aid-for-mixed-status-families",
+    "description": "HUD defends the rule, saying it prevents illegal immigrants from exploiting eligibility requirements.",
+    "pubDate": "Tue, 24 Nov 2026 17:16:09 -0500"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Paxton drops Texas lawsuits that accused doctors of illegally providing transgender youth care",
+    "url": "https://www.pbs.org/newshour/nation/paxton-drops-texas-lawsuits-that-accused-doctors-of-illegally-providing-transgender-youth-care",
+    "description": "May Lau and M. Brett Cooper were among three doctors who Paxton called \"scofflaws\" and \"radical gender activists\" in lawsuits that threatened to impose steep fines and revoke their medical licenses.",
+    "pubDate": "Tue, 24 Nov 2026 16:33:53 -0500"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Pentagon sharply criticizes Canada over modernizing military",
+    "url": "https://www.pbs.org/newshour/world/pentagon-sharply-criticizes-canada-over-modernizing-military",
+    "description": "The Defense Department accused Ottawa of failing to make the tough decisions needed to modernize its military and meet NATO commitments.",
+    "pubDate": "Tue, 24 Nov 2026 15:42:20 -0500"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Democrats supporting abortion rights won big in midterms, but vast changes unlikely soon",
+    "url": "https://www.pbs.org/newshour/politics/democrats-supporting-abortion-rights-won-big-in-midterms-but-vast-changes-unlikely-soon",
+    "description": "States with bans will still have enough Republicans in power to likely block any repeal attempts for now.",
+    "pubDate": "Tue, 24 Nov 2026 14:53:41 -0500"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Trump will give Medal of Freedom to Giuliani, a fierce political ally who led New York through 9/11",
+    "url": "https://www.pbs.org/newshour/politics/trump-will-give-medal-of-freedom-to-giuliani-a-fierce-political-ally-who-led-new-york-through-9-11",
+    "description": "As President Donald Trump's personal lawyer, he was a central figure in efforts to overturn Trump's 2020 presidential election loss to Democrat Joe Biden.",
+    "pubDate": "Tue, 24 Nov 2026 12:53:38 -0500"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Rep. Raskin expands investigation into Donald Trump Jr.'s investment firm",
+    "url": "https://www.pbs.org/newshour/politics/rep-raskin-expands-investigation-into-donald-trump-jr-s-investment-firm",
+    "description": "A top House Democrat is broadening his investigation into Donald Trump Jr.'s venture capital fund 1789 Capital by demanding records from four companies that secured an investment before benefiting from lucrative federal contracts or policies.",
+    "pubDate": "Tue, 24 Nov 2026 12:13:02 -0500"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Ben Shapiro on Trump, Israel and the future of the Republican party",
+    "url": "https://www.pbs.org/newshour/podcasts/settle-in-with-pbs-news/ben-shapiro-on-trump-israel-and-the-future-of-the-republican-party",
+    "description": "Ben Shapiro is a political commentator, author, screenwriter and co-founder of the influential conservative media organization The Daily Wire. In this episode of \"Settle In,\" he sits down with Amna Nawaz to explain why he thinks voters have turned on Trump, what he believes is driving the growing rift over Israel in American politics and what he sees as the path forward for the GOP after its historic losses in the midterm elections.",
+    "pubDate": "Tue, 24 Nov 2026 12:01:51 -0500"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Trump's intervention on behalf of Jensen Huang gives Democrats more 2028 campaign fuel",
+    "url": "https://www.pbs.org/newshour/politics/trumps-intervention-on-behalf-of-jensen-huang-gives-democrats-more-2028-campaign-fuel",
+    "description": "Still euphoric over their sweeping midterm victories, many ambitious Democrats are still feeling around for the right message on artificial intelligence, which carries both promise and peril as it becomes increasingly intertwined with the economy, infrastructure and daily life.",
+    "pubDate": "Tue, 24 Nov 2026 11:12:37 -0500"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Records show how DOJ, judge debated constitutional implications of searching Rep. Ilhan Omar's home",
+    "url": "https://www.pbs.org/newshour/politics/records-show-how-doj-judge-debated-constitutional-implications-of-searching-rep-ilhan-omars-home",
+    "description": "The unsealed filings show that U.S. Magistrate Judge Matthew Sharbaugh — before authorizing the search of Omar's home — raised concerns about the \"Speech or Debate Clause\" implications of searching a private residence belonging to a member of Congress.",
+    "pubDate": "Tue, 24 Nov 2026 10:56:52 -0500"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Why Trump believed he needed to get Jensen Huang back on top at Nvidia",
+    "url": "https://www.pbs.org/newshour/politics/why-trump-believed-he-needed-to-get-jensen-huang-back-on-top-at-nvidia",
+    "description": "The president has staked the nation's economic growth on artificial intelligence.",
+    "pubDate": "Tue, 24 Nov 2026 10:18:48 -0500"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "WATCH: Trump holds 2026 White House turkey pardon with Freedom and Feathers",
+    "url": "https://www.pbs.org/newshour/politics/watch-live-trump-holds-2026-white-house-turkey-pardon-with-freedom-and-feathers",
+    "description": "Both birds will get a reprieve from ending up on a Thanksgiving dinner table, but only one of them will get a ceremonial pardon at the White House.",
+    "pubDate": "Tue, 24 Nov 2026 09:56:08 -0500"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Army plans to detonate Iowa stockpile on Wednesday, tells public there's no reason to panic",
+    "url": "https://www.pbs.org/newshour/nation/getting-court-approval-u-s-army-to-detonate-degraded-bomb-making-material-in-iowa-on-wednesday",
+    "description": "The detonation of 68 barrels of lead azide was initially planned for last Friday, but the Army has since changed the date three times following an outpouring of public concern about potential health and environmental effects.",
+    "pubDate": "Tue, 24 Nov 2026 08:34:10 -0500"
   },
   {
     "source": "PBS Politics",
@@ -1224,9 +1604,9 @@
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Ethics probe finds Democratic Rep. Jimmy Gomez made unwelcome sexual advances to a staffer",
+    "title_en": "Democratic Rep. Jimmy Gomez resigns after Ethics panel finds evidence of sexual misconduct",
     "url": "https://www.pbs.org/newshour/politics/ethics-probe-finds-democratic-rep-jimmy-gomez-made-unwelcome-sexual-advances-to-a-staffer",
-    "description": "The House Ethics Committee said in a report released Monday that there is \"substantial evidence\" that Democratic Rep. Jimmy Gomez of California engaged in sexual misconduct by making unwelcome sexual advances and sexual contact toward a House staffer.",
+    "description": "Democratic Rep. Jimmy Gomez of California announced Monday that he will resign from Congress after the House Ethics Committee released a report finding \"substantial evidence\" he engaged in sexual misconduct by making unwelcome sexual advances and sexual contact toward a House staffer.",
     "pubDate": "Mon, 23 Nov 2026 17:11:09 -0500"
   },
   {
@@ -1240,214 +1620,104 @@
     "pubDate": "Mon, 23 Nov 2026 17:06:38 -0500"
   },
   {
-    "source": "PBS Politics",
-    "category": "politics",
-    "paywalled": false,
+    "source": "Financial Times",
+    "category": "economy",
+    "paywalled": true,
     "unverified": false,
-    "title_en": "Federal appeals court gives President Donald Trump a path to erasing hush money conviction",
-    "url": "https://www.pbs.org/newshour/politics/federal-appeals-court-gives-president-donald-trump-a-path-to-erasing-hush-money-conviction",
-    "description": "The decision moves the case to a federal court, where Trump could seek to have charges dismissed on immunity grounds.",
-    "pubDate": "Mon, 23 Nov 2026 16:54:04 -0500"
-  },
-  {
-    "source": "PBS Politics",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Senate leadership vote tests newly elected Democrats' promise of change",
-    "url": "https://www.pbs.org/newshour/politics/senate-leadership-vote-tests-newly-elected-democrats-promise-of-change",
-    "description": "The Democratic Party's incoming senators face an early test of their campaign promises to shake up Washington as they decide who will lead their new majority.",
-    "pubDate": "Mon, 23 Nov 2026 14:14:35 -0500"
-  },
-  {
-    "source": "PBS Politics",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "WATCH: Trump delivers address on Newsom's move to grant clemency for California's death row",
-    "url": "https://www.pbs.org/newshour/politics/watch-live-trump-delivers-address-on-newsoms-move-to-grant-clemency-for-californias-death-row",
-    "description": "The White House said the speech would be about protecting American families and Newsom's decision to commute the death sentences of more than 500 inmates to punishments of life without parole.",
-    "pubDate": "Mon, 23 Nov 2026 14:12:21 -0500"
-  },
-  {
-    "source": "PBS Politics",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Medicare for All was once a long shot. Now universal healthcare is on the Democrats' agenda",
-    "url": "https://www.pbs.org/newshour/politics/medicare-for-all-was-once-a-long-shot-now-universal-healthcare-is-on-the-democrats-agenda",
-    "description": "The details are still taking shape, and there will almost certainly be pushback from moderate and centrist Democrats.",
-    "pubDate": "Mon, 23 Nov 2026 12:05:26 -0500"
-  },
-  {
-    "source": "PBS Politics",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "What Trump told PBS News about Jensen Huang before Nvidia reinstatement",
-    "url": "https://www.pbs.org/newshour/politics/what-trump-told-pbs-news-about-jensen-huang-before-nvidia-reinstatement",
-    "description": "In a phone call with PBS News shortly after 8 a.m. EST Monday, Trump did not deny that he had been briefed, saying he was \"not going to comment on anything having to do with that. You'll have to figure that out for yourself.\"",
-    "pubDate": "Mon, 23 Nov 2026 11:22:25 -0500"
-  },
-  {
-    "source": "PBS Politics",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Democrats plan 12 debates for their 2028 presidential primary, with what's likely to be a crowded field",
-    "url": "https://www.pbs.org/newshour/politics/democrats-plan-12-debates-for-their-2028-presidential-primary-with-whats-likely-to-be-a-crowded-field",
-    "description": "The debates could be play a key role in generating attention for what is expected to be a broad field of candidates vying to succeed Republican President Donald Trump.",
-    "pubDate": "Mon, 23 Nov 2026 10:54:04 -0500"
-  },
-  {
-    "source": "PBS Politics",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "How a billionaire tax proposal failed in California despite big election wins for progressives",
-    "url": "https://www.pbs.org/newshour/politics/how-a-billionaire-tax-proposal-failed-in-california-despite-big-election-wins-for-progressives",
-    "description": "In an election with major wins for Democrats and progressives nationwide, California voters not only rejected the biggest test yet for a state wealth tax, they also approved a measure making it much harder to enact one in the future.",
-    "pubDate": "Mon, 23 Nov 2026 08:27:26 -0500"
-  },
-  {
-    "source": "PBS Politics",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "'One of the very worst.' Jan. 6 leader Stewart Rhodes says he is 'absolutely done' with Trump",
-    "url": "https://www.pbs.org/newshour/politics/one-of-the-very-worst-jan-6-leader-stewart-rhodes-says-he-is-absolutely-done-with-trump",
-    "description": "\"We elected him to end the corruption in Washington, D.C. 'Drain the swamp.' Unfortunately his administration has been one of the most corrupt administrations in U.S. history,\" Rhodes said.",
-    "pubDate": "Mon, 23 Nov 2026 07:59:12 -0500"
-  },
-  {
-    "source": "PBS Politics",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "U.S. intelligence chief says Trump's description of Putin as a 'friend' is 'entirely appropriate'",
-    "url": "https://www.pbs.org/newshour/world/u-s-intelligence-chief-says-trumps-description-of-putin-as-a-friend-is-entirely-appropriate",
-    "description": "Clayton defended comments that Democrats have characterized as a betrayal of American values after Trump met with Putin and Chinese President Xi Jinping for rare three-way talks.",
-    "pubDate": "Sun, 22 Nov 2026 13:37:06 -0500"
-  },
-  {
-    "source": "PBS Politics",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992",
-    "url": "https://www.pbs.org/newshour/politics/democrats-clinch-a-historic-house-majority-of-at-least-258-seats-the-largest-since-1992",
-    "description": "The 258-seat tally was reached Sunday after Democrat Chuck Hubbard defeated Republican Rep. Virginia Foxx in North Carolina.",
-    "pubDate": "Sun, 22 Nov 2026 13:24:22 -0500"
-  },
-  {
-    "source": "PBS Politics",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Scientists are fighting for their halted funds. Trust of Black communities may be harder to win back",
-    "url": "https://www.pbs.org/newshour/health/scientists-are-fighting-for-their-halted-funds-trust-of-black-communities-may-be-harder-to-win-back",
-    "description": "The study was among broader research into why Black Americans are twice as likely as their white peers to develop Alzheimer's, but the Trump administration abruptly halted it in its final stretch.",
-    "pubDate": "Sun, 22 Nov 2026 13:02:55 -0500"
+    "title_en": "Huang says he still does not believe in CEO succession planning at Nvidia",
+    "url": "https://www.ft.com/content/cd1831d0-c3f1-4705-b8e2-badfb5e39764?syn-25a6b1a6=1",
+    "description": "Chief executive speaks to staff at first company-wide meeting after returning to the chipmaker",
+    "pubDate": "Tue, 24 Nov 2026 20:18:29 GMT"
   },
   {
     "source": "Financial Times",
     "category": "economy",
     "paywalled": true,
     "unverified": false,
-    "title_en": "Nvidia adds nearly $1tn to market value after it reinstates Jensen Huang",
-    "url": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1",
-    "description": "Shares close 30% higher after board brings co-founder back with support from Donald Trump",
-    "pubDate": "Mon, 23 Nov 2026 22:55:14 GMT"
+    "title_en": "Trump readies raft of new tariffs on major economies",
+    "url": "https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0?syn-25a6b1a6=1",
+    "description": "China, the EU, Japan and South Korea expected to be hit by levies as US president doubles down on trade strategy",
+    "pubDate": "Tue, 24 Nov 2026 16:30:35 GMT"
   },
   {
     "source": "Financial Times",
     "category": "economy",
     "paywalled": true,
     "unverified": false,
-    "title_en": "US lawmakers vow to sharpen Huang probes as he returns to Nvidia",
-    "url": "https://www.ft.com/content/6b4e5bfb-d566-4a61-a12c-057881a261b8?syn-25a6b1a6=1",
-    "description": "Democrats and Republicans insist tech CEO must testify in public",
-    "pubDate": "Mon, 23 Nov 2026 19:11:29 GMT"
+    "title_en": "Will the Nvidia fallout kill off Asia’s data centre boom?",
+    "url": "https://www.ft.com/content/e5df32d1-1801-4d81-b2f5-b83e93377c1c?syn-25a6b1a6=1",
+    "description": "Projects that touted chip access to Chinese customers face tighter US scrutiny",
+    "pubDate": "Wed, 25 Nov 2026 02:04:15 GMT"
   },
   {
     "source": "Financial Times",
     "category": "economy",
     "paywalled": true,
     "unverified": false,
-    "title_en": "The startling return of Jensen Huang",
-    "url": "https://www.ft.com/content/d23fd311-ac96-4dfb-88ef-b1ccb2197f13?syn-25a6b1a6=1",
-    "description": "Trump’s intervention to reinstate the Nvidia boss sets a dangerous precedent",
-    "pubDate": "Mon, 23 Nov 2026 18:11:30 GMT"
+    "title_en": "Russian navy licks its wounds as another warship is sunk",
+    "url": "https://www.ft.com/content/ef3cfa29-4613-426c-9b87-dd76664e6859?syn-25a6b1a6=1",
+    "description": "Ukrainian drones have struck Moscow’s warships and freighters in the Black Sea, Baltic and Mediterranean",
+    "pubDate": "Tue, 24 Nov 2026 11:51:27 GMT"
   },
   {
     "source": "Financial Times",
     "category": "economy",
     "paywalled": true,
     "unverified": false,
-    "title_en": "Inside the ‘war room’ that lobbied Trump to bring back ousted tech boss",
-    "url": "https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc?syn-25a6b1a6=1",
-    "description": "Silicon Valley titans enlisted US president and JD Vance to rescue the billionaire tech boss whom they viewed as critical for the AI industry",
-    "pubDate": "Mon, 23 Nov 2026 22:46:14 GMT"
+    "title_en": "Asian markets lose ground as AI fears return",
+    "url": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
+    "description": "Tech stocks in Tokyo and Seoul suffer after Wall Street’s Jensen Huang bounce fades",
+    "pubDate": "Wed, 25 Nov 2026 01:41:03 GMT"
   },
   {
     "source": "Financial Times",
     "category": "economy",
     "paywalled": true,
     "unverified": false,
-    "title_en": "Return is a triumph of money over morals",
-    "url": "https://www.ft.com/content/189b5df2-2d06-42db-8843-1a542efb0a8f?syn-25a6b1a6=1",
-    "description": "The chipmaker’s soaring stock suggests investors are on board with its co-founder’s astonishing comeback",
-    "pubDate": "Mon, 23 Nov 2026 16:51:47 GMT"
+    "title_en": "Huawei convicted in US trial that exposed corporate espionage and sanctions evasion",
+    "url": "https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1",
+    "description": "Verdict marks a victory for federal prosecutors after an eight-year legal battle with the Chinese telecoms company",
+    "pubDate": "Tue, 24 Nov 2026 22:36:29 GMT"
   },
   {
     "source": "Financial Times",
     "category": "economy",
     "paywalled": true,
     "unverified": false,
-    "title_en": "Huang is back because he left Nvidia no choice",
-    "url": "https://www.ft.com/content/611430d0-9aec-4e5e-95d7-615e86f692ce?syn-25a6b1a6=1",
-    "description": "Nvidia took Huang back because his failures left the company with no other options",
-    "pubDate": "Mon, 23 Nov 2026 17:17:50 GMT"
+    "title_en": "Shanghai’s powerful Communist Party boss toppled as Xi escalates purge",
+    "url": "https://www.ft.com/content/02240d42-ccd8-4b4d-b0e3-49a04c950eea?syn-25a6b1a6=1",
+    "description": "Chen Jining under investigation over suspected ‘severe violations of discipline and laws’",
+    "pubDate": "Tue, 24 Nov 2026 15:55:20 GMT"
   },
   {
     "source": "Financial Times",
     "category": "economy",
     "paywalled": true,
     "unverified": false,
-    "title_en": "Asian tech stocks surge after Jensen Huang’s return",
-    "url": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
-    "description": "Region’s markets follow Wall Street higher on Nvidia chief’s reinstatement",
-    "pubDate": "Tue, 24 Nov 2026 03:46:25 GMT"
+    "title_en": "Shein to pay $100mn to resolve US allegations that it deceived customers",
+    "url": "https://www.ft.com/content/0128d44e-8ca1-49b8-868b-b8fe0e4824c6?syn-25a6b1a6=1",
+    "description": "Regulators claim cotton that the retailer’s suppliers said was US-grown was harvested in China",
+    "pubDate": "Wed, 25 Nov 2026 02:00:02 GMT"
   },
   {
-    "source": "Financial Times",
+    "source": "CNBC Markets",
     "category": "economy",
-    "paywalled": true,
+    "paywalled": false,
     "unverified": false,
-    "title_en": "Trump made up to $15mn on Nvidia shares after Huang’s return",
-    "url": "https://www.ft.com/content/67b0a070-c2a9-4229-885a-383cca657763?syn-25a6b1a6=1",
-    "description": "Profit on 30% jump in chip group’s share price based on maximum amount US president could have owned in latest disclosure",
-    "pubDate": "Mon, 23 Nov 2026 22:21:44 GMT"
+    "title_en": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+    "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+    "description": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3.",
+    "pubDate": "Tue, 24 Nov 2026 18:34:43 GMT"
   },
   {
-    "source": "Financial Times",
+    "source": "CNBC Markets",
     "category": "economy",
-    "paywalled": true,
+    "paywalled": false,
     "unverified": false,
-    "title_en": "OpenAI engineer possessed dozens of meeting recordings, say US prosecutors",
-    "url": "https://www.ft.com/content/f860152a-6bd6-43f7-8ba1-4a6ae94d6565?syn-25a6b1a6=1",
-    "description": "Saudi national is also alleged to have photographed confidential documents",
-    "pubDate": "Tue, 24 Nov 2026 01:31:42 GMT"
-  },
-  {
-    "source": "Financial Times",
-    "category": "economy",
-    "paywalled": true,
-    "unverified": false,
-    "title_en": "‘Unthinkable’ for Britain to rejoin EU without referendum, says Burnham",
-    "url": "https://www.ft.com/content/46fa4178-055f-44ca-b043-773428e8e986?syn-25a6b1a6=1",
-    "description": "Prime minister insists he does not have a ‘fixed opinion’ about the UK’s future relationship with the bloc",
-    "pubDate": "Mon, 23 Nov 2026 19:00:38 GMT"
+    "title_en": "Why France is at risk of recession — and what could keep it out of one",
+    "url": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
+    "description": "Bank of France Governor Emmanuel Moulin told CNBC he still expects growth, pointing to resilience in sectors including defense, aerospace and electricity.",
+    "pubDate": "Tue, 24 Nov 2026 11:15:30 GMT"
   },
   {
     "source": "CNBC Markets",
@@ -1464,6 +1734,26 @@
     "category": "economy",
     "paywalled": false,
     "unverified": false,
+    "title_en": "Retail turnarounds are taking hold just in time for the holiday season",
+    "url": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
+    "description": "Retail earnings reports on Tuesday pointed to a mix of factors behind the strong results, including a resilient consumer and stronger execution.",
+    "pubDate": "Tue, 24 Nov 2026 19:26:39 GMT"
+  },
+  {
+    "source": "CNBC Earnings",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
+    "url": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
+    "description": "Best Buy beat quarterly expectations for its fiscal third-quarter earnings results on Tuesday and raised its full-year guidance.",
+    "pubDate": "Tue, 24 Nov 2026 14:51:58 GMT"
+  },
+  {
+    "source": "CNBC Earnings",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
     "title_en": "Investors are missing the bigger picture in CrowdStrike's deal to buy Zscaler",
     "url": "https://www.cnbc.com/investingclub/2026/11/23/crowdstrikes-zscaler-deal-investors-are-missing-the-bigger-picture.html",
     "description": "CrowdStrike's quarterly results, released alongside the deal's announcement, show a company acting from a position of strength rather than weakness.",
@@ -1474,10 +1764,100 @@
     "category": "economy",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Faisal Islam: Why Jensen Huang proved too big to fire",
-    "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
-    "description": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
-    "pubDate": "Mon, 23 Nov 2026 17:11:58 GMT"
+    "title_en": "Households braced for soaring energy bills with new price cap to be announced",
+    "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+    "description": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
+    "pubDate": "Wed, 25 Nov 2026 00:29:58 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "US preparing to unveil new tariffs on global trading partners",
+    "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+    "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+    "pubDate": "Wed, 25 Nov 2026 00:38:01 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "What will the energy cap changes mean for my bills?",
+    "url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+    "description": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
+    "pubDate": "Wed, 25 Nov 2026 00:33:25 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Trump's Nvidia intervention ties his political fortunes to the AI boom",
+    "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+    "description": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+    "pubDate": "Wed, 25 Nov 2026 01:03:05 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+    "url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+    "description": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
+    "pubDate": "Wed, 25 Nov 2026 00:30:52 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Will I get the £100 energy payment and when will I receive it?",
+    "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+    "description": "Here is what you need to know about the payment that millions will receive from January.",
+    "pubDate": "Tue, 24 Nov 2026 20:16:24 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+    "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+    "description": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+    "pubDate": "Tue, 24 Nov 2026 10:53:37 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "World Cup drove profits surge, says Marston's",
+    "url": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo?at_medium=RSS&at_campaign=rss",
+    "description": "The company says an \"excellent World Cup\" helped drive strong trading as annual profits rose by 18%.",
+    "pubDate": "Tue, 24 Nov 2026 13:03:20 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "The shake-up facing renters as a new kind of landlord emerges",
+    "url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
+    "description": "Companies building flats that they then rent out could usher in big changes for renters.",
+    "pubDate": "Tue, 24 Nov 2026 00:28:48 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+    "url": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
+    "description": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
+    "pubDate": "Tue, 24 Nov 2026 00:11:08 GMT"
   },
   {
     "source": "BBC Business",
@@ -1494,120 +1874,20 @@
     "category": "economy",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Capita shares plunge 70% as boss quits after civil service pensions failure",
-    "url": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
-    "description": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
-    "pubDate": "Mon, 23 Nov 2026 11:24:37 GMT"
+    "title_en": "The rising cost of putting food on the table in India",
+    "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+    "description": "India's food inflation is broadening, squeezing household budgets.",
+    "pubDate": "Wed, 25 Nov 2026 01:02:13 GMT"
   },
   {
     "source": "BBC Business",
     "category": "economy",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Next data accessed in cyber breach",
-    "url": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
-    "description": "The fashion retailer says there is no evidence customers' personal data was compromised.",
-    "pubDate": "Mon, 23 Nov 2026 12:34:07 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Catering giant to switch main share listing to US in further blow to UK",
-    "url": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
-    "description": "A growing number of firms have been leaving the UK to list shares in the US in recent years.",
-    "pubDate": "Mon, 23 Nov 2026 09:54:04 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Energy bills will soar - here's how you can ease the pain",
-    "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-    "description": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
-    "pubDate": "Mon, 23 Nov 2026 01:05:07 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Poundland is facing collapse - what's gone wrong?",
-    "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
-    "description": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
-    "pubDate": "Mon, 23 Nov 2026 10:09:25 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Pip assessments need 'fundamental overhaul', report to say",
-    "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
-    "description": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
-    "pubDate": "Mon, 23 Nov 2026 17:59:55 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "South East Water reports loss after supply issues",
-    "url": "https://www.bbc.co.uk/news/articles/c6n90j1qxel8o?at_medium=RSS&at_campaign=rss",
-    "description": "South East Water records a pre-tax loss of £22.9m in the six months to 30 September.",
-    "pubDate": "Mon, 23 Nov 2026 10:19:46 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-    "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-    "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-    "pubDate": "Mon, 23 Nov 2026 00:33:36 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Welfare cuts: What's been happening with Pip and universal credit?",
-    "url": "https://www.bbc.co.uk/news/articles/cj924xvzrr2o?at_medium=RSS&at_campaign=rss",
-    "description": "The government commissioned a review into Pip last year after it was forced to water down planned cuts to benefits.",
-    "pubDate": "Mon, 23 Nov 2026 13:52:40 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Flights cancelled in Belgium due to cost-of-living strike",
-    "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
-    "description": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
-    "pubDate": "Mon, 23 Nov 2026 13:34:02 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Who is taking part in France's recent street protests?",
-    "url": "https://www.bbc.co.uk/news/videos/cw5y188vzxn8o?at_medium=RSS&at_campaign=rss",
-    "description": "President Macron has blamed the unrest on the radical left, but who are the protesters and what are they fighting for?",
-    "pubDate": "Mon, 23 Nov 2026 09:25:52 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Househunter swaps Australia for Wales' most affordable town - where locals are struggling to buy",
-    "url": "https://www.bbc.co.uk/news/articles/cjkgkdppk1nwo?at_medium=RSS&at_campaign=rss",
-    "description": "The area has attracted investors and even a buyer from Australia, but locals struggle to afford homes.",
-    "pubDate": "Mon, 23 Nov 2026 06:03:32 GMT"
+    "title_en": "Four generations of a family working in one factory",
+    "url": "https://www.bbc.co.uk/news/videos/ck7v2r6j1yl3o?at_medium=RSS&at_campaign=rss",
+    "description": "Four generations of the Avis family have now worked at Sweetnam & Bradley in Malmesbury.",
+    "pubDate": "Tue, 24 Nov 2026 16:42:46 GMT"
   },
   {
     "source": "BBC Business",
@@ -1630,64 +1910,234 @@
     "pubDate": "Mon, 23 Nov 2026 18:43:00 GMT"
   },
   {
-    "source": "BBC Business",
+    "source": "NPR Economy",
     "category": "economy",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Nvidia reinstates CEO after affair with alleged spy",
-    "url": "https://www.bbc.co.uk/news/videos/cqze7lwdglngo?at_medium=RSS&at_campaign=rss",
-    "description": "Senior US government officials backed Nvidia's decision to reinstate Jensen Huang, the company says in a statement.",
-    "pubDate": "Mon, 23 Nov 2026 14:51:05 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Witness History",
-    "url": "https://www.bbc.co.uk/sounds/play/w3ct8r4b?at_medium=RSS&at_campaign=rss",
-    "description": "In 1994, the agreement that created the World Trade Organization was signed in Morrocco",
-    "pubDate": "Mon, 23 Nov 2026 07:00:00 GMT"
+    "title_en": "Many families are cutting corners at the grocery store to pay their other bills",
+    "url": "https://www.npr.org/2026/11/24/nx-s1-6047499/many-families-are-cutting-corners-at-the-grocery-store-to-pay-their-other-bills",
+    "description": "Cash-strapped consumers are changing they way they spend money. As essentials like rent and utility bills gobble up more of their budget, some families are dialing back on groceries or eating out.",
+    "pubDate": "Tue, 24 Nov 2026 17:45:01 -0500"
   },
   {
     "source": "NPR Economy",
     "category": "economy",
     "paywalled": false,
     "unverified": false,
-    "title_en": "From Wall Street to Main Street, how artificial intelligence is affecting the economy",
-    "url": "https://www.npr.org/2026/11/23/nx-s1-6048690/from-wall-street-to-main-street-how-artificial-intelligence-is-affecting-the-economy",
-    "description": "Artificial intelligence is sending shock waves through the stock market, as investors try to predict how their big bets will pay off. Meanwhile some real businesses are putting AI to work, with mixed results.",
-    "pubDate": "Mon, 23 Nov 2026 06:46:29 -0500"
+    "title_en": "What should it cost to insure a home in wildfire country?",
+    "url": "https://www.npr.org/sections/planet-money/2026/11/24/g-s1-154477/what-should-it-cost-to-insure-a-home-in-wildfire-country",
+    "description": "Some California homeowners have spent thousands making their homes safer from wildfires. Yet all that work has barely made a dent in their insurance bills. Should they be getting a bigger break?",
+    "pubDate": "Tue, 24 Nov 2026 06:30:00 -0500"
   },
   {
-    "source": "NPR Economy",
+    "source": "NYT Business",
     "category": "economy",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Chief economist for Moody's Analytics on why Anthropic's IPO caused market volatility",
-    "url": "https://www.npr.org/2026/11/23/nx-s1-6048611/chief-economist-for-moodys-analytics-on-why-anthropics-ipo-caused-market-volatility",
-    "description": "NPR's Michel Martin speaks with Mark Zandi, chief economist for Moody's Analytics, about Anthropic's Wall Street debut and why it seems to have triggered recent market volatility.",
-    "pubDate": "Mon, 23 Nov 2026 06:46:24 -0500"
+    "title_en": "DealBook Summit 2026: The Cost of Being Pragmatic in a Chaotic World",
+    "url": "https://www.nytimes.com/2026/11/24/business/dealbook/world-chaos-pragmatism.html",
+    "description": "At the summit marking DealBook’s 25th year, business leaders explored the dangers of mistrust in turbulent times.",
+    "pubDate": "Tue, 24 Nov 2026 23:03:18 +0000"
   },
   {
-    "source": "NPR Economy",
+    "source": "NYT Business",
     "category": "economy",
     "paywalled": false,
     "unverified": false,
-    "title_en": "AI is making it hard for young people to find work, report says",
-    "url": "https://www.npr.org/2026/11/23/nx-s1-6048624/ai-is-making-it-hard-for-young-people-to-find-work-report-says",
-    "description": "NPR's Steve Inskeep speaks with Matt Sigelman, president of the Burning Glass Institute, about a new report indicating that AI is already squeezing the job market for young jobseekers.",
-    "pubDate": "Mon, 23 Nov 2026 04:42:40 -0500"
+    "title_en": "DealBook Summit 2026: Help Wanted to Succeed in an A.I. World",
+    "url": "https://www.nytimes.com/2026/11/24/business/dealbook/work-jobs-task-force.html",
+    "description": "While young people are facing daunting challenges in the labor market, there are ways to improve the chance of landing a good job.",
+    "pubDate": "Tue, 24 Nov 2026 23:01:20 +0000"
   },
   {
-    "source": "NPR Economy",
+    "source": "NYT Business",
     "category": "economy",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Rising costs leave consumers looking for Thanksgiving bargains",
-    "url": "https://www.npr.org/2026/11/22/nx-s1-6048751/rising-costs-leave-consumers-looking-for-thanksgiving-bargains",
-    "description": "It's Thanksgiving week and you may have seen that turkey and gravy are more expensive. NPR's Rob Schmitz speaks with Heather Long, chief economist at Navy Federal Credit Union, about why costs are up.",
-    "pubDate": "Sun, 22 Nov 2026 17:40:20 -0500"
+    "title_en": "DealBook Summit 2026: After the Upheaval From the Midterm Elections, Who Has the Edge in 2028?",
+    "url": "https://www.nytimes.com/2026/11/24/business/dealbook/midterm-elections-task-force.html",
+    "description": "Are the Democrats’ gains in the midterm elections lasting? Or just another swing of the political pendulum?",
+    "pubDate": "Tue, 24 Nov 2026 23:00:25 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "DealBook Summit 2026: Rein in A.I., but Don’t Pause It",
+    "url": "https://www.nytimes.com/2026/11/24/business/dealbook/ai-task-force.html",
+    "description": "A panel of experts said protections on artificial intelligence could be adopted without stifling the technology’s development.",
+    "pubDate": "Tue, 24 Nov 2026 22:59:27 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "DealBook Summit 2026: It’s Time to Fix Health Care",
+    "url": "https://www.nytimes.com/2026/11/24/business/dealbook/health-care-task-force.html",
+    "description": "Experts said problems of cost, trust and dysfunction had reached crisis levels, but voters could be the impetus to force change.",
+    "pubDate": "Wed, 25 Nov 2026 01:24:19 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "DealBook Summit 2026: Groundbreakers Tell What Is On Their Minds",
+    "url": "https://www.nytimes.com/2026/11/24/business/dealbook/dealbook-summit-groundbreakers.html",
+    "description": "Leaders from a range of disciplines who led talks at the summit about global issues responded to questions in advance. Their answers have been lightly edited.",
+    "pubDate": "Tue, 24 Nov 2026 22:57:53 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "25 Years of DealBook Moments",
+    "url": "https://www.nytimes.com/2026/11/24/business/dealbook/25-years-photographs-moments.html",
+    "description": "These photographs are drawn from events since DealBook began publishing that have left an indelible mark on business, policy and culture. We’re still feeling their ripples today.",
+    "pubDate": "Tue, 24 Nov 2026 22:56:20 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "‘Carthage Resident Al Gore’ Buys His Hometown Tennessee Newspaper",
+    "url": "https://www.nytimes.com/2026/11/24/business/media/al-gore-newspaper-carthage-courier.html",
+    "description": "The Carthage Courier announced this week that the former vice president was buying the weekly paper, which has been publishing since 1913.",
+    "pubDate": "Tue, 24 Nov 2026 23:06:01 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Putting Socially Conscious Investments in 401(k) Plans Could Get Harder",
+    "url": "https://www.nytimes.com/2026/11/24/your-money/401k-esg-rules.html",
+    "description": "The Labor Department has, once again, proposed a rule that may discourage workplace retirement plans from adding investment options based on environmental and social considerations.",
+    "pubDate": "Tue, 24 Nov 2026 19:29:19 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
+    "url": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
+    "description": "Presidents before him have bailed out companies in times of national crisis. Mr. Trump went further: He staked the fortunes of the United States on those of a favored chief executive.",
+    "pubDate": "Tue, 24 Nov 2026 19:54:59 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Luxury Water Is Luring Drinkers Who Have Lost Their Thirst for Alcohol",
+    "url": "https://www.nytimes.com/2026/11/24/business/luxury-water-fiji-evian-voss.html",
+    "description": "A host of newcomers are pushing into the high-end water space, which has long been occupied by brands like Fiji, Evian and Voss.",
+    "pubDate": "Tue, 24 Nov 2026 21:18:42 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Pressure Builds at American Airlines as It Lags Delta and United",
+    "url": "https://www.nytimes.com/2026/11/24/business/american-airlines-delta-united.html",
+    "description": "American flies more travelers than any other U.S. carrier, but debt, fuel costs and mistakes have left it losing money while other big airlines report billions in profits.",
+    "pubDate": "Tue, 24 Nov 2026 18:06:24 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Black Friday Deals Starting Earlier This Year? It’s Not Just in Your Head.",
+    "url": "https://www.nytimes.com/2026/11/24/style/black-friday-sales-2026-earlier.html",
+    "description": "Some shoppers have “Black Friday fatigue” from sales that began as early as the first week in November.",
+    "pubDate": "Tue, 24 Nov 2026 21:54:50 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "How Huang’s Return Rewrote Corporate America’s Rules",
+    "url": "https://www.nytimes.com/2026/11/24/business/dealbook/huang-nvidia-trump.html",
+    "description": "The reinstatement of Jensen Huang atop Nvidia, following pressure from President Trump, shattered norms for corporate governance. What comes next is unclear.",
+    "pubDate": "Tue, 24 Nov 2026 19:36:06 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
+    "url": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+    "description": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
+    "pubDate": "Tue, 24 Nov 2026 21:12:53 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Young New Yorkers Are Losing on Kalshi, City Council Says",
+    "url": "https://www.nytimes.com/2026/11/24/business/kalshi-nyc-council.html",
+    "description": "An investigation into prediction market companies found that 18- to 20-year-olds in New York City are losing money at a high rate.",
+    "pubDate": "Tue, 24 Nov 2026 10:04:07 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Top Aviation Officials Were Traveling When F.A.A.’s Nationwide Ground Stop Halted Flights",
+    "url": "https://www.nytimes.com/2026/11/24/business/l3harris-ground-stop-aviation.html",
+    "description": "Transportation administrators and some key executives for the contractor handling an equipment upgrade were in transit on Nov. 13, highlighting that Friday can be a bad day for something to go wrong.",
+    "pubDate": "Tue, 24 Nov 2026 14:10:03 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Phone Reservations Are Back at Restaurants. Humans May Not Be Included.",
+    "url": "https://www.nytimes.com/2026/11/24/dining/restaurant-reservations-phone-calls.html",
+    "description": "Against all odds, restaurants still get phone calls. A number of new services — some running on A.I. and some staffed by people — are vying for the chance to answer.",
+    "pubDate": "Tue, 24 Nov 2026 10:03:27 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "More (and More) Black Friday Travel Deals",
+    "url": "https://www.nytimes.com/2026/11/24/travel/black-friday-deals.html",
+    "description": "The bargains are plentiful this year, and they include deep discounts on resorts, cruises, safaris and more.",
+    "pubDate": "Tue, 24 Nov 2026 10:03:26 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Medicare Hospice Caps Leave Patients Without Care",
+    "url": "https://www.nytimes.com/2026/11/24/business/medicare-hospice-caps-patients-lose-care.html",
+    "description": "Critics say the payment limits to companies penalize patients who are not dying on the government’s timetable.",
+    "pubDate": "Tue, 24 Nov 2026 10:02:48 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "6 Craft Retreats Offer Knitting, Pottery and More for All Skill Levels",
+    "url": "https://www.nytimes.com/2026/11/24/travel/crafting-retreat-grandma-hobbies.html",
+    "description": "Interest in crafting hobbies, like knitting or pottery, isn’t new, but several factors in the wake of the pandemic have also made them appealing. Here are some suggestions for hands-on retreats.",
+    "pubDate": "Tue, 24 Nov 2026 15:37:35 +0000"
   },
   {
     "source": "NYT Business",
@@ -1704,6 +2154,16 @@
     "category": "economy",
     "paywalled": false,
     "unverified": false,
+    "title_en": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+    "url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+    "description": "The administration added Megaspeed to the entity list, a trade blacklist, after weeks of sparring among top officials on the decision.",
+    "pubDate": "Tue, 24 Nov 2026 14:17:40 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
     "title_en": "Jensen Huang Returns to Nvidia, Showing What Trump Will Do for AI",
     "url": "https://www.nytimes.com/2026/11/23/business/trump-jensen-huang-nvidia.html",
     "description": "President Trump intervened on behalf of the returning Nvidia chief in a bid to boost a key company driving the stock market. The company’s share price soared.",
@@ -1714,10 +2174,20 @@
     "category": "economy",
     "paywalled": false,
     "unverified": false,
+    "title_en": "Elon Musk Faces an A.I. Dilemma at SpaceX",
+    "url": "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html",
+    "description": "Mr. Musk’s SpaceX is renting out computing power from its data centers to competitors, including Anthropic. That’s making it harder for his own A.I. effort.",
+    "pubDate": "Mon, 23 Nov 2026 16:13:32 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
     "title_en": "Marcia Ann Gillespie, Editor in Chief of Essence and Ms., Has Died",
     "url": "https://www.nytimes.com/2026/11/23/business/media/marcia-ann-gillespie-dead.html",
     "description": "She became editor in chief of Essence at age 26, and later ran the feminist magazine Ms. She was 82.",
-    "pubDate": "Mon, 23 Nov 2026 14:55:36 +0000"
+    "pubDate": "Tue, 24 Nov 2026 21:45:21 +0000"
   },
   {
     "source": "NYT Business",
@@ -1747,67 +2217,7 @@
     "title_en": "Can Jensen Huang Return to Nvidia?",
     "url": "https://www.nytimes.com/2026/11/23/business/dealbook/jensen-huang-nvidia.html",
     "description": "Jensen Huang did just that. Nvidia’s co-founder has been reinstated as chief executive, a move that has stunned Wall Street and Washington.",
-    "pubDate": "Mon, 23 Nov 2026 18:38:32 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Two Major Cybersecurity Firms to Combine in $44 Billion Deal",
-    "url": "https://www.nytimes.com/2026/11/23/business/crowdstrike-zscaler-cybersecurity.html",
-    "description": "CrowdStrike agreed to acquire Zscaler, bulking up as worries about hacks fueled by advances in artificial intelligence bedevil companies and governments.",
-    "pubDate": "Mon, 23 Nov 2026 13:08:06 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Grocers Take Losses on Thanksgiving Meal Bundles to Draw Shoppers",
-    "url": "https://www.nytimes.com/2026/11/23/business/thanksgiving-grocery-prices.html",
-    "description": "While retailers like Walmart may profit from the deals because of their size, smaller grocer chains are feeling the squeeze.",
-    "pubDate": "Mon, 23 Nov 2026 10:03:47 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "CVS Health’s Planned Breakup Hasn’t Quieted Antitrust Critics",
-    "url": "https://www.nytimes.com/2026/11/23/business/cvs-pharmacy-health-federal-investigations-antitrust.html",
-    "description": "Lawmakers are warning that spinning off the health care conglomerate’s drugstores will not end scrutiny over its power.",
-    "pubDate": "Mon, 23 Nov 2026 10:03:26 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "5 New Mountain Hotels for Your Next Winter Escape",
-    "url": "https://www.nytimes.com/2026/11/23/travel/5-mountain-hotels-winter.html",
-    "description": "From Montana to Switzerland, here are getaways with cozy, elegant rooms, fireplaces, good food and plenty of snowy views.",
-    "pubDate": "Mon, 23 Nov 2026 10:00:42 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "In Vietnam, an Electric Vehicle Revolution Without Cars",
-    "url": "https://www.nytimes.com/2026/11/23/business/electric-motorcyles-vietnam.html",
-    "description": "An oil shock is speeding a transformation of Vietnam’s streets, challenging global motorcycle giants and lifting a new generation of domestic manufacturers.",
-    "pubDate": "Mon, 23 Nov 2026 13:18:42 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Built to Whisper, E.V.s Look to Mimic the Growl of Gas Engines",
-    "url": "https://www.nytimes.com/2026/11/23/business/evs-electric-engine-sounds.html",
-    "description": "With electric supercars from Lexus and Ferrari on the way, designers are hoping to help their cars stand out with a roar, while quieter city-bound cars try to be good neighbors.",
-    "pubDate": "Mon, 23 Nov 2026 05:01:09 +0000"
+    "pubDate": "Mon, 23 Nov 2026 18:38:33 +0000"
   },
   {
     "source": "NYT Business",
@@ -1817,47 +2227,7 @@
     "title_en": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO",
     "url": "https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html",
     "description": "The market had already started to bounce back from a sell-off last week. Then, the news that Nvidia reinstated its former chief executive sent shares soaring.",
-    "pubDate": "Mon, 23 Nov 2026 21:23:31 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Scott Bessent Calls on Nvidia to Provide Answers on Chip Sales to China",
-    "url": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html",
-    "description": "The treasury secretary said on CBS that it was too soon to say if Jensen Huang should return as the company’s chief executive.",
-    "pubDate": "Sun, 22 Nov 2026 17:55:31 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "‘Hunger Games’ Rebounds With $120 Million Opening for ‘Sunrise on the Reaping’ at Box Office",
-    "url": "https://www.nytimes.com/2026/11/22/business/media/hunger-games-box-office.html",
-    "description": "“The Hunger Games: Sunrise on the Reaping” had nearly three times the domestic opening box office total of its predecessor, extending a Lionsgate hot streak.",
-    "pubDate": "Sun, 22 Nov 2026 17:53:44 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Rather Than Sell Their House, They Became Landlords Instead",
-    "url": "https://www.nytimes.com/2026/11/22/business/mortgage-rates-housing-landlords.html",
-    "description": "Homeowners say the rental income helps them cover their mortgage payments, but they must also learn to handle needed repairs and confront bad tenants.",
-    "pubDate": "Sun, 22 Nov 2026 18:05:48 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "How to Plan for an A.I. Emergency, or Any Calamity",
-    "url": "https://www.nytimes.com/2026/11/21/business/ai-emergency-plan.html",
-    "description": "One person’s attempt to prepare for the unthinkable.",
-    "pubDate": "Mon, 23 Nov 2026 19:39:10 +0000"
+    "pubDate": "Tue, 24 Nov 2026 04:58:02 +0000"
   },
   {
     "source": "PBS Economy",
@@ -1874,9 +2244,9 @@
     "category": "economy",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Nvidia board unanimously reinstates Jensen Huang as CEO and chairman",
-    "url": "https://www.pbs.org/newshour/nation/nvidia-board-unanimously-reinstates-jensen-huang-as-ceo-and-chairman",
-    "description": "Trump, who has a close personal relationship with Huang, called for the reinstatement as recently as Sunday night and took credit for the board's decision in an interview Monday with CNBC.",
-    "pubDate": "Mon, 23 Nov 2026 09:10:52 -0500"
+    "title_en": "What Trump told PBS News about Jensen Huang before Nvidia reinstatement",
+    "url": "https://www.pbs.org/newshour/politics/what-trump-told-pbs-news-about-jensen-huang-before-nvidia-reinstatement",
+    "description": "In a phone call with PBS News shortly after 8 a.m. EST Monday, Trump did not deny that he had been briefed, saying he was \"not going to comment on anything having to do with that. You'll have to figure that out for yourself.\"",
+    "pubDate": "Mon, 23 Nov 2026 11:22:25 -0500"
   }
 ]
