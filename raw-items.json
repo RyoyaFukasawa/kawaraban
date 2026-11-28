@@ -50,154 +50,74 @@
     "pubDate": "Thu, 26 Nov 2026 16:00:00 +0000"
   },
   {
-    "source": "TechCrunch",
+    "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "S&#038;P considers Nvidia credit downgrade over governance and &#8216;key man&#8217; risks",
-    "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
-    "description": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
-    "pubDate": "Wed, 25 Nov 2026 22:44:32 +0000"
+    "title_en": "Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
+    "url": "https://www.cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html",
+    "description": "Jensen Huang's return sparked a fleeting AI rally, but persistent market volatility gave us another opportunity to put cash to work.",
+    "pubDate": "Fri, 27 Nov 2026 18:46:20 GMT"
   },
   {
-    "source": "TechCrunch",
+    "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "FCC approves SpaceX plan to put AI data centers in space",
-    "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
-    "description": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
-    "pubDate": "Wed, 25 Nov 2026 20:56:44 +0000"
+    "title_en": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
+    "url": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
+    "description": "AI shopping agents from OpenAI, Meta, Google and Instinct promise to help users shop, but they're hitting roadblocks at Amazon and other retailers.",
+    "pubDate": "Fri, 27 Nov 2026 16:43:14 GMT"
   },
   {
-    "source": "TechCrunch",
+    "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-    "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-    "description": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
-    "pubDate": "Wed, 25 Nov 2026 20:03:27 +0000"
+    "title_en": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
+    "url": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
+    "description": "AI stocks have fallen in recent times as investors question the sustainability of the AI boom.",
+    "pubDate": "Fri, 27 Nov 2026 12:00:22 GMT"
   },
   {
-    "source": "TechCrunch",
+    "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Jensen Huang broke Nvidia&#8217;s code of conduct, and his employees may not forget it",
-    "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-    "description": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
-    "pubDate": "Wed, 25 Nov 2026 19:54:57 +0000"
+    "title_en": "Tech rally lifts stock futures to wrap up a volatile week of trading",
+    "url": "https://www.cnbc.com/2026/11/27/tech-rally-lifts-stock-futures-to-wrap-up-a-volatile-week-of-trading.html",
+    "description": "President Trump demands a probe into the GDP revision data.",
+    "pubDate": "Fri, 27 Nov 2026 11:55:41 GMT"
   },
   {
-    "source": "TechCrunch",
+    "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
-    "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
-    "description": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
-    "pubDate": "Wed, 25 Nov 2026 19:54:32 +0000"
+    "title_en": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
+    "url": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html",
+    "description": "Chinese stocks rebounded sharply after a rare intraday state media readout cheered investors as top policymakers pledged market liquidity support.",
+    "pubDate": "Fri, 27 Nov 2026 10:13:44 GMT"
   },
   {
-    "source": "TechCrunch",
+    "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-    "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-    "description": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
-    "pubDate": "Wed, 25 Nov 2026 19:44:24 +0000"
+    "title_en": "German software firm SAP is reportedly cutting at least 10,000 jobs in AI push",
+    "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
+    "description": "SAP is reportedly considering cutting 10,000 jobs as it reshapes its software business around AI.",
+    "pubDate": "Fri, 27 Nov 2026 14:52:40 GMT"
   },
   {
-    "source": "TechCrunch",
+    "source": "CNBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "1Password said hackers broke into its internal systems, but customer passwords are safe",
-    "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
-    "description": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
-    "pubDate": "Wed, 25 Nov 2026 18:49:52 +0000"
-  },
-  {
-    "source": "TechCrunch",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Want to buy your kid an AI toy this Christmas? Not in New York",
-    "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-    "description": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
-    "pubDate": "Wed, 25 Nov 2026 18:11:46 +0000"
-  },
-  {
-    "source": "TechCrunch",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
-    "url": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
-    "description": "U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.",
-    "pubDate": "Wed, 25 Nov 2026 17:36:51 +0000"
-  },
-  {
-    "source": "TechCrunch",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-    "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-    "description": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
-    "pubDate": "Wed, 25 Nov 2026 17:35:58 +0000"
-  },
-  {
-    "source": "TechCrunch",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "X’s latest update for creators focuses on vertical video",
-    "url": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
-    "description": "As short-form video ramps up in popularity, X's new creation tools are part of its effort to compete with YouTube and Instagram.",
-    "pubDate": "Wed, 25 Nov 2026 17:28:29 +0000"
-  },
-  {
-    "source": "TechCrunch",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "WhatsApp now lets you schedule messages in group and individual chats",
-    "url": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/",
-    "description": "Users can schedule messages from 10 minutes later to after 14 days.",
-    "pubDate": "Wed, 25 Nov 2026 16:57:51 +0000"
-  },
-  {
-    "source": "TechCrunch",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Allstate suffers multiday tech outage ahead of Thanksgiving",
-    "url": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
-    "description": "The disruption comes at a particularly bad time for the insurance giant, as millions of Americans prepare to travel for the Thanksgiving holiday weekend.",
-    "pubDate": "Wed, 25 Nov 2026 15:08:37 +0000"
-  },
-  {
-    "source": "TechCrunch",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Todoist confirms 6% of customers&#8217; details were stolen in data breach",
-    "url": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
-    "description": "Todoist said a hacker gained access to its production systems and stole customer data, including email IDs, password hashes, and account creation dates.",
-    "pubDate": "Wed, 25 Nov 2026 14:20:28 +0000"
-  },
-  {
-    "source": "TechCrunch",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-    "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-    "description": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
-    "pubDate": "Wed, 25 Nov 2026 14:10:18 +0000"
+    "title_en": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+    "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+    "description": "SpaceX shares jumped in trading Friday after Elon Musk said on X that he would donate shares to American children every year.",
+    "pubDate": "Fri, 27 Nov 2026 18:24:06 GMT"
   },
   {
     "source": "CNBC Technology",
@@ -210,174 +130,14 @@
     "pubDate": "Thu, 26 Nov 2026 17:04:54 GMT"
   },
   {
-    "source": "CNBC Technology",
+    "source": "BBC Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Latin America has the copper and energy the AI build-out needs. Infrastructure is the test",
-    "url": "https://www.cnbc.com/2026/11/26/latin-america-copper-energy-ai-investment.html",
-    "description": "Latin America’s copper, oil, gas and rare earths could benefit from rising AI energy demand, if infrastructure and fiscal policy attract investment.",
-    "pubDate": "Thu, 26 Nov 2026 08:59:11 GMT"
-  },
-  {
-    "source": "CNBC Technology",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Taking on Starlink: Europe’s largest satellite factory opens in push to rival Musk",
-    "url": "https://www.cnbc.com/2026/11/26/starlink-satellites-aerospacelab-factory-belgium.html",
-    "description": "The 20,000-square-meter mega factory will be able to produce up to 500 satellites annually, making it the world's third-largest satellite production site.",
-    "pubDate": "Thu, 26 Nov 2026 07:45:05 GMT"
-  },
-  {
-    "source": "CNBC Technology",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
-    "url": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
-    "description": "Xpeng Co-President Brian Gu shared his humanoid robot predictions with CNBC in an interview Thursday.",
-    "pubDate": "Thu, 26 Nov 2026 07:30:11 GMT"
-  },
-  {
-    "source": "CNBC Technology",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
-    "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
-    "description": "S&P Global Ratings said Nvidia's credit rating could be cut by one notch as it flagged \"rising\" management and governance risk at the chipmaker.",
-    "pubDate": "Thu, 26 Nov 2026 03:19:44 GMT"
-  },
-  {
-    "source": "CNBC Technology",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
-    "url": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
-    "description": "Denny's reaffirmed its longstanding ties with Jensen Huang following his return as Nvidia CEO, revealing that a plaque had been restored.",
-    "pubDate": "Thu, 26 Nov 2026 03:13:43 GMT"
-  },
-  {
-    "source": "CNBC Technology",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
-    "url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
-    "description": "The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said.",
-    "pubDate": "Thu, 26 Nov 2026 05:36:01 GMT"
-  },
-  {
-    "source": "CNBC Technology",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
-    "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-    "description": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
-    "pubDate": "Thu, 26 Nov 2026 12:22:25 GMT"
-  },
-  {
-    "source": "CNBC Technology",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Vance says he was assured Jensen Huang was not under DOJ investigation",
-    "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
-    "description": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
-    "pubDate": "Wed, 25 Nov 2026 21:00:08 GMT"
-  },
-  {
-    "source": "CNBC Technology",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
-    "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
-    "description": "SpaceX said it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would match it.",
-    "pubDate": "Thu, 26 Nov 2026 06:39:34 GMT"
-  },
-  {
-    "source": "CNBC Technology",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
-    "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
-    "description": "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups.",
-    "pubDate": "Thu, 26 Nov 2026 02:35:39 GMT"
-  },
-  {
-    "source": "CNBC Technology",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
-    "url": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html",
-    "description": "Abdulrahman Alfozan, a former OpenAI engineer, is expected to be fitted with an ankle monitor, his attorney, David Rizk, previously told CNBC.",
-    "pubDate": "Wed, 25 Nov 2026 19:11:53 GMT"
-  },
-  {
-    "source": "CNBC Technology",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC",
-    "url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
-    "description": "Nvidia GPU sellers are seeking new buyers after new U.S. rules tightened remote access to advanced AI chips for China-linked customers",
-    "pubDate": "Wed, 25 Nov 2026 17:28:24 GMT"
-  },
-  {
-    "source": "CNBC Technology",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Tech stocks sink but close well off the lows, Anthropic struggles to rebound above IPO price",
-    "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
-    "description": "Nvidia and other AI-linked stocks fell as investors weighed AI spending, inflation and higher-rate risks.",
-    "pubDate": "Wed, 25 Nov 2026 21:04:57 GMT"
-  },
-  {
-    "source": "CNBC Technology",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Trump open to pardoning Jensen Huang if needed: NY Post",
-    "url": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
-    "description": "Trump said he would be willing to pardon Jensen Huang if needed and argued that the Nvidia CEO should not have to invoke the Fifth Amendment before Congress.",
-    "pubDate": "Wed, 25 Nov 2026 14:32:09 GMT"
-  },
-  {
-    "source": "CNBC Technology",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
-    "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
-    "description": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
-    "pubDate": "Wed, 25 Nov 2026 14:29:00 GMT"
-  },
-  {
-    "source": "CNBC Technology",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
-    "url": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
-    "description": "Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI's headquarters.",
-    "pubDate": "Wed, 25 Nov 2026 15:55:40 GMT"
-  },
-  {
-    "source": "CNBC Technology",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-    "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-    "description": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
-    "pubDate": "Wed, 25 Nov 2026 14:29:50 GMT"
+    "title_en": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+    "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
+    "description": "With an official PC version potentially still months away, fans are getting impatient.",
+    "pubDate": "Sat, 28 Nov 2026 01:30:50 GMT"
   },
   {
     "source": "BBC Technology",
@@ -404,40 +164,40 @@
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Musk's plan to send a million SpaceX data satellites into space approved",
-    "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
-    "description": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
-    "pubDate": "Thu, 26 Nov 2026 09:27:44 GMT"
+    "title_en": "Tech Now",
+    "url": "https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss",
+    "description": "Ammie Sekhon looks at robotics that could one day help spacecraft act independently.",
+    "pubDate": "Sat, 28 Nov 2026 01:00:00 GMT"
   },
   {
     "source": "NPR Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
-    "url": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space",
-    "description": "The Trump administration gave Elon Musk's SpaceX the green light to deploy 1 million satellites that it said would create data centers in space, a move that has raised skepticism among scientists.",
-    "pubDate": "Thu, 26 Nov 2026 01:53:09 -0500"
-  },
-  {
-    "source": "NPR Technology",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "How to talk AI around the Thanksgiving table",
-    "url": "https://www.npr.org/2026/11/25/nx-s1-6053216/how-to-talk-ai-around-the-thanksgiving-table",
-    "description": "You're gathered with family this Thanksgiving when the topic of AI comes up. How can you have a productive, fact-based conversation?",
-    "pubDate": "Wed, 25 Nov 2026 16:33:59 -0500"
+    "title_en": "Screen-free tweens try their hand at Dungeons & Dragons",
+    "url": "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons",
+    "description": "Some parents, fed up with screens, have found an analog oasis in the role-playing game invented in the 1970s.",
+    "pubDate": "Fri, 27 Nov 2026 05:00:00 -0500"
   },
   {
     "source": "NYT Technology",
     "category": "technology",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Anthropic’s Stock Debut Could Hurt Tech Start-Ups",
-    "url": "https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html",
-    "description": "As the share price drops, it could act as a brake on Silicon Valley’s frenzied investing in younger companies.",
-    "pubDate": "Wed, 25 Nov 2026 21:30:58 +0000"
+    "title_en": "How A.I. Is Transforming Mathematics",
+    "url": "https://www.nytimes.com/2026/11/27/podcasts/hardfork-terence-tao.html",
+    "description": "“One thing that A.I. has done is that it’s given us answers without insight, without understanding.”",
+    "pubDate": "Fri, 27 Nov 2026 11:00:20 +0000"
+  },
+  {
+    "source": "NYT Technology",
+    "category": "technology",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Why Some A.I. Evangelists Aren’t Bothered by the Potential for Human Extinction",
+    "url": "https://www.nytimes.com/2026/11/27/magazine/ai-silicon-valley-human-extinction.html",
+    "description": "Understanding the set of beliefs that drives the Silicon Valley vanguard.",
+    "pubDate": "Fri, 27 Nov 2026 10:01:01 +0000"
   },
   {
     "source": "NYT Technology",
@@ -446,8 +206,8 @@
     "unverified": false,
     "title_en": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
     "url": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
-    "description": "The chain said it had restored a plaque honoring Mr. Huang above a booth in San Jose, Calif., after he was reinstated at Nvidia, the company he is said to have co-founded while eating there.",
-    "pubDate": "Thu, 26 Nov 2026 21:25:16 +0000"
+    "description": "The chain said it had restored a plaque honoring Mr. Huang above a booth in San Jose, Calif., where he is said to have developed the idea for Nvidia.",
+    "pubDate": "Fri, 27 Nov 2026 10:17:23 +0000"
   },
   {
     "source": "NYT Technology",
@@ -457,257 +217,217 @@
     "title_en": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
     "url": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
     "description": "The shipping halt, which hit four countries, follows a new U.S. rule that would require licenses for companies in the countries to buy advanced A.I. chips.",
-    "pubDate": "Thu, 26 Nov 2026 12:04:01 +0000"
-  },
-  {
-    "source": "NYT Technology",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "A Man in Denver Has Been Throwing Eggs at Waymo Vehicles",
-    "url": "https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html",
-    "description": "The man, who drove a Toyota Corolla from a fleet leased to Lyft drivers, used orange cones to trap the self-driving vehicles before pelting them with eggs, the police said. No charges have been filed.",
-    "pubDate": "Wed, 25 Nov 2026 21:36:35 +0000"
-  },
-  {
-    "source": "NYT Technology",
-    "category": "technology",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "How to Talk to Your Family About A.I. Doom at Thanksgiving",
-    "url": "https://www.nytimes.com/2026/11/25/technology/thanksgiving-ai-doom-family.html",
-    "description": "For people steeped in the world of artificial intelligence, the topic could be a minefield at this year’s dinner.",
-    "pubDate": "Wed, 25 Nov 2026 22:44:56 +0000"
+    "pubDate": "Fri, 27 Nov 2026 02:45:41 +0000"
   },
   {
     "source": "Hugging Face",
     "category": "ai",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-    "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "title_en": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "url": "https://huggingface.co/blog/video-trainium3",
     "description": "",
-    "pubDate": "Thu, 26 Nov 2026 11:37:17 GMT"
-  },
-  {
-    "source": "Hugging Face",
-    "category": "ai",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-    "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-    "description": "",
-    "pubDate": "Thu, 26 Nov 2026 05:05:36 GMT"
-  },
-  {
-    "source": "Hugging Face",
-    "category": "ai",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-    "url": "https://huggingface.co/blog/training-swarms",
-    "description": "",
-    "pubDate": "Thu, 26 Nov 2026 00:00:00 GMT"
-  },
-  {
-    "source": "Hugging Face",
-    "category": "ai",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Where scientists draw the line on AI agents",
-    "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-    "description": "",
-    "pubDate": "Wed, 25 Nov 2026 18:52:55 GMT"
-  },
-  {
-    "source": "IEEE Spectrum Robotics",
-    "category": "robotics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "How DARPA Challenged Teams to Bring Robots Into Disaster Triage",
-    "url": "https://spectrum.ieee.org/darpa-triage-challenge-final-robots",
-    "description": "On 5 November, 10 teams descended upon a 52-acre mock town in College Station, Texas called Disaster City . They were there for a nine-day competition to see how well teams of robots and humans could navigate simulated catastrophes, like a market ravaged by a tornado and a nighttime strike on a military base. At stake? US $2.5 million in prize money. The scenarios were the final of the DARPA Triage Challenge , which the U.S. agency has been running for three years with the goal of saving more lives in urgent mass casualty events. Engineers from academia and industry have competed in elaborately staged mass casualty events , such as simulated combat zones and plane crash scenes. Teams spent years designing systems where autonomous ground robots and drones could help first responders find mock victims and decide the best way to care for them. “Triage is all about resources,” says Jeremy Pamplin , who managed the challenge for DARPA. Pamplin is a critical care physician and retired colonel who spent 28 years in the U.S. Army. In mass casualty events, medics race to assess trauma with finite resources and limited time. Some victims need urgent help that medics can provide immediately, like tourniquets to halt bleeding. Some need evacuation and surgery. Others don’t need immediate help—either because their wounds are minimal enough, or because they’re so severe that a medic’s attention is better served elsewhere. Medics must prioritize who gets what care, but the line between each of these scenarios can be murky amid the rubble, frenzy, and heat of the moment. It’s a difficult problem, and so the technologies developed in this competition could help real-world decisionmaking, says Gabriela Garcia Dolagaray , assistant medical director for emergency preparedness at Massachusetts General Hospital and the Brigham and Women’s Hospital in Boston. “Finding people can sometimes just be dangerous,” she says, “and getting a robust number of people to go out and search in a disaster area will take time.” Trauma Technologies and the DARPA Triage Challenge The Triage Challenge is the latest in a long DARPA legacy of running grand challenges to incentivize proof-of-concept development of important technologies. This particular challenge began as a program to quickly detect signs of trauma. DARPA imagined not only that drones and robots could find casualties, but that machine learning algorithms could assist in triage—which, at its core, is the process of assessing injuries and prioritizing care in a medical emergency. Pamplin took over the competition in May 2025. “I have friends that still wake up in the middle of the night with these types of recollections and wondering if they did the right thing in the moment during a mass casualty incident,” Pamplin says. “That moves me. I would very much like to eliminate that uncertainty for them to the extent possible with this type of technology.” He used his experience to make the competition increasingly elaborate and realistic. Year one featured a simulated convoy attack, and human participants sat in protective enclosures to avoid incidental run-ins with robots. In year two, when Pamplin took over the challenge, his team incorporated a full-size airplane fuselage to simulate a plane crash with dozens of victims. Organizers learned to recreate the physical environment of a disaster, and also the physical signs of injuries, like warm blood. Pamplin’s team visited a slaughterhouse with thermal cameras to study the temperature of blood spilling onto the ground. In the competition, they mimic that effect by heating water in a coffee pot and pouring it beside the body. This lets teams detect bleeding even at night. A man performs a simulated triage as part of DARPA’s Triage Challenge finals. The program was designed to see how robots could assist in making triage decisions during an emergency. Paul Flacks/DARPA “They always are throwing additional challenging things at us that you wouldn’t expect,” says Sam Colachis , a biomedical engineer at Battelle, an applied science and technology nonprofit in Columbus Ohio who led the organization’s DART team —short for “Drone-Assisted Rapid Triage”—in the competition. The tactics required for successful triage are inherently multidisciplinary, says Derek Paley , a professor of aerospace engineering leading the University of Maryland’s team, RoboScout . Before 2022, Paley felt confident in his lab’s skills with autonomous navigation and algorithms, but he knew little about trauma medicine. “I didn’t even know what triage was,” he says. Paley recruited colleagues in emergency medicine to help design his team’s approach and shape their tech. Before the Triage Challenge began, they felt like an underdog. “We kind of have a chip on our shoulder because we think we can play on the same field as these other teams…who’ve done grand challenges before,” Paley told Spectrum before the competition. They finished third in the first year of competition and second last year. Each year’s competition began with four smaller trials that tested specific components of a robotic system. Teams first released their robots to locate as many casualties (a mix of live actors and manikins ) as possible in 15 minutes. Next, they spent five minutes triaging injuries. Another trial presented teams with a fixed number of casualties in known locations to test how they assess trauma. Then, teams had ten minutes to collect vitals like pulse and breathing rate remotely from a few meters away. The top four teams moved into a semi-final where their robots worked with two human medics in simulated emergencies. And the two teams who performed best in four human-machine runs then moved to a 25-minute championship run. Robots, Drones, and Autonomous Triage When the teams arrived at Disaster City, they knew very little about the details of what awaited them. One self-funded team of college students from Delhi Technological University flew from India with 22 checked bags, each containing disembodied drones and wheeled robots they had handbuilt. Their team, Unmanned Aerial Systems , learned in the two prior years of the contest to simply expect the unexpected—from DARPA and their own systems. Upon arrival this year, they unzipped their luggage to find broken motors and chassis, camera parts, and missing screws. “We’re still trying to assemble everything before the competition,” Nishant Chandna calmly told IEEE Spectrum a couple days before the challenge. “It’s just part of it.” Most teams in the challenge designed systems with a mix of ground robots and aerial drones. The student team from India built drones and wheeled robots to search for mock victims with onboard cameras and lidar. But wheeled robots are problematic. They are more stable, cheaper, and easier to control than legged robots, but they struggle with stairs, entryways, and rough terrain littered with rubble. “We really needed a platform that could traverse those obstacles pretty easily,” says Eric Eaton , a machine learning scientist who led the University of Pennsylvania’s team, which began with drones and wheeled robots before expanding their fleet with four-legged Spot robots from Boston Dynamics that make it up stairs. Paley’s RoboScout team opted for a strategy that involved sensing the scene from the ground. Their “dogs,” which were also Spot robots, listen for screaming victims, and help in one of the most difficult challenges in autonomous triage: quickly sensing vitals from with thermal cameras and radar. Millimeter-wave radar can detect the subtle movement of a pulse, and thermal cameras can measure breathing rates based on how breathing changes the temperature around a mouth and nose. Battelle’s team had relied entirely on drones, even for measuring vital signs. Colachis says his team fuses inputs from multiple sensors including thermal, radar, and visual to calculate vitals. The team became almost notorious for their commitment to drones. “They keep threatening to bring a ground robot,” says RoboScout’s Paley, “but they always show up with drones.” For the first two years of the competition, it worked—Battelle won the first two rounds of the competition. Members of the University of Maryland’s RoboScout team (on right) celebrate a successful run during the DARPA Triage Challenge finals. Paul Flacks/DARPA RoboScout Wins DARPA Triage Grand Prize During the final, organizers cast more than 500 actors to simulate casualties throughout the week. DARPA chose these actors to make obstacles like sensing vitals more realistic than previous years. Some were college students instructed to increase their heart and breathing rate on exercise bikes to simulate shock. Endurance athletes were instructed to lower their heart rates, simulating other injuries like airway failures. In the military base simulation, soldiers were running around a compound with alarms blaring. “Some of the explosions caused some of the medics to actually react to it,” Pamplin says, and “pull people to the ground so they didn’t get hit.” Battelle did finally show up with a ground robot to help with measuring vitals remotely. But this time, the twice-champ finished second. The winner of DARPA’s Triage Challenge grand prize was the RoboScout team from the University of Maryland. The grand prize earned them $1.5 million. After a perilous start slowed by software errors relating to the competition’s timer and Wi-Fi RoboScout rallied back through the final human-machine teaming portion. “We got hot at the right time,” Paley says. “It was pretty surreal.” Other teams performed well despite having to improvise through engineering hiccups. Carnegie Mellon’s team, Chiron, struggled with a GPS error. After fixing it, they raced back and nearly made the final. The student team from Delhi didn’t meet a threshold for autonomous control in the competition, but they did earn the highest score in one sub-competition, winning $300,000. “It’s an incredibly exciting challenge,” says Peter Fischer, trauma medical director with Washington Regional Medical Center in Fayetteville, Arkansas. “We struggle, especially with mass casualty incidents, in determining who the sickest patients are. In trauma, especially, you have to make sure that you triage these patients appropriately, so the sickest ones not only get the care the fastest, but get to the right place at the right time.” Fischer was intrigued by a non-robotic branch of the competition, where two new teams excelled in predicting urgent care with the help of AI agents. He imagines these advances in robotics and algorithms could connect with additional data from hospitals. Triage algorithms could suggest where to take them to avoid overloading specific hospitals, he says, “That’s where we can really start to make a big difference.” Although the competition has ended, the work continues. Several participants told IEEE Spectrum they plan to bring their teams’ AI algorithms elsewhere, such as hospital trauma bays, regional medical emergencies, and chemical weapon response. For his part, DARPA’s Pamplin was most eager to compare performance to human medics without robots. A human-only team located 50 percent of casualties on average in daytime simulations; when paired with medics on one run of the same course, Maryland’s robots found every one. “That was the first time we’ve ever seen that,” he says. In the championship run, humans provided life-saving interventions to 25 percent of the mock casualties who needed them—RoboScout treated 74 percent. “That’s a couple lives,” Pamplin says. “That’s a couple humans that didn’t die that day.”",
-    "pubDate": "Wed, 25 Nov 2026 15:00:03 +0000"
+    "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT"
   },
   {
     "source": "The Robot Report",
     "category": "robotics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "How Vention is cutting factory programming from weeks to minutes",
-    "url": "https://www.therobotreport.com/how-vention-is-cutting-factory-programming-from-weeks-to-minutes/",
-    "description": "Etienne Lacroix explains why AI deployment—not just better models—will define the future of industrial automation. The post How Vention is cutting factory programming from weeks to minutes appeared first on The Robot Report .",
-    "pubDate": "Wed, 25 Nov 2026 18:24:42 +0000"
-  },
-  {
-    "source": "The Robot Report",
-    "category": "robotics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "FCC should focus on robot security, not country of origin",
-    "url": "https://www.therobotreport.com/fcc-should-focus-on-robot-security-not-country-of-origin/",
-    "description": "Where a robot was assembled tells you little about who controls it once it's deployed, writes Brain Corp CEO David Pinn. The post FCC should focus on robot security, not country of origin appeared first on The Robot Report .",
-    "pubDate": "Wed, 25 Nov 2026 17:00:07 +0000"
+    "title_en": "GXO doubling down on robotics in 2027",
+    "url": "https://www.therobotreport.com/gxo-doubling-down-on-robotics-in-2027/",
+    "description": "GXO didn't disclose which providers it would increase deployments with, but let's take a look at the existing technologies in its portfolio. The post GXO doubling down on robotics in 2027 appeared first on The Robot Report .",
+    "pubDate": "Fri, 27 Nov 2026 13:56:43 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Trump signals further openness to working with Democrats on healthcare",
-    "url": "https://thehill.com/homenews/administration/6245011-trump-democrats-healthcare-bipartisanship/",
-    "description": "President Trump signaled an increased openness to working with Democrats on healthcare after the party’s sweeping victories in the midterms, taking control of the House and Senate. “I have a feeling we’re going to end up with a very bipartisan relationship with the Democrats,” Trump told reporters Thursday while at Mar-a-Lago. “I hope so, where...",
-    "pubDate": "Fri, 27 Nov 2026 00:33:50 +0000"
+    "title_en": "Dean says &#039;Pennsylvania deserves better&#039; as she mulls challenging Fetterman",
+    "url": "https://thehill.com/homenews/house/6245814-madeleine-dean-senate-bid-fetterman/",
+    "description": "Rep. Madeleine Dean (D-Pa.) said she believed “Pennsylvania deserves better” amid speculation that she may launch a Senate bid in 2028 for Sen. John Fetterman's (D-Pa.) seat. She stated Sunday on NBC’s “Meet the Press” that she was taking her time to “seriously consider” the possibility of running. “I've known John a long time, and...",
+    "pubDate": "Sat, 28 Nov 2026 01:27:03 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "El-Sayed shares how to navigate &#039;spicier&#039; Thanksgiving conversations",
-    "url": "https://thehill.com/homenews/senate/6244988-el-sayed-thanksgiving-advice/",
-    "description": "Sen.-elect Abdul El-Sayed (D-Mich.) shared a video to social media Wednesday on how to navigate “spicier” Thanksgiving conversations. “Hey friends, I know Thursday is Thanksgiving, and it’s an opportunity to come together and break bread with people with whom you might not have had a lot of conversations in the past,” he said in the...",
-    "pubDate": "Thu, 26 Nov 2026 23:45:44 +0000"
+    "title_en": "Mamdani recovering after &#039;successful&#039; Achilles surgery",
+    "url": "https://thehill.com/homenews/state-watch/6245795-nyc-mayor-achilles-surgery-success/",
+    "description": "New York City Mayor Zohran Mamdani is recovering at Gracie Mansion—the mayor's official residence—following a “successful” surgery on his injured Achilles, which was caused by a recreational soccer game earlier this month. “Today, Mayor Zohran Kwame Mamdani underwent a surgical procedure to repair his Achilles tendon,” Joe Calvello, Mamdani’s press secretary, said in a statement. ...",
+    "pubDate": "Sat, 28 Nov 2026 00:33:21 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Mexican leader rebukes US over DEA tip line, claims &#039;interference&#039;",
-    "url": "https://thehill.com/policy/international/6244966-sheinbaum-rebukes-dea-tip-line/",
-    "description": "Mexican President Claudia Sheinbaum rebuked U.S. Drug Enforcement Administration (DEA) officials over its tip line, claiming it interfered with her country’s work. “The DEA has plenty of work to do in its own country. A lot,” Sheinbaum stated, according to The Associated Press. “The first thing it should do is investigate corruption in the United...",
-    "pubDate": "Thu, 26 Nov 2026 22:58:54 +0000"
+    "title_en": "15 hospitalized in potential Thanksgiving food poisoning at Florida medical center",
+    "url": "https://thehill.com/homenews/state-watch/6245776-leon-medical-center-food-poisoning/",
+    "description": "Fifteen people were hospitalized due to possible food poisoning from Leon Medical Center headquarters' Thanksgiving event, according to Miami-Dade Fire Rescue officials. Miami-Dade Fire Rescue told a local NBC affiliate that crews responded to reports of potential food poisoning before the call was shifted to a Level 1 mass casualty incident. The agency continued that...",
+    "pubDate": "Fri, 27 Nov 2026 23:47:03 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Petition to oust US ambassador reaches Canadian Parliament",
-    "url": "https://thehill.com/homenews/administration/6244968-petition-expel-us-ambassador-hoekstra/",
-    "description": "A petition signed by nearly 290,000 Canadians calling on Prime Minister Mark Carney’s government to expel U.S. Ambassador Pete Hoekstra was formally presented to Canada’s House of Commons on Thursday. Canadian Green Party leader Elizabeth May introduced the nonbinding petition, which urged the government to declare President Trump’s ambassador “persona non grata” and revoke his...",
-    "pubDate": "Thu, 26 Nov 2026 22:55:57 +0000"
+    "title_en": "Meta whistleblower says gag order reminiscent of &#039;1984&#039;",
+    "url": "https://thehill.com/policy/technology/6245761-sarah-wynn-williams-meta-gag-order/",
+    "description": "Sarah Wynn-Williams, a former Facebook employee whose book warned about the company’s power, said a gag order preventing her from speaking about the tech giant was akin to the reality in George Orwell’s “1984” novel. “Control what people are allowed to remember or what they are allowed to know, and you control what they are...",
+    "pubDate": "Fri, 27 Nov 2026 23:08:04 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Thanksgiving storms ground DC flights, knock out power for more than 850K",
-    "url": "https://thehill.com/policy/energy-environment/6244928-thanksgiving-storm-flight-delays-power-outages/",
-    "description": "A powerful coastal storm disrupted Thanksgiving travel in the Washington, D.C., area on Thursday as heavy rain and winds stopped flights at Ronald Reagan Washington National Airport (DCA). Along the East Coast, hundreds and thousands of homes and businesses lost power, along with more in the Midwest. The Federal Aviation Administration (FAA) issued a ground...",
-    "pubDate": "Thu, 26 Nov 2026 22:01:20 +0000"
+    "title_en": "Employees at GTA 6 developer Rockstar Games reject union",
+    "url": "https://thehill.com/blogs/in-the-know/6245743-rockstar-employees-reject-union/",
+    "description": "Employees at Rockstar Games, the developer behind “Grand Theft Auto VI,” overwhelmingly voted against recognizing a union this week. In a Thursday vote, 75.3 percent of employees, or 1,163 team members, voted against recognizing the Rockstar Game Workers Union with the Independent Workers of Great Britain (IWGB), while 24.7 percent, or 381 members, voted in...",
+    "pubDate": "Fri, 27 Nov 2026 22:56:41 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Democrats’ plan to end funding for Iran war leaves open what comes next",
-    "url": "https://thehill.com/policy/international/6243997-democrats-seek-end-iran-war-questions/",
-    "description": "One of the top priorities for the incoming Democratic majorities is cutting off funding for the U.S. war with Iran, which was launched by President Trump nine months ago with no input from Congress. What happens after that — and whether Democrats can force Trump to end the war without jeopardizing U.S. forces in the...",
-    "pubDate": "Thu, 26 Nov 2026 22:00:00 +0000"
+    "title_en": "Russian sabotage spikes in Europe, including &#039;risk of mass-casualty incident&#039;: Analysis",
+    "url": "https://thehill.com/policy/international/6245694-russian-sabotage-ukraine-war-zelensky-trump-putin-friend/",
+    "description": "Incidents of sabotage blamed on Russia in Europe were up 16 percent year-over-year in September, according to a new report, which warns about the potential for a future “mass-casualty” event by Moscow. The report from the International Institute for Strategic Studies (IISS) said the Kremlin's “unconventional war” on Europe has included attacks on critical infrastructure...",
+    "pubDate": "Fri, 27 Nov 2026 22:39:50 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Emmer: GOP should have said it wasn&#039;t &#039;realistic&#039; to fix economy in 2 years",
-    "url": "https://thehill.com/homenews/house/6244906-tom-emmer-republicans-economy-messaging/",
-    "description": "House Majority Whip Tom Emmer (R-Minn.) said Republicans should have spent the past two years tempering voters’ expectations about how quickly President Trump could turn the economy around, acknowledging that the party ceded the issue of affordability to Democrats ahead of its bruising midterm losses. “We need to take responsibility for our messaging. We did...",
-    "pubDate": "Thu, 26 Nov 2026 20:50:40 +0000"
+    "title_en": "&#039;SNL&#039; caregiving sketch gives new momentum to bipartisan push in Congress",
+    "url": "https://thehill.com/homenews/6243704-snl-skit-boosts-caregiver-legislation/",
+    "description": "A legislative push to support people who provide out-of-pocket care for their aging parents got a boost from a viral “Saturday Night Live” (\"SNL\") sketch that sparked renewed conversation about the reality of gender disparities in unpaid caregiving networks. The comedy sketch “Sister” drew laughter when it aired Nov. 14, but its truth has...",
+    "pubDate": "Fri, 27 Nov 2026 22:00:00 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Musk pledges 2 SpaceX shares per American child",
-    "url": "https://thehill.com/policy/technology/6244857-elon-musk-pledges-spacex-shares-to-american-children/",
-    "description": "SpaceX and its CEO Elon Musk announced Wednesday that they would each donate a share of the aerospace company’s stock to every American child with an active “Trump Account” — doubling a pledge the billionaire made last month. The company said in a statement it would issue new shares of its Class A common stock...",
-    "pubDate": "Thu, 26 Nov 2026 20:01:29 +0000"
+    "title_en": "Prince William responds after the Diana Award says it can&#039;t meet financial obligations",
+    "url": "https://thehill.com/blogs/in-the-know/6245656-prince-william-diana-award-administration/",
+    "description": "Prince William praised the impact of the Diana Award on Thursday after the charity named for his late mother announced it could no longer meet its financial obligations. \"The Diana Award has recognised and encouraged thousands of young people who are changing the world for the better,\" the Prince of Wales told ABC News. \"I...",
+    "pubDate": "Fri, 27 Nov 2026 21:32:21 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Trump unloads on critics in wide-ranging Thanksgiving Day rant",
-    "url": "https://thehill.com/homenews/administration/6244831-trump-thanksgiving-message-critics-gdp-somali-community/",
-    "description": "President Trump marked Thanksgiving Day with a lengthy rant on social media in which he lashed out at his political opponents, accused federal officials of releasing “fake” economic numbers and called for the mass expulsion of Somalis from the U.S. In a grievance-filled post on Truth Social, the president began by wishing Americans a happy...",
-    "pubDate": "Thu, 26 Nov 2026 19:42:46 +0000"
+    "title_en": "Weather delay will cost $700,000 for Hawaii All-Star band performing at Macy&#039;s Thanksgiving Day parade",
+    "url": "https://thehill.com/homenews/state-watch/6245658-macys-thanksgiving-day-parade-weather-delay-hawaii-band/",
+    "description": "A Hawaii-based all-star band and hula halau face significant costs and logistical challenges after the centennial Macy's Thanksgiving Day parade was postponed to Saturday due to severe weather.",
+    "pubDate": "Fri, 27 Nov 2026 21:16:41 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Thanksgiving has a bumpy history",
-    "url": "https://thehill.com/opinion/congress-blog/6239022-thanksgiving-partisan-politics-evolution/",
-    "description": "The history of the American Thanksgiving holiday has evolved from early colonial feasts and Revolutionary War era proclamations to modern debates over its religious nature and official date.",
-    "pubDate": "Thu, 26 Nov 2026 19:00:00 +0000"
+    "title_en": "Ontario&#039;s Doug Ford calls for US-style self-defense laws after violent home invasions",
+    "url": "https://thehill.com/policy/international/6245638-ontario-doug-ford-self-defense-toronto-home-invasions/",
+    "description": "Ontario Premier Doug Ford said Friday that Canada should adopt laws that further protect the right to self-defense after a 39-year-old musician was fatally shot during a home invasion Wednesday in Toronto. “Standing up to home invaders shouldn’t be a crime,” Ford wrote on social platform X. “That’s why we’re calling on the federal government...",
+    "pubDate": "Fri, 27 Nov 2026 21:12:06 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Zeldin: No airborne lead detected in Iowa a day after Army blast",
-    "url": "https://thehill.com/policy/energy-environment/6244772-lead-azide-airborne-epa-lee-zeldin/",
-    "description": "The Environmental Protection Agency (EPA) said Thursday that its air monitors have detected no airborne lead following the Army’s controlled detonation of thousands of pounds of unstable explosives in southeastern Iowa, though the agency is still awaiting laboratory results from its environmental testing. Lee Zeldin, administrator of the EPA, said more than 300 agency employees...",
-    "pubDate": "Thu, 26 Nov 2026 18:21:06 +0000"
+    "title_en": "New York State Senate Majority Leader Andrea Stewart-Cousins dies at 76",
+    "url": "https://thehill.com/homenews/state-watch/6245597-new-york-state-senate-majority-leader-andrea-stewart-cousins-dies-at-76/",
+    "description": "New York State Senate Majority Leader Andrea Stewart-Cousins died on Friday. She was 76. Senate Majority Communications Director Mike Murphy announced her passing.",
+    "pubDate": "Fri, 27 Nov 2026 19:47:21 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "FIFA: &#039;Limited set of personal and business information&#039; stolen in cyber attack",
-    "url": "https://thehill.com/policy/technology/6244786-fifa-cyberattack-personal-data/",
-    "description": "FIFA, the international governing body for soccer, said Thursday that it had been subject to a cyberattack that resulted in a “limited set of personal and business information\" that was stolen. “FIFA can confirm that it has been the victim of a criminal cyber-attack resulting in unauthorised access to a limited set of personal and...",
-    "pubDate": "Thu, 26 Nov 2026 18:10:00 +0000"
+    "title_en": "Sen. Deb Fischer&#039;s office says her husband died by suicide",
+    "url": "https://thehill.com/homenews/senate/6245545-deb-fischer-nebraska/",
+    "description": "A spokesperson for Sen. Deb Fischer (R-Neb.) said Friday her husband, Bruce Fischer, whose death was announced earlier in the week, had died by suicide. “There has been a sad update in the death of Senator Fischer’s husband, Bruce,” the spokesperson, who did not offer their name, said in a statement. “Initially, it was believed...",
+    "pubDate": "Fri, 27 Nov 2026 19:39:16 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Stop chasing billionaires — fix the broken corporate tax system instead",
-    "url": "https://thehill.com/opinion/campaign/6240367-california-billionaire-tax-failure/",
-    "description": "Asking why the billionaire tax failed is the wrong question. Instead, consider why California needed it in the first place.",
-    "pubDate": "Thu, 26 Nov 2026 18:00:00 +0000"
+    "title_en": "Thousands still without power after Thanksgiving storms",
+    "url": "https://thehill.com/homenews/state-watch/6245503-black-friday-thanksgiving-storms-flight-delayed-macys-parade/",
+    "description": "Thousands of households in the U.S. were without power on Black Friday after storms hit the Northeast and West Coast on Thanksgiving. Roughly 490,000 customers were without power as of Friday afternoon, according to tracking website poweroutage.us. That included nearly 201,000 in New Jersey and Pennsylvania, about 69,500 in Missouri, roughly 60,000 in Maryland and...",
+    "pubDate": "Fri, 27 Nov 2026 19:17:46 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "New IRS audits of top earners drop sharply: Here&#039;s what to know",
-    "url": "https://thehill.com/business/6244500-irs-audits-high-earners/",
-    "description": "The IRS attributes the drop, in part, to its focus on more complex cases with potentially higher payoffs.",
-    "pubDate": "Thu, 26 Nov 2026 18:00:00 +0000"
+    "title_en": "Keep the filibuster, but make senators earn it",
+    "url": "https://thehill.com/opinion/congress-blog/6243890-senate-filibuster-reform-proposals/",
+    "description": "The author proposes reforming the Senate filibuster by requiring a talking component and flipping the burden of proof to ensure legislative accountability.",
+    "pubDate": "Fri, 27 Nov 2026 19:00:00 +0000"
   },
   {
     "source": "The Hill",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Live updates: Bad weather disrupts Thanksgiving; Trump calls for probe into GDP data",
-    "url": "https://thehill.com/homenews/administration/6244342-live-updates-inclement-weather-thanksgiving-issues-iowa-detonation-fallout/",
-    "description": "Severe weather is upending Thanksgiving plans across the country, with travelers bracing for flight delays and cancellations as a powerful nor’easter moves up the East Coast. The storm has already pushed back the annual Macy’s Thanksgiving Day Parade to Saturday and prompted emergency declarations in New York and New Jersey. President Trump on Thursday demanded...",
-    "pubDate": "Thu, 26 Nov 2026 17:58:39 +0000"
+    "title_en": "Trump to visit groundbreaking for semiconductor manufacturer that supplies Nvidia",
+    "url": "https://thehill.com/homenews/administration/6245480-trump-phoenix-tsmc-nvidia/",
+    "description": "President Trump is set to attend the groundbreaking of a Phoenix facility that will manufacture semiconductor chips, including for Nvidia, which has seized the spotlight this month over the ouster and reinstatement of CEO Jensen Huang. A White House official told The Hill that Trump will deliver remarks at a ceremony for a new multi-billion...",
+    "pubDate": "Fri, 27 Nov 2026 18:49:53 +0000"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Powerful Thanksgiving Day storm causes flooding, power outages",
-    "url": "https://www.cbsnews.com/news/thanksgiving-day-storm-northeast-midwest-flooding-power-outages/",
-    "description": "The storm hammered sections of the East Coast with torrential rain, high winds and flooding, knocking out power to hundreds of thousands of customers.",
-    "pubDate": "Thu, 26 Nov 2026 20:49:54 -0500"
+    "title_en": "U.S. forces disable commercial ship that allegedly tried to breach Iran blockade",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/",
+    "description": "A U.S. military aircraft struck a Palau-flagged ship with precision munitions after giving multiple warnings, U.S. Central Command said.",
+    "pubDate": "Fri, 27 Nov 2026 20:10:47 -0500"
+  },
+  {
+    "source": "CBS News",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "U.S. Air Force cloud platform breached by hackers, report says",
+    "url": "https://www.cbsnews.com/news/u-s-air-force-cloud-platform-breached-by-hackers/",
+    "description": "The alleged incident follows a series of breaches and outages that have been reported at federal agencies this month.",
+    "pubDate": "Fri, 27 Nov 2026 20:06:41 -0500"
+  },
+  {
+    "source": "CBS News",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "2 American Airlines jets clip wings on tarmac of Reagan Airport",
+    "url": "https://www.cbsnews.com/news/american-airlines-jets-clip-wings-reagan-airport/",
+    "description": "There were no injuries when the wingtips of two American Airlines jets made contact Friday evening on the tarmac of Ronald Reagan Washington National Airport outside Washington, D.C.",
+    "pubDate": "Fri, 27 Nov 2026 20:05:00 -0500"
+  },
+  {
+    "source": "CBS News",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Power being slowly restored as heavy Thanksgiving storm eases",
+    "url": "https://www.cbsnews.com/news/east-coast-thanksgiving-storm-power-outages-cleanup/",
+    "description": "Heavy rain over flooded East Coast communities began easing Friday, and power was slowly restored to hundreds of thousands of customers.",
+    "pubDate": "Fri, 27 Nov 2026 19:43:00 -0500"
   },
   {
     "source": "CBS News",
@@ -717,27 +437,117 @@
     "title_en": "Iowa lead detonation results expected soon, EPA says",
     "url": "https://www.cbsnews.com/news/iowa-lead-detonation-epa-testing-results-soon/",
     "description": "The EPA conducted sampling at more than 130 structures in Iowa, including homes, schools, daycare centers and churches.",
-    "pubDate": "Thu, 26 Nov 2026 20:13:00 -0500"
+    "pubDate": "Fri, 27 Nov 2026 18:08:17 -0500"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "High school band raises $350K to stay for Macy&#039;s Thanksgiving parade",
-    "url": "https://www.cbsnews.com/news/macys-thanksgiving-parade-marching-bands-delay-cost/",
-    "description": "Other marching bands from around the U.S. are also raising funds to cover the cost of staying in New York City after the parade was rescheduled for Saturday.",
-    "pubDate": "Thu, 26 Nov 2026 19:52:28 -0500"
+    "title_en": "\"Face the Nation with Margaret Brennan\" guests for Nov. 29, 2026",
+    "url": "https://www.cbsnews.com/news/face-the-nation-guests-nov-29-2026/",
+    "description": "This week&#039;s guests include Democratic Sen. Chris Van Hollen of Maryland and Kevin Hassett, director of the White House National Economic Council.",
+    "pubDate": "Fri, 27 Nov 2026 17:50:25 -0500"
   },
   {
     "source": "CBS News",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Trump claims \"fake economic numbers\" were released before election",
-    "url": "https://www.cbsnews.com/news/trump-thanksgiving-commerce-department-gdp-investigation/",
-    "description": "President Trump demanded an investigation into the Commerce Department&#039;s recent revising of the GDP, which happens routinely.",
-    "pubDate": "Thu, 26 Nov 2026 19:39:06 -0500"
+    "title_en": "OpenAI countersues Apple over allegations of stealing trade secrets",
+    "url": "https://www.cbsnews.com/news/openai-countersues-apple-trade-secrets-lawsuit/",
+    "description": "OpenAI alleged in a lawsuit Friday that Apple sets up departing employees to be accused of stealing trade secrets.",
+    "pubDate": "Fri, 27 Nov 2026 17:14:43 -0500"
+  },
+  {
+    "source": "CBS News",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "25-year sentence sought for former chef who aided 14 suicides",
+    "url": "https://www.cbsnews.com/news/former-chef-kennth-law-poison-suicides-prosecutors-seek-25-years/",
+    "description": "Kenneth Law pleaded guilty earlier this year to aiding 14 suicides in Canada, but he has admitted to selling his so-called suicide kits globally.",
+    "pubDate": "Fri, 27 Nov 2026 15:54:53 -0500"
+  },
+  {
+    "source": "CBS News",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Powerful Thanksgiving storm causes flooding, power outages",
+    "url": "https://www.cbsnews.com/news/thanksgiving-day-storm-northeast-midwest-flooding-power-outages/",
+    "description": "The storm hammered sections of the East Coast with torrential rain, high winds and flooding, knocking out power to hundreds of thousands of customers.",
+    "pubDate": "Fri, 27 Nov 2026 14:57:00 -0500"
+  },
+  {
+    "source": "CBS News",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "U.S. opens hotline for tips about cartels, angering Mexico",
+    "url": "https://www.cbsnews.com/news/us-opens-hotline-tips-cartels-angering-mexico/",
+    "description": "President Claudia Sheinbaum blasted the DEA after it set up anonymous tip lines in the country, accusing American officials of interference.",
+    "pubDate": "Fri, 27 Nov 2026 14:30:24 -0500"
+  },
+  {
+    "source": "CBS News",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Pregnant inmate escapes in prison SUV after stop at Whataburger",
+    "url": "https://www.cbsnews.com/news/pregnant-prisoner-escapes-corrections-vehicle-new-mexico/",
+    "description": "Rebecca Taylor, who was not restrained because of her pregnancy, slid into the front seat of the transport vehicle and drove away.",
+    "pubDate": "Fri, 27 Nov 2026 14:13:23 -0500"
+  },
+  {
+    "source": "CBS News",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Sen. Deb Fischer&#039;s husband died by suicide, her office says",
+    "url": "https://www.cbsnews.com/news/sen-deb-fischer-husband-bruce-suicide/",
+    "description": "\"His kindness, integrity, and quiet strength left a lasting impression on all who knew him,\" Sen. Deb Fischer said of her late husband, Bruce.",
+    "pubDate": "Fri, 27 Nov 2026 12:29:38 -0500"
+  },
+  {
+    "source": "CBS News",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Zelenskyy: Trump calling Putin a friend like calling Hitler a friend",
+    "url": "https://www.cbsnews.com/news/zelenskyy-trump-calling-putin-friend-like-hitler-viewed-friend-wwii/",
+    "description": "Volodymyr Zelenskyy described President Trump calling Vladimir Putin \"my friend\" as \"strange\" because the Russian leader is \"an aggressor and a killer.\"",
+    "pubDate": "Fri, 27 Nov 2026 10:32:29 -0500"
+  },
+  {
+    "source": "CBS News",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Iranian women are facing not just lashings, but \"honor killings\"",
+    "url": "https://www.cbsnews.com/news/iran-parastoo-ahmadi-lashes-iranian-women-face-violence/",
+    "description": "Singer Parastoo Ahmadi&#039;s 74 lashes for daring to sing without her hair covered is not a unique case in Iran. Other women are being killed, some by their own families.",
+    "pubDate": "Fri, 27 Nov 2026 09:21:26 -0500"
+  },
+  {
+    "source": "CBS News",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Here&#039;s how GLP-1 drugs are changing people&#039;s shopping habits",
+    "url": "https://www.cbsnews.com/news/glp-1-drugs-food-apparel-shopping-habits/",
+    "description": "More than 60 million Americans could be using the drugs by 2030, double the number that currently use them, according to a new forecast.",
+    "pubDate": "Fri, 27 Nov 2026 06:00:18 -0500"
+  },
+  {
+    "source": "CBS News",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "What stores are open on Black Friday? Here are the hours.",
+    "url": "https://www.cbsnews.com/news/thanksgiving-store-hours-open-closed-2026-black-friday/",
+    "description": "Many retailers open their doors early on Black Friday, but the stock market will have shorter hours. Here&#039;s what to know.",
+    "pubDate": "Thu, 26 Nov 2026 22:01:00 -0500"
   },
   {
     "source": "CBS News",
@@ -750,384 +560,144 @@
     "pubDate": "Thu, 26 Nov 2026 17:53:00 -0500"
   },
   {
-    "source": "CBS News",
+    "source": "BBC World",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Trump to visit maker of semiconductor chips, including Nvidia&#039;s",
-    "url": "https://www.cbsnews.com/news/trump-visit-tsmc-semiconductor-facility-phoenix-nvidia/",
-    "description": "President Trump will visit the Phoenix TSMC facility, one of the largest manufacturers of advanced chips, including Nvidia&#039;s.",
-    "pubDate": "Thu, 26 Nov 2026 16:46:00 -0500"
-  },
-  {
-    "source": "CBS News",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Iran accused of carrying out drone attack killing 2 Italians in Kuwait",
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
-    "description": "Iran denies being behind a deadly attack on a Kuwaiti military facility that killed two Italian nationals.",
-    "pubDate": "Thu, 26 Nov 2026 15:35:23 -0500"
-  },
-  {
-    "source": "CBS News",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Fake online stores may fool AI shopping bots on Black Friday",
-    "url": "https://www.cbsnews.com/news/black-friday-ai-shopping-agents-fake-online-stores/",
-    "description": "AI bots are accidentally steering shoppers toward websites and online shops created by scammers using AI.",
-    "pubDate": "Thu, 26 Nov 2026 14:00:44 -0500"
-  },
-  {
-    "source": "CBS News",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Germany arrests 2 Iraqis allegedly tied to Iran-linked terror group",
-    "url": "https://www.cbsnews.com/news/germany-arrests-iraqi-iran-linked-terror-suspects/",
-    "description": "German police arrested two Iraqi men alleged to be members of an Iran-linked terrorist organization​ that is said to have targeted U.S., Israeli and Jewish institutions in Europe.",
-    "pubDate": "Thu, 26 Nov 2026 13:58:15 -0500"
-  },
-  {
-    "source": "CBS News",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Maps show where Thanksgiving storms are disrupting holiday plans",
-    "url": "https://www.cbsnews.com/news/maps-thanksgiving-storms-disrupt-holiday-festivities-travel/",
-    "description": "Rain, snow and powerful winds were affecting large stretches of the country on Thanksgiving, potentially disrupting holiday festivities and, in some areas, hampering travel plans.",
-    "pubDate": "Thu, 26 Nov 2026 13:55:00 -0500"
-  },
-  {
-    "source": "CBS News",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "FedEx cargo plane runs off MIA runway, causing brief ground stop",
-    "url": "https://www.cbsnews.com/news/miami-international-airport-ground-stop-fedex-md-11-runway-excursion-faa/",
-    "description": "The National Transportation Safety Board said it was investigating the incident.",
-    "pubDate": "Thu, 26 Nov 2026 13:33:18 -0500"
-  },
-  {
-    "source": "CBS News",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Elon Musk doubles SpaceX share pledge for U.S. children",
-    "url": "https://www.cbsnews.com/news/elon-musk-spacex-shares-trump-accounts/",
-    "description": "Every child in the U.S. will receive one share of SpaceX from the company and one from Elon Musk.",
-    "pubDate": "Thu, 26 Nov 2026 13:22:34 -0500"
-  },
-  {
-    "source": "CBS News",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Food banks see influx of families ahead of Thanksgiving",
-    "url": "https://www.cbsnews.com/news/thanksgiving-food-bank-demand-meal-costs/",
-    "description": "Across the U.S., volunteers have noticed more families than usual seeking food assistance as people struggle with higher grocery costs.",
-    "pubDate": "Thu, 26 Nov 2026 12:19:34 -0500"
-  },
-  {
-    "source": "CBS News",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "ICE detains man after he picked up $1 million lottery winnings",
-    "url": "https://www.cbsnews.com/news/ice-arrest-lottery-winnings-massachusetts/",
-    "description": "The Massachusetts State Lottery posted on social media last week a photo of Ariel Velasquez-Morales, who won $1 million from a scratch-off ticket purchased in Boston.",
-    "pubDate": "Thu, 26 Nov 2026 11:45:00 -0500"
-  },
-  {
-    "source": "CBS News",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Could the Black Sea pull the U.S. into war in Europe?",
-    "url": "https://www.cbsnews.com/news/black-sea-incidents-nato-russia-ukraine-war/",
-    "description": "The Russia-Ukraine war is spilling into the Black Sea, where violent incidents have surged, running right up to NATO&#039;s doorstep.",
-    "pubDate": "Thu, 26 Nov 2026 11:18:46 -0500"
-  },
-  {
-    "source": "CBS News",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "The story behind this Eagles player&#039;s special Thanksgiving cleats",
-    "url": "https://www.cbsnews.com/news/philadelphia-eagles-player-special-cleats-for-thanksgiving-game/",
-    "description": "For Philadelphia Eagles cornerback Jonathan Jones, the team&#039;s slogan has a personal meaning that extends beyond the football field.",
-    "pubDate": "Thu, 26 Nov 2026 08:47:00 -0500"
-  },
-  {
-    "source": "CBS News",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "What&#039;s open and closed today on Thanksgiving Day 2026?",
-    "url": "https://www.cbsnews.com/news/thanksgiving-store-hours-open-closed-2026-black-friday/",
-    "description": "A handful of grocery stores will welcome customers on Thanksgiving this year, while most retailers will be closed. Here&#039;s what to know.",
-    "pubDate": "Thu, 26 Nov 2026 06:00:21 -0500"
-  },
-  {
-    "source": "CBS News",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Judge temporarily blocks FCC from reviewing ABC&#039;s licenses",
-    "url": "https://www.cbsnews.com/news/judge-temporarily-blocks-fcc-from-reviewing-abc-licenses/",
-    "description": "A federal judge blocked the FCC from moving forward with an early review of ABC&#039;s broadcast licenses, a move the network argues is an attempt by the Trump administration to punish speech it does not like.",
-    "pubDate": "Wed, 25 Nov 2026 22:00:27 -0500"
-  },
-  {
-    "source": "CBS News",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Judge declines to issue long-term ban on tax-funded pro-Trump ads",
-    "url": "https://www.cbsnews.com/news/judge-declines-long-term-ban-pro-trump-ads/",
-    "description": "A federal judge has sided against Democrats on the federal government&#039;s taxpayer-funded political ads, which critics say were illegal propaganda intended to promote President Trump.",
-    "pubDate": "Wed, 25 Nov 2026 20:07:04 -0500"
-  },
-  {
-    "source": "CBS News",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Andy Taylor, longtime Duran Duran guitarist, dies at 65",
-    "url": "https://www.cbsnews.com/news/andy-taylor-guitarist-duran-duran-dies-age-65/",
-    "description": "Andy Taylor, the original guitarist of the 1980s English new wave band Duran Duran, has died at age 65 following a battle with prostate cancer.",
-    "pubDate": "Wed, 25 Nov 2026 19:32:00 -0500"
-  },
-  {
-    "source": "CBS News",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "U.S.-based firms helping China access Nvidia&#039;s most advanced chips",
-    "url": "https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/",
-    "description": "It&#039;s not just Megaspeed. A CBS News investigation reveals that at least two California-based Nvidia customers have Chinese ownership — giving the U.S. adversary potential access to Nvidia&#039;s most advanced technology.",
-    "pubDate": "Wed, 25 Nov 2026 18:10:00 -0500"
-  },
-  {
-    "source": "CBS News",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Trump administration to issue new tariffs on China, EU and others",
-    "url": "https://www.cbsnews.com/news/trump-administration-tariffs-14-trading-partners/",
-    "description": "The U.S. will increase tariffs on Chinese goods by an additional 20% and raise import taxes on goods from other major economies.",
-    "pubDate": "Wed, 25 Nov 2026 12:26:56 -0500"
+    "title_en": "Spanish PM and rivals rally supporters in final pitch for votes",
+    "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+    "description": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+    "pubDate": "Fri, 27 Nov 2026 21:55:53 GMT"
   },
   {
     "source": "BBC World",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+    "title_en": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
     "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-    "description": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
-    "pubDate": "Thu, 26 Nov 2026 22:49:27 GMT"
+    "description": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+    "pubDate": "Fri, 27 Nov 2026 18:00:40 GMT"
   },
   {
     "source": "BBC World",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Major Thanksgiving storm brings flooding, flight delays across US",
-    "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-    "description": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
-    "pubDate": "Fri, 27 Nov 2026 00:52:11 GMT"
+    "title_en": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+    "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+    "description": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+    "pubDate": "Fri, 27 Nov 2026 18:42:50 GMT"
   },
   {
     "source": "BBC World",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Watch: Roofs torn off and streets under water as severe weather hits US",
-    "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
-    "description": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
-    "pubDate": "Thu, 26 Nov 2026 19:26:16 GMT"
+    "title_en": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+    "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+    "description": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+    "pubDate": "Fri, 27 Nov 2026 20:06:31 GMT"
   },
   {
     "source": "BBC World",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-    "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
-    "description": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
-    "pubDate": "Fri, 27 Nov 2026 01:45:30 GMT"
+    "title_en": "Brazil pushes back on Macron calling its meat 'doped'",
+    "url": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
+    "description": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.",
+    "pubDate": "Fri, 27 Nov 2026 15:54:15 GMT"
   },
   {
     "source": "BBC World",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
-    "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
-    "description": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
-    "pubDate": "Thu, 26 Nov 2026 05:00:24 GMT"
+    "title_en": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+    "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+    "description": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
+    "pubDate": "Sat, 28 Nov 2026 00:56:55 GMT"
   },
   {
     "source": "BBC World",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
-    "url": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
-    "description": "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges.",
-    "pubDate": "Thu, 26 Nov 2026 05:00:27 GMT"
+    "title_en": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+    "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
+    "description": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
+    "pubDate": "Fri, 27 Nov 2026 20:34:45 GMT"
   },
   {
     "source": "BBC World",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
-    "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
-    "description": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
-    "pubDate": "Thu, 26 Nov 2026 14:44:26 GMT"
+    "title_en": "Millions of wives in South Asia unprotected from marital rape - study",
+    "url": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
+    "description": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not.",
+    "pubDate": "Fri, 27 Nov 2026 08:13:43 GMT"
   },
   {
     "source": "BBC World",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-    "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-    "description": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
-    "pubDate": "Thu, 26 Nov 2026 22:01:22 GMT"
+    "title_en": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+    "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+    "description": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
+    "pubDate": "Fri, 27 Nov 2026 16:53:46 GMT"
   },
   {
     "source": "BBC World",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Pregnant US inmate escapes in prison vehicle after medical appointment",
-    "url": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
-    "description": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges.",
-    "pubDate": "Thu, 26 Nov 2026 14:35:22 GMT"
+    "title_en": "Italy's former police chief rejected mafia inquiry allegations before death",
+    "url": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
+    "description": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home.",
+    "pubDate": "Fri, 27 Nov 2026 07:28:10 GMT"
   },
   {
     "source": "BBC World",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-    "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-    "description": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
-    "pubDate": "Thu, 26 Nov 2026 21:17:53 GMT"
+    "title_en": "Rare turtles found inside baggage at Amsterdam airport",
+    "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
+    "description": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
+    "pubDate": "Fri, 27 Nov 2026 13:38:07 GMT"
   },
   {
     "source": "BBC World",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Egyptian authorities arrest motorist over tanker crash that killed 31",
-    "url": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
-    "description": "Officials say the man confessed to travelling at speed and clipping the fuel truck as he was overtaking traffic.",
-    "pubDate": "Thu, 26 Nov 2026 12:16:06 GMT"
+    "title_en": "Kenyan doomsday cult leader convicted over further 123 deaths",
+    "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+    "description": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
+    "pubDate": "Fri, 27 Nov 2026 17:19:31 GMT"
   },
   {
     "source": "BBC World",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Hope for millions as cheaper HIV prevention jab reaches Africa",
-    "url": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
-    "description": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection.",
-    "pubDate": "Thu, 26 Nov 2026 11:00:39 GMT"
+    "title_en": "Severe Thanksgiving storms leave roads flooded and trees fallen",
+    "url": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss",
+    "description": "Hundreds of thousands of people were without power after severe weather hit both coasts of the United States during the Thanksgiving holiday.",
+    "pubDate": "Fri, 27 Nov 2026 16:46:47 GMT"
   },
   {
     "source": "BBC World",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Myanmar refuses to comply with parts of ICJ genocide ruling",
-    "url": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
-    "description": "A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against its Rohingya minority.",
-    "pubDate": "Thu, 26 Nov 2026 10:25:51 GMT"
-  },
-  {
-    "source": "BBC World",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
-    "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
-    "description": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\".",
-    "pubDate": "Thu, 26 Nov 2026 12:33:23 GMT"
-  },
-  {
-    "source": "BBC World",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Nine injured, three critically, after Bangkok oil refinery explosion",
-    "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
-    "description": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
-    "pubDate": "Thu, 26 Nov 2026 16:21:19 GMT"
-  },
-  {
-    "source": "BBC World",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Politics and peek-a-boo in Australian parliament as senator brings baby to work",
-    "url": "https://www.bbc.co.uk/news/videos/cmvg23djw8v9o?at_medium=RSS&at_campaign=rss",
-    "description": "Senator Lidia Thorpe kept 6-month-old Aaliyah entertained, as her mum Senator Fatima Payman, participated in an online safety bill debate.",
-    "pubDate": "Thu, 26 Nov 2026 09:49:42 GMT"
-  },
-  {
-    "source": "BBC World",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
-    "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
-    "description": "The killings are the latest from a series of near daily attacks by Israel against what it says are Hamas targets.",
-    "pubDate": "Thu, 26 Nov 2026 10:14:08 GMT"
-  },
-  {
-    "source": "BBC World",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Thirteen dead as mine disaster highlights illegal hunt for gold",
-    "url": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&at_campaign=rss",
-    "description": "Indonesian authorities say another 13 are missing in the illegal gold mine, which flooded on Monday.",
-    "pubDate": "Thu, 26 Nov 2026 07:31:24 GMT"
-  },
-  {
-    "source": "BBC World",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "DR Congo demands answers over Ugandan general's threats",
-    "url": "https://www.bbc.co.uk/news/articles/cwz0k90rgpm8o?at_medium=RSS&at_campaign=rss",
-    "description": "Gen Kainerugaba threatened a rebel takeover of a mineral-rich area in DR Congo in controversial X posts.",
-    "pubDate": "Thu, 26 Nov 2026 07:24:39 GMT"
-  },
-  {
-    "source": "BBC World",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "New UK-EU treaty has 10-year termination clause",
-    "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-    "description": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
-    "pubDate": "Thu, 26 Nov 2026 15:23:17 GMT"
-  },
-  {
-    "source": "BBC World",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Guinea orders residents to clean up the capital months after deadly rubbish dump collapse",
-    "url": "https://www.bbc.co.uk/news/articles/cqwy4377yxnlo?at_medium=RSS&at_campaign=rss",
-    "description": "The capital's main rubbish dump has been closed since the disaster, leading to rubbish piling up in the streets.",
-    "pubDate": "Thu, 26 Nov 2026 07:43:48 GMT"
+    "title_en": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
+    "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+    "description": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia.",
+    "pubDate": "Fri, 27 Nov 2026 06:09:31 GMT"
   },
   {
     "source": "BBC World",
@@ -1144,80 +714,90 @@
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
-    "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
-    "description": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people.",
-    "pubDate": "Thu, 26 Nov 2026 23:03:16 GMT"
+    "title_en": "Watch: Roofs torn off and streets under water as severe weather hits US",
+    "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+    "description": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
+    "pubDate": "Thu, 26 Nov 2026 19:26:16 GMT"
   },
   {
     "source": "BBC World",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Watch: Alaskan flying team airdrops Thanksgiving turkeys to remote communities",
-    "url": "https://www.bbc.co.uk/news/videos/cvze7yk7dy5lo?at_medium=RSS&at_campaign=rss",
-    "description": "For the last few years, the \"turkey bombers\" have taken to the skies for the benefit of residents in off-grid communities.",
-    "pubDate": "Thu, 26 Nov 2026 09:22:34 GMT"
+    "title_en": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+    "url": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
+    "description": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
+    "pubDate": "Fri, 27 Nov 2026 23:02:35 GMT"
   },
   {
     "source": "BBC World",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Moment Nasa spacecraft hit asteroid - and what happened next",
-    "url": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
-    "description": "The crash was \"like something out of a disaster movie\", the BBC's science editor Rebecca Morelle says.",
-    "pubDate": "Wed, 25 Nov 2026 20:11:46 GMT"
+    "title_en": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+    "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
+    "description": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
+    "pubDate": "Sat, 28 Nov 2026 00:05:17 GMT"
   },
   {
     "source": "BBC World",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
-    "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
-    "description": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
-    "pubDate": "Fri, 27 Nov 2026 00:47:43 GMT"
+    "title_en": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+    "url": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss",
+    "description": "A new Bollywood flim spotlights the remarkable life of dancer and singer Vithabhai Narayangaonkar.",
+    "pubDate": "Sat, 28 Nov 2026 00:50:11 GMT"
   },
   {
     "source": "BBC World",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
-    "url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
-    "description": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
-    "pubDate": "Fri, 27 Nov 2026 00:48:11 GMT"
+    "title_en": "Nigeria's 'ultimate hard man' who become an online meme",
+    "url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
+    "description": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting.",
+    "pubDate": "Sat, 28 Nov 2026 01:20:35 GMT"
   },
   {
     "source": "BBC World",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Desperate appeals from women on death row in Iran after protests",
-    "url": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
-    "description": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says.",
-    "pubDate": "Thu, 26 Nov 2026 06:01:58 GMT"
+    "title_en": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
+    "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
+    "description": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them.",
+    "pubDate": "Fri, 27 Nov 2026 06:04:51 GMT"
   },
   {
-    "source": "BBC World",
+    "source": "PBS Politics",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
-    "url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
-    "description": "A year after one of Hong Kong's deadliest fires, families left behind are still waiting for justice.",
-    "pubDate": "Wed, 25 Nov 2026 23:26:50 GMT"
+    "title_en": "Brooks and Capehart on Trump's new tariffs, Nvidia's future and Democratic leadership",
+    "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-new-tariffs-nvidias-future-and-democratic-leadership",
+    "description": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Nick Schifrin to discuss the week in politics, including President Trump's relationship with Russia's Vladimir Putin, Jensen Huang's return to Nvidia and sweeping new tariffs on China, Europe and others.",
+    "pubDate": "Fri, 27 Nov 2026 18:40:22 -0500"
   },
   {
-    "source": "BBC World",
+    "source": "PBS Politics",
     "category": "politics",
     "paywalled": false,
     "unverified": false,
-    "title_en": "France's political mainstream risks presidential vote debacle with no clear candidate",
-    "url": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
-    "description": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election.",
-    "pubDate": "Thu, 26 Nov 2026 00:23:27 GMT"
+    "title_en": "Rachel Maddow discusses how the Justice Department has strayed from its mission",
+    "url": "https://www.pbs.org/newshour/show/rachel-maddow-discusses-how-the-justice-department-has-strayed-from-its-mission",
+    "description": "Journalist and MS NOW anchor Rachel Maddow's fifth book, \"Department of Fate,\" explores the history of the Department of Justice. Maddow argues the DOJ is \"America's most consequential institution,\" but says it has now strayed dramatically from its mission. Amna Nawaz spoke with Maddow about all of this and more in a recent episode of our PBS News podcast, \"Settle in.\"",
+    "pubDate": "Fri, 27 Nov 2026 18:30:40 -0500"
+  },
+  {
+    "source": "PBS Politics",
+    "category": "politics",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Republicans rethink tariffs, giving Democrats an opening to challenge Trump",
+    "url": "https://www.pbs.org/newshour/politics/republicans-rethink-tariffs-giving-democrats-an-opening-to-challenge-trump",
+    "description": "After devastating election losses that centered on rising costs, many Republicans said they're open to reconsidering some of the levies that have become a central plank of Trump's global trade agenda.",
+    "pubDate": "Fri, 27 Nov 2026 11:51:50 -0500"
   },
   {
     "source": "PBS Politics",
@@ -1270,184 +850,114 @@
     "pubDate": "Thu, 26 Nov 2026 11:36:06 -0500"
   },
   {
-    "source": "PBS Politics",
-    "category": "politics",
-    "paywalled": false,
+    "source": "Financial Times",
+    "category": "economy",
+    "paywalled": true,
     "unverified": false,
-    "title_en": "WATCH: Vance defends Iowa lead azide detonation as he visits Air Force troops in Ohio",
-    "url": "https://www.pbs.org/newshour/politics/watch-vance-defends-iowa-lead-azide-detonation-as-he-visits-air-force-troops-in-ohio",
-    "description": "Vice President JD Vance, second lady Usha Vance and their four children visited Wright-Patterson Air Force Base in Ohio on Wednesday, serving a Thanksgiving meal to troops and joining them for lunch.",
-    "pubDate": "Wed, 25 Nov 2026 18:51:49 -0500"
-  },
-  {
-    "source": "PBS Politics",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Ben Shapiro and Amna Nawaz discuss GOP's future on 'Settle In'",
-    "url": "https://www.pbs.org/newshour/show/ben-shapiro-and-amna-nawaz-discuss-gops-future-on-settle-in",
-    "description": "Political commentator Ben Shapiro has been a prominent and often controversial force in conservative media since he was a teenager. Now in his early 40s, he hosts one of America's most popular podcasts and remains editor emeritus of The Daily Wire. Amna Nawaz sat down with Shapiro on \"Settle In\" to discuss the GOP's path forward after the midterms and other hot-button issues.",
-    "pubDate": "Wed, 25 Nov 2026 18:35:11 -0500"
-  },
-  {
-    "source": "PBS Politics",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Alaska ends voter data agreement with Justice Department, which had been searching for noncitizens",
-    "url": "https://www.pbs.org/newshour/politics/alaska-ends-voter-data-agreement-with-justice-department-which-had-been-searching-for-noncitizens",
-    "description": "A Republican official who oversees Alaska elections said she has ended an agreement under which the state shared its voter registration list with the U.S. Department of Justice and allowed the agency to flag voters for possible removal.",
-    "pubDate": "Wed, 25 Nov 2026 17:53:33 -0500"
-  },
-  {
-    "source": "PBS Politics",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Georgia's Fulton County ordered to give copy of 2020 election records seized by FBI to state board",
-    "url": "https://www.pbs.org/newshour/politics/georgias-fulton-county-ordered-to-give-copy-of-2020-election-records-seized-by-fbi-to-state-board",
-    "description": "A judge on Tuesday ordered Georgia's Fulton County to turn over a digital copy of ballots and other election records seized by the FBI earlier this year to the State Election Board, which had been trying for more than two years to obtain certain records from the 2020 election in the state's most populous county.",
-    "pubDate": "Wed, 25 Nov 2026 17:48:11 -0500"
-  },
-  {
-    "source": "PBS Politics",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "&Aacute;brego Garc&iacute;a, a Salvadoran mistakenly deported by U.S., goes to Spain but hopes to return after Trump",
-    "url": "https://www.pbs.org/newshour/politics/abrego-garcia-a-salvadoran-mistakenly-deported-by-u-s-goes-to-spain-but-hopes-to-return-after-trump",
-    "description": "Kilmar Ábrego García, a Salvadoran national who fought his mistaken deportation from the United States, arrived in Spain on Wednesday after what his lawyer described as a temporary departure, with hopes of returning to his family's home in Maryland after President Donald Trump leaves office.",
-    "pubDate": "Wed, 25 Nov 2026 17:30:20 -0500"
-  },
-  {
-    "source": "PBS Politics",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "These young Republicans have a message for their party: It's time to 'grow up'",
-    "url": "https://www.pbs.org/newshour/politics/these-young-republicans-have-a-message-for-their-party-its-time-to-grow-up",
-    "description": "Three weeks after midterm elections that devastated the Republican Party, several dozen of its more youthful members gathered at a brewery to sort through the pieces.",
-    "pubDate": "Wed, 25 Nov 2026 17:00:15 -0500"
-  },
-  {
-    "source": "PBS Politics",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Melania Trump reunites her seventh group of Ukrainian and Russian children with their families",
-    "url": "https://www.pbs.org/newshour/world/melania-trump-reunites-her-seventh-group-of-ukrainian-and-russian-children-with-their-families",
-    "description": "First lady Melania Trump has helped return a seventh group of Ukrainian and Russian children to their families, bringing the total number of kids in these wartime reunifications to 43, the White House announced Wednesday.",
-    "pubDate": "Wed, 25 Nov 2026 16:08:56 -0500"
-  },
-  {
-    "source": "PBS Politics",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "State Department reports downplay violence and corruption in countries that asylum seekers are fleeing",
-    "url": "https://www.pbs.org/newshour/nation/state-department-reports-downplay-violence-and-corruption-in-countries-that-asylum-seekers-are-fleeing",
-    "description": "The reports use cherry-picked data, careful phrasing and in some cases facts that don't stand up to scrutiny to create misleading depictions of countries that are in fact often plagued by violence, government corruption and police inaction.",
-    "pubDate": "Wed, 25 Nov 2026 13:07:48 -0500"
-  },
-  {
-    "source": "PBS Politics",
-    "category": "politics",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Trump administration to raise tariffs on China, EU, Brazil and others",
-    "url": "https://www.pbs.org/newshour/politics/trump-administration-to-raise-tariffs-on-china-eu-brazil-and-others",
-    "description": "The new tariffs stem from investigations into the trade practices of 12 countries, the 27-member EU and the self-governing island of Taiwan.",
-    "pubDate": "Wed, 25 Nov 2026 11:37:24 -0500"
+    "title_en": "Wave of cyber incidents rattles western economies",
+    "url": "https://www.ft.com/content/6ab1172b-4f27-49f5-ad53-b384df82da77?syn-25a6b1a6=1",
+    "description": "UK Department for Work and Pensions, Fifa and the US Treasury among institutions hit by outages as concerns grow over threat from AI",
+    "pubDate": "Fri, 27 Nov 2026 16:19:21 GMT"
   },
   {
     "source": "Financial Times",
     "category": "economy",
     "paywalled": true,
     "unverified": false,
-    "title_en": "Hawkish Fed poised to raise rates despite stock market turmoil",
-    "url": "https://www.ft.com/content/3890f725-66dd-4613-8a60-d9e3ea38d25a?syn-25a6b1a6=1",
-    "description": "Inflation is top concern for US central bank officials even as tech-led sell-off triggers fears for economy",
-    "pubDate": "Thu, 26 Nov 2026 14:58:45 GMT"
+    "title_en": "Can AI crack encryption?",
+    "url": "https://www.ft.com/content/1a29e62d-b18d-4bad-937d-34f3eae0587a?syn-25a6b1a6=1",
+    "description": "New models’ advancing capabilities raise concerns over the risks of data leaks in banking and commerce",
+    "pubDate": "Fri, 27 Nov 2026 18:16:51 GMT"
   },
   {
     "source": "Financial Times",
     "category": "economy",
     "paywalled": true,
     "unverified": false,
-    "title_en": "The ICE raids ‘wreaking havoc’ across American academia",
-    "url": "https://www.ft.com/content/125e9b6d-4e45-4554-9a86-a3ce172bcf65?syn-25a6b1a6=1",
-    "description": "Critics say detention of PhD student Eva Yi Xie and others shows how the Trump administration has escalated its crackdown",
-    "pubDate": "Thu, 26 Nov 2026 05:01:09 GMT"
+    "title_en": "Trump’s Nvidia intervention has a cost for US stocks",
+    "url": "https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1",
+    "description": "Political meddling has already rubbed some of the gloss off the dollar and US Treasuries. Now it is hitting equities",
+    "pubDate": "Fri, 27 Nov 2026 18:26:25 GMT"
   },
   {
     "source": "Financial Times",
     "category": "economy",
     "paywalled": true,
     "unverified": false,
-    "title_en": "Angry young men turn against their elders in ‘two Spains’ election",
-    "url": "https://www.ft.com/content/6b8ac07d-d589-4ff2-9ad3-8cda56287a8e?syn-25a6b1a6=1",
-    "description": "Retirees’ generous pensions and property ownership stoke discontent among youths voting to oust Pedro Sánchez",
-    "pubDate": "Thu, 26 Nov 2026 05:00:19 GMT"
+    "title_en": "AI and the decryption nightmare",
+    "url": "https://www.ft.com/content/4114d053-de5e-46a5-8b46-758726abdcb7?syn-25a6b1a6=1",
+    "description": "New breakthroughs call for faster upgrades to security, not panic",
+    "pubDate": "Fri, 27 Nov 2026 18:18:27 GMT"
   },
   {
     "source": "Financial Times",
     "category": "economy",
     "paywalled": true,
     "unverified": false,
-    "title_en": "Pablo Hernández de Cos: the ‘consensus-builder’ taking over the ECB",
-    "url": "https://www.ft.com/content/1fda901a-222a-4b3e-8e20-ea80c3fbf1d2?syn-25a6b1a6=1",
-    "description": "Spanish economist is seen as a skilled diplomat with a ‘unique blend of diplomatic finesse and academic rigour’",
-    "pubDate": "Thu, 26 Nov 2026 16:02:36 GMT"
+    "title_en": "US tech stocks rise in latest market swing",
+    "url": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
+    "description": "All-powerful AI trade has been eclipsed by wild moves in a market struggling to price future earnings",
+    "pubDate": "Fri, 27 Nov 2026 20:08:09 GMT"
   },
   {
     "source": "Financial Times",
     "category": "economy",
     "paywalled": true,
     "unverified": false,
-    "title_en": "Andrew Bailey says unreleased AI models have raised encryption concerns",
-    "url": "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae?syn-25a6b1a6=1",
-    "description": "Breakthroughs in mathematics have stoked fears that data across financial systems is under threat",
-    "pubDate": "Thu, 26 Nov 2026 17:13:40 GMT"
+    "title_en": "First principles to cling to when markets convulse",
+    "url": "https://www.ft.com/content/839c7d2c-adad-4e70-9abd-3cd5bdf5e09e?syn-25a6b1a6=1",
+    "description": "If you haven’t a clue what to do right now, stick to the investment basics",
+    "pubDate": "Fri, 27 Nov 2026 12:32:08 GMT"
   },
   {
     "source": "Financial Times",
     "category": "economy",
     "paywalled": true,
     "unverified": false,
-    "title_en": "SAP explores at least 10,000 job cuts",
-    "url": "https://www.ft.com/content/ef05b4ab-7944-44ae-ad00-15475f8c1ec9?syn-25a6b1a6=1",
-    "description": "European software group is latest to restructure as AI hits software sector",
-    "pubDate": "Thu, 26 Nov 2026 18:24:34 GMT"
+    "title_en": "Kirkland & Ellis under fire from private equity backers over sell-to-yourself deals",
+    "url": "https://www.ft.com/content/5cc534e6-d461-4fc7-a744-b938e54eee1d?syn-25a6b1a6=1",
+    "description": "Lawyers say contracts for so-called continuation vehicles remove investors’ right to sue in event of dispute",
+    "pubDate": "Fri, 27 Nov 2026 05:00:23 GMT"
   },
   {
     "source": "Financial Times",
     "category": "economy",
     "paywalled": true,
     "unverified": false,
-    "title_en": "Israel’s Eisenkot takes steps towards replacing Netanyahu",
-    "url": "https://www.ft.com/content/a0731abb-c7bf-421b-9486-682114c705ff",
-    "description": "Opposition leader’s deals with two parties advance plans to oust prime minister",
-    "pubDate": "Thu, 26 Nov 2026 16:51:18 GMT"
+    "title_en": "S&P cuts France outlook to negative",
+    "url": "https://www.ft.com/content/4e16110a-9604-4455-8557-4edece5df01a?syn-25a6b1a6=1",
+    "description": "Rating agency says political instability will make it harder for the country to tackle its public deficit",
+    "pubDate": "Fri, 27 Nov 2026 22:45:36 GMT"
   },
   {
     "source": "Financial Times",
     "category": "economy",
     "paywalled": true,
     "unverified": false,
-    "title_en": "Lula names banker as Brazil finance minister in attempt to calm markets",
-    "url": "https://www.ft.com/content/94f93408-476b-479c-be0e-d7f7942f9491?syn-25a6b1a6=1",
-    "description": "Luiz Carlos Trabuco’s appointment follows a sell-off in the country’s assets",
-    "pubDate": "Fri, 27 Nov 2026 00:59:07 GMT"
+    "title_en": "Mélenchon takes aim at Germany in Berlin campaign stop",
+    "url": "https://www.ft.com/content/6689598a-47f2-41b3-92d7-e5c234914c5b?syn-25a6b1a6=1",
+    "description": "Far-left presidential candidate has increased his attacks on France’s neighbour and closest ally",
+    "pubDate": "Fri, 27 Nov 2026 16:45:39 GMT"
+  },
+  {
+    "source": "Financial Times",
+    "category": "economy",
+    "paywalled": true,
+    "unverified": false,
+    "title_en": "OpenAI countersues Apple for stealing trade secrets",
+    "url": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1",
+    "description": "The ChatGPT maker also accuses the tech giant of ‘coercing and threatening’ suppliers who work with both companies, as legal battle escalates",
+    "pubDate": "Fri, 27 Nov 2026 23:00:08 GMT"
   },
   {
     "source": "CNBC Markets",
     "category": "economy",
     "paywalled": false,
     "unverified": false,
-    "title_en": "China industrial profits growth surges to a 5-month high of 20.1% in October",
+    "title_en": "China’s factories are growing profits again, but the AI boom is picking the winners",
     "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
-    "description": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while household consumption has been lagging.",
-    "pubDate": "Fri, 27 Nov 2026 01:38:00 GMT"
+    "description": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while consumption, real estate investment lag.",
+    "pubDate": "Fri, 27 Nov 2026 06:09:51 GMT"
   },
   {
     "source": "CNBC Markets",
@@ -1457,37 +967,7 @@
     "title_en": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
     "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
     "description": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
-    "pubDate": "Thu, 26 Nov 2026 15:28:26 GMT"
-  },
-  {
-    "source": "CNBC Markets",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
-    "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
-    "description": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington.",
-    "pubDate": "Thu, 26 Nov 2026 12:46:55 GMT"
-  },
-  {
-    "source": "CNBC Markets",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
-    "url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
-    "description": "Alan Greenspan famously held the line on interest rates because he believed in the productivity promise of the internet boom. Why can't Kevin Warsh do the same?",
-    "pubDate": "Wed, 25 Nov 2026 21:56:43 GMT"
-  },
-  {
-    "source": "CNBC Markets",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-    "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-    "description": "The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus.",
-    "pubDate": "Wed, 25 Nov 2026 14:18:45 GMT"
+    "pubDate": "Fri, 27 Nov 2026 06:50:38 GMT"
   },
   {
     "source": "CNBC Markets",
@@ -1497,7 +977,17 @@
     "title_en": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
     "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
     "description": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets.",
-    "pubDate": "Wed, 25 Nov 2026 16:17:13 GMT"
+    "pubDate": "Fri, 27 Nov 2026 21:45:41 GMT"
+  },
+  {
+    "source": "CNBC Markets",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+    "url": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
+    "description": "The UAE is optimistic about achieving 7%-8% economic growth next year, banking on a \"different\" economic model.",
+    "pubDate": "Fri, 27 Nov 2026 08:47:36 GMT"
   },
   {
     "source": "BBC Business",
@@ -1514,6 +1004,16 @@
     "category": "economy",
     "paywalled": false,
     "unverified": false,
+    "title_en": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+    "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
+    "description": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
+    "pubDate": "Fri, 27 Nov 2026 00:58:49 GMT"
+  },
+  {
+    "source": "BBC Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
     "title_en": "UK to pay 'participation' fee to deliver EU deals",
     "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
     "description": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
@@ -1524,10 +1024,10 @@
     "category": "economy",
     "paywalled": false,
     "unverified": false,
-    "title_en": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+    "title_en": "My self-care ritual is a meal at a fancy restaurant - on my own",
     "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
     "description": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
-    "pubDate": "Fri, 27 Nov 2026 00:54:45 GMT"
+    "pubDate": "Fri, 27 Nov 2026 10:10:36 GMT"
   },
   {
     "source": "BBC Business",
@@ -1538,26 +1038,6 @@
     "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
     "description": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
     "pubDate": "Thu, 26 Nov 2026 14:00:20 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
-    "url": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
-    "description": "Poundland's management and MPs blame the retailer's owners, Gordon Brothers, but the US firm says without them the chain would have collapsed last year.",
-    "pubDate": "Thu, 26 Nov 2026 13:40:46 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "New boss appointed to lead Travelodge",
-    "url": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo?at_medium=RSS&at_campaign=rss",
-    "description": "The new CEO will lead the Thame-based company from 1 December following Jo Boydell's resignation.",
-    "pubDate": "Thu, 26 Nov 2026 12:03:49 GMT"
   },
   {
     "source": "BBC Business",
@@ -1584,130 +1064,180 @@
     "category": "economy",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Drivers over 70 face eye tests every three years under new plans",
-    "url": "https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo?at_medium=RSS&at_campaign=rss",
-    "description": "The changes could see drivers over 70 stripped of licences if they do not meet standards.",
-    "pubDate": "Thu, 26 Nov 2026 11:21:45 GMT"
+    "title_en": "New UK-EU treaty has 10-year termination clause",
+    "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+    "description": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+    "pubDate": "Thu, 26 Nov 2026 15:23:17 GMT"
   },
   {
     "source": "BBC Business",
     "category": "economy",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Car finance compensation payments explained",
-    "url": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
-    "description": "Millions could be entitled to compensation as a result of commission arrangements between lenders and dealers.",
-    "pubDate": "Thu, 26 Nov 2026 09:39:50 GMT"
+    "title_en": "Will new energy fixes cost more in January?",
+    "url": "https://www.bbc.co.uk/news/videos/cwjd7y4jk581o?at_medium=RSS&at_campaign=rss",
+    "description": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
+    "pubDate": "Fri, 27 Nov 2026 16:05:32 GMT"
   },
   {
     "source": "BBC Business",
     "category": "economy",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Poundland collapses putting 11,000 jobs at risk",
-    "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
-    "description": "The discount chain has fallen into administration after its owners failed to find a buyer.",
-    "pubDate": "Thu, 26 Nov 2026 08:24:29 GMT"
+    "title_en": "'We're scared to turn our heating on'",
+    "url": "https://www.bbc.co.uk/news/videos/c6jd7yj4ve9xo?at_medium=RSS&at_campaign=rss",
+    "description": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
+    "pubDate": "Fri, 27 Nov 2026 08:47:00 GMT"
   },
   {
     "source": "BBC Business",
     "category": "economy",
     "paywalled": false,
     "unverified": false,
-    "title_en": "What's gone wrong at Poundland?",
-    "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
-    "description": "Poundland has collapse into administration. Why?",
-    "pubDate": "Thu, 26 Nov 2026 10:15:47 GMT"
+    "title_en": "How much is your rent in Birmingham?",
+    "url": "https://www.bbc.co.uk/news/videos/ckg5r02mqp4no?at_medium=RSS&at_campaign=rss",
+    "description": "We ask people in the UK's second biggest how much they pay for their homes.",
+    "pubDate": "Fri, 27 Nov 2026 06:11:32 GMT"
   },
   {
     "source": "BBC Business",
     "category": "economy",
     "paywalled": false,
     "unverified": false,
-    "title_en": "US announces new tariffs on host of countries including China",
-    "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-    "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-    "pubDate": "Thu, 26 Nov 2026 04:10:58 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "US stocks fall further as fears over AI intensify",
-    "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-    "description": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-    "pubDate": "Wed, 25 Nov 2026 21:43:18 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Guitar wars - the transatlantic battle over the Stratocaster",
-    "url": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
-    "description": "US company Fender is in dispute with a German firm that makes generic versions of its key model.",
-    "pubDate": "Thu, 26 Nov 2026 00:01:37 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Cost of living roadshow highlights support on offer",
-    "url": "https://www.bbc.co.uk/news/articles/cqz0ky4204jlo?at_medium=RSS&at_campaign=rss",
-    "description": "This event in Sheerness is funded by the Crisis and Resilience Fund for those facing cash issues.",
-    "pubDate": "Thu, 26 Nov 2026 12:49:07 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Parents cutting basics at Christmas, charity warns",
-    "url": "https://www.bbc.co.uk/news/articles/cq1k98gpzmy4o?at_medium=RSS&at_campaign=rss",
-    "description": "The chief executive of Worthing Soup Kitchen says some families choose between food and presents.",
-    "pubDate": "Thu, 26 Nov 2026 06:13:47 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "What we know about Trump's Thanksgiving tariffs",
-    "url": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
-    "description": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
-    "pubDate": "Wed, 25 Nov 2026 19:38:05 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Scots react to news of rising energy prices",
-    "url": "https://www.bbc.co.uk/news/videos/cmqlq07d71yko?at_medium=RSS&at_campaign=rss",
-    "description": "Scots describe how an increase in energy bills will affect them.",
-    "pubDate": "Wed, 25 Nov 2026 16:56:47 GMT"
-  },
-  {
-    "source": "BBC Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Why has Poundland collapsed and what happens next?",
-    "url": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
-    "description": "The retail chain has collapsed just one year after being bought for £1 by an American firm.",
-    "pubDate": "Wed, 25 Nov 2026 16:24:30 GMT"
+    "title_en": "The food bank helping pet owners with rising bills",
+    "url": "https://www.bbc.co.uk/news/articles/c623jgz7zmg8o?at_medium=RSS&at_campaign=rss",
+    "description": "RSPCA hands out food, vet vouchers, cat litter and toys to pet owners struggling with bills.",
+    "pubDate": "Fri, 27 Nov 2026 06:11:13 GMT"
   },
   {
     "source": "NPR Economy",
     "category": "economy",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Inflation is still hot, fueled in part by the AI boom",
-    "url": "https://www.npr.org/2026/11/25/nx-s1-6053958/inflation-is-still-hot-fueled-in-part-by-the-ai-boom",
-    "description": "The U.S. economy grew at a rapid clip during the summer and early fall, due in part to the artificial intelligence boom. That boom is also fueling higher inflation and rattling the stock market.",
-    "pubDate": "Wed, 25 Nov 2026 17:04:36 -0500"
+    "title_en": "Can luxury save Macy's?",
+    "url": "https://www.npr.org/2026/11/27/nx-s1-6026486/macys-tries-to-reinvent-with-luxury",
+    "description": "This week's celebration of Macy's 100th Thanksgiving parade finds the department store at a turning point. After years of losing sales, the retailer is reimagining itself — as a higher-end destination.",
+    "pubDate": "Fri, 27 Nov 2026 05:01:00 -0500"
+  },
+  {
+    "source": "NPR Economy",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Record spending expected on Black Friday",
+    "url": "https://www.npr.org/2026/11/27/nx-s1-6047460/record-spending-expected-on-black-friday",
+    "description": "Americans are expected to spend more money on Black Friday than any other day this year. How is inflation and the current economic situation affecting that?",
+    "pubDate": "Fri, 27 Nov 2026 04:45:48 -0500"
+  },
+  {
+    "source": "NPR Economy",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Why Americans are still Black Friday shopping despite strained wallets",
+    "url": "https://www.npr.org/2026/11/27/nx-s1-6054846/why-americans-are-still-black-friday-shopping-despite-strained-wallets",
+    "description": "NPR's A Martinez asks Georgia Tech Professor Chris Gaffney why Americans continue to spend during the holidays, despite trouble spots in the economy.",
+    "pubDate": "Fri, 27 Nov 2026 04:45:35 -0500"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "NBC Pulls an Ad That Some Described as Antisemitic",
+    "url": "https://www.nytimes.com/2026/11/27/business/media/nbc-ad-snl.html",
+    "description": "The commercial appeared during a “Saturday Night Live” holiday special on Wednesday.",
+    "pubDate": "Sat, 28 Nov 2026 00:46:42 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "It’s Boom Times for Old TV Shows. New TV, Not So Much.",
+    "url": "https://www.nytimes.com/2026/11/27/business/media/old-tv-shows-mad-men.html",
+    "description": "Fewer original series, decision fatigue and a desire for comfort have viewers escaping to the past.",
+    "pubDate": "Fri, 27 Nov 2026 17:02:48 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Black Friday Deals and Holiday Sales Are Big Money for Influencers",
+    "url": "https://www.nytimes.com/2026/11/27/business/influencers-black-friday-deals-holiday-shopping.html",
+    "description": "A growing part of a brand’s Black Friday and Cyber Monday marketing strategy rests on paying top dollar for social media influencers to post videos.",
+    "pubDate": "Fri, 27 Nov 2026 15:29:05 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Climate Talks Imploded, but the ‘Age of Electricity’ Rolls On, Energy Chief Says",
+    "url": "https://www.nytimes.com/2026/11/27/business/fatih-birol-iea-cop31-electrification.html",
+    "description": "Fatih Birol, head of the International Energy Agency, said that market forces, data centers and energy security are driving the clean transition anyway.",
+    "pubDate": "Fri, 27 Nov 2026 15:18:58 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Stocks Rally at End of a Week of Wild Swings",
+    "url": "https://www.nytimes.com/2026/11/27/business/stocks-tech-stocks-ai.html",
+    "description": "Volatility has buffeted investors in an eventful but holiday-shortened series of trading sessions.",
+    "pubDate": "Fri, 27 Nov 2026 18:13:54 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "Holiday Deals Are Tempting. Here’s How to Avoid Buyer’s Remorse.",
+    "url": "https://www.nytimes.com/2026/11/27/business/holiday-shopping-deals-spending.html",
+    "description": "Some deals are too good to be true. Experts suggest doing the math, making lists and avoiding using “buy now, pay later” platforms to make purchases.",
+    "pubDate": "Fri, 27 Nov 2026 15:29:56 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "How to Live Calmly, Despite Stock Market Whiplash",
+    "url": "https://www.nytimes.com/2026/11/27/business/nvidia-jensen-huang-trump-markets.html",
+    "description": "Nvidia has been down, up, and down again, and the market has followed. But there’s no need for long-term, diversified investors to alter their course, our columnist says.",
+    "pubDate": "Fri, 27 Nov 2026 22:16:28 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "As Prices Rise, Americans Are Making Trade-Offs Rather Than Cutting Back",
+    "url": "https://www.nytimes.com/2026/11/27/business/inflation-consumer-spending-trade-offs-holidays.html",
+    "description": "Within strong consumer spending lie the decisions many families are making to stretch their dollars to cover the meals, trips and activities they value most.",
+    "pubDate": "Fri, 27 Nov 2026 10:02:41 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "2 TV Shows Take on Sam Bankman-Fried and FTX",
+    "url": "https://www.nytimes.com/2026/11/27/business/media/sam-bankman-fried-ftx-altruists.html",
+    "description": "The limited series “The Altruists” and the documentary “The Boy Who Stole Billions?” offer different takes on the crypto exchange founder’s role in one of the largest frauds in history.",
+    "pubDate": "Fri, 27 Nov 2026 10:02:09 +0000"
+  },
+  {
+    "source": "NYT Business",
+    "category": "economy",
+    "paywalled": false,
+    "unverified": false,
+    "title_en": "48 Hours in Tokyo With an Airline Pilot",
+    "url": "https://www.nytimes.com/2026/11/27/travel/48-hours-tokyo-layover.html",
+    "description": "A Boeing 787 pilot visits some favorite restaurants, a Snoopy museum and a tranquil shrine.",
+    "pubDate": "Fri, 27 Nov 2026 10:00:34 +0000"
   },
   {
     "source": "NYT Business",
@@ -1727,7 +1257,7 @@
     "title_en": "European Central Bank Chooses Pablo Hernández de Cos as Next President",
     "url": "https://www.nytimes.com/2026/11/26/business/ecb-pablo-hernandez-de-cos.html",
     "description": "The early exit of Christine Lagarde as president of the European Central Bank, and two looming vacancies on the board, will make way for new leadership at the institution.",
-    "pubDate": "Thu, 26 Nov 2026 19:41:34 +0000"
+    "pubDate": "Thu, 26 Nov 2026 19:41:35 +0000"
   },
   {
     "source": "NYT Business",
@@ -1767,7 +1297,7 @@
     "title_en": "Trump’s Latest Tariffs Revive Focus on Pressuring China",
     "url": "https://www.nytimes.com/2026/11/26/business/trump-tariffs-asia.html",
     "description": "President Trump sent a message to trading partners across Asia, many of which depend on trade and investment from both the United States and China, that he is ready to escalate tariffs.",
-    "pubDate": "Thu, 26 Nov 2026 17:03:31 +0000"
+    "pubDate": "Thu, 26 Nov 2026 17:03:32 +0000"
   },
   {
     "source": "NYT Business",
@@ -1777,37 +1307,7 @@
     "title_en": "Photos: Macy’s Thanksgiving Day Parade History and Wacky Moments",
     "url": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-parade-history-timeline.html",
     "description": "It isn’t always easy to keep New York City’s Thanksgiving parade on track. Here’s a look back at notable moments and mishaps.",
-    "pubDate": "Thu, 26 Nov 2026 13:45:53 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "‘Avengers’ and ‘Dune’ Have Hollywood Dreaming of a December Windfall",
-    "url": "https://www.nytimes.com/2026/11/26/business/media/avengers-infinity-vision-dune.html",
-    "description": "“Avengers: Doomsday” and “Dune: Part Three” are expected to open to at least $350 million in ticket sales. Some forecasts approach $500 million.",
-    "pubDate": "Thu, 26 Nov 2026 10:02:26 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "The Fiat Topolino Is a Nifty Fit for the City: Review",
-    "url": "https://www.nytimes.com/2026/11/26/business/fiat-topolino-electric-review.html",
-    "description": "The Topolino is so small it’s street-legal only on roads with low speed limits. The electric motor is tiny, and the range is limited. But there’s still lots to like.",
-    "pubDate": "Thu, 26 Nov 2026 10:02:12 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Trump Tried to Cripple Huawei. Now It Is Central to China’s A.I. Push.",
-    "url": "https://www.nytimes.com/2026/11/26/business/huawei-trump-china-ai.html",
-    "description": "As China’s access to Nvidia’s advanced chips shrinks, Huawei is becoming increasingly indispensable to Beijing despite a wide technological gap with its American rival.",
-    "pubDate": "Thu, 26 Nov 2026 10:01:56 +0000"
+    "pubDate": "Fri, 27 Nov 2026 19:28:36 +0000"
   },
   {
     "source": "NYT Business",
@@ -1824,110 +1324,30 @@
     "category": "economy",
     "paywalled": false,
     "unverified": false,
-    "title_en": "In China, the ‘Female Gaze’ Is Driving a New Entertainment Boom",
-    "url": "https://www.nytimes.com/2026/11/26/business/china-women-spending-entertainment.html",
-    "description": "From male dancers to handsome hiking companions, a thriving entertainment industry is catering to female fantasies and testing the limits of Beijing’s tolerance.",
-    "pubDate": "Thu, 26 Nov 2026 05:00:17 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
     "title_en": "Judge Blocks F.C.C. From Targeting Disney’s Local ABC Licenses",
     "url": "https://www.nytimes.com/2026/11/25/business/media/disney-fcc-abc-ruling.html",
     "description": "A preliminary injunction halted an early regulatory review of the network’s operations in eight cities, including New York, Los Angeles and Chicago.",
-    "pubDate": "Thu, 26 Nov 2026 02:01:20 +0000"
+    "pubDate": "Fri, 27 Nov 2026 05:19:06 +0000"
   },
   {
-    "source": "NYT Business",
+    "source": "PBS Economy",
     "category": "economy",
     "paywalled": false,
     "unverified": false,
-    "title_en": "Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long.",
-    "url": "https://www.nytimes.com/2026/11/25/us/politics/trump-nvidia-stock-market.html",
-    "description": "The retreat of the stock market in recent days shows how President Trump’s push to reinstall the company’s chief executive has collided with the realities of his other policies.",
-    "pubDate": "Thu, 26 Nov 2026 01:53:20 +0000"
+    "title_en": "American consumers face pitfalls with rise of 'buy now, pay later'",
+    "url": "https://www.pbs.org/newshour/show/american-consumers-face-pitfalls-with-rise-of-buy-now-pay-later",
+    "description": "Black Friday is no longer limited to just a single day, yet it remains one of the busiest days of the year for brick-and-mortar stores, where shoppers can still stand in long lines. Now, 90 million of those consumers have turned to \"buy now, pay later\" financing programs. Economics correspondent Paul Solman looks at how this form of financing is becoming pervasive, and for many, a problem.",
+    "pubDate": "Fri, 27 Nov 2026 18:50:12 -0500"
   },
   {
-    "source": "NYT Business",
+    "source": "PBS Economy",
     "category": "economy",
     "paywalled": false,
     "unverified": false,
-    "title_en": "A Rumored $300 Million Score on Nvidia’s Stock Surge Isn’t Backed by Trading Records",
-    "url": "https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html",
-    "description": "Three data providers say they have no evidence to support the online claim that insider trading generated a 9,000 percent return.",
-    "pubDate": "Wed, 25 Nov 2026 21:36:25 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Traveling to Bhutan in 2026: Wood-Fired Pizzas and Monks With Cellphones",
-    "url": "https://www.nytimes.com/2026/11/25/travel/bhutan-travel.html",
-    "description": "The view of the Himalayan country as ancient and immutable is being challenged by young Bhutanese who are opening restaurants and shops, and getting beyond “gross national happiness.” A traveler explores.",
-    "pubDate": "Wed, 25 Nov 2026 19:34:40 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Lukoil to Sell Foreign Assets, but Not to Kushner and Witkoff Associates",
-    "url": "https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html",
-    "description": "Valuable properties belonging to the Russian energy giant will be sold to an American-led consortium. But Middle Eastern business contacts of the two Trump envoys pulled out because of political winds.",
-    "pubDate": "Wed, 25 Nov 2026 22:16:50 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Empowered Democrats Aim at Weakened Regulation and Corporate Corruption",
-    "url": "https://www.nytimes.com/2026/11/25/business/corporate-america-democrats.html",
-    "description": "After two years of deregulation, congressional committees led by Democrats will shine the spotlight back on corporate America.",
-    "pubDate": "Wed, 25 Nov 2026 23:24:52 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
-    "url": "https://www.nytimes.com/2026/11/25/business/economy/inflation-pce-interest-rates.html",
-    "description": "The Federal Reserve is widely expected to raise interest rates next month.",
-    "pubDate": "Wed, 25 Nov 2026 19:13:30 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices",
-    "url": "https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html",
-    "description": "The latest escalation came as the administration confronts continued legal obstacles and new scrutiny from an incoming Democratic-led Congress.",
-    "pubDate": "Wed, 25 Nov 2026 15:58:36 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation",
-    "url": "https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
-    "description": "Nvidia and other tech companies fell as investors weighed developments in global trade and the path of interest rates.",
-    "pubDate": "Wed, 25 Nov 2026 21:32:42 +0000"
-  },
-  {
-    "source": "NYT Business",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Martha Firestone Ford, Owner of Detroit Lions, Dies at 101",
-    "url": "https://www.nytimes.com/2026/11/24/business/martha-firestone-ford-dead.html",
-    "description": "Mrs. Ford, who took over the team after the 2014 death of her husband, William Clay Ford Sr., was one of a handful of female owners in the N.F.L.",
-    "pubDate": "Wed, 25 Nov 2026 16:18:53 +0000"
+    "title_en": "Weeks of hot deals are encouraging record Black Friday spending despite inflation concerns",
+    "url": "https://www.pbs.org/newshour/economy/before-sunrise-at-macys-a-familiar-black-friday-ritual-returns-despite-weeks-of-online-deals",
+    "description": "Black Friday produces more foot traffic at physical stores than any other day despite growing competition from e-commerce and brands rolling out steep holiday discounts online weeks in advance, according to retail technology company Sensormatic Solutions.",
+    "pubDate": "Fri, 27 Nov 2026 09:59:54 -0500"
   },
   {
     "source": "PBS Economy",
@@ -1938,45 +1358,5 @@
     "url": "https://www.pbs.org/newshour/show/the-best-strategies-for-holiday-shopping-in-the-age-of-ai",
     "description": "Americans are expected to spend more than $1 trillion on holiday shopping this year despite concerns about rising prices. PBS News digital video producer Cecilia Lallmann looks at the ways we could shop smarter this year, including with the help of artificial intelligence.",
     "pubDate": "Thu, 26 Nov 2026 18:20:00 -0500"
-  },
-  {
-    "source": "PBS Economy",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "How Trump's newest tariffs could impact Americans and the economy",
-    "url": "https://www.pbs.org/newshour/show/how-trumps-newest-tariffs-could-impact-americans-and-the-economy",
-    "description": "The Trump administration announced plans for a new round of tariffs on China, the European Union and 12 other major trading partners. China would face the highest rate with a new 20% tariff on most products. To discuss how this will impact Americans and the economy, Lisa Desjardins spoke with Gavin Bade of The Wall Street Journal.",
-    "pubDate": "Wed, 25 Nov 2026 18:50:40 -0500"
-  },
-  {
-    "source": "PBS Economy",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "The holiday season can be expensive. Here are some tips for keeping credit card debt in check",
-    "url": "https://www.pbs.org/newshour/economy/the-holiday-season-can-be-expensive-here-are-some-tips-for-keeping-credit-card-debt-in-check",
-    "description": "About 76% of people who said they would throw down money this holiday season identified at least one reason they might overspend, including fear of missing out or not spending enough time planning, a NerdWallet survey found.",
-    "pubDate": "Wed, 25 Nov 2026 16:49:34 -0500"
-  },
-  {
-    "source": "PBS Economy",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "3 tips for getting the best deals this holiday shopping season",
-    "url": "https://www.pbs.org/newshour/economy/3-tips-for-getting-the-best-deals-this-holiday-shopping-season",
-    "description": "With the ever-changing landscape of holiday shopping, how do you know you're getting the best deal?",
-    "pubDate": "Wed, 25 Nov 2026 16:19:58 -0500"
-  },
-  {
-    "source": "PBS Economy",
-    "category": "economy",
-    "paywalled": false,
-    "unverified": false,
-    "title_en": "Inflation remains stubbornly high, despite a drop in gas prices",
-    "url": "https://www.pbs.org/newshour/economy/inflation-remains-stubbornly-high-despite-a-drop-in-gas-prices",
-    "description": "The Commerce Department said Wednesday that consumer prices rose 3.8% in October from a year earlier, up from 3.6% in September.",
-    "pubDate": "Wed, 25 Nov 2026 12:01:18 -0500"
   }
 ]
